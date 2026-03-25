@@ -52,7 +52,7 @@ def dispatch_tool(tool_name: str, arguments: Dict[str, Any]) -> Dict[str, Any]:
             result = manager.search_places(task_id=task_id, turn=turn, **arguments)
             print(f"🍽️  Places results: {len(result.get('local_results', []))} options")
         
-        return result
+        return result, candidate_number
     except Exception as e:
         print(f"  ❌ Tool {tool_name} error: {str(e)}")
         return {"error": str(e)}
