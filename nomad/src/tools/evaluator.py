@@ -5,7 +5,7 @@ import re
 class NomadEvaluator:
     """
     Evaluates agent performance based on Constraint Satisfaction Rate (CSR),
-    Tool-Use Accuracy, and Recovery Rate[cite: 27, 102].
+    Tool-Use Accuracy, and Recovery Rate.
     """
 
     def __init__(self, task_file="data/tasks.json"):
@@ -21,7 +21,7 @@ class NomadEvaluator:
             agent_output (dict): The final JSON response from the Agent.
             tool_logs (list): Record of all tool calls made by the Agent.
         """
-        task = self.tasks.get(task_id)
+        task = self.tasks.get(task_id, None)
         if not task:
             raise ValueError(f"Task {task_id} not found in benchmark.")
 
