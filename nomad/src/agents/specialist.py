@@ -48,7 +48,6 @@ Return a final, detailed summary of your findings."""
 
         stop_reason = response.get("stop_reason")
         content_blocks = response.get("content", [])
-
         # Append assistant response (which might contain tool_uses and text)
         messages.append({"role": "assistant", "content": content_blocks})
 
