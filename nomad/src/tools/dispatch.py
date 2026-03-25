@@ -41,18 +41,20 @@ def dispatch_tool(tool_name: str, arguments: Dict[str, Any]) -> Dict[str, Any]:
         # For specific tools, use SerpManager and pass task_id and turn
         if tool_name == "search_flights":
             manager = get_serp_manager()
-            result = manager.search_flights(task_id=task_id, turn=turn, **arguments)
+            result, candidate_count = manager.search_flights(task_id=task_id, turn=turn, **arguments)
             print(f"✈️  Flights results: {len(result.get('best_flights', []))} options")
         elif tool_name == "search_hotels":
             manager = get_serp_manager()
-            result = manager.search_hotels(task_id=task_id, turn=turn, **arguments)
+            result, candidate_count = manager.search_hotels(task_id=task_id, turn=turn, **arguments)
             print(f"🏨  Hotels results: {len(result.get('properties', []))} options")
         elif tool_name == "search_places":
             manager = get_serp_manager()
-            result = manager.search_places(task_id=task_id, turn=turn, **arguments)
+            result, candidate_count = manager.search_places(task_id=task_id, turn=turn, **arguments)
             print(f"🍽️  Places results: {len(result.get('local_results', []))} options")
+        else:
+            candidate_count = 0
         
-        return result, candidate_number
+        return result, candidate_count
     except Exception as e:
         print(f"  ❌ Tool {tool_name} error: {str(e)}")
         return {"error": str(e)}

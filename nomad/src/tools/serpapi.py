@@ -39,6 +39,7 @@ class SerpManager:
 
         # Load snapshot and cache
         self.snapshot = self._load_snapshot() if snapshot_path else {}
+        self.cache = {}  # In-memory cache for current session
         self._call_counters = {}  # Call counter for snapshot
 
     def _load_snapshot(self) -> Dict[str, Any]:
