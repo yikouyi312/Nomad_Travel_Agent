@@ -1,8 +1,8 @@
 from typing import Any, Dict
 
 import requests
-from src.cache import cached_api_call
-from src.config import SERP_API_KEY
+from cache import cached_api_call
+from config import SERP_API_KEY
 
 SERP_API_URL = "https://serpapi.com/search"
 

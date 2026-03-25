@@ -1,7 +1,7 @@
 import json
 from typing import Any, Dict
 
-from src.tools.serpapi import search_flights, search_hotels, search_places
+from tools.serpapi import search_flights, search_hotels, search_places
 
 TOOL_REGISTRY = {
     "search_flights": search_flights,

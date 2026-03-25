@@ -1,9 +1,9 @@
 from typing import Any, Dict, List
 
-from src.config import MAX_AGENT_TURNS
-from src.llm import call_llm, extract_text
-from src.tools.dispatch import create_tool_result_message, dispatch_tool
-from src.tools.schemas import ACTIVITIES_TOOLS, LOGISTICS_TOOLS
+from config import MAX_AGENT_TURNS
+from llm import call_llm, extract_text
+from tools.dispatch import create_tool_result_message, dispatch_tool
+from tools.schemas import ACTIVITIES_TOOLS, LOGISTICS_TOOLS
 
 
 def run_specialist(

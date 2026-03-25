@@ -1,7 +1,7 @@
 from typing import Any, Dict, List, Optional
 
 import requests
-from src.config import (
+from config import (
     ANTHROPIC_API_URL,
     ANTHROPIC_VERSION,
     CLAUDE_API_KEY,

@@ -1,6 +1,6 @@
 from typing import Any, Dict
 
-from src.llm import call_llm_structured
+from llm import call_llm_structured
 
 VERIFIER_SCHEMA = {
     "type": "object",

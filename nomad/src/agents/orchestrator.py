@@ -1,7 +1,7 @@
 from typing import Any, Dict
 
-from src.llm import call_llm_structured
-from src.state import TravelState
+from llm import call_llm_structured
+from state import TravelState
 
 # Schema for the Orchestrator's structured output when analyzing user input
 ORCHESTRATOR_ANALYSIS_SCHEMA = {
