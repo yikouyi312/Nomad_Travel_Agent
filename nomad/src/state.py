@@ -1,6 +1,8 @@
 from typing import Any, Dict, List, Optional
+from datetime import datetime
+from uuid import uuid4
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
 
 
 class TravelConstraints(BaseModel):
@@ -69,10 +71,21 @@ class Itinerary(BaseModel):
 class TravelState(BaseModel):
     """The complete multi-turn state object"""
 
+    task_id: Optional[str] = Field(None, description="Unique task identifier for plan tracking. Auto-generated if not provided.")
     constraints: TravelConstraints = Field(default_factory=TravelConstraints)
     draft_itinerary: Optional[Itinerary] = None
     delegation_plan: Optional[str] = None  # "logistics", "activities", "both", "none"
     messages: List[Dict[str, Any]] = Field(default_factory=list)
+
+    @model_validator(mode='after')
+    def generate_task_id_if_missing(self):
+        """Auto-generate task_id if not provided"""
+        if not self.task_id:
+            # Format: plan_20260325_143022_a1b2c3
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            unique_suffix = str(uuid4())[:6]
+            self.task_id = f"plan_{timestamp}_{unique_suffix}"
+        return self
 
     def get_context_string(self) -> str:
         """Formats the current state for the LLM prompt"""

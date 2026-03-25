@@ -7,11 +7,20 @@ from tools.schemas import ACTIVITIES_TOOLS, LOGISTICS_TOOLS
 
 
 def run_specialist(
-    task_description: str, tools: List[Dict[str, Any]], constraints_json: str
+    task_description: str, 
+    tools: List[Dict[str, Any]], 
+    constraints_json: str,
+    task_id: str = None
 ) -> str:
     """
     The canonical ReAct tool-calling loop.
     Executes tools until it reaches a final answer or max turns.
+    
+    Args:
+        task_description: Description of the task
+        tools: List of available tools
+        constraints_json: Constraints for the task
+        task_id: Optional task ID for cache tracking (used for benchmark snapshots)
     """
 
     system_prompt = f"""You are a specialized Nomad Sub-Agent.
@@ -54,6 +63,11 @@ Return a final, detailed summary of your findings."""
                 tool_use_id = block["id"]
                 tool_name = block["name"]
                 tool_args = block["input"]
+                
+                # Add task_id and turn to tool arguments for snapshot caching
+                if task_id:
+                    tool_args["task_id"] = task_id
+                tool_args["turn"] = turn
 
                 result = dispatch_tool(tool_name, tool_args)
                 tool_results.append(
@@ -68,19 +82,21 @@ Return a final, detailed summary of your findings."""
     return "Error: Specialist reached maximum tool turns without a final answer."
 
 
-def run_logistics_specialist(constraints_json: str) -> str:
+def run_logistics_specialist(constraints_json: str, task_id: str = None) -> str:
     """Specialist for finding flights and hotels."""
     return run_specialist(
         task_description="Find the best flights and hotels for the trip.",
         tools=LOGISTICS_TOOLS,
         constraints_json=constraints_json,
+        task_id=task_id,
     )
 
 
-def run_activities_specialist(constraints_json: str) -> str:
+def run_activities_specialist(constraints_json: str, task_id: str = None) -> str:
     """Specialist for finding restaurants and things to do."""
     return run_specialist(
         task_description="Find restaurants (matching dietary needs) and activities (matching interests).",
         tools=ACTIVITIES_TOOLS,
         constraints_json=constraints_json,
+        task_id=task_id,
     )

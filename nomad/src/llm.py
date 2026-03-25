@@ -96,3 +96,20 @@ def call_llm_structured(
             return block.get("input", {})
 
     raise Exception(f"Failed to extract structured data. Response was: {resp_data}")
+
+
+def extract_text(resp_data: Dict[str, Any]) -> str:
+    """
+    Extract all text content from an LLM response.
+    
+    Args:
+        resp_data: Response dictionary from call_llm()
+    
+    Returns:
+        Concatenated text from all text blocks in the response
+    """
+    text_parts = []
+    for block in resp_data.get("content", []):
+        if block.get("type") == "text":
+            text_parts.append(block.get("text", ""))
+    return "".join(text_parts)

@@ -82,23 +82,6 @@ ORCHESTRATOR_ANALYSIS_SCHEMA = {
 
 
 
-def analyze_user_input(user_msg: str, state: TravelState) -> Dict[str, Any]:
-    """
-    Step 1: The Orchestrator reads the user message and the current state,
-    then outputs structured JSON containing updated constraints and a delegation plan.
-    """
-
-    messages = state.messages + [{"role": "user", "content": user_msg}]
-
-    # We append the current constraints to the system prompt
-    full_system = ORCHESTRATOR_SYSTEM_PROMPT + "\n\n" + state.get_context_string()
-
-    result = call_llm_structured(
-        messages=messages, schema=ORCHESTRATOR_ANALYSIS_SCHEMA, system=full_system
-    )
-
-    return result
-
 def analyze_user_input(
     user_msg: str, state: TravelState, task_json: Dict[str, Any] | None = None
 ) -> Dict[str, Any]:
@@ -106,27 +89,37 @@ def analyze_user_input(
     Unified input processing: 
     - task_json: Extract schema fields directly (no LLM)
     - user_msg: Process with ORCHESTRATOR_SYSTEM_PROMPT (handles JSON or natural language)
-    
-    If both provided: task_json result becomes previous_result in context for LLM.
+    - Both: Merge task_json constraints into LLM context for combined analysis
     
     Args:
         user_msg: User message (can be natural language or JSON format)
         state: Current TravelState with message history and context
-        task_json: Optional structured task input
+        task_json: Optional structured task input (can include task_id and updated_constraints)
     
     Returns:
-        Dict matching ORCHESTRATOR_ANALYSIS_SCHEMA
+        Analysis result (Dict matching ORCHESTRATOR_ANALYSIS_SCHEMA)
     """
     
-    # Step 1: Extract schema fields from task_json (direct extraction, no LLM)
-    state = update_state_from_analysis(state, task_json) if task_json else state
-
+    # Step 1: Extract task_id from task_json if provided
+    if task_json and "task_id" in task_json:
+        state.task_id = task_json["task_id"]
+    
     # Step 2: Process user_msg with ORCHESTRATOR_SYSTEM_PROMPT
     if user_msg and user_msg.strip():
         context_str = state.get_context_string()
-        # Add initial_result from task_json as previous_result for LLM context
         messages = state.messages + [{"role": "user", "content": user_msg}]
+        
+        # Build system prompt with task_json context if provided
         full_system = ORCHESTRATOR_SYSTEM_PROMPT + "\n\n" + context_str
+        
+        # If both task_json and user_msg provided, add task_json data to context
+        if task_json:
+            if "updated_constraints" in task_json:
+                task_constraints = task_json.get("updated_constraints", {})
+                full_system += f"\n\nINITIAL CONSTRAINTS FROM TASK:\n{json.dumps(task_constraints, indent=2)}"
+            if "delegation" in task_json:
+                task_delegation = task_json.get("delegation")
+                full_system += f"\n\nINITIAL DELEGATION FROM TASK: {task_delegation}"
         
         result = call_llm_structured(
             messages=messages,
@@ -134,17 +127,20 @@ def analyze_user_input(
             system=full_system,
         )
         
-        # Merge initial_result (from task_json) with LLM result
-        # LLM result takes priority, but we preserve initial_result fields not mentioned by user
         return result
     else:
         # If no user_msg, return result based on task_json extraction only
-        return {
+        task_delegation = "none"
+        if task_json and "delegation" in task_json:
+            task_delegation = task_json["delegation"]
+        
+        result = {
             "intent": "new_trip" if not task_json else "update_constraints",
             "updated_constraints": task_json.get("updated_constraints", {}) if task_json else {},
-            "delegation": "none",
+            "delegation": task_delegation,
             "response_to_user": "",
         }
+        return result
     
 
 
@@ -153,14 +149,20 @@ def update_state_from_analysis(
 ) -> TravelState:
     """
     Applies the extracted constraints from orchestrator analysis to the TravelState.
+    Also updates task_id if provided in the analysis.
     
     Args:
         state: Current TravelState
-        analysis: Result from analyze_user_input()
+        analysis: Result from task_json or analyze_user_input()
     
     Returns:
         Updated TravelState
     """
+    # Update task_id if provided
+    if "task_id" in analysis and analysis["task_id"]:
+        state.task_id = analysis["task_id"]
+    
+    # Update constraints
     updates = analysis.get("updated_constraints", {})
     
     for key, value in updates.items():
