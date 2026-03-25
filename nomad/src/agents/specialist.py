@@ -218,43 +218,7 @@ Return a summary of the TOP candidates with their rankings and details."""
                 tool_args = block["input"].copy()
                 
                 # Add task_id and turn to tool arguments for snapshot caching
-                if task_id:
-                    tool_args["task_id"] = task_id
-                tool_args["turn"] = turn
-
-                result, candidate_number = dispatch_tool(tool_name, tool_args)
-                
-                # Save search result as candidate
-                category = _categorize_search_result(tool_name, result)
-                
-                # ✨ FIX: Extract actual search results from nested dict and add to flat list
-                if category != 'unknown' and result and not result.get("error"):
-                    if category == "flights":
-                        # Flights results are in "best_flights" and "other_flights"
-                        flights_list = result.get("best_flights", []) + result.get("other_flights", [])
-                        search_results["flights"].extend(flights_list)
-                    elif category == "hotels":
-                        # Hotels results are in "properties"
-                        hotels_list = result.get("properties", [])
-                        search_results["hotels"].extend(hotels_list)
-                    elif category == "activities":
-                        # Activities results are in "local_results"
-                        activities_list = result.get("local_results", [])
-                        search_results["activities"].extend(activities_list)
-                
-                if task_id:
-                    _save_search_candidate(task_id, category, tool_name, block["input"], result)
-                    
-                    # Accumulate search results by category for final output
-                    verifier_context["search_coverage"][category] += candidate_number
-                    # Track tool call
-                    verifier_context["tool_calls_summary"].append({
-                        "tool": tool_name,
-                        "category": category,
-                        "result_count": candidate_number,
-                        "turn": turn + 1,
-                    })
-                
+                result = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
                 tool_results.append(
                     create_tool_result_message(tool_use_id, tool_name, result)
                 )
@@ -264,10 +228,7 @@ Return a summary of the TOP candidates with their rankings and details."""
 
         turn += 1
 
-    return "Error: Specialist reached maximum tool turns without a final answer.", search_results, {
-        **verifier_context,
-        "error": "Max turns reached",
-    }
+    raise RuntimeError(f"Reached max turns ({MAX_AGENT_TURNS}) without a final answer.")
 
 
 def run_logistics_specialist(constraints_json: str, task_id: str = None) -> Tuple[str, Dict[str, Any], Dict[str, Any]]:

@@ -106,7 +106,10 @@ def analyze_user_input(
     
     # Step 2: Process user_msg with ORCHESTRATOR_SYSTEM_PROMPT
     if user_msg and user_msg.strip():
+        MAX_CONTEXT_CHARS = 8000
         context_str = state.get_context_string()
+        if len(context_str) > MAX_CONTEXT_CHARS:
+            context_str = context_str[-MAX_CONTEXT_CHARS:]
         messages = state.messages + [{"role": "user", "content": user_msg}]
         
         # Build system prompt with task_json context if provided
@@ -134,8 +137,10 @@ def analyze_user_input(
         if task_json and "delegation" in task_json:
             task_delegation = task_json["delegation"]
         
+        has_constraints = bool(task_json and task_json.get("updated_constraints"))
+        
         result = {
-            "intent": "new_trip" if not task_json else "update_constraints",
+            "intent": "update_constraints" if has_constraints else "new_trip",
             "updated_constraints": task_json.get("updated_constraints", {}) if task_json else {},
             "delegation": task_delegation,
             "response_to_user": "",
@@ -158,9 +163,6 @@ def update_state_from_analysis(
     Returns:
         Updated TravelState
     """
-    # Update task_id if provided
-    if "task_id" in analysis and analysis["task_id"]:
-        state.task_id = analysis["task_id"]
     
     # Update constraints
     updates = analysis.get("updated_constraints", {})
@@ -171,7 +173,7 @@ def update_state_from_analysis(
             
             # For lists: merge unique items
             if isinstance(current_val, list) and isinstance(value, list):
-                new_list = list(set(current_val + value))
+                new_list = list(dict.fromkeys(current_val + value))
                 setattr(state.constraints, key, new_list)
             # For other types: overwrite
             else:
