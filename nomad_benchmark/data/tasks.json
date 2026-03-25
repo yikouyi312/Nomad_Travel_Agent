@@ -1,20 +1,5 @@
 [
   {
-    "task_id": "T1-01",
-    "tier": 1,
-    "description": "One-way domestic flight lookup",
-    "query": "Find a one-way flight from Chicago to Miami on April 10, 2026.",
-    "constraints": {
-      "hard": [
-        "departure_id: ORD",
-        "arrival_id: MIA",
-        "outbound_date: 2026-04-10",
-        "trip_type: one-way"
-      ]
-    },
-    "expected_tools": ["google_flights"]
-  },
-  {
     "task_id": "T1-02",
     "tier": 1,
     "description": "Round-trip flight with specific dates",

@@ -71,6 +71,7 @@ class TravelState(BaseModel):
 
     constraints: TravelConstraints = Field(default_factory=TravelConstraints)
     draft_itinerary: Optional[Itinerary] = None
+    delegation_plan: Optional[str] = None  # "logistics", "activities", "both", "none"
     messages: List[Dict[str, Any]] = Field(default_factory=list)
 
     def get_context_string(self) -> str:
