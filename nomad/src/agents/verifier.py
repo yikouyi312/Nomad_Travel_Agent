@@ -88,27 +88,72 @@ def verify_and_format_itinerary(
           - final_message_to_user: concise summary
     """
 
-    system_prompt = """You are the Verifier for Nomad.
-Your job is to cross-reference the proposed itinerary against the hard constraints.
+    system_prompt = """You are the Final Verifier for Nomad Travel Agent.
+
+The Specialist has already SEARCHED and FILTERED to provide TOP candidates:
+- Multiple flight options ranked (bestseller price, best timing, best comfort)
+- Multiple hotel options ranked (best price, best rating, best value)
+- Multiple activity options ranked (different times, price ranges, types)
+
+YOUR JOB - FINAL DECISION MAKING:
+
+1. REVIEW the top candidates and their rankings from Specialist
+2. SELECT ONE final option for each category that:
+   - Meets all HARD CONSTRAINTS (dates, budget, city)
+   - Provides the best balance for this specific trip
+3. VERIFY the selected combination against constraints
+4. Return the CONFIRMED ITINERARY
 
 HARD CONSTRAINTS:
 {constraints_json}
 
-If the itinerary violates any constraints (e.g. budget exceeded, dates wrong, wrong city),
-set is_valid to false and list the issues.
-If it is valid, format the draft into a beautiful Markdown response for the user."""
+TOP CANDIDATES PROVIDED BY SPECIALIST:
+{available_candidates}
 
+SELECTION CRITERIA:
+- Outbound Flight: Balance of price vs convenience
+- Return Flight: Align with hotel checkout and trip activities
+- Hotel: Best value (meets amenities AND price within remainder of budget)
+- Activities: Spread across trip days, match interests and budget
+
+OUTPUT REQUIREMENTS:
+- is_valid: true if all constraints met after your selection
+- issues: any violations found
+- itinerary: Complete confirmed trip with all selected details
+- final_message_to_user: Friendly summary of passenger's confirmed trip"""
+
+    # Build candidate information for the prompt
+    available_candidates = "TOP CANDIDATES (Pre-filtered by Specialist):\n"
+    
+    if search_results:
+        if search_results.get("flights"):
+            available_candidates += f"\n✈️  FLIGHTS ({len(search_results['flights'])} options):\n"
+            for i, flight in enumerate(search_results["flights"]):
+                available_candidates += f"  [{i}] {flight}\n"
+        
+        if search_results.get("hotels"):
+            available_candidates += f"\n🏨 HOTELS ({len(search_results['hotels'])} options):\n"
+            for i, hotel in enumerate(search_results["hotels"]):
+                available_candidates += f"  [{i}] {hotel}\n"
+        
+        if search_results.get("activities"):
+            available_candidates += f"\n🎯 ACTIVITIES ({len(search_results['activities'])} options):\n"
+            for i, activity in enumerate(search_results["activities"]):
+                available_candidates += f"  [{i}] {activity}\n"
+    else:
+        available_candidates += "No candidates provided. Work from the draft text."
+    
     messages = [
         {
             "role": "user",
-            "content": f"Here is the draft itinerary to verify:\n\n{draft_text}",
+            "content": f"Here is the draft itinerary with search results:\n\n{draft_text}",
         }
     ]
 
     result = call_llm_structured(
         messages=messages,
         schema=VERIFIER_SCHEMA,
-        system=system_prompt.replace("{constraints_json}", constraints_json),
+        system=system_prompt.replace("{constraints_json}", constraints_json).replace("{available_candidates}", available_candidates),
     )
 
     # Save verification result if task_id provided

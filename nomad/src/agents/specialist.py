@@ -125,14 +125,42 @@ Your task: {task_description}
 You must adhere strictly to these constraints:
 {constraints_json}
 
-Use your tools to find REAL data that matches the constraints. 
-If no exact match is found, relax soft constraints but NEVER violate dates or budget.
-Return a final, detailed summary of your findings."""
+YOUR JOB - THREE PHASES:
+
+PHASE 1: SEARCH
+- Search for multiple options in each category
+- Collect 5+ flights, 5+ hotels, 10+ activities
+
+PHASE 2: FILTER & RANK (IMPORTANT!)
+- For FLIGHTS: Rank and present top 3-5:
+  * Best price (cheapest option)
+  * Best timing (most convenient times)
+  * Best comfort (best airlines/amenities)
+- For HOTELS: Rank and present top 3-5:
+  * Best price (cheapest per night)
+  * Best rating (highest rated)
+  * Best value (good balance of price and rating)
+- For ACTIVITIES: Present top 5-8 across different:
+  * Time slots (morning/afternoon/evening options)
+  * Price ranges (budget/mid/premium)
+  * Types (attractions/dining/museums etc)
+
+PHASE 3: SUMMARIZE
+- Present the TOP candidates ONLY with full details
+- Include ranking criteria you used (e.g. "Best price: $X", "Best comfort: 5-star airline")
+- Verifier will choose final selections from these top options
+
+IMPORTANT CONSTRAINTS:
+- Never violate date or hard budget limits
+- Top candidates must all meet basic constraints
+- Show WHY each candidate is in the "top" list
+
+Return a summary of the TOP candidates with their rankings and details."""
 
     messages = [
         {
             "role": "user",
-            "content": "Please begin your search and provide the best options.",
+            "content": "Search, filter for top candidates, and present them with ranking criteria.",
         }
     ]
 
