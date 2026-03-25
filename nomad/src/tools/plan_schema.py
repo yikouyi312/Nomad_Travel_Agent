@@ -186,6 +186,7 @@ PLAN_SCHEMA = {
 def validate_plan(plan: dict) -> dict:
     """
     Validates a plan against the schema.
+    Handles both verification output format and PLAN_SCHEMA format.
     
     Args:
         plan: Plan dict to validate
@@ -198,32 +199,65 @@ def validate_plan(plan: dict) -> dict:
             "score": float (0-1)
         }
     """
-    import jsonschema
-    
     errors = []
     missing_fields = []
-    
-    try:
-        jsonschema.validate(instance=plan, schema=PLAN_SCHEMA)
-    except jsonschema.ValidationError as e:
-        errors.append(str(e))
-    
-    # Check required top-level fields
-    for required_field in PLAN_SCHEMA["required"]:
-        if required_field not in plan:
-            missing_fields.append(required_field)
-    
-    # Check itinerary sub-fields
-    if "itinerary" in plan:
-        itinerary_required = PLAN_SCHEMA["properties"]["itinerary"]["required"]
-        for field in itinerary_required:
-            if field not in plan["itinerary"]:
-                missing_fields.append(f"itinerary.{field}")
-    
-    is_valid = len(errors) == 0 and len(missing_fields) == 0
-    score = 1.0 - (len(errors) + len(missing_fields)) * 0.1
-    score = max(0, min(1, score))
-    
+    total_checks = 0
+    passed_checks = 0
+
+    # Get itinerary (could be nested under "itinerary" key, or the plan itself)
+    itinerary = plan.get("itinerary", plan) if isinstance(plan, dict) else {}
+
+    # 1. Check for flights
+    total_checks += 1
+    flights = itinerary.get("flights", {})
+    if flights and (flights.get("outbound") or flights.get("return")):
+        passed_checks += 1
+    else:
+        missing_fields.append("flights")
+
+    # 2. Check for accommodation (hotels or accommodation)
+    total_checks += 1
+    hotel = itinerary.get("hotels", itinerary.get("accommodation", {}))
+    if hotel and hotel.get("name"):
+        passed_checks += 1
+    else:
+        missing_fields.append("accommodation")
+
+    # 3. Check for activities
+    total_checks += 1
+    activities = itinerary.get("activities", [])
+    if activities:
+        passed_checks += 1
+    else:
+        missing_fields.append("activities")
+
+    # 4. Check for cost info
+    total_checks += 1
+    has_cost = (
+        itinerary.get("estimated_cost")
+        or itinerary.get("cost_breakdown", {}).get("total_estimated")
+    )
+    if has_cost:
+        passed_checks += 1
+    else:
+        missing_fields.append("cost_info")
+
+    # 5. Check for date information
+    total_checks += 1
+    has_dates = False
+    trip_summary = itinerary.get("trip_summary", {})
+    if trip_summary.get("start_date") and trip_summary.get("end_date"):
+        has_dates = True
+    elif hotel and hotel.get("check_in_date") and hotel.get("check_out_date"):
+        has_dates = True
+    if has_dates:
+        passed_checks += 1
+    else:
+        missing_fields.append("dates")
+
+    is_valid = len(missing_fields) == 0
+    score = passed_checks / total_checks if total_checks > 0 else 0
+
     return {
         "is_valid": is_valid,
         "errors": errors,

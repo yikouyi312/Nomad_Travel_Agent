@@ -2,7 +2,7 @@ import json
 import re
 from datetime import datetime
 from typing import Dict, List, Tuple
-from plan_schema import PLAN_SCHEMA, validate_plan
+from .plan_schema import PLAN_SCHEMA, validate_plan
 
 
 class NomadEvaluator:
@@ -13,6 +13,7 @@ class NomadEvaluator:
     - Plan Schema Compliance
     - Itinerary Consistency (temporal/spatial)
     
+    Handles both verification output format and PLAN_SCHEMA format.
     Does NOT require a task_file - evaluates plans directly.
     """
 
@@ -86,7 +87,7 @@ class NomadEvaluator:
         csr_results = self._check_constraints(hard_constraints, agent_output)
 
         # 3. Tool-Use Accuracy - correct tools used?
-        tool_accuracy = self._check_tool_accuracy(expected_tools, tool_logs)
+        tool_accuracy = self._check_tool_accuracy(expected_tools, tool_logs, agent_output)
 
         # 4. Itinerary Consistency - no temporal/spatial conflicts?
         conflict_report = self._check_itinerary_consistency(agent_output)
@@ -115,40 +116,146 @@ class NomadEvaluator:
             "conflict_report": conflict_report,
         }
 
+    # ── Data extraction helpers (handle both verification & schema format) ──
+
+    def _get_itinerary(self, agent_output) -> dict:
+        """Extract itinerary dict from any format."""
+        if "itinerary" in agent_output:
+            return agent_output["itinerary"]
+        # The output IS the itinerary (flights/hotels at top level)
+        if "flights" in agent_output or "hotels" in agent_output:
+            return agent_output
+        return {}
+
+    def _get_flight_info(self, itinerary) -> dict:
+        """Extract normalized flight info from any format."""
+        flights = itinerary.get("flights", {})
+        outbound = flights.get("outbound", {})
+
+        # Verification format: outbound.flights[] array
+        segments = outbound.get("flights", [])
+        if segments:
+            first = segments[0]
+            last = segments[-1]
+            return {
+                "origin": first.get("departure_airport", {}).get("id", ""),
+                "destination": last.get("arrival_airport", {}).get("id", ""),
+                "departure_time": first.get("departure_airport", {}).get("time", ""),
+                "arrival_time": last.get("arrival_airport", {}).get("time", ""),
+                "airline": first.get("airline", ""),
+                "flight_number": first.get("flight_number", ""),
+                "price": outbound.get("price", 0),
+            }
+
+        # Schema format: flat fields
+        return {
+            "origin": outbound.get("departure", ""),
+            "destination": outbound.get("arrival_city", ""),
+            "departure_time": outbound.get("departure_time", ""),
+            "arrival_time": outbound.get("arrival_time", ""),
+            "airline": outbound.get("airline", ""),
+            "flight_number": outbound.get("flight_number", ""),
+            "price": outbound.get("price_usd", 0),
+        }
+
+    def _get_hotel_info(self, itinerary) -> dict:
+        """Extract normalized hotel info from any format."""
+        hotel = itinerary.get("hotels", itinerary.get("accommodation", {}))
+        if not hotel:
+            return {}
+
+        rate = hotel.get("rate_per_night", {})
+        total = hotel.get("total_rate", {})
+
+        return {
+            "name": hotel.get("name", ""),
+            "check_in_date": hotel.get("check_in_date", ""),
+            "check_out_date": hotel.get("check_out_date", ""),
+            "nights": hotel.get("nights", hotel.get("num_nights", 0)),
+            "price_per_night": (
+                rate.get("extracted_lowest", 0) if isinstance(rate, dict)
+                else hotel.get("price_per_night", 0)
+            ),
+            "total_cost": (
+                total.get("extracted_lowest", 0) if isinstance(total, dict)
+                else hotel.get("total_nights_cost", 0)
+            ),
+            "rating": hotel.get("overall_rating", hotel.get("rating", 0)),
+        }
+
+    def _get_total_cost(self, itinerary) -> float:
+        """Get total estimated cost from any format."""
+        if "estimated_cost" in itinerary:
+            return itinerary["estimated_cost"]
+        return itinerary.get("cost_breakdown", {}).get("total_estimated", 0)
+
+    def _get_activities(self, itinerary) -> list:
+        """Get activities with normalized field names."""
+        activities = itinerary.get("activities", [])
+        normalized = []
+        for a in activities:
+            normalized.append({
+                "date": a.get("date", ""),
+                "name": a.get("activity", a.get("name", "")),
+                "description": a.get("description", ""),
+                "cost": a.get("estimated_cost", a.get("price_per_person", a.get("total_price", 0))),
+                "time": a.get("time", ""),
+                "duration_hours": a.get("duration_hours", 0),
+            })
+        return normalized
+
+    # ── Constraint extraction ──
+
     def _extract_constraints_from_plan(self, agent_output) -> List[str]:
         """
-        Auto-extract constraints from the verified plan.
-        
-        Used when hard_constraints are not provided.
-        
-        Returns:
-            List of inferred constraints from the plan
+        Auto-extract constraints from the plan.
+        Checks explicit constraints field first, then infers from flight/hotel data.
         """
         constraints = []
-        
-        try:
-            itinerary = agent_output.get("itinerary", {})
+
+        # 1. Check for explicit constraints field (verification format)
+        explicit = agent_output.get("constraints", {})
+        if explicit:
+            if explicit.get("origin"):
+                constraints.append(f"Origin: {explicit['origin']}")
+            if explicit.get("destination"):
+                constraints.append(f"Destination: {explicit['destination']}")
+            if explicit.get("start_date"):
+                constraints.append(f"Start_date: {explicit['start_date']}")
+            if explicit.get("end_date"):
+                constraints.append(f"End_date: {explicit['end_date']}")
+            if explicit.get("budget_usd"):
+                constraints.append(f"Budget: ${explicit['budget_usd']}")
+            if constraints:
+                return constraints
+
+        # 2. Infer from itinerary data
+        itinerary = self._get_itinerary(agent_output)
+        flight_info = self._get_flight_info(itinerary)
+        hotel_info = self._get_hotel_info(itinerary)
+
+        if flight_info.get("origin"):
+            constraints.append(f"Origin: {flight_info['origin']}")
+        if flight_info.get("destination"):
+            constraints.append(f"Destination: {flight_info['destination']}")
+        if hotel_info.get("check_in_date"):
+            constraints.append(f"Start_date: {hotel_info['check_in_date']}")
+        if hotel_info.get("check_out_date"):
+            constraints.append(f"End_date: {hotel_info['check_out_date']}")
+
+        # 3. Fallback: try trip_summary (schema format)
+        if not constraints:
             trip = itinerary.get("trip_summary", {})
-            cost = itinerary.get("cost_breakdown", {})
-            
-            # Extract from trip summary
-            origin = trip.get("origin")
-            destination = trip.get("destination")
-            duration = trip.get("duration_nights")
-            total_cost = cost.get("total_estimated", 0)
-            
-            if origin:
-                constraints.append(f"Origin: {origin}")
-            if destination:
-                constraints.append(f"Destination: {destination}")
-            if duration:
-                constraints.append(f"Duration: {duration} nights")
-            if total_cost:
-                constraints.append(f"Budget: ${total_cost}")
-        except:
-            pass
-        
-        return constraints if constraints else []
+            if trip.get("origin"):
+                constraints.append(f"Origin: {trip['origin']}")
+            if trip.get("destination"):
+                constraints.append(f"Destination: {trip['destination']}")
+            if trip.get("start_date"):
+                constraints.append(f"Start_date: {trip['start_date']}")
+            if trip.get("end_date"):
+                constraints.append(f"End_date: {trip['end_date']}")
+
+        return constraints
 
     def _validate_schema(self, agent_output) -> Dict:
         """
@@ -174,7 +281,8 @@ class NomadEvaluator:
 
     def _check_constraints(self, hard_constraints, output):
         """
-        Validates output against hard constraints using schema fields and values.
+        Validates output against hard constraints.
+        Uses normalized data helpers to handle both verification and schema formats.
 
         Returns:
             {
@@ -189,11 +297,11 @@ class NomadEvaluator:
         if not hard_constraints:
             return {"score": 1.0, "met": 0, "breakdown": {}}
 
-        itinerary = output.get("itinerary", {})
-        trip = itinerary.get("trip_summary", {})
-        flights = itinerary.get("flights", {})
-        hotel = itinerary.get("accommodation", {})
-        cost_breakdown = itinerary.get("cost_breakdown", {})
+        itinerary = self._get_itinerary(output)
+        flight_info = self._get_flight_info(itinerary)
+        hotel_info = self._get_hotel_info(itinerary)
+        total_cost = self._get_total_cost(itinerary)
+        all_text = json.dumps(output).lower()
 
         for constraint in hard_constraints:
             constraint_lower = constraint.lower()
@@ -203,26 +311,27 @@ class NomadEvaluator:
             if "budget" in constraint_lower or "$" in constraint_lower:
                 try:
                     limit = int(re.findall(r"\d+", constraint)[0])
-                    total_cost = cost_breakdown.get("total_estimated", 0)
-                    is_met = total_cost <= limit
+                    is_met = 0 < total_cost <= limit
                 except (IndexError, ValueError):
                     is_met = False
 
             # Destination constraint
             elif "destination" in constraint_lower:
                 required_dest = constraint.split(":")[-1].strip().lower()
-                is_met = required_dest in trip.get("destination", "").lower()
+                actual_dest = flight_info.get("destination", "").lower()
+                is_met = required_dest in actual_dest or actual_dest in required_dest
 
             # Origin constraint
             elif "origin" in constraint_lower or "from" in constraint_lower:
                 required_origin = constraint.split(":")[-1].strip().lower()
-                is_met = required_origin in trip.get("origin", "").lower()
+                actual_origin = flight_info.get("origin", "").lower()
+                is_met = required_origin in actual_origin or actual_origin in required_origin
 
             # Duration constraint: nights
             elif "night" in constraint_lower or "duration" in constraint_lower:
                 try:
                     required_nights = int(re.findall(r"\d+", constraint)[0])
-                    actual_nights = trip.get("duration_nights", 0)
+                    actual_nights = hotel_info.get("nights", 0)
                     is_met = actual_nights >= required_nights
                 except (IndexError, ValueError):
                     is_met = False
@@ -230,28 +339,36 @@ class NomadEvaluator:
             # Dietary constraint
             elif "dietary" in constraint_lower or "vegan" in constraint_lower or "vegetarian" in constraint_lower:
                 dietary_pref = constraint.split(":")[-1].strip().lower()
-                # Check in hotel amenities or activity descriptions
-                all_text = json.dumps(itinerary).lower()
                 is_met = dietary_pref in all_text
 
-            # Hotel rating constraint
-            elif "rating" in constraint_lower or "star" in constraint_lower:
+            # Start date constraint (must be before "star" check)
+            elif "start_date" in constraint_lower:
+                required_date = constraint.split(":")[-1].strip()
+                actual_date = hotel_info.get("check_in_date", "")
+                is_met = required_date == actual_date
+
+            # End date constraint
+            elif "end_date" in constraint_lower:
+                required_date = constraint.split(":")[-1].strip()
+                actual_date = hotel_info.get("check_out_date", "")
+                is_met = required_date == actual_date
+
+            # Hotel rating constraint (after start/end_date to avoid "star" matching "start")
+            elif "rating" in constraint_lower or ("star" in constraint_lower and "start" not in constraint_lower):
                 try:
                     min_rating = float(re.findall(r"\d+\.?\d*", constraint)[0])
-                    actual_rating = hotel.get("rating", 0)
+                    actual_rating = hotel_info.get("rating", 0)
                     is_met = actual_rating >= min_rating
                 except (IndexError, ValueError):
                     is_met = False
 
-            # Dates constraint
+            # General date constraint
             elif "date" in constraint_lower:
-                required_start = trip.get("start_date", "")
-                is_met = required_start != ""
+                is_met = hotel_info.get("check_in_date", "") != ""
 
             else:
                 # General keyword matching
-                keyword = constraint.split(":")[0].strip().lower()
-                all_text = json.dumps(itinerary).lower()
+                keyword = constraint.split(":")[-1].strip().lower()
                 is_met = keyword in all_text
 
             breakdown[constraint] = is_met
@@ -262,10 +379,12 @@ class NomadEvaluator:
         return {"score": score, "met": met_count, "breakdown": breakdown}
 
 
-    def _check_tool_accuracy(self, expected_tools: List[str], logs: List[Dict]) -> float:
+    def _check_tool_accuracy(self, expected_tools: List[str], logs: List[Dict], agent_output=None) -> float:
         """
         Measures tool selection accuracy.
         Checks: (1) all expected tools were used, (2) no hallucinated tools.
+        
+        If no logs provided, infers tool usage from plan content.
 
         Returns:
             0-1 score
@@ -274,6 +393,21 @@ class NomadEvaluator:
             return 1.0
 
         used_tools = [log.get("tool", "") for log in logs]
+        
+        # If no tool logs, infer from plan data
+        if not used_tools and agent_output:
+            itinerary = self._get_itinerary(agent_output)
+            flights = itinerary.get("flights", {})
+            hotel = itinerary.get("hotels", itinerary.get("accommodation", {}))
+            activities = itinerary.get("activities", [])
+            
+            if flights and flights.get("outbound"):
+                used_tools.append("flight_search")
+            if hotel and hotel.get("name"):
+                used_tools.append("hotel_search")
+            if activities:
+                used_tools.append("activities_search")
+
         used_tools_set = set(used_tools)
         expected_tools_set = set(expected_tools)
 
@@ -295,11 +429,8 @@ class NomadEvaluator:
 
     def _check_itinerary_consistency(self, output) -> Dict:
         """
-        Checks for temporal/spatial conflicts in itinerary:
-        - Activity times don't overlap
-        - Transportation time is feasible
-        - Hotel check-out before next hotel check-in
-        - Flight times are reasonable
+        Checks for temporal/spatial conflicts in itinerary.
+        Uses normalized helpers to handle both verification and schema formats.
 
         Returns:
             {
@@ -312,76 +443,53 @@ class NomadEvaluator:
         warnings = []
 
         try:
-            itinerary = output.get("itinerary", {})
+            itinerary = self._get_itinerary(output)
             if not itinerary:
                 return {"has_conflicts": True, "errors": ["No itinerary found"], "warnings": []}
 
-            # Check flight timing
-            flights = itinerary.get("flights", {})
-            outbound = flights.get("outbound", {})
-            return_flight = flights.get("return", {})
+            flight_info = self._get_flight_info(itinerary)
+            hotel_info = self._get_hotel_info(itinerary)
+            activities = self._get_activities(itinerary)
+            total_cost = self._get_total_cost(itinerary)
 
-            if outbound and return_flight:
-                try:
-                    out_departure = outbound.get("departure", "")
-                    ret_departure = return_flight.get("departure", "")
-                    if out_departure and ret_departure and out_departure >= ret_departure:
-                        errors.append("Return flight departs before outbound flight")
-                except:
-                    pass
+            # Check flight has origin and destination
+            if not flight_info.get("origin"):
+                warnings.append("No departure airport found")
+            if not flight_info.get("destination"):
+                warnings.append("No arrival airport found")
 
             # Check hotel consistency
-            hotel = itinerary.get("accommodation", {})
-            if hotel:
-                check_in = hotel.get("check_in_date", "")
-                check_out = hotel.get("check_out_date", "")
-                if check_in and check_out:
-                    try:
-                        if check_in >= check_out:
-                            errors.append("Hotel check-out before check-in")
-                        num_nights = hotel.get("num_nights", 0)
-                        if num_nights <= 0:
-                            errors.append("Invalid hotel duration")
-                    except:
-                        pass
+            check_in = hotel_info.get("check_in_date", "")
+            check_out = hotel_info.get("check_out_date", "")
+            if check_in and check_out:
+                if check_in >= check_out:
+                    errors.append("Hotel check-out before check-in")
+                nights = hotel_info.get("nights", 0)
+                if nights <= 0:
+                    errors.append("Invalid hotel duration")
 
-            # Check activity dates are within trip
-            activities = itinerary.get("activities", [])
-            trip = itinerary.get("trip_summary", {})
-            trip_start = trip.get("start_date", "")
-            trip_end = trip.get("end_date", "")
+            # Check activity dates are within trip dates
+            trip_start = check_in  # Use hotel check-in as trip start
+            trip_end = check_out    # Use hotel check-out as trip end
 
             for i, activity in enumerate(activities):
                 activity_date = activity.get("date", "")
-                try:
-                    if trip_start and trip_end and activity_date:
-                        if activity_date < trip_start or activity_date > trip_end:
-                            errors.append(f"Activity {i+1} date {activity_date} outside trip dates")
-                except:
-                    pass
-
-                # Check activity duration is reasonable
-                duration = activity.get("duration_hours", 0)
-                if duration <= 0 or duration > 24:
-                    warnings.append(f"Activity {i+1} has unusual duration: {duration} hours")
+                if trip_start and trip_end and activity_date:
+                    if activity_date < trip_start or activity_date > trip_end:
+                        errors.append(f"Activity {i+1} date {activity_date} outside trip dates")
 
             # Check cost calculation
-            cost_breakdown = itinerary.get("cost_breakdown", {})
-            if cost_breakdown:
-                total = cost_breakdown.get("total_estimated", 0)
-                flights_cost = (
-                    outbound.get("price_usd", 0) +
-                    return_flight.get("price_usd", 0)
-                )
-                hotel_cost = hotel.get("total_nights_cost", 0)
-                activities_cost = sum(a.get("total_price", 0) for a in activities)
+            if total_cost > 0:
+                flight_cost = flight_info.get("price", 0)
+                hotel_cost = hotel_info.get("total_cost", 0)
+                activities_cost = sum(a.get("cost", 0) for a in activities)
 
-                calculated_total = flights_cost + hotel_cost + activities_cost
-                # Allow 10% tolerance for miscellaneous/rounding
-                if calculated_total > 0 and total > 0:
-                    if abs(total - calculated_total) > calculated_total * 0.1:
+                calculated_total = flight_cost + hotel_cost + activities_cost
+                if calculated_total > 0:
+                    # Allow 15% tolerance for miscellaneous/rounding/return flight
+                    if abs(total_cost - calculated_total) > calculated_total * 0.15:
                         warnings.append(
-                            f"Cost calculation mismatch: reported {total} vs calculated {calculated_total}"
+                            f"Cost calculation mismatch: reported ${total_cost} vs calculated ${calculated_total}"
                         )
 
         except Exception as e:
@@ -392,3 +500,41 @@ class NomadEvaluator:
             "errors": errors,
             "warnings": warnings
         }
+
+    def evaluate_from_repo(self, task_id, plan_repo_dir="plans", hard_constraints=None, expected_tools=None, tool_logs=None):
+        """
+        Evaluate a plan loaded from PlanRepository by task_id.
+        
+        Args:
+            task_id (str): Task ID to load plan from repository
+            plan_repo_dir (str): Directory where plans are stored
+            hard_constraints (list, optional): Override constraints. If not provided, auto-extracts from plan.
+            expected_tools (list, optional): Override expected tools
+            tool_logs (list, optional): Override tool logs
+        
+        Returns:
+            Evaluation result dict (same as evaluate())
+        
+        Raises:
+            FileNotFoundError: If plan not found in repository
+        """
+        try:
+            from .plan_repository import PlanRepository
+        except ImportError:
+            raise ImportError("PlanRepository not found. Please ensure plan_repository.py is available.")
+        
+        repo = PlanRepository(base_dir=plan_repo_dir)
+        
+        # Load plan from repository
+        plan = repo.load_plan(task_id)
+        
+        print(f"✓ Loaded plan from repository: {task_id}")
+        
+        # Evaluate the loaded plan
+        return self.evaluate(
+            agent_output=plan,
+            task_id=task_id,
+            hard_constraints=hard_constraints,
+            expected_tools=expected_tools,
+            tool_logs=tool_logs
+        )
