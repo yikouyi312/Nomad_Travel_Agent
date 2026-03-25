@@ -85,21 +85,8 @@ def verify_and_format_itinerary(
           - final_message_to_user: concise summary
     """
 
-    system_prompt = """You are the Final Verifier for Nomad Travel Agent.
-
-The Specialist has already SEARCHED and FILTERED to provide TOP candidates:
-- Multiple flight options ranked (bestseller price, best timing, best comfort)
-- Multiple hotel options ranked (best price, best rating, best value)
-- Multiple activity options ranked (different times, price ranges, types)
-
-YOUR JOB - FINAL DECISION MAKING:
-
-1. REVIEW the top candidates and their rankings from Specialist
-2. SELECT ONE final option for each category that:
-   - Meets all HARD CONSTRAINTS (dates, budget, city)
-   - Provides the best balance for this specific trip
-3. VERIFY the selected combination against constraints
-4. Return the CONFIRMED ITINERARY
+    system_prompt = f"""You are the Verifier for Nomad.
+Your job is to cross-reference the proposed itinerary against the hard constraints.
 
 HARD CONSTRAINTS:
 {constraints_json}
@@ -150,7 +137,7 @@ OUTPUT REQUIREMENTS:
     result = call_llm_structured(
         messages=messages,
         schema=VERIFIER_SCHEMA,
-        system=system_prompt.replace("{constraints_json}", constraints_json).replace("{available_candidates}", available_candidates),
+        system=system_prompt
     )
 
     # Save verification result if task_id provided
