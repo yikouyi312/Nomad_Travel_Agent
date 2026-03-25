@@ -501,7 +501,7 @@ class NomadEvaluator:
             "warnings": warnings
         }
 
-    def evaluate_from_repo(self, task_id, plan_repo_dir="plans", hard_constraints=None, expected_tools=None, tool_logs=None):
+    def evaluate_from_repo(self, task_id, plan_repo_dir=None, hard_constraints=None, expected_tools=None, tool_logs=None):
         """
         Evaluate a plan loaded from PlanRepository by task_id.
         

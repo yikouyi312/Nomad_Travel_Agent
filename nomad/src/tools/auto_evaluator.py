@@ -15,10 +15,13 @@ from .plan_repository import PlanRepository
 from .evaluator import NomadEvaluator
 
 
+from config import PLANS_DIR, EVALUATIONS_DIR
+
+
 class AutoEvaluator:
     """Automatically evaluate all or specific plans from repository."""
     
-    def __init__(self, plan_repo_dir: str = "plans", output_dir: str = "evaluations"):
+    def __init__(self, plan_repo_dir: str = None, output_dir: str = None):
         """
         Initialize auto evaluator.
         
@@ -26,9 +29,9 @@ class AutoEvaluator:
             plan_repo_dir: Directory where plans are stored
             output_dir: Directory to save evaluation reports
         """
-        self.repo = PlanRepository(base_dir=plan_repo_dir)
+        self.repo = PlanRepository(base_dir=plan_repo_dir or PLANS_DIR)
         self.evaluator = NomadEvaluator()
-        self.output_dir = Path(output_dir)
+        self.output_dir = Path(output_dir or EVALUATIONS_DIR)
         self.output_dir.mkdir(parents=True, exist_ok=True)
     
     def evaluate_single_plan(self, task_id: str, 
@@ -236,8 +239,8 @@ class AutoEvaluator:
 # Convenience functions
 _auto_evaluator = None
 
-def get_auto_evaluator(plan_repo_dir: str = "plans", 
-                       output_dir: str = "evaluations") -> AutoEvaluator:
+def get_auto_evaluator(plan_repo_dir: str = None, 
+                       output_dir: str = None) -> AutoEvaluator:
     """Get or create default auto evaluator instance."""
     global _auto_evaluator
     if _auto_evaluator is None:

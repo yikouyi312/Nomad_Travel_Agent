@@ -8,9 +8,7 @@ from llm import call_llm, extract_text
 from tools.dispatch import create_tool_result_message, dispatch_tool
 from tools.schemas import ACTIVITIES_TOOLS, LOGISTICS_TOOLS
 
-# Candidates storage directory
-CANDIDATES_DIR = os.path.join(os.path.dirname(__file__), "..", "search_candidates")
-os.makedirs(CANDIDATES_DIR, exist_ok=True)
+from config import CANDIDATES_DIR
 
 
 def _categorize_search_result(tool_name: str, result: Any) -> str:

@@ -7,8 +7,8 @@ import requests
 from config import SERP_API_KEY
 
 SERP_API_URL = "https://serpapi.com/search"
-CACHE_DIR = os.path.join(os.path.dirname(__file__), "..", "cache")
-os.makedirs(CACHE_DIR, exist_ok=True)
+
+from config import CACHE_DIR
 
 
 class SerpManager:

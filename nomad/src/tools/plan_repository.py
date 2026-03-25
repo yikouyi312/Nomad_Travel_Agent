@@ -15,10 +15,13 @@ from pathlib import Path
 from typing import Dict, Optional, List
 
 
+from config import PLANS_DIR
+
+
 class PlanRepository:
     """Manages verified plans in JSON storage."""
     
-    def __init__(self, base_dir="plans"):
+    def __init__(self, base_dir=None):
         """
         Initialize repository.
         
@@ -26,7 +29,7 @@ class PlanRepository:
             base_dir (str): Base directory to store plans. 
                 Creates directory structure: plans/{task_id}/plan.json
         """
-        self.base_dir = Path(base_dir)
+        self.base_dir = Path(base_dir or PLANS_DIR)
         self.base_dir.mkdir(parents=True, exist_ok=True)
     
     def save_plan(self, plan: Dict, task_id: str, save_metadata: bool = True) -> str:

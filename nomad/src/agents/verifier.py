@@ -4,10 +4,7 @@ import os
 from datetime import datetime
 
 from llm import call_llm_structured
-
-# Verification results storage directory
-VERIFICATION_DIR = os.path.join(os.path.dirname(__file__), "..", "verification_results")
-os.makedirs(VERIFICATION_DIR, exist_ok=True)
+from config import VERIFICATION_DIR
 
 VERIFIER_SCHEMA = {
     "type": "object",

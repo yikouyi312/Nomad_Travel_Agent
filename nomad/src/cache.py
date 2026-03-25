@@ -4,8 +4,7 @@ import os
 from functools import wraps
 from typing import Callable
 
-CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
-os.makedirs(CACHE_DIR, exist_ok=True)
+from config import CACHE_DIR
 
 
 def _generate_cache_key(func_name: str, *args, **kwargs) -> str:

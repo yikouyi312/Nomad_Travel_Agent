@@ -18,7 +18,7 @@ def example_1_evaluate_single_plan():
     print("Example 1: Evaluate Single Plan by task_id")
     print("="*70)
     
-    repo = PlanRepository(base_dir="plans")
+    repo = PlanRepository()
     evaluator = NomadEvaluator()
     
     # First, check what plans we have
@@ -34,8 +34,7 @@ def example_1_evaluate_single_plan():
     print(f"\n[Evaluating] {task_id}")
     
     result = evaluator.evaluate_from_repo(
-        task_id=task_id,
-        plan_repo_dir="plans"
+        task_id=task_id
     )
     
     print(f"\nResult:")
@@ -51,7 +50,7 @@ def example_2_batch_evaluate():
     print("Example 2: Batch Evaluate All Plans")
     print("="*70)
     
-    repo = PlanRepository(base_dir="plans")
+    repo = PlanRepository()
     evaluator = NomadEvaluator()
     
     all_plans = repo.get_all_plans()
@@ -61,7 +60,7 @@ def example_2_batch_evaluate():
     for i, task_id in enumerate(all_plans, 1):
         print(f"  [{i}/{len(all_plans)}] {task_id}...", end=" ", flush=True)
         try:
-            result = evaluator.evaluate_from_repo(task_id=task_id, plan_repo_dir="plans")
+            result = evaluator.evaluate_from_repo(task_id=task_id)
             results[task_id] = result
             print(f"✓ {result['overall_score']:.1%}")
         except Exception as e:
@@ -87,7 +86,7 @@ def example_3_export_summary():
     print("Example 3: Export Plans Summary")
     print("="*70)
     
-    repo = PlanRepository(base_dir="plans")
+    repo = PlanRepository()
     
     # Export summary
     summary_file = repo.export_plans_summary("plans_summary.json")
@@ -118,7 +117,7 @@ def example_4_custom_evaluation():
     print("Example 4: Custom Evaluation with Specific Constraints")
     print("="*70)
     
-    repo = PlanRepository(base_dir="plans")
+    repo = PlanRepository()
     evaluator = NomadEvaluator()
     
     all_plans = repo.get_all_plans()
@@ -132,7 +131,6 @@ def example_4_custom_evaluation():
     # Evaluate with specific constraints
     result = evaluator.evaluate_from_repo(
         task_id=task_id,
-        plan_repo_dir="plans",
         hard_constraints=[
             "Budget: $5000",
             "Destination: Tokyo",
@@ -155,7 +153,7 @@ def example_5_load_and_inspect():
     print("Example 5: Load and Inspect Plan Details")
     print("="*70)
     
-    repo = PlanRepository(base_dir="plans")
+    repo = PlanRepository()
     
     all_plans = repo.get_all_plans()
     if not all_plans:
