@@ -65,11 +65,7 @@ Return a final, detailed summary of your findings."""
                 tool_args = block["input"]
                 
                 # Add task_id and turn to tool arguments for snapshot caching
-                if task_id:
-                    tool_args["task_id"] = task_id
-                tool_args["turn"] = turn
-
-                result = dispatch_tool(tool_name, tool_args)
+                result = dispatch_tool(tool_name, tool_args, meta={"task_id": task_id, "turn": turn})
                 tool_results.append(
                     create_tool_result_message(tool_use_id, tool_name, result)
                 )
@@ -79,7 +75,7 @@ Return a final, detailed summary of your findings."""
 
         turn += 1
 
-    return "Error: Specialist reached maximum tool turns without a final answer."
+    raise RuntimeError(f"Reached max turns ({MAX_AGENT_TURNS}) without a final answer.")
 
 
 def run_logistics_specialist(constraints_json: str, task_id: str = None) -> str:

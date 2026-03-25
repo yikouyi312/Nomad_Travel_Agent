@@ -31,7 +31,7 @@ def verify_and_format_itinerary(
     the strict JSON Constraint layer.
     """
 
-    system_prompt = """You are the Verifier for Nomad.
+    system_prompt = f"""You are the Verifier for Nomad.
 Your job is to cross-reference the proposed itinerary against the hard constraints.
 
 HARD CONSTRAINTS:
@@ -51,7 +51,7 @@ If it is valid, format the draft into a beautiful Markdown response for the user
     result = call_llm_structured(
         messages=messages,
         schema=VERIFIER_SCHEMA,
-        system=system_prompt.replace("{constraints_json}", constraints_json),
+        system=system_prompt
     )
 
     return result
