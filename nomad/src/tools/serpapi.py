@@ -39,7 +39,6 @@ class SerpManager:
 
         # Load snapshot and cache
         self.snapshot = self._load_snapshot() if snapshot_path else {}
-        self.cache = self._load_cache()
         self._call_counters = {}  # Call counter for snapshot
 
     def _load_snapshot(self) -> Dict[str, Any]:
@@ -52,20 +51,6 @@ class SerpManager:
         except (json.JSONDecodeError, IOError):
             print(f"⚠️ Failed to load snapshot file: {self.snapshot_path}")
             return {}
-
-    def _load_cache(self) -> Dict[str, Dict[str, Any]]:
-        """Load local cache"""
-        cache = {}
-        if os.path.isdir(self.cache_dir):
-            for filename in os.listdir(self.cache_dir):
-                if filename.endswith(".json"):
-                    try:
-                        filepath = os.path.join(self.cache_dir, filename)
-                        with open(filepath, "r", encoding="utf-8") as f:
-                            cache[filename] = json.load(f)
-                    except (json.JSONDecodeError, IOError):
-                        pass
-        return cache
 
     def _generate_cache_key(self, engine: str, **params) -> str:
         """Generate deterministic cache key"""
@@ -144,25 +129,21 @@ class SerpManager:
 
         return None
 
-    def _check_local_cache(
-        self, engine: str, cache_key: str
-    ) -> Optional[Dict[str, Any]]:
-        """Check local cache"""
+    def _check_local_cache(self, engine, cache_key):
         filename = self._get_cache_filename(engine, cache_key)
+        
+        # 先查本次运行的内存缓存（避免重复读文件）
         if filename in self.cache:
             return self.cache[filename]
-
-        # Also check filesystem
+        
+        # 再查文件（只读这一个文件，不是全部）
         filepath = os.path.join(self.cache_dir, filename)
         if os.path.exists(filepath):
-            try:
-                with open(filepath, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    self.cache[filename] = data
-                    return data
-            except (json.JSONDecodeError, IOError):
-                pass
-
+            with open(filepath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                self.cache[filename] = data      # 存入内存，下次直接用
+                return data
+        
         return None
 
     def _save_to_cache(

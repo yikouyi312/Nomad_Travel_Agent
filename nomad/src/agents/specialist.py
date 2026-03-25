@@ -65,7 +65,7 @@ Return a final, detailed summary of your findings."""
                 tool_args = block["input"]
                 
                 # Add task_id and turn to tool arguments for snapshot caching
-                result = dispatch_tool(tool_name, tool_args, meta={"task_id": task_id, "turn": turn})
+                result = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
                 tool_results.append(
                     create_tool_result_message(tool_use_id, tool_name, result)
                 )

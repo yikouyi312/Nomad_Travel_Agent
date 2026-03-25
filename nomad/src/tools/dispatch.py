@@ -2,6 +2,7 @@ import json
 from typing import Any, Dict, Optional
 
 from tools.serpapi import SerpManager, search_flights, search_hotels, search_places
+from tools.serpapi import _get_default_manager
 
 # Global SerpManager instance
 _serp_manager: Optional[SerpManager] = None
@@ -10,11 +11,7 @@ _serp_manager: Optional[SerpManager] = None
 def get_serp_manager(
     api_key: Optional[str] = None, snapshot_path: Optional[str] = None
 ) -> SerpManager:
-    """Get or create a global SerpManager instance"""
-    global _serp_manager
-    if _serp_manager is None:
-        _serp_manager = SerpManager(api_key=api_key, snapshot_path=snapshot_path)
-    return _serp_manager
+    return _get_default_manager()
 
 
 TOOL_REGISTRY = {
@@ -45,18 +42,15 @@ def dispatch_tool(tool_name: str, arguments: Dict[str, Any]) -> Dict[str, Any]:
         if tool_name == "search_flights":
             manager = get_serp_manager()
             result = manager.search_flights(task_id=task_id, turn=turn, **arguments)
-            print(f"🍽️  Flights results: {len(result.get('best_flights', []))} options")
+            print(f"✈️  Flights results: {len(result.get('best_flights', []))} options")
         elif tool_name == "search_hotels":
             manager = get_serp_manager()
             result = manager.search_hotels(task_id=task_id, turn=turn, **arguments)
-            print(f"🍽️  Hotels results: {len(result.get('properties', []))} options")
+            print(f"🏨  Hotels results: {len(result.get('properties', []))} options")
         elif tool_name == "search_places":
             manager = get_serp_manager()
             result = manager.search_places(task_id=task_id, turn=turn, **arguments)
-            print(f"🍽️  Places results: {len(result.get('places', []))} options")
-        else:
-            func = TOOL_REGISTRY[tool_name]
-            result = func(**arguments)
+            print(f"🍽️  Places results: {len(result.get('local_results', []))} options")
         
         return result
     except Exception as e:
