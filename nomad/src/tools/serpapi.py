@@ -243,6 +243,7 @@ class SerpManager:
         return_date: str,
         task_id: Optional[str] = None,
         turn: int = 1,
+        topk_limit: int = 3
     ) -> Dict[str, Any]:
         """Search flights"""
         params = {
@@ -262,10 +263,10 @@ class SerpManager:
         )
 
         # Keep only top results to reduce token usage
-        best_flights = result.get("best_flights", [])[:3]
-        other_flights = result.get("other_flights", [])[:2]
+        best_flights = result.get("best_flights", [])[:topk_limit]
+        other_flights = result.get("other_flights", [])[:topk_limit]
 
-        return {"best_flights": best_flights, "other_flights": other_flights}
+        return {"best_flights": best_flights, "other_flights": other_flights}, len(best_flights) + len(other_flights)
 
     def search_hotels(
         self,
@@ -275,6 +276,7 @@ class SerpManager:
         adults: int = 1,
         task_id: Optional[str] = None,
         turn: int = 1,
+        topk_limit: int = 5
     ) -> Dict[str, Any]:
         """Search hotels"""
         params = {
@@ -294,9 +296,9 @@ class SerpManager:
         )
 
         # Keep only top results
-        properties = result.get("properties", [])[:5]
+        properties = result.get("properties", [])[:topk_limit]
 
-        return {"properties": properties}
+        return {"properties": properties}, len(properties)
 
     def search_places(
         self,
@@ -304,6 +306,7 @@ class SerpManager:
         location: str,
         task_id: Optional[str] = None,
         turn: int = 1,
+        topk_limit: int = 5
     ) -> Dict[str, Any]:
         """Search places/restaurants/attractions"""
         params = {
@@ -321,9 +324,9 @@ class SerpManager:
         )
 
         # Keep only top results
-        results = result.get("local_results", [])[:5]
+        results = result.get("local_results", [])[:topk_limit]
 
-        return {"local_results": results}
+        return {"local_results": results}, len(results)
 
 
 # ============================================================================

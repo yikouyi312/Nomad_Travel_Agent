@@ -19,14 +19,46 @@ VERIFIER_SCHEMA = {
         "issues": {
             "type": "array",
             "items": {"type": "string"},
-            "description": "List of constraint violations (e.g. 'Flight returns on 15th but constraint is 14th')",
+            "description": "List of constraint violations",
+        },
+        "itinerary": {
+            "type": "object",
+            "description": "Complete itinerary with full details",
+            "properties": {
+                "flights": {
+                    "type": "object",
+                    "properties": {
+                        "outbound": {
+                            "type": "object",
+                            "description": "Complete outbound flight details (all fields from search results)"
+                        },
+                        "return": {
+                            "type": "object",
+                            "description": "Complete return flight details (all fields from search results)"
+                        }
+                    }
+                },
+                "hotels": {
+                    "type": "object",
+                    "description": "Complete hotel details with check-in/check-out dates"
+                },
+                "activities": {
+                    "type": "array",
+                    "description": "List of activities with full details including date and time",
+                    "items": {
+                        "type": "object",
+                        "description": "Complete activity/restaurant details with date"
+                    }
+                },
+                "estimated_cost": {"type": "number", "description": "Total estimated cost in USD"},
+            }
         },
         "final_message_to_user": {
             "type": "string",
-            "description": "A nicely formatted Markdown response presenting the final validated itinerary, or explaining what went wrong if it couldn't be built.",
+            "description": "Concise summary or error explanation",
         },
     },
-    "required": ["is_valid", "issues", "final_message_to_user"],
+    "required": ["is_valid", "issues", "itinerary", "final_message_to_user"],
 }
 
 
@@ -34,18 +66,26 @@ def verify_and_format_itinerary(
     draft_text: str, 
     constraints_json: str,
     task_id: Optional[str] = None,
+    search_results: Optional[Dict[str, Any]] = None,
 ) -> Dict[str, Any]:
     """
     Acts as the Verifier layer. Reviews the text output from the Specialists against
     the strict JSON Constraint layer.
     
+    Returns COMPLETE ITINERARY with all details (flights, hotels, activities).
+    
     Args:
         draft_text: Draft itinerary text from specialists
         constraints_json: JSON constraints for verification
         task_id: Optional task ID for saving verification results
+        search_results: Optional dict with search results (for reference only, verifier returns full details)
     
     Returns:
-        Verification result dict with is_valid, issues, final_message_to_user
+        Verification result dict with:
+          - is_valid: boolean
+          - issues: list of violations
+          - itinerary: COMPLETE itinerary with all details (flights, hotels, activities)
+          - final_message_to_user: concise summary
     """
 
     system_prompt = """You are the Verifier for Nomad.
@@ -73,7 +113,7 @@ If it is valid, format the draft into a beautiful Markdown response for the user
 
     # Save verification result if task_id provided
     if task_id:
-        _save_verification_result(task_id, result, draft_text, constraints_json)
+        _save_verification_result(task_id, result, draft_text, constraints_json, search_results)
     
     return result
 
@@ -83,6 +123,7 @@ def _save_verification_result(
     result: Dict[str, Any],
     draft_text: str,
     constraints_json: str,
+    search_results: Optional[Dict[str, Any]] = None,
 ) -> None:
     """
     Save verification result to file for later evaluation.
@@ -92,16 +133,22 @@ def _save_verification_result(
         result: Verification result from verify_and_format_itinerary
         draft_text: Original draft itinerary
         constraints_json: Constraints used for verification
+        search_results: Optional search results (not required for detail expansion anymore)
     """
     verification_data = {
         "task_id": task_id,
         "timestamp": datetime.now().isoformat(),
         "is_valid": result.get("is_valid"),
         "issues": result.get("issues", []),
+        "itinerary": result.get("itinerary"),  # Complete itinerary with all details
         "final_message_to_user": result.get("final_message_to_user"),
         "draft_text": draft_text,
         "constraints": json.loads(constraints_json) if isinstance(constraints_json, str) else constraints_json,
     }
+    
+    # Include search results if provided for reference/analytics
+    if search_results:
+        verification_data["search_results"] = search_results
     
     # Save to task-specific file
     filename = f"{task_id}_verification.json"
@@ -138,7 +185,76 @@ def load_verification_result(task_id: str) -> Optional[Dict[str, Any]]:
         return None
 
 
-def list_verification_results(limit: int = 20) -> list[Dict[str, Any]]:
+def determine_details(
+    blueprint: Dict[str, Any],
+    search_results: Dict[str, Any],
+) -> Dict[str, Any]:
+    """
+    Expand itinerary blueprint with detailed information from search results.
+    Call this function ONLY when you need full details to reduce token usage.
+    
+    Args:
+        blueprint: itinerary_blueprint from verify_and_format_itinerary()
+        search_results: Dict containing search result lists
+            {
+              "flights": [...], 
+              "hotels": [...], 
+              "activities": [...]
+            }
+    
+    Returns:
+        Expanded itinerary with full details
+    """
+    detailed = {
+        "flights": {},
+        "hotels": {},
+        "activities": [],
+        "cost_breakdown": {},
+    }
+    
+    # Expand flights
+    outbound_ref = blueprint.get("flights", {}).get("outbound_ref")
+    if outbound_ref and "flights" in search_results:
+        idx = int(outbound_ref.split("_")[1])
+        if idx < len(search_results["flights"]):
+            detailed["flights"]["outbound"] = search_results["flights"][idx]
+    
+    return_ref = blueprint.get("flights", {}).get("return_ref")
+    if return_ref and "flights" in search_results:
+        idx = int(return_ref.split("_")[1])
+        if idx < len(search_results["flights"]):
+            detailed["flights"]["return"] = search_results["flights"][idx]
+    
+    # Expand hotels
+    hotel_ref = blueprint.get("hotels", {}).get("hotel_ref")
+    if hotel_ref and "hotels" in search_results:
+        idx = int(hotel_ref.split("_")[1])
+        if idx < len(search_results["hotels"]):
+            hotel = search_results["hotels"][idx].copy()
+            hotel.update({
+                "check_in": blueprint.get("hotels", {}).get("check_in"),
+                "check_out": blueprint.get("hotels", {}).get("check_out"),
+                "nights": blueprint.get("hotels", {}).get("nights"),
+            })
+            detailed["hotels"] = hotel
+    
+    # Expand activities
+    for activity_item in blueprint.get("activities", []):
+        activity_ref = activity_item.get("activity_ref")
+        if activity_ref and "activities" in search_results:
+            idx = int(activity_ref.split("_")[1])
+            if idx < len(search_results["activities"]):
+                activity = search_results["activities"][idx].copy()
+                activity["date"] = activity_item.get("date")
+                detailed["activities"].append(activity)
+    
+    # Add cost summary
+    detailed["estimated_cost"] = blueprint.get("estimated_cost")
+    
+    return detailed
+
+
+def list_verification_results(limit: int = 100):
     """
     List all saved verification results.
     
@@ -166,3 +282,99 @@ def list_verification_results(limit: int = 20) -> list[Dict[str, Any]]:
     # Sort by timestamp descending
     results.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
     return results[:limit]
+
+
+def format_complete_itinerary(verification_result: Dict[str, Any]) -> str:
+    """
+    Format the complete itinerary for user display.
+    
+    Args:
+        verification_result: Result from verify_and_format_itinerary()
+    
+    Returns:
+        Formatted string with complete trip details
+    """
+    itinerary = verification_result.get("itinerary")
+    if not itinerary:
+        return "Complete itinerary details not available"
+    
+    lines = []
+    
+    # Header
+    lines.append("=" * 70)
+    lines.append("✈️  COMPLETE TRAVEL ITINERARY")
+    lines.append("=" * 70)
+    
+    # Validity status
+    if verification_result.get("is_valid"):
+        lines.append("\n✅ STATUS: APPROVED")
+    else:
+        lines.append("\n❌ STATUS: REQUIRES REVISION")
+        if verification_result.get("issues"):
+            lines.append("Issues:")
+            for issue in verification_result["issues"]:
+                lines.append(f"  • {issue}")
+    
+    # Flights
+    if itinerary.get("flights"):
+        lines.append("\n" + "-" * 70)
+        lines.append("✈️  FLIGHTS")
+        lines.append("-" * 70)
+        
+        outbound = itinerary["flights"].get("outbound")
+        if outbound:
+            lines.append(f"\nOUTBOUND FLIGHT:")
+            for key, value in outbound.items():
+                lines.append(f"  • {key}: {value}")
+        
+        return_flight = itinerary["flights"].get("return")
+        if return_flight:
+            lines.append(f"\nRETURN FLIGHT:")
+            for key, value in return_flight.items():
+                lines.append(f"  • {key}: {value}")
+    
+    # Hotels
+    if itinerary.get("hotels"):
+        lines.append("\n" + "-" * 70)
+        lines.append("🏨 HOTELS")
+        lines.append("-" * 70)
+        
+        hotel = itinerary["hotels"]
+        for key, value in hotel.items():
+            if key not in ["check_in", "check_out", "nights"]:
+                lines.append(f"  • {key}: {value}")
+        
+        if hotel.get("check_in"):
+            lines.append(f"\n  CHECK-IN:  {hotel.get('check_in')}")
+        if hotel.get("check_out"):
+            lines.append(f"  CHECK-OUT: {hotel.get('check_out')}")
+        if hotel.get("nights"):
+            lines.append(f"  DURATION:  {hotel.get('nights')} nights")
+    
+    # Activities
+    if itinerary.get("activities"):
+        lines.append("\n" + "-" * 70)
+        lines.append("🎯 ACTIVITIES & DINING")
+        lines.append("-" * 70)
+        
+        for i, activity in enumerate(itinerary["activities"], 1):
+            date = activity.get("date", "TBD")
+            lines.append(f"\nDay - {date}:")
+            for key, value in activity.items():
+                if key != "date":
+                    lines.append(f"  • {key}: {value}")
+    
+    # Cost Summary
+    if itinerary.get("estimated_cost") is not None:
+        lines.append("\n" + "-" * 70)
+        lines.append("💰 COST SUMMARY")
+        lines.append("-" * 70)
+        lines.append(f"  Total Estimated Cost: ${itinerary.get('estimated_cost'):,.2f}")
+    
+    # Final message
+    lines.append("\n" + "=" * 70)
+    if verification_result.get("final_message_to_user"):
+        lines.append(f"📝 {verification_result['final_message_to_user']}")
+    lines.append("=" * 70)
+    
+    return "\n".join(lines)

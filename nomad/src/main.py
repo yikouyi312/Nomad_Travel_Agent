@@ -1,6 +1,6 @@
 from src.agents.orchestrator import analyze_user_input, update_state_from_analysis
 from src.agents.specialist import run_activities_specialist, run_logistics_specialist
-from src.agents.verifier import verify_and_format_itinerary
+from src.agents.verifier import verify_and_format_itinerary, format_complete_itinerary
 from src.state import TravelState
 
 
@@ -46,13 +46,32 @@ def main():
 
         # If we reach here, we need to run specialists
         draft_components = []
+        all_search_results = {
+            "flights": [],
+            "hotels": [],
+            "activities": [],
+        }
+        specialist_contexts = {
+            "logistics": None,
+            "activities": None,
+        }
         constraints_str = state.constraints.model_dump_json(indent=2)
 
         if delegation in ["logistics", "both"]:
             print("\n[Specialist - Logistics] Searching for flights & hotels...")
             try:
-                logistics_draft = run_logistics_specialist(constraints_str)
+                logistics_draft, logistics_searches, logistics_context = run_logistics_specialist(
+                    constraints_str, 
+                    task_id=state.task_id
+                )
                 draft_components.append("--- LOGISTICS ---\n" + logistics_draft)
+                
+                # Accumulate search results  
+                all_search_results["flights"].extend(logistics_searches.get("flights", []))
+                all_search_results["hotels"].extend(logistics_searches.get("hotels", []))
+                
+                # Store specialist context
+                specialist_contexts["logistics"] = logistics_context
             except Exception as e:
                 print(f"[Specialist Error] {e}")
 
@@ -61,8 +80,17 @@ def main():
                 "\n[Specialist - Activities] Searching for restaurants & things to do..."
             )
             try:
-                activities_draft = run_activities_specialist(constraints_str)
+                activities_draft, activities_searches, activities_context = run_activities_specialist(
+                    constraints_str,
+                    task_id=state.task_id
+                )
                 draft_components.append("--- ACTIVITIES ---\n" + activities_draft)
+                
+                # Accumulate search results
+                all_search_results["activities"].extend(activities_searches.get("activities", []))
+                
+                # Store specialist context
+                specialist_contexts["activities"] = activities_context
             except Exception as e:
                 print(f"[Specialist Error] {e}")
 
@@ -71,15 +99,19 @@ def main():
         full_draft = "\n\n".join(draft_components)
 
         try:
-            verification = verify_and_format_itinerary(full_draft, constraints_str)
+            verification = verify_and_format_itinerary(
+                full_draft, 
+                constraints_str,
+                task_id=state.task_id,
+                search_results=all_search_results,  # <-- Pass accumulated search results
+            )
 
             if verification.get("is_valid"):
-                final_response = verification.get(
-                    "final_message_to_user", "Here is your plan!"
-                )
-                print("\nNomad:\n")
-                print(final_response)
-                state.messages.append({"role": "assistant", "content": final_response})
+                # Display complete itinerary
+                complete_itinerary_str = format_complete_itinerary(verification)
+                print("\n" + complete_itinerary_str)
+                
+                state.messages.append({"role": "assistant", "content": complete_itinerary_str})
             else:
                 issues = verification.get("issues", [])
                 print(
