@@ -84,7 +84,27 @@ def verify_and_format_itinerary(
           - itinerary: COMPLETE itinerary with all details (flights, hotels, activities)
           - final_message_to_user: concise summary
     """
-
+    # Build candidate information for the prompt
+    available_candidates = "TOP CANDIDATES (Pre-filtered by Specialist):\n"
+    
+    if search_results:
+        if search_results.get("flights"):
+            available_candidates += f"\n✈️  FLIGHTS ({len(search_results['flights'])} options):\n"
+            for i, flight in enumerate(search_results["flights"]):
+                available_candidates += f"  [{i}] {flight}\n"
+        
+        if search_results.get("hotels"):
+            available_candidates += f"\n🏨 HOTELS ({len(search_results['hotels'])} options):\n"
+            for i, hotel in enumerate(search_results["hotels"]):
+                available_candidates += f"  [{i}] {hotel}\n"
+        
+        if search_results.get("activities"):
+            available_candidates += f"\n🎯 ACTIVITIES ({len(search_results['activities'])} options):\n"
+            for i, activity in enumerate(search_results["activities"]):
+                available_candidates += f"  [{i}] {activity}\n"
+    else:
+        available_candidates += "No candidates provided. Work from the draft text."
+        
     system_prompt = f"""You are the Verifier for Nomad.
 Your job is to cross-reference the proposed itinerary against the hard constraints.
 
@@ -106,26 +126,7 @@ OUTPUT REQUIREMENTS:
 - itinerary: Complete confirmed trip with all selected details
 - final_message_to_user: Friendly summary of passenger's confirmed trip"""
 
-    # Build candidate information for the prompt
-    available_candidates = "TOP CANDIDATES (Pre-filtered by Specialist):\n"
-    
-    if search_results:
-        if search_results.get("flights"):
-            available_candidates += f"\n✈️  FLIGHTS ({len(search_results['flights'])} options):\n"
-            for i, flight in enumerate(search_results["flights"]):
-                available_candidates += f"  [{i}] {flight}\n"
-        
-        if search_results.get("hotels"):
-            available_candidates += f"\n🏨 HOTELS ({len(search_results['hotels'])} options):\n"
-            for i, hotel in enumerate(search_results["hotels"]):
-                available_candidates += f"  [{i}] {hotel}\n"
-        
-        if search_results.get("activities"):
-            available_candidates += f"\n🎯 ACTIVITIES ({len(search_results['activities'])} options):\n"
-            for i, activity in enumerate(search_results["activities"]):
-                available_candidates += f"  [{i}] {activity}\n"
-    else:
-        available_candidates += "No candidates provided. Work from the draft text."
+
     
     messages = [
         {
