@@ -85,7 +85,6 @@ def verify_and_format_itinerary(
           - itinerary: COMPLETE itinerary with all details (flights, hotels, activities)
           - final_message_to_user: concise summary
     """
-
     # Build candidate information for the prompt
     available_candidates = "TOP CANDIDATES (Pre-filtered by Specialist):\n"
     
@@ -150,6 +149,8 @@ OUTPUT REQUIREMENTS:
 - itinerary: Complete confirmed trip with ONLY the relevant components ({component_note}). Omit sections with no data (e.g. skip "flights" if none provided).
 - estimated_cost: Total cost for only the booked components
 - final_message_to_user: Friendly summary of passenger's confirmed trip"""
+
+
     
     messages = [
         {

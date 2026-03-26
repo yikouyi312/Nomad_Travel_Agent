@@ -218,7 +218,7 @@ Return a summary of the TOP candidates with their rankings and details."""
                 tool_args = block["input"].copy()
                 
                 # Add task_id and turn to tool arguments for snapshot caching
-                result, candidate_count = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
+                result, candidate_count, candidate_count = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
                 
                 # Categorize and accumulate search results
                 category = _categorize_search_result(tool_name, result)
@@ -237,6 +237,19 @@ Return a summary of the TOP candidates with their rankings and details."""
                     "candidates": candidate_count,
                 })
                 
+                
+                # 填充 search_results
+                category = _categorize_search_result(tool_name, result)
+                if category == "flights":
+                    items = result.get("best_flights", []) + result.get("other_flights", [])
+                elif category == "hotels":
+                    items = result.get("properties", [])
+                elif category == "activities":
+                    items = result.get("local_results", [])
+                else:
+                    items = []
+                if category in search_results:
+                    search_results[category].extend(items)
                 tool_results.append(
                     create_tool_result_message(tool_use_id, tool_name, result)
                 )
