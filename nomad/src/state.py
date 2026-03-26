@@ -76,7 +76,7 @@ class TravelState(BaseModel):
     draft_itinerary: Optional[Itinerary] = None
     delegation_plan: Optional[str] = None  # "logistics", "activities", "both", "none"
     messages: List[Dict[str, Any]] = Field(default_factory=list)
-
+    last_verification: Optional[Dict[str, Any]] = Field(None, description="Results of the last verification step")
     @model_validator(mode='after')
     def generate_task_id_if_missing(self):
         """Auto-generate task_id if not provided"""
