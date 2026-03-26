@@ -139,7 +139,7 @@ def run_single_task(task: Dict[str, Any], verbose: bool = True) -> Dict[str, Any
         if delegation in ("logistics", "both"):
             if verbose:
                 print(f"  Running logistics specialist...")
-            logistics_draft, logistics_searches, _ = run_logistics_specialist(
+            logistics_draft, logistics_searches, logistics_context = run_logistics_specialist(
                 constraints_str, task_id=state.task_id
             )
             draft_components.append("--- LOGISTICS ---\n" + logistics_draft)
@@ -149,7 +149,7 @@ def run_single_task(task: Dict[str, Any], verbose: bool = True) -> Dict[str, Any
         if delegation in ("activities", "both"):
             if verbose:
                 print(f"  Running activities specialist...")
-            activities_draft, activities_searches, _ = run_activities_specialist(
+            activities_draft, activities_searches, activities_context = run_activities_specialist(
                 constraints_str, task_id=state.task_id
             )
             draft_components.append("--- ACTIVITIES ---\n" + activities_draft)
@@ -169,19 +169,7 @@ def run_single_task(task: Dict[str, Any], verbose: bool = True) -> Dict[str, Any
 
         # --- 6. Save plan ---
         if verification.get("is_valid"):
-            plan_to_save = {
-                "itinerary": verification.get("itinerary", {}),
-                "constraints": {
-                    "origin": state.constraints.origin,
-                    "destination": state.constraints.destination,
-                    "start_date": state.constraints.start_date,
-                    "end_date": state.constraints.end_date,
-                    "budget_usd": state.constraints.budget_usd,
-                    "num_travelers": state.constraints.num_travelers,
-                },
-                "is_valid": True,
-                "task_id": state.task_id,
-            }
+            plan_to_save = verification.get("itinerary", verification)
             repo = PlanRepository()
             saved_path = repo.save_plan(plan=plan_to_save, task_id=state.task_id, save_metadata=True)
             result["status"] = "success"

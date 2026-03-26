@@ -85,27 +85,6 @@ def verify_and_format_itinerary(
           - final_message_to_user: concise summary
     """
 
-    system_prompt = f"""You are the Verifier for Nomad.
-Your job is to cross-reference the proposed itinerary against the hard constraints.
-
-HARD CONSTRAINTS:
-{constraints_json}
-
-TOP CANDIDATES PROVIDED BY SPECIALIST:
-{available_candidates}
-
-SELECTION CRITERIA:
-- Outbound Flight: Balance of price vs convenience
-- Return Flight: Align with hotel checkout and trip activities
-- Hotel: Best value (meets amenities AND price within remainder of budget)
-- Activities: Spread across trip days, match interests and budget
-
-OUTPUT REQUIREMENTS:
-- is_valid: true if all constraints met after your selection
-- issues: any violations found
-- itinerary: Complete confirmed trip with all selected details
-- final_message_to_user: Friendly summary of passenger's confirmed trip"""
-
     # Build candidate information for the prompt
     available_candidates = "TOP CANDIDATES (Pre-filtered by Specialist):\n"
     
@@ -126,6 +105,27 @@ OUTPUT REQUIREMENTS:
                 available_candidates += f"  [{i}] {activity}\n"
     else:
         available_candidates += "No candidates provided. Work from the draft text."
+
+    system_prompt = f"""You are the Verifier for Nomad.
+Your job is to cross-reference the proposed itinerary against the hard constraints.
+
+HARD CONSTRAINTS:
+{constraints_json}
+
+TOP CANDIDATES PROVIDED BY SPECIALIST:
+{available_candidates}
+
+SELECTION CRITERIA:
+- Outbound Flight: Balance of price vs convenience
+- Return Flight: Align with hotel checkout and trip activities
+- Hotel: Best value (meets amenities AND price within remainder of budget)
+- Activities: Spread across trip days, match interests and budget
+
+OUTPUT REQUIREMENTS:
+- is_valid: true if all constraints met after your selection
+- issues: any violations found
+- itinerary: Complete confirmed trip with all selected details
+- final_message_to_user: Friendly summary of passenger's confirmed trip"""
     
     messages = [
         {
