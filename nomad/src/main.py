@@ -55,6 +55,9 @@ def main():
             "logistics": None,
             "activities": None,
         }
+        orchestrator_reply = analysis.get("response_to_user", "")
+        if orchestrator_reply:
+            print(f"\nNomad: {orchestrator_reply}")
         constraints_str = state.constraints.model_dump_json(indent=2)
 
         if delegation in ["logistics", "both"]:

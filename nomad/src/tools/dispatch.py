@@ -57,7 +57,7 @@ def dispatch_tool(tool_name: str, arguments: Dict[str, Any]) -> Dict[str, Any]:
         return result, candidate_count
     except Exception as e:
         print(f"  ❌ Tool {tool_name} error: {str(e)}")
-        return {"error": str(e)}
+        return {"error": str(e)}, 0
 
 
 def create_tool_result_message(
