@@ -171,13 +171,15 @@ def update_state_from_analysis(
         if value is not None and hasattr(state.constraints, key):
             current_val = getattr(state.constraints, key)
             
-            # For lists: merge unique items
+            # For lists: 如果新值非空且与旧值完全不同，覆盖；否则 merge
             if isinstance(current_val, list) and isinstance(value, list):
-                new_list = list(dict.fromkeys(current_val + value))
-                setattr(state.constraints, key, new_list)
-            # For other types: overwrite
-            else:
-                setattr(state.constraints, key, value)
+                if value and set(value).isdisjoint(set(current_val)):
+                    # 用户提供了全新的值，覆盖旧值
+                    setattr(state.constraints, key, value)
+                else:
+                    # 部分重叠或追加，做 merge
+                    new_list = list(dict.fromkeys(current_val + value))
+                    setattr(state.constraints, key, new_list)
     
     # Update delegation plan if provided
     delegation = analysis.get("delegation", "none")

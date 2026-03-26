@@ -113,15 +113,67 @@ def main():
                 # Display complete itinerary
                 complete_itinerary_str = format_complete_itinerary(verification)
                 print("\n" + complete_itinerary_str)
-                
+                # 把验证结果存入 state，供后续多轮对话使用
+                state.last_verification = verification
                 state.messages.append({"role": "assistant", "content": complete_itinerary_str})
             else:
                 issues = verification.get("issues", [])
-                print(
-                    f"\nNomad: I built a plan, but it violates some constraints:\n{issues}"
-                )
-                print("I will need to revise. Let me know how you'd like to adjust.")
+                issues_str = "\n".join(f"- {i}" for i in issues)
+                print(f"\n[Verifier] Found issues, attempting recovery...\n{issues_str}")
 
+                # 把 issues 反馈给 orchestrator，触发重新委派
+                recovery_msg = f"The previous plan had these issues:\n{issues_str}\nPlease fix them."
+                try:
+                    recovery_analysis = analyze_user_input(recovery_msg, state)
+                    state = update_state_from_analysis(state, recovery_analysis)
+                    recovery_delegation = recovery_analysis.get("delegation", "none")
+
+                    if recovery_delegation != "none":
+                        print("\n[Recovery] Re-running specialists...")
+                        # 重新跑 specialist，逻辑与上面一致
+                        recovery_drafts = []
+                        recovery_searches = {"flights": [], "hotels": [], "activities": []}
+
+                        if recovery_delegation in ["logistics", "both"]:
+                            r_draft, r_search, _ = run_logistics_specialist(
+                                state.constraints.model_dump_json(indent=2),
+                                task_id=state.task_id
+                            )
+                            recovery_drafts.append("--- LOGISTICS ---\n" + r_draft)
+                            recovery_searches["flights"].extend(r_search.get("flights", []))
+                            recovery_searches["hotels"].extend(r_search.get("hotels", []))
+
+                        if recovery_delegation in ["activities", "both"]:
+                            r_draft, r_search, _ = run_activities_specialist(
+                                state.constraints.model_dump_json(indent=2),
+                                task_id=state.task_id
+                            )
+                            recovery_drafts.append("--- ACTIVITIES ---\n" + r_draft)
+                            recovery_searches["activities"].extend(r_search.get("activities", []))
+
+                        recovery_verification = verify_and_format_itinerary(
+                            "\n\n".join(recovery_drafts),
+                            state.constraints.model_dump_json(indent=2),
+                            task_id=state.task_id,
+                            search_results=recovery_searches,
+                        )
+
+                        if recovery_verification.get("is_valid"):
+                            complete_itinerary_str = format_complete_itinerary(recovery_verification)
+                            print("\n[Recovery] ✅ Fixed!\n" + complete_itinerary_str)
+                            state.messages.append({"role": "assistant", "content": complete_itinerary_str})
+                        else:
+                            remaining = recovery_verification.get("issues", [])
+                            msg = f"I tried to fix the plan but still have issues: {remaining}\nPlease clarify your constraints."
+                            print(f"\nNomad: {msg}")
+                            state.messages.append({"role": "assistant", "content": msg})
+                    else:
+                        msg = f"I found issues but couldn't determine how to fix them automatically:\n{issues_str}"
+                        print(f"\nNomad: {msg}")
+                        state.messages.append({"role": "assistant", "content": msg})
+
+                except Exception as e:
+                    print(f"[Recovery Error] {e}")
         except Exception as e:
             print(f"Error during verification: {e}")
 
