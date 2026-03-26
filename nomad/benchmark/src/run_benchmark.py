@@ -167,19 +167,21 @@ def run_single_task(task: Dict[str, Any], verbose: bool = True) -> Dict[str, Any
         )
         result["verification"] = verification
 
-        # --- 6. Save plan ---
+        # --- 6. Save plan (always, even partial / invalid) ---
+        plan_to_save = verification.get("itinerary", verification)
+        repo = PlanRepository()
+        saved_path = repo.save_plan(plan=plan_to_save, task_id=state.task_id, save_metadata=True)
+
         if verification.get("is_valid"):
-            plan_to_save = verification.get("itinerary", verification)
-            repo = PlanRepository()
-            saved_path = repo.save_plan(plan=plan_to_save, task_id=state.task_id, save_metadata=True)
             result["status"] = "success"
             if verbose:
-                print(f"  SAVED → {saved_path}")
+                print(f"  SAVED (valid) → {saved_path}")
         else:
             result["status"] = "invalid"
             result["error"] = verification.get("issues", [])
             if verbose:
-                print(f"  INVALID — {verification.get('issues', [])}")
+                print(f"  SAVED (invalid, partial) → {saved_path}")
+                print(f"  Issues: {verification.get('issues', [])}")
 
     except Exception as e:
         result["status"] = "error"
