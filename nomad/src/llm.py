@@ -1,5 +1,6 @@
 from typing import Any, Dict, List, Optional
 
+import time
 import requests
 from config import (
     ANTHROPIC_API_URL,
@@ -8,6 +9,10 @@ from config import (
     DEFAULT_MODEL,
     MAX_TOKENS,
 )
+
+# Retry config for rate limits
+MAX_RETRIES = 5
+INITIAL_BACKOFF = 30  # seconds — generous since limit is per-minute
 
 
 def _get_headers() -> Dict[str, str]:
@@ -46,6 +51,18 @@ def call_llm(
     resp = requests.post(
         ANTHROPIC_API_URL, headers=_get_headers(), json=payload, timeout=60
     )
+
+    if resp.status_code == 429:
+        # Rate limited — retry with exponential backoff
+        for attempt in range(1, MAX_RETRIES + 1):
+            retry_after = int(resp.headers.get("retry-after", INITIAL_BACKOFF * attempt))
+            print(f"  ⏳ Rate limited. Waiting {retry_after}s before retry {attempt}/{MAX_RETRIES}...")
+            time.sleep(retry_after)
+            resp = requests.post(
+                ANTHROPIC_API_URL, headers=_get_headers(), json=payload, timeout=60
+            )
+            if resp.status_code != 429:
+                break
 
     if resp.status_code != 200:
         raise Exception(
