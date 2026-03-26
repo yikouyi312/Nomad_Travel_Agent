@@ -218,7 +218,7 @@ Return a summary of the TOP candidates with their rankings and details."""
                 tool_args = block["input"].copy()
                 
                 # Add task_id and turn to tool arguments for snapshot caching
-                result, candidate_count, candidate_count = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
+                result, candidate_count = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
                 
                 # Categorize and accumulate search results
                 category = _categorize_search_result(tool_name, result)
