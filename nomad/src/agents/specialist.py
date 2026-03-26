@@ -218,7 +218,25 @@ Return a summary of the TOP candidates with their rankings and details."""
                 tool_args = block["input"].copy()
                 
                 # Add task_id and turn to tool arguments for snapshot caching
-                result, candidate_count = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
+                result, candidate_count, candidate_count = dispatch_tool(tool_name, {**tool_args, "task_id": task_id, "turn": turn})
+                
+                # Categorize and accumulate search results
+                category = _categorize_search_result(tool_name, result)
+                if category in search_results and isinstance(result, dict) and "error" not in result:
+                    search_results[category].append(result)
+                    verifier_context["search_coverage"][category] += candidate_count
+                
+                # Save candidate to disk for persistence
+                if task_id and isinstance(result, dict) and "error" not in result:
+                    _save_search_candidate(task_id, category, tool_name, tool_args, result)
+                
+                # Track tool call
+                verifier_context["tool_calls_summary"].append({
+                    "tool": tool_name,
+                    "category": category,
+                    "candidates": candidate_count,
+                })
+                
                 
                 # 填充 search_results
                 category = _categorize_search_result(tool_name, result)

@@ -20,10 +20,11 @@ VERIFIER_SCHEMA = {
         },
         "itinerary": {
             "type": "object",
-            "description": "Complete itinerary with full details",
+            "description": "Complete itinerary with available components. Only include sections that have data — omit flights if none booked, omit hotels if not needed, etc.",
             "properties": {
                 "flights": {
                     "type": "object",
+                    "description": "Flight details (omit entirely if no flights in this trip)",
                     "properties": {
                         "outbound": {
                             "type": "object",
@@ -37,17 +38,17 @@ VERIFIER_SCHEMA = {
                 },
                 "hotels": {
                     "type": "object",
-                    "description": "Complete hotel details with check-in/check-out dates"
+                    "description": "Hotel details with check-in/check-out dates (omit if not needed)"
                 },
                 "activities": {
                     "type": "array",
-                    "description": "List of activities with full details including date and time",
+                    "description": "List of activities with full details including date and time (omit if none)",
                     "items": {
                         "type": "object",
                         "description": "Complete activity/restaurant details with date"
                     }
                 },
-                "estimated_cost": {"type": "number", "description": "Total estimated cost in USD"},
+                "estimated_cost": {"type": "number", "description": "Total estimated cost in USD for booked components only"},
             }
         },
         "final_message_to_user": {
@@ -104,7 +105,29 @@ def verify_and_format_itinerary(
                 available_candidates += f"  [{i}] {activity}\n"
     else:
         available_candidates += "No candidates provided. Work from the draft text."
-        
+
+    # Build adaptive selection criteria based on what's available
+    selection_lines = []
+    if search_results and search_results.get("flights"):
+        selection_lines.append("- Outbound Flight: Balance of price vs convenience")
+        selection_lines.append("- Return Flight: Align with hotel checkout and trip activities")
+    if search_results and search_results.get("hotels"):
+        selection_lines.append("- Hotel: Best value (meets amenities AND price within remainder of budget)")
+    if search_results and search_results.get("activities"):
+        selection_lines.append("- Activities: Spread across trip days, match interests and budget")
+    selection_criteria = "\n".join(selection_lines) if selection_lines else "- Select the best options from the draft."
+
+    # Describe which components are expected
+    components = []
+    if search_results:
+        if search_results.get("flights"):
+            components.append("flights")
+        if search_results.get("hotels"):
+            components.append("hotels/accommodation")
+        if search_results.get("activities"):
+            components.append("activities/restaurants")
+    component_note = ", ".join(components) if components else "all available"
+
     system_prompt = f"""You are the Verifier for Nomad.
 Your job is to cross-reference the proposed itinerary against the hard constraints.
 
@@ -114,16 +137,17 @@ HARD CONSTRAINTS:
 TOP CANDIDATES PROVIDED BY SPECIALIST:
 {available_candidates}
 
+COMPONENTS IN THIS TRIP: {component_note}
+NOTE: Not every trip requires flights. If no flights are provided, the trip is local or the user only needs hotels/activities. Build the itinerary with whatever components are available.
+
 SELECTION CRITERIA:
-- Outbound Flight: Balance of price vs convenience
-- Return Flight: Align with hotel checkout and trip activities
-- Hotel: Best value (meets amenities AND price within remainder of budget)
-- Activities: Spread across trip days, match interests and budget
+{selection_criteria}
 
 OUTPUT REQUIREMENTS:
 - is_valid: true if all constraints met after your selection
 - issues: any violations found
-- itinerary: Complete confirmed trip with all selected details
+- itinerary: Complete confirmed trip with ONLY the relevant components ({component_note}). Omit sections with no data (e.g. skip "flights" if none provided).
+- estimated_cost: Total cost for only the booked components
 - final_message_to_user: Friendly summary of passenger's confirmed trip"""
 
 

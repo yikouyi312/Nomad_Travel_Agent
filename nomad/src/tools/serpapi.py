@@ -198,22 +198,22 @@ class SerpManager:
         if task_id:
             snapshot_result = self._check_snapshot(task_id, turn, engine, cache_key)
             if snapshot_result:
-                print(f"[Snapshot Hit] {engine} (task={task_id}, turn={turn})")
+                print(f"  [Snapshot Hit] {engine} (task={task_id}, turn={turn})")
                 return snapshot_result
 
         # 2. Check local cache
         cached_result = self._check_local_cache(engine, cache_key)
         if cached_result:
-            print(f"[Cache Hit] {engine}")
+            print(f"  [Cache Hit] {engine}")
             return cached_result
 
         # 3. Call real API
-        print(f"[API Call] {engine}...")
+        print(f"  [API Call] {engine}...")
         result = self._call_api(engine, params)
 
         # 4. Save to cache
         self._save_to_cache(engine, cache_key, result)
-        print(f"[Saved] {engine} -> {self.cache_dir}")
+        print(f"  [Saved] {engine} -> {self.cache_dir}")
 
         return result
 
