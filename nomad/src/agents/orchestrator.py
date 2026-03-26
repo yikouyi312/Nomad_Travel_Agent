@@ -104,6 +104,12 @@ def analyze_user_input(
     if task_json and "task_id" in task_json:
         state.task_id = task_json["task_id"]
     
+    # Step 1b: If user_msg is empty, try to extract from task_json.input.content
+    if (not user_msg or not user_msg.strip()) and task_json:
+        input_data = task_json.get("input", {})
+        if isinstance(input_data, dict) and input_data.get("content"):
+            user_msg = input_data["content"] if isinstance(input_data["content"], str) else json.dumps(input_data["content"])
+    
     # Step 2: Process user_msg with ORCHESTRATOR_SYSTEM_PROMPT
     if user_msg and user_msg.strip():
         MAX_CONTEXT_CHARS = 8000
@@ -171,15 +177,16 @@ def update_state_from_analysis(
         if value is not None and hasattr(state.constraints, key):
             current_val = getattr(state.constraints, key)
             
-            # For lists: 如果新值非空且与旧值完全不同，覆盖；否则 merge
+            # For lists: merge unique items
             if isinstance(current_val, list) and isinstance(value, list):
                 if value and set(value).isdisjoint(set(current_val)):
-                    # 用户提供了全新的值，覆盖旧值
                     setattr(state.constraints, key, value)
                 else:
-                    # 部分重叠或追加，做 merge
                     new_list = list(dict.fromkeys(current_val + value))
                     setattr(state.constraints, key, new_list)
+            else:
+                # Scalar types: overwrite
+                setattr(state.constraints, key, value)
     
     # Update delegation plan if provided
     delegation = analysis.get("delegation", "none")
