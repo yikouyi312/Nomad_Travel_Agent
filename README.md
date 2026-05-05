@@ -111,3 +111,29 @@ python nomad/benchmark/src/run_baselines.py
 - This repository is designed around a decomposed architecture: constraint layer, search layer, selection layer, and verification layer.
 - All search results, verification records, and plan outputs are written to `output/`.
 - Make sure your `.env` file contains valid API keys before running.
+
+## Notebook Guides
+
+### `nomad/src/agent_test.ipynb`
+This notebook is a development and debugging playground for the full Nomad agent pipeline.
+It demonstrates how to:
+- reload local modules and keep notebook edits active,
+- run a single benchmark task through the full pipeline (`Orchestrator → Specialist → Verifier`),
+- evaluate the generated plan and print the score summary,
+- restore and display a saved plan from `output/plans/`,
+- run an entire tier of benchmark tasks,
+- evaluate all saved plans,
+- compute bootstrap statistics, including 95% confidence intervals, fractional/binary CSR, per-tier breakdown, and Cohen's d effect sizes,
+- demonstrate the new pipeline explicitly: parsing input, searching candidates, selecting top-K, validating constraints, and negotiating unmet requirements.
+
+### `nomad/src/baseline_experiments.ipynb`
+This notebook compares Nomad against two baseline approaches:
+- **Vanilla LLM**: Orchestrator extracts constraints, then Claude generates a complete itinerary from parametric memory only, with no SerpAPI calls.
+- **RAG-only**: Uses the full search + selection pipeline, but trusts the LLM selector's own `constraints_met` judgment and saves `closest_alternative` when the selector reports failure.
+
+It also includes:
+- shared helper utilities for baseline execution,
+- running all benchmark tasks for each baseline,
+- evaluating baseline plan outputs,
+- printing a comparison table across Vanilla LLM, RAG-only, and Nomad,
+- generating a Tier-1 per-task breakdown with failure analysis and constraint failure types.
