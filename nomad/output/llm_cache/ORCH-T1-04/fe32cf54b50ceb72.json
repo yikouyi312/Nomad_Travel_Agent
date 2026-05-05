@@ -1,0 +1,52 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01QTK522c8jj3xUmduAF8wbR",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01Lk1akvarsXujD9LCrzBPAB",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "destination": "San Diego",
+          "interests": [
+            "kid-friendly",
+            "outdoor activities",
+            "tide pools",
+            "whale watching",
+            "animals"
+          ],
+          "num_travelers": 3,
+          "budget_usd": 150
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": true
+        },
+        "response_to_user": "Great! I'll help you find the best kid-friendly outdoor activities in San Diego for your family. I'll search for tide pools, whale watching tours, and other animal-related activities that are suitable for ages 6 and 9, keeping within your $50 per person budget. Let me find some excellent options for you!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2581,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 235,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

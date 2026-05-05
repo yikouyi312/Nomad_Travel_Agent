@@ -1,0 +1,50 @@
+{
+  "search_metadata": {
+    "id": "69d51b4b01289b7d8a2cb445",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oKo-uurFl7POKsuZtD3ECA/69d51b4b01289b7d8a2cb445.json",
+    "created_at": "2026-04-07 14:57:15 UTC",
+    "processed_at": "2026-04-07 14:57:15 UTC",
+    "google_local_url": "https://www.google.com/search?q=Space+Needle&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/oKo-uurFl7POKsuZtD3ECA/69d51b4b01289b7d8a2cb445.html",
+    "total_time_taken": 5.82
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Space Needle",
+    "location_requested": "Seattle",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 47.62060660333674,
+      "longitude": -122.34927535057066
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 57000,
+      "reviews_original": "(57K)",
+      "description": "Landmark modern spire with city vistas",
+      "lsig": "AB86z5Xrm6_-_zb7mKrA2AwwZPBL",
+      "thumbnail": "https://serpapi.com/searches/69d51b4b01289b7d8a2cb445/images/8yRMjpAAAkhnoq8BHl3Qk3toGHREX-xD1nFeahjdoEg.jpeg",
+      "place_id": "15792901685599310349",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=15792901685599310349&q=Space+Needle",
+      "provider_id": "/m/01k7v7",
+      "gps_coordinates": {
+        "latitude": 47.620506,
+        "longitude": -122.34927
+      },
+      "title": "Space Needle",
+      "type": "Observation deck",
+      "address": "400 Broad St",
+      "hours": "Closed · Opens 9:30 AM"
+    }
+  ]
+}

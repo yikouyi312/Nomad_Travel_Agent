@@ -1,0 +1,278 @@
+{
+  "search_metadata": {
+    "id": "69d52b6ab7942ff9880119ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FMcxExEOLTXxOwfs7WNkVw/69d52b6ab7942ff9880119ac.json",
+    "created_at": "2026-04-07 16:06:02 UTC",
+    "processed_at": "2026-04-07 16:06:02 UTC",
+    "google_local_url": "https://www.google.com/search?q=apr%C3%A8s-ski+restaurant&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/FMcxExEOLTXxOwfs7WNkVw/69d52b6ab7942ff9880119ac.html",
+    "total_time_taken": 1.91
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "après-ski restaurant",
+    "location_requested": "Denver",
+    "location_used": "Denver,Colorado,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 39.73676229957947,
+      "longitude": -105.4083251953125
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 217,
+      "reviews_original": "(217)",
+      "price": "$20–30",
+      "description": "\"Good daily specials, really good food great beer and reliable cocktails\"",
+      "lsig": "AB86z5X9j8JjxW6zzvM5Ql9y7WCL",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/H8gc13K0GiMFr7olKIuLGemWczB-GnjLcen8PvJ48NA.jpeg",
+      "place_id": "17438369268131675",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17438369268131675&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11xcxsgqg3",
+      "gps_coordinates": {
+        "latitude": 39.72709,
+        "longitude": -104.98213
+      },
+      "title": "Après Govnr's Park",
+      "type": "American",
+      "address": "400 E 7th Ave",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.4,
+      "reviews": 998,
+      "reviews_original": "(998)",
+      "price": "$20–30",
+      "description": "\"Fun ski apres atmosphere with beautiful sunset.\"",
+      "lsig": "AB86z5VxmPQJGJ2CB1HGy73nUR3p",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/toRpHIq43n9FhfpOE5EtH451NJwUpWv-K59iRmuoY1A.jpeg",
+      "place_id": "6360571575713867842",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6360571575713867842&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/1tf43fwy",
+      "gps_coordinates": {
+        "latitude": 39.875023,
+        "longitude": -105.77594
+      },
+      "title": "Sunspot Mountaintop Lodge",
+      "type": "American",
+      "address": "Winter Park, CO"
+    },
+    {
+      "position": 3,
+      "rating": 4.0,
+      "reviews": 605,
+      "reviews_original": "(605)",
+      "price": "$20–30",
+      "description": "\"Food is delicious, but service on the terrace is very slow\"",
+      "lsig": "AB86z5XQj2h55Etr262dyjmbjV2u",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/RuaSgLR71PIYjV-Dog_q-U8puW4JivBs0yBSIrmJ0vw.jpeg",
+      "place_id": "13463518116450740891",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13463518116450740891&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11b6_80q6z",
+      "gps_coordinates": {
+        "latitude": 39.480724,
+        "longitude": -106.06706
+      },
+      "title": "TBar",
+      "type": "Bar",
+      "address": "Breckenridge, CO",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.9,
+      "reviews": 16,
+      "reviews_original": "(16)",
+      "price": "$10–20",
+      "description": "\"Perfect place for lunch, après, dinner, or just a cocktail to end the night.\"",
+      "lsig": "AB86z5XYhsG88CUksHds8IzZUHQR",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/dwJa7clUZgeq_KHoJ0SdtH4UO2kL57_hLK2AHnKJXbM.jpeg",
+      "place_id": "430138714470354015",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=430138714470354015&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11yhwy0nd_",
+      "gps_coordinates": {
+        "latitude": 39.475525,
+        "longitude": -106.05041
+      },
+      "title": "The Carter - Lunch & Après-Ski Bar in Breckenridge",
+      "type": "Lunch",
+      "address": "Breckenridge, CO",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 46,
+      "reviews_original": "(46)",
+      "price": "$20–30",
+      "description": "\"Unbeatable views and outstanding food and service.\"",
+      "lsig": "AB86z5XjP_KvU1X5BU6qPKkMinqg",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/NPsN-VNw0wkS7k2zvRBZRkc5m9z-TLMJgYa2UJdyik4.jpeg",
+      "place_id": "11990072844289767978",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11990072844289767978&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11tnwvmhc5",
+      "gps_coordinates": {
+        "latitude": 39.62503,
+        "longitude": -105.875175
+      },
+      "title": "Il Rifugio",
+      "type": "Bistro",
+      "address": "Keystone, CO",
+      "hours": "Closed · Opens 10:30 AM Sat"
+    },
+    {
+      "position": 6,
+      "rating": 4.2,
+      "reviews": 847,
+      "reviews_original": "(847)",
+      "price": "$20–30",
+      "description": "\"Delicious food and great outdoor seating with views of the slopes.\"",
+      "lsig": "AB86z5XvaAJm3eMnhzFSHOy29kkS",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/7ReMVS0mdjweTFlB_JYoLeXEuQdOeP79wZP1BloQZDg.jpeg",
+      "place_id": "17743669027619726370",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17743669027619726370&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11ddx6v3d6",
+      "gps_coordinates": {
+        "latitude": 39.481342,
+        "longitude": -106.068214
+      },
+      "title": "Robbie's Tavern",
+      "type": "American",
+      "address": "Breckenridge, CO",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.4,
+      "reviews": 248,
+      "reviews_original": "(248)",
+      "price": "$10–20",
+      "description": "\"Surprisingly affordable, delicious food and one of the best views in Denver\"",
+      "lsig": "AB86z5ULKJfbpQtFl1Lg695AmmP4",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/Ls4NI8ciED7bGRE6rwDHWgF5lbYb7Qaq4D7P7sh-QFU.jpeg",
+      "place_id": "13274942789184078892",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13274942789184078892&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11qg5nym9w",
+      "gps_coordinates": {
+        "latitude": 39.752464,
+        "longitude": -104.94903
+      },
+      "title": "City Park Tavern",
+      "type": "American",
+      "address": "3181 E 23rd Ave"
+    },
+    {
+      "position": 8,
+      "rating": 4.8,
+      "reviews": 4100,
+      "reviews_original": "(4.1K)",
+      "price": "$20–30",
+      "description": "\"Nadja & Justina provided exceptional service for our lunch at Mount In Pass!\"",
+      "lsig": "AB86z5VWehkNnVQR7yQBWi_sMr9S",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/zqB5mgfWogt2-plknoqNbG3jHIFFEE0gDqDHiHy8jD0.jpeg",
+      "place_id": "14147005355696827782",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14147005355696827782&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11g_rmdtp5",
+      "gps_coordinates": {
+        "latitude": 39.817223,
+        "longitude": -104.75239
+      },
+      "title": "Mountain Pass Sports Bar",
+      "type": "Sports bar",
+      "address": "Aurora, CO",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 9,
+      "rating": 4.4,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"The cocktails were well balanced and the food always hit the spot.\"",
+      "lsig": "AB86z5Xsd55CbF8o6OgHnh8d4it_",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/2eoLXNINjFy2bk-p6MU8Od1zs7dteM-_C8SZoXBkXKY.jpeg",
+      "place_id": "17877676850705957390",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17877676850705957390&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11g6rz0xfk",
+      "gps_coordinates": {
+        "latitude": 39.75321,
+        "longitude": -105.00221
+      },
+      "title": "Ajax Downtown",
+      "type": "American",
+      "address": "1899 16th St Mall"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$10–20",
+      "description": "\"The food was great and the local beer and liquor were top notch.\"",
+      "lsig": "AB86z5XH38bk0KG6J7NshAE2dHB3",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/QfmFmVTeIo6_gkRylGcH7ITipMZ_GmPTss2LaMgykRc.jpeg",
+      "place_id": "17754393911031400977",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17754393911031400977&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/1pzq5bdlc",
+      "gps_coordinates": {
+        "latitude": 39.708504,
+        "longitude": -104.9274
+      },
+      "title": "Inga's Alpine Tavern",
+      "type": "Grill",
+      "address": "5151 Leetsdale Dr",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$20–30",
+      "description": "\"Great atmostphere and location, however the food is very mid and expensive.\"",
+      "lsig": "AB86z5UnGfZ6Q8DNlBlvhlb7fSwj",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/Cp-qYO280R2tw5D1FnsLDgmNdpkqfe1xAYU5wyYXECU.jpeg",
+      "place_id": "2756576882228897061",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2756576882228897061&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11s8zd1gfl",
+      "gps_coordinates": {
+        "latitude": 39.708042,
+        "longitude": -104.98721
+      },
+      "title": "BurnDown",
+      "type": "American",
+      "address": "476 S Broadway",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 12,
+      "rating": 4.7,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "price": "$20–30",
+      "description": "\"They have a lunch and dinner menu also, and an incredibly well-stocked bar.\"",
+      "lsig": "AB86z5Xyhf6EBZUsul5hmUi7gMgu",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/vlnKvTTbfxh1vfrUJdzAc1n5RR-8dngB8h-uFD_OhXk.jpeg",
+      "place_id": "18232856447555255999",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18232856447555255999&q=apr%C3%A8s-ski+restaurant",
+      "provider_id": "/g/11bvtf5351",
+      "gps_coordinates": {
+        "latitude": 39.86795,
+        "longitude": -105.08882
+      },
+      "title": "Aspen Lodge Bar & Grill",
+      "type": "Grill",
+      "address": "Westminster, CO",
+      "hours": "Closed · Opens 12 PM"
+    }
+  ]
+}

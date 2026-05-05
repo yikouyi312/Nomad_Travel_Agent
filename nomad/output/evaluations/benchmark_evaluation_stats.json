@@ -1,0 +1,53 @@
+{
+  "n": 31,
+  "overall": {
+    "mean": 0.9586,
+    "ci_lower": 0.9325,
+    "ci_upper": 0.9773,
+    "std": 0.0637
+  },
+  "csr_fractional": {
+    "mean": 0.9516,
+    "ci_lower": 0.871,
+    "ci_upper": 1.0,
+    "std": 0.1949
+  },
+  "csr_binary_rate": 0.9355,
+  "tool_accuracy": {
+    "mean": 0.9699,
+    "ci_lower": 0.9398,
+    "ci_upper": 0.9935,
+    "std": 0.0809
+  },
+  "interest": {
+    "mean": 0.896,
+    "ci_lower": 0.818,
+    "ci_upper": 0.97,
+    "std": 0.1974
+  },
+  "per_tier": {
+    "T1": {
+      "mean": 0.91,
+      "ci_lower": 0.8175,
+      "ci_upper": 0.975,
+      "std": 0.1061
+    },
+    "T2": {
+      "mean": 0.9627,
+      "ci_lower": 0.9274,
+      "ci_upper": 0.9912,
+      "std": 0.0511
+    },
+    "T3": {
+      "mean": 0.9738,
+      "ci_lower": 0.957,
+      "ci_upper": 0.9879,
+      "std": 0.0335
+    }
+  },
+  "effect_sizes": {
+    "T1_vs_T2": -0.581,
+    "T1_vs_T3": -0.744,
+    "T2_vs_T3": -0.241
+  }
+}

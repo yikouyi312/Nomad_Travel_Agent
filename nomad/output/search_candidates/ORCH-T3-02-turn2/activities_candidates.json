@@ -1,0 +1,2222 @@
+[
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:09:49.336788",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "beachfront hotel",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "title": "OCEAN SANDS BEACH BOUTIQUE INN - 1 ACRE PRIVATE BEACH",
+          "type": "3-star hotel",
+          "rating": 4.4,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "price": "$136",
+          "images": [
+            "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/CkIzjP9fx2sUX2p0Wptb07DpUhZvJXewsfB3IneO0bg.jpeg",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepZgHkEOGbnDFHA9OpZX1xAx3VwQEl4WMVtYWBq-0gLFtSodCC99pnPm1PlYrooW4-2WfVOGPI1rJIX5ZZSoGeAd9VT3LdvZHJuRW7P6DFNo6ZPKOTVTzU1ZNKsFOowV-sMu0sofpNrgNgI=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoMLI8xjfuI7QYIPQh5h2zl2rooRZxF2JDBBcRAU9RB9StWeOn9OjkiOHlxTr-87hKVEknPrkDExswKbkqMpMNRx4LKs4CClq5-yOcZnC013-GqMkN1of-SL9a_veN2QOnxA19lbAoyk3I=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepr4iDfU74XerHfqlKUCEUPi-omjmgAeZjtq7BPVe1iHFhQwjvHno033z9QQa5IMJaOfi2B9rHlTLTZtaAh3DjGn-liS5QKnSM6EGdZ0H8pqEqrFheKkAI2EeWfoA9e8ZnnbDtn=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerX1sc475QRJmhlyQoHcqpNJDrkrl8sVegQEdWk40j3XhuU4ShBlpPbJta2ShoDTs7h6UeYB0WIofJmv_mjnIGmaBlukG0x4jyAFTaSO9-3EEyay9wVgp_7XTskJk0k9tCphMK1gym7Ytst=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo7pcqJFTaYSk9imy0V_rHyYpJzogf25IXXFP_ntKT-T6g6VlUAx79sfAda9T6v2lQcm8ku-BLkTIWxq_1hNmNOkiayn_TVIrxSu4kQjXyqZzm-iZ71fzb1-z_9vsMrdTd7kHfLtSF1w1vT=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "10089545977088654656",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10089545977088654656&q=beachfront+hotel",
+          "provider_id": "/g/1tltn5k1",
+          "gps_coordinates": {
+            "latitude": 29.934731699999997,
+            "longitude": -81.29877019999999
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Gilbert's Resort & Marina",
+          "type": "2-star hotel",
+          "rating": 4.4,
+          "reviews": 7200,
+          "reviews_original": "(7.2K)",
+          "price": "$221",
+          "images": [
+            "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/br7lzJ-EG_iKXcO9AlQfkt6jd1OF6HGWObd0iDIBDHE.jpeg",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqoV0JcnT_0Qm9p1HODl1yODXhZG-F42LCWykBoVREvmEF-O_cxoY5ZAHmhVDA7e0UBl1FfgAzOfq13ILgrOcO3wbN9I4D3Zhzkh1U2ojF_sVfjqxFb9UfqlDdrpj3tjwKLw5mY=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwervTMXkVf4V35yfbXF6RDqlKM5u_Gc5KftLBluUG8G33hVQx7HoednNGOSQERp7KTvDTzwdZZAz6zyZvDHLZe7vaGqXX3lFxV-lAcINFEFUzA0fuz0x6VNqoPwexzqtFhGIN3IGtiYWNhY3=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowsVVmLkrAGyYIzcGMppXVU4a2xpXnqMciKR8bBhLlvvbFWKkOXxPbLXAQ_tHM2NT8hYZ5s6jAgZplveCmH0WWU9vXkvQZtxkuIELrHG-KCO0WS10f1qAzoBqQMmJhwOoEHs2r36G0M4M=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerDAj7xilwqGFp7anghxcf_7OjUpraUN3-zoj0cPwwD7va80_LH3GHhJEgaPhx-Vo3_AQBVnoDeTtIhUKgjrt7w4fQrw9azM-4XK-pfvdB1FXghH3oSMhoGOY3I-qvLGL09Rpw=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqnx0TsiPuPG420H6ydY7rALjO5HJl_nPOBo53aFNTbnf2H5NHUvQrBUGcDzn1Uxde2ZDMH7mfWuzWipiKbyW7gwOG9JK065RnDVU_QDexC7rzvmjhZ-46GrGlQajhvpzPDl8Ov=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "9906905100844263385",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9906905100844263385&q=beachfront+hotel",
+          "provider_id": "/g/1th87xwy",
+          "gps_coordinates": {
+            "latitude": 25.183560999999997,
+            "longitude": -80.38933
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Plunge Beach Resort",
+          "type": "3-star hotel",
+          "rating": 4.3,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$168",
+          "images": [
+            "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/mdSytVQoyPPvLFhO5p_YOqhX6hChOYsclnuDzHKeLdo.jpeg",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerfD37OIhqfvJZBffCeFZMh5NVD6fNYnBJkO8bNkw8D5zYC7KwQoCxC5xF3BAwHfqmRiQ7IJugROuuHGNh3i7qIGoDSs4rcJr-YS9PMkp8iyHcaIt5vSjQHDwX9ZXb-PvjM8_0CWQ=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepG34CIQSt6EARNP8SA_7XwHdYgmQF5bkjcbP2Wdymz9f5DXF0I_4pyCpJH-tx5J0gcDm8Z4HrH0B0BEmADx7p5gq-MiJvOVSaODDApWEZ3tigGeYxLMGmQRJB6wvKb3HW0orxLsA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF__xeWJCsL7qYzDmMbJO667fSjSawE5x4qHqcn3dYsA1oatM4bex-Vsb7ssxWqP5IrU5CQ7ud1ZOorQB0mc6RJOyUfjL5qIIGQvdMVm2Axo0ErbNaGrT-6D1ZH3jJG3blYJrV6kfwbB7DpR8xVXRxdPLTOj4roNMqc5MjeCo6RAoJ9QLKUzH7X_w=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFtENTIPq7vOobTSZmEw7tPMU6wJ3rpWOSGmj-ATHlUBiY5RkhtFij8s-PjplWxySR7u53QbcWrXGssSmgg01PMU1t3HOQV02Kq450LrWSdiZNm-MDCLs1YdcMqPDnSrtD8ZhGtMAguUxXG43x-LUORUrhbviL3wd3_Ti7vRFiCO1EIDFg899RU=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH9I60cnWmm1vNtx8skdOYXnyID026ZXv8-uYhN2LqLOEYxvGjA4VQELpbbb-2i24oCBFVmEX03n5budKjSxVdlXxSiNJx3QQUZIOJqFIQndUpJEL07T5jwPPu145rxNfDzU-5q3stXnagHUgk8XyY2QveQM9ZOmqJBwpMVVPxlVQp9kaQcxYyTQw=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "13341145188172883972",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13341145188172883972&q=beachfront+hotel",
+          "provider_id": "/g/11c58q6bjv",
+          "gps_coordinates": {
+            "latitude": 26.1967006,
+            "longitude": -80.0945524
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 4,
+          "title": "Grand Beach Hotel Surfside",
+          "type": "4-star hotel",
+          "rating": 4.0,
+          "reviews": 2700,
+          "reviews_original": "(2.7K)",
+          "price": "$299",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHc7QOTbSV7QRT_OehLQ5yCfCCsUL3G9H4uMywEqGwsT7sIE55_QR9_YC8ks2eraT04mnGw345H4OkkJvkY2E9jdynyX-STnfq9czinRk-SKQEzpmMADbXg9bcQchJvuuoE45vHv2gpH3a7R38ZjHiGsSFbV90qHx-TYin8SyOKI6Oh3cBTwJ65=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6YhjV2clVxTLfVzuVGBlATZS72VRS_9sv04p7AYE--hJNA7rMdQ2mXWe-2OA1woDHNyTt2mys--jfFeuuH7-gLi5goDKSrPisdeCvqp1jBkmC8R9IMSc00RMCJougqmfYB7Io=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerleF65w7hbDFXOseEDQovns9a8-0CfWp_o4ExbjRHytyvKo2QlpqztiElPVzCDhqPxoVIRN8uyrhlLHpmIrEYQ1LrfwnNZ-rZHSQ79xJoTD9aXQnRamdDaGJ2aDb45xEnuGXn9=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepzkjiYoJf3CiiNUs4ydos_hybCn0UeBhtz_p6Odfh86UmzSwMM9JtPg-5yuO6YKCBj_-wsbQUQXg4DcR75ZnOmXEuSeXuhOCMJlaZQ6kH2lx0oYK1bLRhrPiIQsnXPDqB7rQyXmA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqxGeSF4DRaYm_jcd9-d4Q9ePNAqLMopJeJ7fXOllTRahUc54liOSuSz-vUvl4dLSjmiA5wMTKLA4GT6Wrl0GS-xxrzyy-sBTCOD1yQtsp5aCzlbJ2Raxa1QM9lK6h5wQ05frWJoA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerUFBkdsqAPu1kF4Lyj2ktrXXeshA0KmEUPWJFYFXTVQywD18WWZ5YlBrqhtlieo_BaCe9KNGB4Z4tshGCpitcsoI1PqWxxkq46CEXjD3OGc77r0jnsyMy_PPUEhenqBYRma4V0=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "16691066921658232927",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16691066921658232927&q=beachfront+hotel",
+          "provider_id": "/g/11b7rxmpdz",
+          "gps_coordinates": {
+            "latitude": 25.8844295,
+            "longitude": -80.1222237
+          },
+          "extensions": [
+            "Beach access",
+            "Eco-certified"
+          ]
+        },
+        {
+          "position": 5,
+          "title": "Oceanside Hotel + Suites",
+          "type": "3-star hotel",
+          "rating": 3.7,
+          "reviews": 2500,
+          "reviews_original": "(2.5K)",
+          "price": "$62",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqb9EsZMfUJxVBizCfXvZENY5tqnBRORFqNOekv88i_diYt4SvVzc58-qv_dEt-Bep2txTCZtPZFTcZD-Ztu1wrJK2vgfSE_d06rT6ofdQKaFIEgmznYGuP-XrnOIGtY0BxOgO50A=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerl2ojWfEEjCf0vNVrc5-vMggtR3ZLn2JjrIVQE1EShZHKxfWRhgttX6xZi5E81RwLZQm2nKYIomLf_MR0xaMiU6eyB_T29YLbT4neRrXAuCu_VmCiu4a-RQ3SRSZNdKabj5BMWgA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4UthlAKduBkw-vS6h9MZtvTOP0kqzY3nvMGOwCOUGgetRc4LFjU2FiwxpnW7Gc01Tk8D96-ELuSByqYVTX4OpOzLop2XwDkJ39y5xDYs4FfPGRzRaqNCVp-_Vk4Inl-grubFB=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAlsYPONw32xipHmnvEMjRYT7lSj-OsAi4QQW7_8JJEMDc2-dKDFvgJgwRsZNR5JPkGQdg0jwbQBqkVDSxn1r6rssekmXgxZTKEq_HtdeXCvgTOKGWmnDQUjA8CPaqLRrmVTms=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerodJquUF0ZVjV8yGxtlRPuHNhyNUpwRsdfkKdKHc7rpKmnr0QHSyUmO1pZN9fudO-gjmFtAZ1XxUbpKZyxFg00lZWBvqjIArYCdYMSSUwl5rN59XwbjRsPlAO_cQR2HOn7Kbsficzc0v7H=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEeHJxIsX9-Rwx7CZN3FyEsO_Sus2VqmeVOIh1dv-l0UuXCxnw6lK6Us_CBoCXZOCmugMGgVMsY3zoHi_RV93OV_H5b1vI0pKLWtYD7VuoFqbQPmNh-o1CkvHcUuRNuaIx94MMBaVYaVG69CsjOFW2OJJbgRkrjdj4-XKLFvVTTvWbRuWJA0EofHA=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "13952074537482038539",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13952074537482038539&q=beachfront+hotel",
+          "provider_id": "/g/1q4kl_h6v",
+          "gps_coordinates": {
+            "latitude": 25.8441241,
+            "longitude": -80.1212805
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 6,
+          "title": "Ocean Manor Beach Resort",
+          "type": "3-star hotel",
+          "rating": 4.0,
+          "reviews": 4000,
+          "reviews_original": "(4K)",
+          "price": "$201",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqz7QMSELv4a8rmSWcqcswYqoxBSxCkXgAP5OOYrFLtc1OXErfBAwzc3ODqROTja91WtiwGdmPKfDc3EyAREOn8O36LyQmNq92YZQmZkGmM15Fc7Fo_W346lDmLoza-rGi4lsUJCA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFmJesrhmY08bBwjplW3CIhk7Q9h7gPYn4jRCPB154SNYNiqB_5-0Cdw-u0sr_y8Fqq7EoBsIyViKc8KP6bQ3ScZ24wvRiEipnUJ4Ofpstu8w6Qa1qt5Dp9vU8O9NGAN49tzZexOzyqIaH=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoDUlhWMpP5fyUF7QvFpMzoYGCN626UQ_3c4dh7L3bTSC-uh3ofkiW6pvjuql9DXl7KAz2zPa2Hd6TcsMrhpygDRZdRn-xyVIR7IuEvk8F9XEj2WWq75rX5_biFVRinmZDHPCnMFS8gGbY0=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocH5aO7A6ZRFYHjkCx-dNxUa7PFn_yx6KWK_8h-YCVHyOV3sBea4ILt0cznNHo-niQ94BOz5XSVxaxYYbFSgvS0F895H6ZLxJdJR2QnGQg7Mfc-bywviFuTEDKAR21g2MINNfZJA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7Bi7XLj9bJvU6uvzHnhwrW4fGn_Mw3pDIi-rewN2hrzlnSXwoD9xd-z8dHGXhYfLkKktNp6jQ0IcforVTrQNrJ4kRAqxSZRDLCNL8ZO984fcLdwQmhEQL9qPulT2zWCufhQDBp3U4cNpD=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepIdcfXef_fgkSGRS_pWymRJz7FZCCMu2XkNVU8PgRPIhTkQ8se3UNlx-OAHb5U2U56Gmtinkcj2x13sH1_Zd4mxUbZ83mv5ug-2sKetxZ66zs16r5pTlZ-4l86DvKZmRx5_aB7BZvbNRZA=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "6437827570326698480",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6437827570326698480&q=beachfront+hotel",
+          "provider_id": "/g/1vljh3vk",
+          "gps_coordinates": {
+            "latitude": 26.1778897,
+            "longitude": -80.0972453
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 7,
+          "title": "Hampton Inn Key Largo, FL",
+          "type": "3-star hotel",
+          "rating": 4.3,
+          "reviews": 2100,
+          "reviews_original": "(2.1K)",
+          "price": "$141",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRrimqCp1xQhMHeDCsa4JKqATqQYbjZvyGKmd6sSxqF8F_JXtdtuJkr_7Fe51CfxJzmb8WWv216nrmyuxs8AgheSCc8EckjFzHGfOfI9d3n9Bcilkc-4Q-KEcgCEwDU3hhHx0y=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcyTnAXnFcWam6ILZOaeYb1tvvVCMaCG6EGH2r9diezqDh-zmSIDbpGLl15NHYFc9bdKE19tq_lqnFQRWC3AnMe5mr0x5hbpkF8wZcKfeYMgEkSIyjVSXFqpGj-Q3Z_c8o5mwE=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep4iYBWKB3A6BiKiCYB--9K5ehyS2X--UkTc70zQyczOJ-ddhzuUGcyd6CCFp2e41rn5vOdPXgaSi6IfY8-F8HcjjtIvNjFks6liT-fSTM-gtM6ztQhl3_1ojh38QSejnVW6gAq=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAVd_70R_m1oUHGi91im7Fm9CTOFzBEZ4ZXMrFZqUi360dp4gQ76KZG4f-yWYOOEOgkAehBawKdvKT5FYjMLiwBNzL8fKwSx9_z3_HkWCpu__SXT-QabDNpTqedmbGeH8A5Is=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep1DliOnuk5KzeskyddeeiGTZ8diy3GFQEwkLFj9Y38Wg9SE4vKxQYnF9Evhv8UMu0JzBwL-QjLidO7ANOTEghgkEfG1izvVVCLWpZebGpF3J_Oy2GwHmaE_ymj_cbk5QqzatIL=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqctNOnRA2IVyIOeOQmJ-VR5Ji9T1WemeXOEI6MH97Nebl3KfEVDsQnsWS_DwK9-iVu3f7XhPi_wBQWqrbxu08p4eTvybb-sasupd_7JnIrnzRaaWFm9MCSWZG0vxjcdcVN18CU1A=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "11899447482400599957",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11899447482400599957&q=beachfront+hotel",
+          "provider_id": "/g/1tglzsf2",
+          "gps_coordinates": {
+            "latitude": 25.1220854,
+            "longitude": -80.4171921
+          },
+          "extensions": [
+            "Beach access",
+            "Eco-certified"
+          ]
+        },
+        {
+          "position": 8,
+          "title": "Sherry Frontenac Oceanfront Hotel",
+          "type": "3-star hotel",
+          "rating": 3.1,
+          "reviews": 1600,
+          "reviews_original": "(1.6K)",
+          "price": "$112",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweofpVMTVWor0Sdi0gbCNoNrcpPEefSa2Hyjc4p-kT2m9714mBW5pqWN_d0ThWIgYTmQBL_CMcOZy6Y3jGLeEB-Ygd9bECW8ijLvhGjBIMyz_v5l13ylWxVYNx_iJuCwGY2IBFkL=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq_JDAreyulbHfw_12HfBkr1vcLBIrrL6wwr6P_RfGsM4Ko5BBOM9bhf5qdtwn2JAjIg9T8c-EzKzD-mW3mUb2haKLy3v7L3ONlVGIIHHCEH5AFLARgH8JaoLLoHyJAvozUvtMb=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerbpyTD6bjMkZh7oiz0rEBNnjP197F4JU3xoixjrYONw7S5kuAVtHutmX_UDpgT3PHzrI81hxADbOWDrXVZ6aBHy597OnC8OP1YvcOgl4C6FaUPGI_crVPWTnuhSbZBLEmYb0zEEg=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRerY9CRcrYf93FWlk-u9eNFPpV8uhbjqMJSkq8VTFEsCE1kQkPeR6hrEyhfMn4aF9S73-wYamuvgkBjlsjp8zuDffIvpkif4L56mdfGFpRA_RRsUl0YlIatj7Nhyt1azr4FlBwGQu422n=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEx3KzjhmkKiVZQrKhUHN7k7R3hk0LHmIEWC5NfOo6-Eib86hbC_XNDM4SFEKCnb96EssK3s7jQL5nzt0b2kg19ONYNBPML-EZnniOxTKxQwXy43lF9Ubyp__Niq-CWojnoUWuRm0xBuyTFWZmBZNgoJDWV5kW7LBNQgeZXsVvodua0eRBUxfpJ=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEgjnTkxBjlRq4p2YWlPgybpbg4WEeQFXDuB5OANqXmRDqCYTZtVfmc1EUI4G_EdyPi5UdVcNEFSsd4mrVQs48DDTufcpywEDYqf2CHbXmHo2-jPxcNMek8l3XGvDeRdkpmFUwEdnx4Gggh0f9SbdjibIJRxwm59YkExhAxYE6Nv3ZTrakdsYIx=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "11283809343273885853",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11283809343273885853&q=beachfront+hotel",
+          "provider_id": "/g/1tk6wq5m",
+          "gps_coordinates": {
+            "latitude": 25.8492902,
+            "longitude": -80.1200515
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 9,
+          "title": "Hilton Grand Vacations Club McAlpin Ocean Plaza Miami",
+          "type": "4-star hotel",
+          "rating": 4.5,
+          "reviews": 471,
+          "reviews_original": "(471)",
+          "price": "$269",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweobcF-EGewKeK5L2WYorAhQrDuOYYHxeHOGKoUs5kP_bWV8bXuqih5-iNEpgZ9bApQ6yhFLhBweqYCaADlU-YN4-8j_OMaYQxYvfbPvI4NOcb3ObrBNU7lUv5J7BQEv77X-Bi-g=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqY5JW9867q0uksz7jP8P-MvMrq1i6t-U5SxBWMe0hj7ZenmCtGtCtAEX5FLfBLqk50wTv5_7wZUxDVhJ08yYZ8lGLUpTI3bG4K5kTARcv6WmrRTBsyN88bzBeRefYUfztfKMZ6=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerNR9_gMN0qaWyYa6e-Wb9naFe2xLr0GaOfOfXyzBo0EnHUsqCY_S-Dg6TdpkybTK5Cfeh0sM1umLpYLy8Nkv0l5feJknx7XxqVy6mBi3t1wzZSNA7liwBXbOGIjOenUlagpCRc=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepz4PfIE10Vmi7vbAvrHTpE1cPFFyHkWjDB8ivLu81Dq3Y0cMPhWf5B4Q2pqdJ64_ti4EMj1eL7kjrtmMCw5lPEhXflRu1qnQYXJO5k9Sy7WVGOwMMYE0XaH7WhkOLmQJrNBQmH=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqgsrzS1wVpCVXVxxKTklF0Cld0S6-RQxid3R7PbUKZ42h5Ew9j5k2z9EOH9EFxecAunD5zcG7kjBoiUlblFR_dxSa-Xrrbi7D2mLe0dpmO13RAi0tfJJ80Ur35gr72TpZCzh88=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweooB74IVI5pnROXgaxaToHnZ3qliowHMQ2fhVVGcWFiSX7yxpiJwH1JQbaY-era8PEY2dt9pc-9pBb6_I49xveb0uVRSjQSQauod5xqgM5_uHmZQv7avxAlkLIm1wJ5XwKZwgg5=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "9357216602811675757",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9357216602811675757&q=beachfront+hotel",
+          "provider_id": "/g/1tdkn0gz",
+          "gps_coordinates": {
+            "latitude": 25.786290299999997,
+            "longitude": -80.1299086
+          },
+          "extensions": [
+            "Beach access",
+            "Free Wi-Fi"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:09:49.360473",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "ocean views",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 5.0,
+          "reviews": 73,
+          "reviews_original": "(73)",
+          "description": "\"10/10 highly recommend!\"",
+          "lsig": "AB86z5VurugO4QMd-P_t9YrlT-zZ",
+          "links": {
+            "website": "https://www.oceanviewsonthebay.com/"
+          },
+          "place_id": "11019445766554591641",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11019445766554591641&q=ocean+views",
+          "title": "Ocean Views On The Bay LLC",
+          "type": "Boat rental service",
+          "phone": "(786) 202-4496",
+          "hours": "Open · Closes 11 PM"
+        },
+        {
+          "position": 2,
+          "lsig": "AB86z5UgR38MzykAm0cTEw6oniOz",
+          "links": {
+            "website": "https://usa.accomoly.com/listings/185207?googleVR=1&utm_source=google&utm_medium=vacation_rentals"
+          },
+          "place_id": "12355922781617065950",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12355922781617065950&q=ocean+views",
+          "provider_id": "/g/11n9c97119",
+          "gps_coordinates": {
+            "latitude": 25.761616,
+            "longitude": -80.19037
+          },
+          "title": "Luxury Sky Villa w/ City & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 3,
+          "lsig": "AB86z5X52uQN6koIn6mM8WZp3GgZ",
+          "place_id": "16067831216327525918",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16067831216327525918&q=ocean+views",
+          "provider_id": "/g/11n9c8nh_v",
+          "gps_coordinates": {
+            "latitude": 25.762,
+            "longitude": -80.19
+          },
+          "title": "Luxury Sky Villa w/ City & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 4,
+          "lsig": "AB86z5UpydcTKg-bP_u00SRH2m77",
+          "links": {
+            "website": "https://www.casamundo.de/rental/225aed310d827eed?adword=cm_gvf/DE/s/ct=s/n-a/n-a/5460aeac1d0f1&utm_source=gvf"
+          },
+          "place_id": "16832822230990745079",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16832822230990745079&q=ocean+views",
+          "provider_id": "/g/11n9dmk87l",
+          "gps_coordinates": {
+            "latitude": 25.792,
+            "longitude": -80.187
+          },
+          "title": "Bayfront Miami Condo w/ Resort Perks & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 5,
+          "lsig": "AB86z5UwbnP-3eIMKCSIixF80GGl",
+          "links": {
+            "website": "https://www.expedia.com/Hotel.h30667820.Hotel-Information?mdpcid=META.HPA.WEB-ORGANIC.VR"
+          },
+          "place_id": "18151498057131699098",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=18151498057131699098&q=ocean+views",
+          "provider_id": "/g/11n9wczgpg",
+          "gps_coordinates": {
+            "latitude": 25.771563,
+            "longitude": -80.133316
+          },
+          "title": "Incredible Ocean Views! Luxury 2BD in Heart of South Beach & Steps to the Sand!",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 6,
+          "lsig": "AB86z5XOegFvIf7eSJdPcR-WYcpG",
+          "links": {
+            "website": "https://www.decolar.com/hoteis/h-4775878"
+          },
+          "place_id": "16260228951009620715",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16260228951009620715&q=ocean+views",
+          "provider_id": "/g/11z1dg3zfr",
+          "gps_coordinates": {
+            "latitude": 25.791346,
+            "longitude": -80.18621
+          },
+          "title": "Bayfront Miami Condo w/ Resort Perks & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 7,
+          "lsig": "AB86z5UtOlflZmkwhiF6qMSmrfyR",
+          "links": {
+            "website": "https://br.bluepillow.com/search/6335f579314064d8ba35ac1c?dest=bkng&cat=House&lat=25.77798&lng=-80.19009&language=pt"
+          },
+          "place_id": "6132824868950585849",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6132824868950585849&q=ocean+views",
+          "provider_id": "/g/11z142p_jm",
+          "gps_coordinates": {
+            "latitude": 25.778038,
+            "longitude": -80.19009
+          },
+          "title": "Luxury 2 BDR 2 Bath• Downtown • Unique Ocean Views - Two-Bedroom Apartment",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 8,
+          "lsig": "AB86z5XjuyZq59nvbQOJIrC2GpHi",
+          "links": {
+            "website": "https://br.bluepillow.com/search/5df4f462e24da45b685cc08f?dest=bkng&cat=House&lat=25.0192&lng=-80.50269&language=pt"
+          },
+          "place_id": "986945000258408998",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=986945000258408998&q=ocean+views",
+          "provider_id": "/g/11z21hlyd0",
+          "gps_coordinates": {
+            "latitude": 25.019236,
+            "longitude": -80.50271
+          },
+          "title": "LICENSED MGR - MODERN OCEANFRONT - OCEAN VIEWS CONDO! BAR and BEACH RESORT! - Holiday Home",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 9,
+          "lsig": "AB86z5XsZtLz9dcvuzJvKbP6iS0h",
+          "place_id": "10567282462615232010",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10567282462615232010&q=ocean+views",
+          "provider_id": "/g/11z142x8yv",
+          "gps_coordinates": {
+            "latitude": 25.7995,
+            "longitude": -80.12691
+          },
+          "title": "1 Hotel Homes. Direct ocean views from every room. In South Beach. Miami Beach",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 10,
+          "lsig": "AB86z5VczKjbdRkbFfpQkY_pC6Gf",
+          "place_id": "6400006030417160160",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6400006030417160160&q=ocean+views",
+          "provider_id": "/g/11z144pznb",
+          "gps_coordinates": {
+            "latitude": 25.780228,
+            "longitude": -80.19108
+          },
+          "title": "Ocean Views, Downtown, Pool, and Family fun!",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 11,
+          "rating": 3.6,
+          "reviews": 167,
+          "reviews_original": "(167)",
+          "lsig": "AB86z5VgEuZTEc0Kg-lCSUh1cJzV",
+          "service_options": {
+            "swimming_pool": true,
+            "on_site_parking": true,
+            "elevator": true
+          },
+          "links": {
+            "directions": "https://www.google.com/maps/dir//HOME+OceanView+Sunny+Isles,+19380+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9acc277960ec9:0xe01747e68f11a419?sa=X&ved=2ahUKEwjQiPzAgNyTAxX8RjABHf-vJzcQ48ADegQIIRAA&hl=en&gl=us"
+          },
+          "place_id": "16147454044528550937",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16147454044528550937&q=ocean+views",
+          "provider_id": "/g/11btv663_h",
+          "gps_coordinates": {
+            "latitude": 25.954926,
+            "longitude": -80.123276
+          },
+          "title": "HOME OceanView Sunny Isles",
+          "type": "Condominium complex",
+          "phone": "(786) 505-9657",
+          "address": "Sunny Isles Beach, FL",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 12,
+          "lsig": "AB86z5X-ro8mfUZoBK2h92Fw8QVe",
+          "links": {
+            "website": "https://whimstay.com/detail/Breathtaking-Bay-Views-and-Stylish-Amenities-Chic-Miami-Retreat/100787676?isgoogle=true"
+          },
+          "place_id": "16562891031544392371",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16562891031544392371&q=ocean+views",
+          "provider_id": "/g/11z21h8f8v",
+          "gps_coordinates": {
+            "latitude": 25.761847,
+            "longitude": -80.19022
+          },
+          "title": "Stylish Brickell Stay with Ocean Views & Pool",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 13,
+          "lsig": "AB86z5UmHIV5Xgl3uECWC3XC_Rnf",
+          "place_id": "9693205256412655323",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9693205256412655323&q=ocean+views",
+          "provider_id": "/g/11zksyjpz_",
+          "gps_coordinates": {
+            "latitude": 25.776344,
+            "longitude": -80.18995
+          },
+          "title": "Amazing Bay and Ocean views! Pool + Gym",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 14,
+          "lsig": "AB86z5XSfWrqJimu0GKWqKu0DA3e",
+          "place_id": "1967006258232962463",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1967006258232962463&q=ocean+views",
+          "provider_id": "/g/11z21hg2kc",
+          "gps_coordinates": {
+            "latitude": 25.768663,
+            "longitude": -80.18873
+          },
+          "title": "Luxury Brickell Condo with Balcony and Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 15,
+          "lsig": "AB86z5Vf9mV2M3ftyh32XzB7dd0C",
+          "links": {
+            "website": "https://booking.myangelhost.com/properties/686832cdffacb10012ddd73c"
+          },
+          "place_id": "6251003288100179498",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6251003288100179498&q=ocean+views",
+          "provider_id": "/g/11n9c9flkz",
+          "gps_coordinates": {
+            "latitude": 25.78023,
+            "longitude": -80.19108
+          },
+          "title": "Ocean Views | Pool & Gym, Vibrant Central Access",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 16,
+          "lsig": "AB86z5WB8n-KNFkNtRBmOZD2Am_e",
+          "links": {
+            "website": "https://br.bluepillow.com/search/61ef12d9113b0ba9fb966d9b/796534307?dest=bkng&cat=Apartment&lat=25.78299&lng=-80.13042&language=pt"
+          },
+          "place_id": "16936023191347569193",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16936023191347569193&q=ocean+views",
+          "provider_id": "/g/11n9c9t0m8",
+          "gps_coordinates": {
+            "latitude": 25.782995,
+            "longitude": -80.130455
+          },
+          "title": "Sobe Ocean Views of South Beach - Studio with Ocean View",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 17,
+          "lsig": "AB86z5WvmxEE8mZzCJbgCnwi1pvD",
+          "links": {
+            "website": "https://br.bluepillow.com/search/62df115bba454484938a19b0?dest=bkng&cat=House&lat=25.76219&lng=-80.18948&language=pt"
+          },
+          "place_id": "10262185828973568063",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10262185828973568063&q=ocean+views",
+          "provider_id": "/g/11z21jx4xj",
+          "gps_coordinates": {
+            "latitude": 25.76219,
+            "longitude": -80.18948
+          },
+          "title": "Unforgettable Ocean Views 3BR with POOL GYM SPA - Three-Bedroom Apartment",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 18,
+          "lsig": "AB86z5Xsq09bRFJRK1xKRZKYkRmf",
+          "place_id": "6635155511350795060",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6635155511350795060&q=ocean+views",
+          "provider_id": "/g/11z2c8ykvt",
+          "gps_coordinates": {
+            "latitude": 25.780205,
+            "longitude": -80.19158
+          },
+          "title": "Stylish Apartments with Partial Ocean Views in Downtown",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 19,
+          "lsig": "AB86z5UjKizJii_bHVclHxDECgyz",
+          "links": {
+            "website": "https://br.bluepillow.com/search/65de300253168d605d3e6c93?dest=ago&cat=Apartment&lat=25.77903&lng=-80.18943&language=pt"
+          },
+          "place_id": "14811876571911101075",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14811876571911101075&q=ocean+views",
+          "provider_id": "/g/11n9cb_hwp",
+          "gps_coordinates": {
+            "latitude": 25.77903,
+            "longitude": -80.18943
+          },
+          "title": "Luxury Apt with Amazing Ocean Views All of Miami",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 20,
+          "rating": 3.3,
+          "reviews": 9,
+          "reviews_original": "(9)",
+          "price": "$10–20",
+          "description": "\"View is ok if u step outside the restaurant on to the pool area.\"",
+          "lsig": "AB86z5WZAambPJqn4vwbjzZqafpg",
+          "links": {
+            "website": "https://www.marriott.com/en-us/hotels/mianm-residence-inn-miami-sunny-isles-beach/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+            "directions": "https://www.google.com/maps/dir//Ocean+View+on+Nine,+17700+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ada9db052dbd:0x8a738aeb077d79e3?sa=X&ved=2ahUKEwjQiPzAgNyTAxX8RjABHf-vJzcQ48ADegQIIBAA&hl=en&gl=us"
+          },
+          "place_id": "9976470341603391971",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9976470341603391971&q=ocean+views",
+          "provider_id": "/g/11gm7kcs3t",
+          "gps_coordinates": {
+            "latitude": 25.939781,
+            "longitude": -80.12214
+          },
+          "title": "Ocean View on Nine",
+          "type": "Restaurant",
+          "phone": "(386) 496-8311",
+          "address": "Sunny Isles Beach, FL",
+          "hours": "Closed · Opens 12 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:09:50.190837",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "snorkeling",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.9,
+          "reviews": 2500,
+          "reviews_original": "(2.5K)",
+          "description": "\"We snorkeled at two different spots, and the water was crystal clear.\"",
+          "lsig": "AB86z5VQYf8CVareaWGiuEt3VjIZ",
+          "links": {
+            "website": "https://silentworld.com/snorkeling/",
+            "directions": "https://www.google.com/maps/dir//Silent+World+Snorkeling+and+dive+Center,+51+Garden+Cove+Dr,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d7661c82bb2bb7:0x740b023a75ce03f0?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIIhAA&hl=en&gl=us"
+          },
+          "place_id": "8361779583251252208",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8361779583251252208&q=snorkeling",
+          "provider_id": "/g/1tgx2tmy",
+          "gps_coordinates": {
+            "latitude": 25.170706,
+            "longitude": -80.36833
+          },
+          "title": "Silent World Snorkeling and dive Center",
+          "type": "Tour operator",
+          "years_in_business": "35+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-3252",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 661,
+          "reviews_original": "(661)",
+          "description": "\"We saw tons of fish and coral including a lionfish and glimpse of bullshark.\"",
+          "lsig": "AB86z5V4iMi5IcgHmVxzR_g86pxn",
+          "links": {
+            "website": "https://diversparadise.miami/",
+            "directions": "https://www.google.com/maps/dir//Diver's+Paradise+Miami+%7C+Scuba+Diving+%26+Snorkeling,+4000+Crandon+Blvd,+Key+Biscayne,+FL+33149/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b59b0f5159c9:0xbcb472d38aea7c3f?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKxAA&hl=en&gl=us"
+          },
+          "place_id": "13597619427832659007",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13597619427832659007&q=snorkeling",
+          "provider_id": "/g/1td18n64",
+          "gps_coordinates": {
+            "latitude": 25.727015,
+            "longitude": -80.15643
+          },
+          "title": "Diver's Paradise Miami | Scuba Diving & Snorkeling",
+          "type": "SCUBA tour agency",
+          "years_in_business": "40+ years in business",
+          "address": "Key Biscayne, FL",
+          "phone": "(305) 361-3483",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.8,
+          "reviews": 815,
+          "reviews_original": "(815)",
+          "description": "\"Snorkeling at 4 spots (3 stops) including snorkel over the Christ statue.\"",
+          "lsig": "AB86z5W9seBHBilbVD-0W2SzVRzD",
+          "links": {
+            "website": "https://www.pcwatersports.com/",
+            "directions": "https://www.google.com/maps/dir//Pirates+Cove+Watersports,+103800+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d7688d916a0919:0x1ac68f341eae6278?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILBAA&hl=en&gl=us"
+          },
+          "place_id": "1929386944390652536",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1929386944390652536&q=snorkeling",
+          "provider_id": "/g/1tf24wmf",
+          "gps_coordinates": {
+            "latitude": 25.141453,
+            "longitude": -80.400314
+          },
+          "title": "Pirates Cove Watersports",
+          "type": "Dive shop",
+          "address": "Key Largo, FL",
+          "phone": "(305) 453-9881",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 303,
+          "reviews_original": "(303)",
+          "description": "\"We were able to snorkel at 3 sites: the mangroves, a reef, and a shipwreck.\"",
+          "lsig": "AB86z5XDJfeqSbGBjSxv14EdGrvP",
+          "links": {
+            "website": "http://www.biscaynenationalparkinstitute.org/?utm_source=gmb+listing&utm_medium=organic",
+            "directions": "https://www.google.com/maps/dir//Biscayne+National+Park+Institute+at+Coconut+Grove,+3400+Pan+American+Dr,+Miami,+FL+33133/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b75bca66f81b:0xdd80cec566d8d69a?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMxAA&hl=en&gl=us"
+          },
+          "place_id": "15960984426630403738",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15960984426630403738&q=snorkeling",
+          "provider_id": "/g/11k4y9ctc1",
+          "gps_coordinates": {
+            "latitude": 25.726933,
+            "longitude": -80.235596
+          },
+          "title": "Biscayne National Park Institute at Coconut Grove",
+          "type": "Tourist attraction",
+          "address": "Miami, FL",
+          "phone": "(786) 465-4058",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.9,
+          "reviews": 7800,
+          "reviews_original": "(7.8K)",
+          "description": "\"The snorkeling was fun with many fish and coral easily visible.\"",
+          "lsig": "AB86z5V0V-fNsW0yRg2QIidx86R_",
+          "links": {
+            "website": "https://www.biscaynenationalparkinstitute.org/?utm_source=gmb+listing&utm_medium=organic",
+            "directions": "https://www.google.com/maps/dir//Biscayne+National+Park+Institute,+9700+SW+328th+St,+Homestead,+FL+33033/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9dbb853e92c63:0x50d9c43151adbc67?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJRAA&hl=en&gl=us"
+          },
+          "place_id": "5825903309083229287",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5825903309083229287&q=snorkeling",
+          "provider_id": "/g/11cjpcf5td",
+          "gps_coordinates": {
+            "latitude": 25.464014,
+            "longitude": -80.33462
+          },
+          "title": "Biscayne National Park Institute",
+          "type": "Boat tour agency",
+          "years_in_business": "7+ years in business",
+          "address": "Homestead, FL",
+          "phone": "(786) 335-3644",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.9,
+          "reviews": 1000,
+          "reviews_original": "(1K)",
+          "description": "\"We went snorkeling, and it was an unforgettable adventure.\"",
+          "lsig": "AB86z5WsqLWEJav6ssQil72mNfpm",
+          "links": {
+            "website": "http://www.sundancewatersports.org/",
+            "directions": "https://www.google.com/maps/dir//Sundance+Watersports,+77522+Overseas+Hwy,+Islamorada,+FL+33036/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d0d19b44f52bd5:0x590bf8046e228ce6?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQINBAA&hl=en&gl=us"
+          },
+          "place_id": "6416494792030719206",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6416494792030719206&q=snorkeling",
+          "provider_id": "/g/1th7npnv",
+          "gps_coordinates": {
+            "latitude": 24.882633,
+            "longitude": -80.690796
+          },
+          "title": "Sundance Watersports",
+          "type": "Tour operator",
+          "years_in_business": "7+ years in business",
+          "address": "Islamorada, FL",
+          "phone": "(305) 743-0145",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.8,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"You can see sea turtles, sharks, barracudas, groupers, and other reef fish.\"",
+          "lsig": "AB86z5W12tT6FgsgGaRtSYUGALFj",
+          "links": {
+            "website": "https://www.seadwellers.com/",
+            "directions": "https://www.google.com/maps/dir//Sea+Dwellers+Dive+Center+of+Key+Largo,+105+Laguna+Ave+E5,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c15eba7a2b:0xa3ec554190296523?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMhAA&hl=en&gl=us"
+          },
+          "place_id": "11811909662765835555",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11811909662765835555&q=snorkeling",
+          "provider_id": "/g/1ttpc2ps",
+          "gps_coordinates": {
+            "latitude": 25.094263,
+            "longitude": -80.43841
+          },
+          "title": "Sea Dwellers Dive Center of Key Largo",
+          "type": "SCUBA tour agency",
+          "years_in_business": "50+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-3640",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 5.0,
+          "reviews": 285,
+          "reviews_original": "(285)",
+          "description": "\"We were able to see incredible coral and sea life while snorkeling.\"",
+          "lsig": "AB86z5Wq9PUiKxzByAwWT8P89HAA",
+          "links": {
+            "website": "https://www.keylargowaterfun.com/",
+            "directions": "https://www.google.com/maps/dir//Key+Largo+Water+Fun,+112+La+Paloma+Rd,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769be20880d85:0x3649b96aa988a435?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMRAA&hl=en&gl=us"
+          },
+          "place_id": "3911861619109962805",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3911861619109962805&q=snorkeling",
+          "provider_id": "/g/11lgfqw13z",
+          "gps_coordinates": {
+            "latitude": 25.115362,
+            "longitude": -80.411995
+          },
+          "title": "Key Largo Water Fun",
+          "type": "Boat tour agency",
+          "years_in_business": "5+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 582-4043",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.5,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Our 7 year old was even able to snorkel with us in open water.\"",
+          "lsig": "AB86z5UKwTVWCPjGAO_1-pGiHwr9",
+          "links": {
+            "website": "http://www.snorkelingisfun.com/",
+            "directions": "https://www.google.com/maps/dir//Sundiver+Snorkel+Tours,+102840+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d768f6341e273d:0x1dcc05548d71e9e3?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKRAA&hl=en&gl=us"
+          },
+          "place_id": "2147096983057328611",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2147096983057328611&q=snorkeling",
+          "provider_id": "/g/1tlwgfgj",
+          "gps_coordinates": {
+            "latitude": 25.129871,
+            "longitude": -80.40969
+          },
+          "title": "Sundiver Snorkel Tours",
+          "type": "Boat tour agency",
+          "years_in_business": "10+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-2220"
+        },
+        {
+          "position": 10,
+          "rating": 4.9,
+          "reviews": 106,
+          "reviews_original": "(106)",
+          "description": "\"The reef was beautiful, and my family had the experience of a lifetime.\"",
+          "lsig": "AB86z5W41fJ-pqbNAcezapj9nL01",
+          "links": {
+            "website": "https://snorkelthekeys.com/",
+            "directions": "https://www.google.com/maps/dir//Snorkel+the+Keys,+99701+Overseas+Hwy+Slip+76,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769dab0b9166f:0xb32a9eccf623528c?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMBAA&hl=en&gl=us"
+          },
+          "place_id": "12910305884950975116",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12910305884950975116&q=snorkeling",
+          "provider_id": "/g/11j122t8xd",
+          "gps_coordinates": {
+            "latitude": 25.095442,
+            "longitude": -80.43624
+          },
+          "title": "Snorkel the Keys",
+          "type": "Boat tour agency",
+          "years_in_business": "5+ years in business",
+          "address": "Key Largo, FL",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 11000,
+          "reviews_original": "(11K)",
+          "description": "\"Crystal clear water to see coral and do snorkeling.\"",
+          "lsig": "AB86z5WqmS3mKa26lBiK6m3IdHQ_",
+          "links": {
+            "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+            "directions": "https://www.google.com/maps/dir//John+Pennekamp+Coral+Reef+State+Park,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d765d7c9d4f8ad:0xe8f62495ebc427a7?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILhAA&hl=en&gl=us"
+          },
+          "place_id": "16786644887394330535",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16786644887394330535&q=snorkeling",
+          "provider_id": "/m/09j528",
+          "gps_coordinates": {
+            "latitude": 25.156654,
+            "longitude": -80.37541
+          },
+          "title": "John Pennekamp Coral Reef State Park",
+          "type": "State park",
+          "address": "Key Largo, FL",
+          "phone": "(305) 676-3777",
+          "hours": "Open now"
+        },
+        {
+          "position": 12,
+          "rating": 5.0,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"The snorkeling was a blast: calm, clear water made it perfect.\"",
+          "lsig": "AB86z5V_QyHrFjON4NKl8le_VJS3",
+          "links": {
+            "website": "https://www.islandergirltours.com/",
+            "directions": "https://www.google.com/maps/dir//Islander+Girl+Snorkel+%26+Tours,+90791+Old+Hwy+%231,+Tavernier,+FL+33070/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d739262bd127a9:0x9a1a2e145f9d1c55?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKhAA&hl=en&gl=us"
+          },
+          "place_id": "11104238496273734741",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11104238496273734741&q=snorkeling",
+          "provider_id": "/g/11h6p_m8mq",
+          "gps_coordinates": {
+            "latitude": 25.002317,
+            "longitude": -80.531395
+          },
+          "title": "Islander Girl Snorkel & Tours",
+          "type": "Boat tour agency",
+          "years_in_business": "7+ years in business",
+          "address": "Tavernier, FL",
+          "phone": "(305) 712-0032",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 112,
+          "reviews_original": "(112)",
+          "description": "\"Great experience, cool tour, great reefing\"",
+          "lsig": "AB86z5XfmBoffdVkzHm23RwQWprO",
+          "links": {
+            "website": "http://www.snorkelingisfun.com/",
+            "directions": "https://www.google.com/maps/dir//Sundiver+Boat+Dock,+99751+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c08d62ffc1:0x9be99da4d00baf55?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJBAA&hl=en&gl=us"
+          },
+          "place_id": "11234684076643037013",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11234684076643037013&q=snorkeling",
+          "provider_id": "/g/1td4qhhs",
+          "gps_coordinates": {
+            "latitude": 25.096308,
+            "longitude": -80.437874
+          },
+          "title": "Sundiver Boat Dock",
+          "type": "Boat tour agency",
+          "years_in_business": "10+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-2220",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 14,
+          "rating": 4.6,
+          "reviews": 939,
+          "reviews_original": "(939)",
+          "description": "\"Huge selection of diving and snorkeling gear in all price ranges.\"",
+          "lsig": "AB86z5WRNYjGJmtbx7RtazT75ONp",
+          "links": {
+            "website": "http://www.diversdirect.com/",
+            "directions": "https://www.google.com/maps/dir//Divers+Direct,+99621+Overseas+Highway,+US-1,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c287e6e291:0xf90ea7de20cb68ea?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKBAA&hl=en&gl=us"
+          },
+          "place_id": "17946466137592785130",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17946466137592785130&q=snorkeling",
+          "provider_id": "/g/1tcxw0jz",
+          "gps_coordinates": {
+            "latitude": 25.094563,
+            "longitude": -80.439095
+          },
+          "title": "Divers Direct",
+          "type": "Dive shop",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-0118",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 15,
+          "rating": 5.0,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "description": "\"We had a great time snorkeling in Key Largo and saw several sea turtles.\"",
+          "lsig": "AB86z5XWqc381uSK3Pwvz2bv5hAQ",
+          "links": {
+            "website": "https://keylargosnorkeling.com/"
+          },
+          "place_id": "4819174484880985141",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4819174484880985141&q=snorkeling",
+          "title": "Key Largo Snorkeling",
+          "type": "Boat tour agency",
+          "years_in_business": "3+ years in business",
+          "phone": "(786) 926-3306",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 16,
+          "rating": 4.6,
+          "reviews": 122,
+          "reviews_original": "(122)",
+          "description": "\"we went snorkeling and it was so much fun and absolutely beautiful.\"",
+          "lsig": "AB86z5X1nLqRqS053QP5Jk2OUO2m",
+          "links": {
+            "website": "https://keylargoscubadiving.com/",
+            "directions": "https://www.google.com/maps/dir//Key+Largo+Scuba+Diving,+102900+Overseas+Hwy+%236,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xa6306baca44bbd1f:0x744d757eff18fd61?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILRAA&hl=en&gl=us"
+          },
+          "place_id": "8380483669912517985",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8380483669912517985&q=snorkeling",
+          "provider_id": "/g/11qg042fnk",
+          "gps_coordinates": {
+            "latitude": 25.13048,
+            "longitude": -80.40907
+          },
+          "title": "Key Largo Scuba Diving",
+          "type": "Dive shop",
+          "address": "Key Largo, FL",
+          "phone": "(305) 391-4040",
+          "hours": "Open · Closes 11 PM"
+        },
+        {
+          "position": 17,
+          "rating": 5.0,
+          "reviews": 1,
+          "reviews_original": "(1)",
+          "lsig": "AB86z5Wi3CnjuQ5qvGeLO8Pa097v",
+          "links": {
+            "website": "http://snorkelking.com/",
+            "directions": "https://www.google.com/maps/dir//Snorkeling+King+Key+Largo,+709+Barcelona+Rd,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769b113d21433:0xce1defadca23173c?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJhAA&hl=en&gl=us"
+          },
+          "place_id": "14852290675837441852",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14852290675837441852&q=snorkeling",
+          "provider_id": "/g/11wwwdx9ch",
+          "gps_coordinates": {
+            "latitude": 25.122952,
+            "longitude": -80.41293
+          },
+          "title": "Snorkeling King Key Largo",
+          "type": "Boat tour agency",
+          "address": "Key Largo, FL",
+          "phone": "(786) 677-4446",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 18,
+          "rating": 4.4,
+          "reviews": 1300,
+          "reviews_original": "(1.3K)",
+          "description": "\"We went Snorkeling here and it was the most amazing experience!\"",
+          "lsig": "AB86z5VD8tK1n_mqg2WHxIBPIGwT",
+          "links": {
+            "website": "https://www.amoray.com/?utm_source=google&utm_medium=organic&utm_campaign=business-listing",
+            "directions": "https://www.google.com/maps/dir//Amoray+Dive+Resort,+104250+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d76890c0b91d8f:0xca261bc84efa5e25?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILxAA&hl=en&gl=us"
+          },
+          "place_id": "14566360591908888101",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14566360591908888101&q=snorkeling",
+          "provider_id": "/g/1tg_mf4j",
+          "gps_coordinates": {
+            "latitude": 25.14742,
+            "longitude": -80.39494
+          },
+          "title": "Amoray Dive Resort",
+          "type": "Resort hotel",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-3595"
+        },
+        {
+          "position": 19,
+          "rating": 4.9,
+          "reviews": 14,
+          "reviews_original": "(14)",
+          "description": "\"We have snorkeled many places, but this reef was superior.\"",
+          "lsig": "AB86z5WrK-RN6U3bbOmpDcrQWCcj",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//4M5V%2BP7+Coral+Key+Largo+Snorkeling+Tours,+Key+Largo,+FL/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d76f72e9847e69:0x42f405b9108e0ec1?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIIxAA&hl=en&gl=us"
+          },
+          "place_id": "4824487393225477825",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4824487393225477825&q=snorkeling",
+          "provider_id": "/g/11v0hjxxyq",
+          "gps_coordinates": {
+            "latitude": 25.109253,
+            "longitude": -80.3068
+          },
+          "title": "Coral Key Largo Snorkeling Tours",
+          "type": "Tourist attraction",
+          "address": "Key Largo, FL"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 917,
+          "reviews_original": "(917)",
+          "description": "\"We booked online for our first snorkeling adventure and had a blast.\"",
+          "lsig": "AB86z5VaK0wg3qDWIjxGGvAigOOK",
+          "links": {
+            "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+            "directions": "https://www.google.com/maps/dir//John+Pennekamp+Coral+Reef+State+Park+Visitor+Center,+102601+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d768f9ecf87b3d:0x93da230d42abba07?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJxAA&hl=en&gl=us"
+          },
+          "place_id": "10653866408358427143",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10653866408358427143&q=snorkeling",
+          "provider_id": "/g/11f9wlqpz1",
+          "gps_coordinates": {
+            "latitude": 25.125158,
+            "longitude": -80.40612
+          },
+          "title": "John Pennekamp Coral Reef State Park Visitor Center",
+          "type": "Visitor center",
+          "address": "Key Largo, FL",
+          "hours": "Open · Closes 5 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:49:13.634427",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "beachfront hotel",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "title": "OCEAN SANDS BEACH BOUTIQUE INN - 1 ACRE PRIVATE BEACH",
+          "type": "3-star hotel",
+          "rating": 4.4,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "price": "$136",
+          "images": [
+            "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/CkIzjP9fx2sUX2p0Wptb07DpUhZvJXewsfB3IneO0bg.jpeg",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepZgHkEOGbnDFHA9OpZX1xAx3VwQEl4WMVtYWBq-0gLFtSodCC99pnPm1PlYrooW4-2WfVOGPI1rJIX5ZZSoGeAd9VT3LdvZHJuRW7P6DFNo6ZPKOTVTzU1ZNKsFOowV-sMu0sofpNrgNgI=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoMLI8xjfuI7QYIPQh5h2zl2rooRZxF2JDBBcRAU9RB9StWeOn9OjkiOHlxTr-87hKVEknPrkDExswKbkqMpMNRx4LKs4CClq5-yOcZnC013-GqMkN1of-SL9a_veN2QOnxA19lbAoyk3I=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepr4iDfU74XerHfqlKUCEUPi-omjmgAeZjtq7BPVe1iHFhQwjvHno033z9QQa5IMJaOfi2B9rHlTLTZtaAh3DjGn-liS5QKnSM6EGdZ0H8pqEqrFheKkAI2EeWfoA9e8ZnnbDtn=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerX1sc475QRJmhlyQoHcqpNJDrkrl8sVegQEdWk40j3XhuU4ShBlpPbJta2ShoDTs7h6UeYB0WIofJmv_mjnIGmaBlukG0x4jyAFTaSO9-3EEyay9wVgp_7XTskJk0k9tCphMK1gym7Ytst=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo7pcqJFTaYSk9imy0V_rHyYpJzogf25IXXFP_ntKT-T6g6VlUAx79sfAda9T6v2lQcm8ku-BLkTIWxq_1hNmNOkiayn_TVIrxSu4kQjXyqZzm-iZ71fzb1-z_9vsMrdTd7kHfLtSF1w1vT=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "10089545977088654656",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10089545977088654656&q=beachfront+hotel",
+          "provider_id": "/g/1tltn5k1",
+          "gps_coordinates": {
+            "latitude": 29.934731699999997,
+            "longitude": -81.29877019999999
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Gilbert's Resort & Marina",
+          "type": "2-star hotel",
+          "rating": 4.4,
+          "reviews": 7200,
+          "reviews_original": "(7.2K)",
+          "price": "$221",
+          "images": [
+            "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/br7lzJ-EG_iKXcO9AlQfkt6jd1OF6HGWObd0iDIBDHE.jpeg",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqoV0JcnT_0Qm9p1HODl1yODXhZG-F42LCWykBoVREvmEF-O_cxoY5ZAHmhVDA7e0UBl1FfgAzOfq13ILgrOcO3wbN9I4D3Zhzkh1U2ojF_sVfjqxFb9UfqlDdrpj3tjwKLw5mY=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwervTMXkVf4V35yfbXF6RDqlKM5u_Gc5KftLBluUG8G33hVQx7HoednNGOSQERp7KTvDTzwdZZAz6zyZvDHLZe7vaGqXX3lFxV-lAcINFEFUzA0fuz0x6VNqoPwexzqtFhGIN3IGtiYWNhY3=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowsVVmLkrAGyYIzcGMppXVU4a2xpXnqMciKR8bBhLlvvbFWKkOXxPbLXAQ_tHM2NT8hYZ5s6jAgZplveCmH0WWU9vXkvQZtxkuIELrHG-KCO0WS10f1qAzoBqQMmJhwOoEHs2r36G0M4M=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerDAj7xilwqGFp7anghxcf_7OjUpraUN3-zoj0cPwwD7va80_LH3GHhJEgaPhx-Vo3_AQBVnoDeTtIhUKgjrt7w4fQrw9azM-4XK-pfvdB1FXghH3oSMhoGOY3I-qvLGL09Rpw=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqnx0TsiPuPG420H6ydY7rALjO5HJl_nPOBo53aFNTbnf2H5NHUvQrBUGcDzn1Uxde2ZDMH7mfWuzWipiKbyW7gwOG9JK065RnDVU_QDexC7rzvmjhZ-46GrGlQajhvpzPDl8Ov=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "9906905100844263385",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9906905100844263385&q=beachfront+hotel",
+          "provider_id": "/g/1th87xwy",
+          "gps_coordinates": {
+            "latitude": 25.183560999999997,
+            "longitude": -80.38933
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Plunge Beach Resort",
+          "type": "3-star hotel",
+          "rating": 4.3,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$168",
+          "images": [
+            "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/mdSytVQoyPPvLFhO5p_YOqhX6hChOYsclnuDzHKeLdo.jpeg",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerfD37OIhqfvJZBffCeFZMh5NVD6fNYnBJkO8bNkw8D5zYC7KwQoCxC5xF3BAwHfqmRiQ7IJugROuuHGNh3i7qIGoDSs4rcJr-YS9PMkp8iyHcaIt5vSjQHDwX9ZXb-PvjM8_0CWQ=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepG34CIQSt6EARNP8SA_7XwHdYgmQF5bkjcbP2Wdymz9f5DXF0I_4pyCpJH-tx5J0gcDm8Z4HrH0B0BEmADx7p5gq-MiJvOVSaODDApWEZ3tigGeYxLMGmQRJB6wvKb3HW0orxLsA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF__xeWJCsL7qYzDmMbJO667fSjSawE5x4qHqcn3dYsA1oatM4bex-Vsb7ssxWqP5IrU5CQ7ud1ZOorQB0mc6RJOyUfjL5qIIGQvdMVm2Axo0ErbNaGrT-6D1ZH3jJG3blYJrV6kfwbB7DpR8xVXRxdPLTOj4roNMqc5MjeCo6RAoJ9QLKUzH7X_w=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFtENTIPq7vOobTSZmEw7tPMU6wJ3rpWOSGmj-ATHlUBiY5RkhtFij8s-PjplWxySR7u53QbcWrXGssSmgg01PMU1t3HOQV02Kq450LrWSdiZNm-MDCLs1YdcMqPDnSrtD8ZhGtMAguUxXG43x-LUORUrhbviL3wd3_Ti7vRFiCO1EIDFg899RU=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH9I60cnWmm1vNtx8skdOYXnyID026ZXv8-uYhN2LqLOEYxvGjA4VQELpbbb-2i24oCBFVmEX03n5budKjSxVdlXxSiNJx3QQUZIOJqFIQndUpJEL07T5jwPPu145rxNfDzU-5q3stXnagHUgk8XyY2QveQM9ZOmqJBwpMVVPxlVQp9kaQcxYyTQw=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "13341145188172883972",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13341145188172883972&q=beachfront+hotel",
+          "provider_id": "/g/11c58q6bjv",
+          "gps_coordinates": {
+            "latitude": 26.1967006,
+            "longitude": -80.0945524
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 4,
+          "title": "Grand Beach Hotel Surfside",
+          "type": "4-star hotel",
+          "rating": 4.0,
+          "reviews": 2700,
+          "reviews_original": "(2.7K)",
+          "price": "$299",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHc7QOTbSV7QRT_OehLQ5yCfCCsUL3G9H4uMywEqGwsT7sIE55_QR9_YC8ks2eraT04mnGw345H4OkkJvkY2E9jdynyX-STnfq9czinRk-SKQEzpmMADbXg9bcQchJvuuoE45vHv2gpH3a7R38ZjHiGsSFbV90qHx-TYin8SyOKI6Oh3cBTwJ65=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6YhjV2clVxTLfVzuVGBlATZS72VRS_9sv04p7AYE--hJNA7rMdQ2mXWe-2OA1woDHNyTt2mys--jfFeuuH7-gLi5goDKSrPisdeCvqp1jBkmC8R9IMSc00RMCJougqmfYB7Io=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerleF65w7hbDFXOseEDQovns9a8-0CfWp_o4ExbjRHytyvKo2QlpqztiElPVzCDhqPxoVIRN8uyrhlLHpmIrEYQ1LrfwnNZ-rZHSQ79xJoTD9aXQnRamdDaGJ2aDb45xEnuGXn9=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepzkjiYoJf3CiiNUs4ydos_hybCn0UeBhtz_p6Odfh86UmzSwMM9JtPg-5yuO6YKCBj_-wsbQUQXg4DcR75ZnOmXEuSeXuhOCMJlaZQ6kH2lx0oYK1bLRhrPiIQsnXPDqB7rQyXmA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqxGeSF4DRaYm_jcd9-d4Q9ePNAqLMopJeJ7fXOllTRahUc54liOSuSz-vUvl4dLSjmiA5wMTKLA4GT6Wrl0GS-xxrzyy-sBTCOD1yQtsp5aCzlbJ2Raxa1QM9lK6h5wQ05frWJoA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerUFBkdsqAPu1kF4Lyj2ktrXXeshA0KmEUPWJFYFXTVQywD18WWZ5YlBrqhtlieo_BaCe9KNGB4Z4tshGCpitcsoI1PqWxxkq46CEXjD3OGc77r0jnsyMy_PPUEhenqBYRma4V0=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "16691066921658232927",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16691066921658232927&q=beachfront+hotel",
+          "provider_id": "/g/11b7rxmpdz",
+          "gps_coordinates": {
+            "latitude": 25.8844295,
+            "longitude": -80.1222237
+          },
+          "extensions": [
+            "Beach access",
+            "Eco-certified"
+          ]
+        },
+        {
+          "position": 5,
+          "title": "Oceanside Hotel + Suites",
+          "type": "3-star hotel",
+          "rating": 3.7,
+          "reviews": 2500,
+          "reviews_original": "(2.5K)",
+          "price": "$62",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqb9EsZMfUJxVBizCfXvZENY5tqnBRORFqNOekv88i_diYt4SvVzc58-qv_dEt-Bep2txTCZtPZFTcZD-Ztu1wrJK2vgfSE_d06rT6ofdQKaFIEgmznYGuP-XrnOIGtY0BxOgO50A=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerl2ojWfEEjCf0vNVrc5-vMggtR3ZLn2JjrIVQE1EShZHKxfWRhgttX6xZi5E81RwLZQm2nKYIomLf_MR0xaMiU6eyB_T29YLbT4neRrXAuCu_VmCiu4a-RQ3SRSZNdKabj5BMWgA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4UthlAKduBkw-vS6h9MZtvTOP0kqzY3nvMGOwCOUGgetRc4LFjU2FiwxpnW7Gc01Tk8D96-ELuSByqYVTX4OpOzLop2XwDkJ39y5xDYs4FfPGRzRaqNCVp-_Vk4Inl-grubFB=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAlsYPONw32xipHmnvEMjRYT7lSj-OsAi4QQW7_8JJEMDc2-dKDFvgJgwRsZNR5JPkGQdg0jwbQBqkVDSxn1r6rssekmXgxZTKEq_HtdeXCvgTOKGWmnDQUjA8CPaqLRrmVTms=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerodJquUF0ZVjV8yGxtlRPuHNhyNUpwRsdfkKdKHc7rpKmnr0QHSyUmO1pZN9fudO-gjmFtAZ1XxUbpKZyxFg00lZWBvqjIArYCdYMSSUwl5rN59XwbjRsPlAO_cQR2HOn7Kbsficzc0v7H=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEeHJxIsX9-Rwx7CZN3FyEsO_Sus2VqmeVOIh1dv-l0UuXCxnw6lK6Us_CBoCXZOCmugMGgVMsY3zoHi_RV93OV_H5b1vI0pKLWtYD7VuoFqbQPmNh-o1CkvHcUuRNuaIx94MMBaVYaVG69CsjOFW2OJJbgRkrjdj4-XKLFvVTTvWbRuWJA0EofHA=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "13952074537482038539",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13952074537482038539&q=beachfront+hotel",
+          "provider_id": "/g/1q4kl_h6v",
+          "gps_coordinates": {
+            "latitude": 25.8441241,
+            "longitude": -80.1212805
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 6,
+          "title": "Ocean Manor Beach Resort",
+          "type": "3-star hotel",
+          "rating": 4.0,
+          "reviews": 4000,
+          "reviews_original": "(4K)",
+          "price": "$201",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqz7QMSELv4a8rmSWcqcswYqoxBSxCkXgAP5OOYrFLtc1OXErfBAwzc3ODqROTja91WtiwGdmPKfDc3EyAREOn8O36LyQmNq92YZQmZkGmM15Fc7Fo_W346lDmLoza-rGi4lsUJCA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFmJesrhmY08bBwjplW3CIhk7Q9h7gPYn4jRCPB154SNYNiqB_5-0Cdw-u0sr_y8Fqq7EoBsIyViKc8KP6bQ3ScZ24wvRiEipnUJ4Ofpstu8w6Qa1qt5Dp9vU8O9NGAN49tzZexOzyqIaH=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoDUlhWMpP5fyUF7QvFpMzoYGCN626UQ_3c4dh7L3bTSC-uh3ofkiW6pvjuql9DXl7KAz2zPa2Hd6TcsMrhpygDRZdRn-xyVIR7IuEvk8F9XEj2WWq75rX5_biFVRinmZDHPCnMFS8gGbY0=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocH5aO7A6ZRFYHjkCx-dNxUa7PFn_yx6KWK_8h-YCVHyOV3sBea4ILt0cznNHo-niQ94BOz5XSVxaxYYbFSgvS0F895H6ZLxJdJR2QnGQg7Mfc-bywviFuTEDKAR21g2MINNfZJA=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7Bi7XLj9bJvU6uvzHnhwrW4fGn_Mw3pDIi-rewN2hrzlnSXwoD9xd-z8dHGXhYfLkKktNp6jQ0IcforVTrQNrJ4kRAqxSZRDLCNL8ZO984fcLdwQmhEQL9qPulT2zWCufhQDBp3U4cNpD=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepIdcfXef_fgkSGRS_pWymRJz7FZCCMu2XkNVU8PgRPIhTkQ8se3UNlx-OAHb5U2U56Gmtinkcj2x13sH1_Zd4mxUbZ83mv5ug-2sKetxZ66zs16r5pTlZ-4l86DvKZmRx5_aB7BZvbNRZA=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "6437827570326698480",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6437827570326698480&q=beachfront+hotel",
+          "provider_id": "/g/1vljh3vk",
+          "gps_coordinates": {
+            "latitude": 26.1778897,
+            "longitude": -80.0972453
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 7,
+          "title": "Hampton Inn Key Largo, FL",
+          "type": "3-star hotel",
+          "rating": 4.3,
+          "reviews": 2100,
+          "reviews_original": "(2.1K)",
+          "price": "$141",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRrimqCp1xQhMHeDCsa4JKqATqQYbjZvyGKmd6sSxqF8F_JXtdtuJkr_7Fe51CfxJzmb8WWv216nrmyuxs8AgheSCc8EckjFzHGfOfI9d3n9Bcilkc-4Q-KEcgCEwDU3hhHx0y=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcyTnAXnFcWam6ILZOaeYb1tvvVCMaCG6EGH2r9diezqDh-zmSIDbpGLl15NHYFc9bdKE19tq_lqnFQRWC3AnMe5mr0x5hbpkF8wZcKfeYMgEkSIyjVSXFqpGj-Q3Z_c8o5mwE=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep4iYBWKB3A6BiKiCYB--9K5ehyS2X--UkTc70zQyczOJ-ddhzuUGcyd6CCFp2e41rn5vOdPXgaSi6IfY8-F8HcjjtIvNjFks6liT-fSTM-gtM6ztQhl3_1ojh38QSejnVW6gAq=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAVd_70R_m1oUHGi91im7Fm9CTOFzBEZ4ZXMrFZqUi360dp4gQ76KZG4f-yWYOOEOgkAehBawKdvKT5FYjMLiwBNzL8fKwSx9_z3_HkWCpu__SXT-QabDNpTqedmbGeH8A5Is=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep1DliOnuk5KzeskyddeeiGTZ8diy3GFQEwkLFj9Y38Wg9SE4vKxQYnF9Evhv8UMu0JzBwL-QjLidO7ANOTEghgkEfG1izvVVCLWpZebGpF3J_Oy2GwHmaE_ymj_cbk5QqzatIL=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqctNOnRA2IVyIOeOQmJ-VR5Ji9T1WemeXOEI6MH97Nebl3KfEVDsQnsWS_DwK9-iVu3f7XhPi_wBQWqrbxu08p4eTvybb-sasupd_7JnIrnzRaaWFm9MCSWZG0vxjcdcVN18CU1A=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "11899447482400599957",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11899447482400599957&q=beachfront+hotel",
+          "provider_id": "/g/1tglzsf2",
+          "gps_coordinates": {
+            "latitude": 25.1220854,
+            "longitude": -80.4171921
+          },
+          "extensions": [
+            "Beach access",
+            "Eco-certified"
+          ]
+        },
+        {
+          "position": 8,
+          "title": "Sherry Frontenac Oceanfront Hotel",
+          "type": "3-star hotel",
+          "rating": 3.1,
+          "reviews": 1600,
+          "reviews_original": "(1.6K)",
+          "price": "$112",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweofpVMTVWor0Sdi0gbCNoNrcpPEefSa2Hyjc4p-kT2m9714mBW5pqWN_d0ThWIgYTmQBL_CMcOZy6Y3jGLeEB-Ygd9bECW8ijLvhGjBIMyz_v5l13ylWxVYNx_iJuCwGY2IBFkL=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq_JDAreyulbHfw_12HfBkr1vcLBIrrL6wwr6P_RfGsM4Ko5BBOM9bhf5qdtwn2JAjIg9T8c-EzKzD-mW3mUb2haKLy3v7L3ONlVGIIHHCEH5AFLARgH8JaoLLoHyJAvozUvtMb=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerbpyTD6bjMkZh7oiz0rEBNnjP197F4JU3xoixjrYONw7S5kuAVtHutmX_UDpgT3PHzrI81hxADbOWDrXVZ6aBHy597OnC8OP1YvcOgl4C6FaUPGI_crVPWTnuhSbZBLEmYb0zEEg=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRerY9CRcrYf93FWlk-u9eNFPpV8uhbjqMJSkq8VTFEsCE1kQkPeR6hrEyhfMn4aF9S73-wYamuvgkBjlsjp8zuDffIvpkif4L56mdfGFpRA_RRsUl0YlIatj7Nhyt1azr4FlBwGQu422n=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEx3KzjhmkKiVZQrKhUHN7k7R3hk0LHmIEWC5NfOo6-Eib86hbC_XNDM4SFEKCnb96EssK3s7jQL5nzt0b2kg19ONYNBPML-EZnniOxTKxQwXy43lF9Ubyp__Niq-CWojnoUWuRm0xBuyTFWZmBZNgoJDWV5kW7LBNQgeZXsVvodua0eRBUxfpJ=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEgjnTkxBjlRq4p2YWlPgybpbg4WEeQFXDuB5OANqXmRDqCYTZtVfmc1EUI4G_EdyPi5UdVcNEFSsd4mrVQs48DDTufcpywEDYqf2CHbXmHo2-jPxcNMek8l3XGvDeRdkpmFUwEdnx4Gggh0f9SbdjibIJRxwm59YkExhAxYE6Nv3ZTrakdsYIx=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "11283809343273885853",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11283809343273885853&q=beachfront+hotel",
+          "provider_id": "/g/1tk6wq5m",
+          "gps_coordinates": {
+            "latitude": 25.8492902,
+            "longitude": -80.1200515
+          },
+          "extensions": [
+            "Beach access",
+            "Pool"
+          ]
+        },
+        {
+          "position": 9,
+          "title": "Hilton Grand Vacations Club McAlpin Ocean Plaza Miami",
+          "type": "4-star hotel",
+          "rating": 4.5,
+          "reviews": 471,
+          "reviews_original": "(471)",
+          "price": "$269",
+          "images": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweobcF-EGewKeK5L2WYorAhQrDuOYYHxeHOGKoUs5kP_bWV8bXuqih5-iNEpgZ9bApQ6yhFLhBweqYCaADlU-YN4-8j_OMaYQxYvfbPvI4NOcb3ObrBNU7lUv5J7BQEv77X-Bi-g=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqY5JW9867q0uksz7jP8P-MvMrq1i6t-U5SxBWMe0hj7ZenmCtGtCtAEX5FLfBLqk50wTv5_7wZUxDVhJ08yYZ8lGLUpTI3bG4K5kTARcv6WmrRTBsyN88bzBeRefYUfztfKMZ6=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerNR9_gMN0qaWyYa6e-Wb9naFe2xLr0GaOfOfXyzBo0EnHUsqCY_S-Dg6TdpkybTK5Cfeh0sM1umLpYLy8Nkv0l5feJknx7XxqVy6mBi3t1wzZSNA7liwBXbOGIjOenUlagpCRc=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepz4PfIE10Vmi7vbAvrHTpE1cPFFyHkWjDB8ivLu81Dq3Y0cMPhWf5B4Q2pqdJ64_ti4EMj1eL7kjrtmMCw5lPEhXflRu1qnQYXJO5k9Sy7WVGOwMMYE0XaH7WhkOLmQJrNBQmH=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqgsrzS1wVpCVXVxxKTklF0Cld0S6-RQxid3R7PbUKZ42h5Ew9j5k2z9EOH9EFxecAunD5zcG7kjBoiUlblFR_dxSa-Xrrbi7D2mLe0dpmO13RAi0tfJJ80Ur35gr72TpZCzh88=s204-w204-h116-p-n-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/AHVAweooB74IVI5pnROXgaxaToHnZ3qliowHMQ2fhVVGcWFiSX7yxpiJwH1JQbaY-era8PEY2dt9pc-9pBb6_I49xveb0uVRSjQSQauod5xqgM5_uHmZQv7avxAlkLIm1wJ5XwKZwgg5=s204-w204-h116-p-n-k-no"
+          ],
+          "place_id": "9357216602811675757",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9357216602811675757&q=beachfront+hotel",
+          "provider_id": "/g/1tdkn0gz",
+          "gps_coordinates": {
+            "latitude": 25.786290299999997,
+            "longitude": -80.1299086
+          },
+          "extensions": [
+            "Beach access",
+            "Free Wi-Fi"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:49:13.646426",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "ocean views",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 5.0,
+          "reviews": 73,
+          "reviews_original": "(73)",
+          "description": "\"10/10 highly recommend!\"",
+          "lsig": "AB86z5VurugO4QMd-P_t9YrlT-zZ",
+          "links": {
+            "website": "https://www.oceanviewsonthebay.com/"
+          },
+          "place_id": "11019445766554591641",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11019445766554591641&q=ocean+views",
+          "title": "Ocean Views On The Bay LLC",
+          "type": "Boat rental service",
+          "phone": "(786) 202-4496",
+          "hours": "Open · Closes 11 PM"
+        },
+        {
+          "position": 2,
+          "lsig": "AB86z5UgR38MzykAm0cTEw6oniOz",
+          "links": {
+            "website": "https://usa.accomoly.com/listings/185207?googleVR=1&utm_source=google&utm_medium=vacation_rentals"
+          },
+          "place_id": "12355922781617065950",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12355922781617065950&q=ocean+views",
+          "provider_id": "/g/11n9c97119",
+          "gps_coordinates": {
+            "latitude": 25.761616,
+            "longitude": -80.19037
+          },
+          "title": "Luxury Sky Villa w/ City & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 3,
+          "lsig": "AB86z5X52uQN6koIn6mM8WZp3GgZ",
+          "place_id": "16067831216327525918",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16067831216327525918&q=ocean+views",
+          "provider_id": "/g/11n9c8nh_v",
+          "gps_coordinates": {
+            "latitude": 25.762,
+            "longitude": -80.19
+          },
+          "title": "Luxury Sky Villa w/ City & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 4,
+          "lsig": "AB86z5UpydcTKg-bP_u00SRH2m77",
+          "links": {
+            "website": "https://www.casamundo.de/rental/225aed310d827eed?adword=cm_gvf/DE/s/ct=s/n-a/n-a/5460aeac1d0f1&utm_source=gvf"
+          },
+          "place_id": "16832822230990745079",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16832822230990745079&q=ocean+views",
+          "provider_id": "/g/11n9dmk87l",
+          "gps_coordinates": {
+            "latitude": 25.792,
+            "longitude": -80.187
+          },
+          "title": "Bayfront Miami Condo w/ Resort Perks & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 5,
+          "lsig": "AB86z5UwbnP-3eIMKCSIixF80GGl",
+          "links": {
+            "website": "https://www.expedia.com/Hotel.h30667820.Hotel-Information?mdpcid=META.HPA.WEB-ORGANIC.VR"
+          },
+          "place_id": "18151498057131699098",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=18151498057131699098&q=ocean+views",
+          "provider_id": "/g/11n9wczgpg",
+          "gps_coordinates": {
+            "latitude": 25.771563,
+            "longitude": -80.133316
+          },
+          "title": "Incredible Ocean Views! Luxury 2BD in Heart of South Beach & Steps to the Sand!",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 6,
+          "lsig": "AB86z5XOegFvIf7eSJdPcR-WYcpG",
+          "links": {
+            "website": "https://www.decolar.com/hoteis/h-4775878"
+          },
+          "place_id": "16260228951009620715",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16260228951009620715&q=ocean+views",
+          "provider_id": "/g/11z1dg3zfr",
+          "gps_coordinates": {
+            "latitude": 25.791346,
+            "longitude": -80.18621
+          },
+          "title": "Bayfront Miami Condo w/ Resort Perks & Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 7,
+          "lsig": "AB86z5UtOlflZmkwhiF6qMSmrfyR",
+          "links": {
+            "website": "https://br.bluepillow.com/search/6335f579314064d8ba35ac1c?dest=bkng&cat=House&lat=25.77798&lng=-80.19009&language=pt"
+          },
+          "place_id": "6132824868950585849",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6132824868950585849&q=ocean+views",
+          "provider_id": "/g/11z142p_jm",
+          "gps_coordinates": {
+            "latitude": 25.778038,
+            "longitude": -80.19009
+          },
+          "title": "Luxury 2 BDR 2 Bath• Downtown • Unique Ocean Views - Two-Bedroom Apartment",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 8,
+          "lsig": "AB86z5XjuyZq59nvbQOJIrC2GpHi",
+          "links": {
+            "website": "https://br.bluepillow.com/search/5df4f462e24da45b685cc08f?dest=bkng&cat=House&lat=25.0192&lng=-80.50269&language=pt"
+          },
+          "place_id": "986945000258408998",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=986945000258408998&q=ocean+views",
+          "provider_id": "/g/11z21hlyd0",
+          "gps_coordinates": {
+            "latitude": 25.019236,
+            "longitude": -80.50271
+          },
+          "title": "LICENSED MGR - MODERN OCEANFRONT - OCEAN VIEWS CONDO! BAR and BEACH RESORT! - Holiday Home",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 9,
+          "lsig": "AB86z5XsZtLz9dcvuzJvKbP6iS0h",
+          "place_id": "10567282462615232010",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10567282462615232010&q=ocean+views",
+          "provider_id": "/g/11z142x8yv",
+          "gps_coordinates": {
+            "latitude": 25.7995,
+            "longitude": -80.12691
+          },
+          "title": "1 Hotel Homes. Direct ocean views from every room. In South Beach. Miami Beach",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 10,
+          "lsig": "AB86z5VczKjbdRkbFfpQkY_pC6Gf",
+          "place_id": "6400006030417160160",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6400006030417160160&q=ocean+views",
+          "provider_id": "/g/11z144pznb",
+          "gps_coordinates": {
+            "latitude": 25.780228,
+            "longitude": -80.19108
+          },
+          "title": "Ocean Views, Downtown, Pool, and Family fun!",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 11,
+          "rating": 3.6,
+          "reviews": 167,
+          "reviews_original": "(167)",
+          "lsig": "AB86z5VgEuZTEc0Kg-lCSUh1cJzV",
+          "service_options": {
+            "swimming_pool": true,
+            "on_site_parking": true,
+            "elevator": true
+          },
+          "links": {
+            "directions": "https://www.google.com/maps/dir//HOME+OceanView+Sunny+Isles,+19380+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9acc277960ec9:0xe01747e68f11a419?sa=X&ved=2ahUKEwjQiPzAgNyTAxX8RjABHf-vJzcQ48ADegQIIRAA&hl=en&gl=us"
+          },
+          "place_id": "16147454044528550937",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16147454044528550937&q=ocean+views",
+          "provider_id": "/g/11btv663_h",
+          "gps_coordinates": {
+            "latitude": 25.954926,
+            "longitude": -80.123276
+          },
+          "title": "HOME OceanView Sunny Isles",
+          "type": "Condominium complex",
+          "phone": "(786) 505-9657",
+          "address": "Sunny Isles Beach, FL",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 12,
+          "lsig": "AB86z5X-ro8mfUZoBK2h92Fw8QVe",
+          "links": {
+            "website": "https://whimstay.com/detail/Breathtaking-Bay-Views-and-Stylish-Amenities-Chic-Miami-Retreat/100787676?isgoogle=true"
+          },
+          "place_id": "16562891031544392371",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16562891031544392371&q=ocean+views",
+          "provider_id": "/g/11z21h8f8v",
+          "gps_coordinates": {
+            "latitude": 25.761847,
+            "longitude": -80.19022
+          },
+          "title": "Stylish Brickell Stay with Ocean Views & Pool",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 13,
+          "lsig": "AB86z5UmHIV5Xgl3uECWC3XC_Rnf",
+          "place_id": "9693205256412655323",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9693205256412655323&q=ocean+views",
+          "provider_id": "/g/11zksyjpz_",
+          "gps_coordinates": {
+            "latitude": 25.776344,
+            "longitude": -80.18995
+          },
+          "title": "Amazing Bay and Ocean views! Pool + Gym",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 14,
+          "lsig": "AB86z5XSfWrqJimu0GKWqKu0DA3e",
+          "place_id": "1967006258232962463",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1967006258232962463&q=ocean+views",
+          "provider_id": "/g/11z21hg2kc",
+          "gps_coordinates": {
+            "latitude": 25.768663,
+            "longitude": -80.18873
+          },
+          "title": "Luxury Brickell Condo with Balcony and Ocean Views",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 15,
+          "lsig": "AB86z5Vf9mV2M3ftyh32XzB7dd0C",
+          "links": {
+            "website": "https://booking.myangelhost.com/properties/686832cdffacb10012ddd73c"
+          },
+          "place_id": "6251003288100179498",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6251003288100179498&q=ocean+views",
+          "provider_id": "/g/11n9c9flkz",
+          "gps_coordinates": {
+            "latitude": 25.78023,
+            "longitude": -80.19108
+          },
+          "title": "Ocean Views | Pool & Gym, Vibrant Central Access",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 16,
+          "lsig": "AB86z5WB8n-KNFkNtRBmOZD2Am_e",
+          "links": {
+            "website": "https://br.bluepillow.com/search/61ef12d9113b0ba9fb966d9b/796534307?dest=bkng&cat=Apartment&lat=25.78299&lng=-80.13042&language=pt"
+          },
+          "place_id": "16936023191347569193",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16936023191347569193&q=ocean+views",
+          "provider_id": "/g/11n9c9t0m8",
+          "gps_coordinates": {
+            "latitude": 25.782995,
+            "longitude": -80.130455
+          },
+          "title": "Sobe Ocean Views of South Beach - Studio with Ocean View",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 17,
+          "lsig": "AB86z5WvmxEE8mZzCJbgCnwi1pvD",
+          "links": {
+            "website": "https://br.bluepillow.com/search/62df115bba454484938a19b0?dest=bkng&cat=House&lat=25.76219&lng=-80.18948&language=pt"
+          },
+          "place_id": "10262185828973568063",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10262185828973568063&q=ocean+views",
+          "provider_id": "/g/11z21jx4xj",
+          "gps_coordinates": {
+            "latitude": 25.76219,
+            "longitude": -80.18948
+          },
+          "title": "Unforgettable Ocean Views 3BR with POOL GYM SPA - Three-Bedroom Apartment",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 18,
+          "lsig": "AB86z5Xsq09bRFJRK1xKRZKYkRmf",
+          "place_id": "6635155511350795060",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6635155511350795060&q=ocean+views",
+          "provider_id": "/g/11z2c8ykvt",
+          "gps_coordinates": {
+            "latitude": 25.780205,
+            "longitude": -80.19158
+          },
+          "title": "Stylish Apartments with Partial Ocean Views in Downtown",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 19,
+          "lsig": "AB86z5UjKizJii_bHVclHxDECgyz",
+          "links": {
+            "website": "https://br.bluepillow.com/search/65de300253168d605d3e6c93?dest=ago&cat=Apartment&lat=25.77903&lng=-80.18943&language=pt"
+          },
+          "place_id": "14811876571911101075",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14811876571911101075&q=ocean+views",
+          "provider_id": "/g/11n9cb_hwp",
+          "gps_coordinates": {
+            "latitude": 25.77903,
+            "longitude": -80.18943
+          },
+          "title": "Luxury Apt with Amazing Ocean Views All of Miami",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 20,
+          "rating": 3.3,
+          "reviews": 9,
+          "reviews_original": "(9)",
+          "price": "$10–20",
+          "description": "\"View is ok if u step outside the restaurant on to the pool area.\"",
+          "lsig": "AB86z5WZAambPJqn4vwbjzZqafpg",
+          "links": {
+            "website": "https://www.marriott.com/en-us/hotels/mianm-residence-inn-miami-sunny-isles-beach/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+            "directions": "https://www.google.com/maps/dir//Ocean+View+on+Nine,+17700+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ada9db052dbd:0x8a738aeb077d79e3?sa=X&ved=2ahUKEwjQiPzAgNyTAxX8RjABHf-vJzcQ48ADegQIIBAA&hl=en&gl=us"
+          },
+          "place_id": "9976470341603391971",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9976470341603391971&q=ocean+views",
+          "provider_id": "/g/11gm7kcs3t",
+          "gps_coordinates": {
+            "latitude": 25.939781,
+            "longitude": -80.12214
+          },
+          "title": "Ocean View on Nine",
+          "type": "Restaurant",
+          "phone": "(386) 496-8311",
+          "address": "Sunny Isles Beach, FL",
+          "hours": "Closed · Opens 12 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:49:13.671432",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "snorkeling",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.9,
+          "reviews": 2500,
+          "reviews_original": "(2.5K)",
+          "description": "\"We snorkeled at two different spots, and the water was crystal clear.\"",
+          "lsig": "AB86z5VQYf8CVareaWGiuEt3VjIZ",
+          "links": {
+            "website": "https://silentworld.com/snorkeling/",
+            "directions": "https://www.google.com/maps/dir//Silent+World+Snorkeling+and+dive+Center,+51+Garden+Cove+Dr,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d7661c82bb2bb7:0x740b023a75ce03f0?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIIhAA&hl=en&gl=us"
+          },
+          "place_id": "8361779583251252208",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8361779583251252208&q=snorkeling",
+          "provider_id": "/g/1tgx2tmy",
+          "gps_coordinates": {
+            "latitude": 25.170706,
+            "longitude": -80.36833
+          },
+          "title": "Silent World Snorkeling and dive Center",
+          "type": "Tour operator",
+          "years_in_business": "35+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-3252",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 661,
+          "reviews_original": "(661)",
+          "description": "\"We saw tons of fish and coral including a lionfish and glimpse of bullshark.\"",
+          "lsig": "AB86z5V4iMi5IcgHmVxzR_g86pxn",
+          "links": {
+            "website": "https://diversparadise.miami/",
+            "directions": "https://www.google.com/maps/dir//Diver's+Paradise+Miami+%7C+Scuba+Diving+%26+Snorkeling,+4000+Crandon+Blvd,+Key+Biscayne,+FL+33149/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b59b0f5159c9:0xbcb472d38aea7c3f?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKxAA&hl=en&gl=us"
+          },
+          "place_id": "13597619427832659007",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13597619427832659007&q=snorkeling",
+          "provider_id": "/g/1td18n64",
+          "gps_coordinates": {
+            "latitude": 25.727015,
+            "longitude": -80.15643
+          },
+          "title": "Diver's Paradise Miami | Scuba Diving & Snorkeling",
+          "type": "SCUBA tour agency",
+          "years_in_business": "40+ years in business",
+          "address": "Key Biscayne, FL",
+          "phone": "(305) 361-3483",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.8,
+          "reviews": 815,
+          "reviews_original": "(815)",
+          "description": "\"Snorkeling at 4 spots (3 stops) including snorkel over the Christ statue.\"",
+          "lsig": "AB86z5W9seBHBilbVD-0W2SzVRzD",
+          "links": {
+            "website": "https://www.pcwatersports.com/",
+            "directions": "https://www.google.com/maps/dir//Pirates+Cove+Watersports,+103800+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d7688d916a0919:0x1ac68f341eae6278?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILBAA&hl=en&gl=us"
+          },
+          "place_id": "1929386944390652536",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1929386944390652536&q=snorkeling",
+          "provider_id": "/g/1tf24wmf",
+          "gps_coordinates": {
+            "latitude": 25.141453,
+            "longitude": -80.400314
+          },
+          "title": "Pirates Cove Watersports",
+          "type": "Dive shop",
+          "address": "Key Largo, FL",
+          "phone": "(305) 453-9881",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 303,
+          "reviews_original": "(303)",
+          "description": "\"We were able to snorkel at 3 sites: the mangroves, a reef, and a shipwreck.\"",
+          "lsig": "AB86z5XDJfeqSbGBjSxv14EdGrvP",
+          "links": {
+            "website": "http://www.biscaynenationalparkinstitute.org/?utm_source=gmb+listing&utm_medium=organic",
+            "directions": "https://www.google.com/maps/dir//Biscayne+National+Park+Institute+at+Coconut+Grove,+3400+Pan+American+Dr,+Miami,+FL+33133/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b75bca66f81b:0xdd80cec566d8d69a?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMxAA&hl=en&gl=us"
+          },
+          "place_id": "15960984426630403738",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15960984426630403738&q=snorkeling",
+          "provider_id": "/g/11k4y9ctc1",
+          "gps_coordinates": {
+            "latitude": 25.726933,
+            "longitude": -80.235596
+          },
+          "title": "Biscayne National Park Institute at Coconut Grove",
+          "type": "Tourist attraction",
+          "address": "Miami, FL",
+          "phone": "(786) 465-4058",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.9,
+          "reviews": 7800,
+          "reviews_original": "(7.8K)",
+          "description": "\"The snorkeling was fun with many fish and coral easily visible.\"",
+          "lsig": "AB86z5V0V-fNsW0yRg2QIidx86R_",
+          "links": {
+            "website": "https://www.biscaynenationalparkinstitute.org/?utm_source=gmb+listing&utm_medium=organic",
+            "directions": "https://www.google.com/maps/dir//Biscayne+National+Park+Institute,+9700+SW+328th+St,+Homestead,+FL+33033/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9dbb853e92c63:0x50d9c43151adbc67?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJRAA&hl=en&gl=us"
+          },
+          "place_id": "5825903309083229287",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5825903309083229287&q=snorkeling",
+          "provider_id": "/g/11cjpcf5td",
+          "gps_coordinates": {
+            "latitude": 25.464014,
+            "longitude": -80.33462
+          },
+          "title": "Biscayne National Park Institute",
+          "type": "Boat tour agency",
+          "years_in_business": "7+ years in business",
+          "address": "Homestead, FL",
+          "phone": "(786) 335-3644",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.9,
+          "reviews": 1000,
+          "reviews_original": "(1K)",
+          "description": "\"We went snorkeling, and it was an unforgettable adventure.\"",
+          "lsig": "AB86z5WsqLWEJav6ssQil72mNfpm",
+          "links": {
+            "website": "http://www.sundancewatersports.org/",
+            "directions": "https://www.google.com/maps/dir//Sundance+Watersports,+77522+Overseas+Hwy,+Islamorada,+FL+33036/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d0d19b44f52bd5:0x590bf8046e228ce6?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQINBAA&hl=en&gl=us"
+          },
+          "place_id": "6416494792030719206",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6416494792030719206&q=snorkeling",
+          "provider_id": "/g/1th7npnv",
+          "gps_coordinates": {
+            "latitude": 24.882633,
+            "longitude": -80.690796
+          },
+          "title": "Sundance Watersports",
+          "type": "Tour operator",
+          "years_in_business": "7+ years in business",
+          "address": "Islamorada, FL",
+          "phone": "(305) 743-0145",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.8,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"You can see sea turtles, sharks, barracudas, groupers, and other reef fish.\"",
+          "lsig": "AB86z5W12tT6FgsgGaRtSYUGALFj",
+          "links": {
+            "website": "https://www.seadwellers.com/",
+            "directions": "https://www.google.com/maps/dir//Sea+Dwellers+Dive+Center+of+Key+Largo,+105+Laguna+Ave+E5,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c15eba7a2b:0xa3ec554190296523?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMhAA&hl=en&gl=us"
+          },
+          "place_id": "11811909662765835555",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11811909662765835555&q=snorkeling",
+          "provider_id": "/g/1ttpc2ps",
+          "gps_coordinates": {
+            "latitude": 25.094263,
+            "longitude": -80.43841
+          },
+          "title": "Sea Dwellers Dive Center of Key Largo",
+          "type": "SCUBA tour agency",
+          "years_in_business": "50+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-3640",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 5.0,
+          "reviews": 285,
+          "reviews_original": "(285)",
+          "description": "\"We were able to see incredible coral and sea life while snorkeling.\"",
+          "lsig": "AB86z5Wq9PUiKxzByAwWT8P89HAA",
+          "links": {
+            "website": "https://www.keylargowaterfun.com/",
+            "directions": "https://www.google.com/maps/dir//Key+Largo+Water+Fun,+112+La+Paloma+Rd,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769be20880d85:0x3649b96aa988a435?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMRAA&hl=en&gl=us"
+          },
+          "place_id": "3911861619109962805",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3911861619109962805&q=snorkeling",
+          "provider_id": "/g/11lgfqw13z",
+          "gps_coordinates": {
+            "latitude": 25.115362,
+            "longitude": -80.411995
+          },
+          "title": "Key Largo Water Fun",
+          "type": "Boat tour agency",
+          "years_in_business": "5+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 582-4043",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.5,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Our 7 year old was even able to snorkel with us in open water.\"",
+          "lsig": "AB86z5UKwTVWCPjGAO_1-pGiHwr9",
+          "links": {
+            "website": "http://www.snorkelingisfun.com/",
+            "directions": "https://www.google.com/maps/dir//Sundiver+Snorkel+Tours,+102840+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d768f6341e273d:0x1dcc05548d71e9e3?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKRAA&hl=en&gl=us"
+          },
+          "place_id": "2147096983057328611",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2147096983057328611&q=snorkeling",
+          "provider_id": "/g/1tlwgfgj",
+          "gps_coordinates": {
+            "latitude": 25.129871,
+            "longitude": -80.40969
+          },
+          "title": "Sundiver Snorkel Tours",
+          "type": "Boat tour agency",
+          "years_in_business": "10+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-2220"
+        },
+        {
+          "position": 10,
+          "rating": 4.9,
+          "reviews": 106,
+          "reviews_original": "(106)",
+          "description": "\"The reef was beautiful, and my family had the experience of a lifetime.\"",
+          "lsig": "AB86z5W41fJ-pqbNAcezapj9nL01",
+          "links": {
+            "website": "https://snorkelthekeys.com/",
+            "directions": "https://www.google.com/maps/dir//Snorkel+the+Keys,+99701+Overseas+Hwy+Slip+76,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769dab0b9166f:0xb32a9eccf623528c?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMBAA&hl=en&gl=us"
+          },
+          "place_id": "12910305884950975116",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12910305884950975116&q=snorkeling",
+          "provider_id": "/g/11j122t8xd",
+          "gps_coordinates": {
+            "latitude": 25.095442,
+            "longitude": -80.43624
+          },
+          "title": "Snorkel the Keys",
+          "type": "Boat tour agency",
+          "years_in_business": "5+ years in business",
+          "address": "Key Largo, FL",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 11000,
+          "reviews_original": "(11K)",
+          "description": "\"Crystal clear water to see coral and do snorkeling.\"",
+          "lsig": "AB86z5WqmS3mKa26lBiK6m3IdHQ_",
+          "links": {
+            "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+            "directions": "https://www.google.com/maps/dir//John+Pennekamp+Coral+Reef+State+Park,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d765d7c9d4f8ad:0xe8f62495ebc427a7?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILhAA&hl=en&gl=us"
+          },
+          "place_id": "16786644887394330535",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16786644887394330535&q=snorkeling",
+          "provider_id": "/m/09j528",
+          "gps_coordinates": {
+            "latitude": 25.156654,
+            "longitude": -80.37541
+          },
+          "title": "John Pennekamp Coral Reef State Park",
+          "type": "State park",
+          "address": "Key Largo, FL",
+          "phone": "(305) 676-3777",
+          "hours": "Open now"
+        },
+        {
+          "position": 12,
+          "rating": 5.0,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"The snorkeling was a blast: calm, clear water made it perfect.\"",
+          "lsig": "AB86z5V_QyHrFjON4NKl8le_VJS3",
+          "links": {
+            "website": "https://www.islandergirltours.com/",
+            "directions": "https://www.google.com/maps/dir//Islander+Girl+Snorkel+%26+Tours,+90791+Old+Hwy+%231,+Tavernier,+FL+33070/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d739262bd127a9:0x9a1a2e145f9d1c55?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKhAA&hl=en&gl=us"
+          },
+          "place_id": "11104238496273734741",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11104238496273734741&q=snorkeling",
+          "provider_id": "/g/11h6p_m8mq",
+          "gps_coordinates": {
+            "latitude": 25.002317,
+            "longitude": -80.531395
+          },
+          "title": "Islander Girl Snorkel & Tours",
+          "type": "Boat tour agency",
+          "years_in_business": "7+ years in business",
+          "address": "Tavernier, FL",
+          "phone": "(305) 712-0032",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 112,
+          "reviews_original": "(112)",
+          "description": "\"Great experience, cool tour, great reefing\"",
+          "lsig": "AB86z5XfmBoffdVkzHm23RwQWprO",
+          "links": {
+            "website": "http://www.snorkelingisfun.com/",
+            "directions": "https://www.google.com/maps/dir//Sundiver+Boat+Dock,+99751+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c08d62ffc1:0x9be99da4d00baf55?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJBAA&hl=en&gl=us"
+          },
+          "place_id": "11234684076643037013",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11234684076643037013&q=snorkeling",
+          "provider_id": "/g/1td4qhhs",
+          "gps_coordinates": {
+            "latitude": 25.096308,
+            "longitude": -80.437874
+          },
+          "title": "Sundiver Boat Dock",
+          "type": "Boat tour agency",
+          "years_in_business": "10+ years in business",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-2220",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 14,
+          "rating": 4.6,
+          "reviews": 939,
+          "reviews_original": "(939)",
+          "description": "\"Huge selection of diving and snorkeling gear in all price ranges.\"",
+          "lsig": "AB86z5WRNYjGJmtbx7RtazT75ONp",
+          "links": {
+            "website": "http://www.diversdirect.com/",
+            "directions": "https://www.google.com/maps/dir//Divers+Direct,+99621+Overseas+Highway,+US-1,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c287e6e291:0xf90ea7de20cb68ea?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKBAA&hl=en&gl=us"
+          },
+          "place_id": "17946466137592785130",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17946466137592785130&q=snorkeling",
+          "provider_id": "/g/1tcxw0jz",
+          "gps_coordinates": {
+            "latitude": 25.094563,
+            "longitude": -80.439095
+          },
+          "title": "Divers Direct",
+          "type": "Dive shop",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-0118",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 15,
+          "rating": 5.0,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "description": "\"We had a great time snorkeling in Key Largo and saw several sea turtles.\"",
+          "lsig": "AB86z5XWqc381uSK3Pwvz2bv5hAQ",
+          "links": {
+            "website": "https://keylargosnorkeling.com/"
+          },
+          "place_id": "4819174484880985141",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4819174484880985141&q=snorkeling",
+          "title": "Key Largo Snorkeling",
+          "type": "Boat tour agency",
+          "years_in_business": "3+ years in business",
+          "phone": "(786) 926-3306",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 16,
+          "rating": 4.6,
+          "reviews": 122,
+          "reviews_original": "(122)",
+          "description": "\"we went snorkeling and it was so much fun and absolutely beautiful.\"",
+          "lsig": "AB86z5X1nLqRqS053QP5Jk2OUO2m",
+          "links": {
+            "website": "https://keylargoscubadiving.com/",
+            "directions": "https://www.google.com/maps/dir//Key+Largo+Scuba+Diving,+102900+Overseas+Hwy+%236,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xa6306baca44bbd1f:0x744d757eff18fd61?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILRAA&hl=en&gl=us"
+          },
+          "place_id": "8380483669912517985",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8380483669912517985&q=snorkeling",
+          "provider_id": "/g/11qg042fnk",
+          "gps_coordinates": {
+            "latitude": 25.13048,
+            "longitude": -80.40907
+          },
+          "title": "Key Largo Scuba Diving",
+          "type": "Dive shop",
+          "address": "Key Largo, FL",
+          "phone": "(305) 391-4040",
+          "hours": "Open · Closes 11 PM"
+        },
+        {
+          "position": 17,
+          "rating": 5.0,
+          "reviews": 1,
+          "reviews_original": "(1)",
+          "lsig": "AB86z5Wi3CnjuQ5qvGeLO8Pa097v",
+          "links": {
+            "website": "http://snorkelking.com/",
+            "directions": "https://www.google.com/maps/dir//Snorkeling+King+Key+Largo,+709+Barcelona+Rd,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769b113d21433:0xce1defadca23173c?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJhAA&hl=en&gl=us"
+          },
+          "place_id": "14852290675837441852",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14852290675837441852&q=snorkeling",
+          "provider_id": "/g/11wwwdx9ch",
+          "gps_coordinates": {
+            "latitude": 25.122952,
+            "longitude": -80.41293
+          },
+          "title": "Snorkeling King Key Largo",
+          "type": "Boat tour agency",
+          "address": "Key Largo, FL",
+          "phone": "(786) 677-4446",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 18,
+          "rating": 4.4,
+          "reviews": 1300,
+          "reviews_original": "(1.3K)",
+          "description": "\"We went Snorkeling here and it was the most amazing experience!\"",
+          "lsig": "AB86z5VD8tK1n_mqg2WHxIBPIGwT",
+          "links": {
+            "website": "https://www.amoray.com/?utm_source=google&utm_medium=organic&utm_campaign=business-listing",
+            "directions": "https://www.google.com/maps/dir//Amoray+Dive+Resort,+104250+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d76890c0b91d8f:0xca261bc84efa5e25?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILxAA&hl=en&gl=us"
+          },
+          "place_id": "14566360591908888101",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14566360591908888101&q=snorkeling",
+          "provider_id": "/g/1tg_mf4j",
+          "gps_coordinates": {
+            "latitude": 25.14742,
+            "longitude": -80.39494
+          },
+          "title": "Amoray Dive Resort",
+          "type": "Resort hotel",
+          "address": "Key Largo, FL",
+          "phone": "(305) 451-3595"
+        },
+        {
+          "position": 19,
+          "rating": 4.9,
+          "reviews": 14,
+          "reviews_original": "(14)",
+          "description": "\"We have snorkeled many places, but this reef was superior.\"",
+          "lsig": "AB86z5WrK-RN6U3bbOmpDcrQWCcj",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//4M5V%2BP7+Coral+Key+Largo+Snorkeling+Tours,+Key+Largo,+FL/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d76f72e9847e69:0x42f405b9108e0ec1?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIIxAA&hl=en&gl=us"
+          },
+          "place_id": "4824487393225477825",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4824487393225477825&q=snorkeling",
+          "provider_id": "/g/11v0hjxxyq",
+          "gps_coordinates": {
+            "latitude": 25.109253,
+            "longitude": -80.3068
+          },
+          "title": "Coral Key Largo Snorkeling Tours",
+          "type": "Tourist attraction",
+          "address": "Key Largo, FL"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 917,
+          "reviews_original": "(917)",
+          "description": "\"We booked online for our first snorkeling adventure and had a blast.\"",
+          "lsig": "AB86z5VaK0wg3qDWIjxGGvAigOOK",
+          "links": {
+            "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+            "directions": "https://www.google.com/maps/dir//John+Pennekamp+Coral+Reef+State+Park+Visitor+Center,+102601+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d768f9ecf87b3d:0x93da230d42abba07?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJxAA&hl=en&gl=us"
+          },
+          "place_id": "10653866408358427143",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10653866408358427143&q=snorkeling",
+          "provider_id": "/g/11f9wlqpz1",
+          "gps_coordinates": {
+            "latitude": 25.125158,
+            "longitude": -80.40612
+          },
+          "title": "John Pennekamp Coral Reef State Park Visitor Center",
+          "type": "Visitor center",
+          "address": "Key Largo, FL",
+          "hours": "Open · Closes 5 PM"
+        }
+      ]
+    }
+  }
+]

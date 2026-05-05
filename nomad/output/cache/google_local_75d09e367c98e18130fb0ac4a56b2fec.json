@@ -1,0 +1,313 @@
+{
+  "search_metadata": {
+    "id": "69f83ff495e0b3fa0ac4fae6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Iu2H7mFD2cXt39IrUD3Jig/69f83ff495e0b3fa0ac4fae6.json",
+    "created_at": "2026-05-04 06:43:00 UTC",
+    "processed_at": "2026-05-04 06:43:00 UTC",
+    "google_local_url": "https://www.google.com/search?q=live+jazz&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/Iu2H7mFD2cXt39IrUD3Jig/69f83ff495e0b3fa0ac4fae6.html",
+    "total_time_taken": 8.48
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "live jazz",
+    "location_requested": "New Orleans",
+    "location_used": "New Orleans,Louisiana,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 46.07323062540835,
+      "longitude": -90.0
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 5.0,
+      "reviews": 4,
+      "reviews_original": "(4)",
+      "description": "\"Beautiful concept\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/H7YuVPaIFeXEQDl7unk4i67SNsmEh0XAQEz-_py7MAs.webp",
+      "title": "House of Jazz Restaurant & Music Club",
+      "type": "Live Music",
+      "address": "241 Bourbon St"
+    },
+    {
+      "position": 2,
+      "rating": 4.6,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$20–30",
+      "description": "\"Amazing drinks, great live music and superb bartenders!\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/51chqqw8s5rI6UBZ0VVWLhTnOcLfDwOu9a1WBeJi7n0.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvuN8F5NyBawzebL3X7BaSs_rdgMZV5Zc-uMkTuyrrQMGA1BP7C7mrDSneiJy8c8Sazjvg70rk6QWTywmsvK08hwmGu3VvNKju9UOh54GIq0MaAtBStNt_n4CF4ZRPBUG05nxa=w1000-h1000-c-n",
+      "title": "Bourbon Street Drinkery",
+      "type": "Live music bar",
+      "address": "217 Bourbon St"
+    },
+    {
+      "position": 3,
+      "rating": 4.7,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "price": "$20–30",
+      "description": "\"Amazing Jazz Musicians, incredible ambiance, intimate setting and a must.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/ehU8ub23WKohNx1FfJkloBwITO5yKl_6FyIbqiyDDLo.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDRTzkK5OBDJa-eMQYX2u0e8snfGsJgzsX9Oz_BwKzo7hJKNAODpXmmYa2GAW7RpFagBCdgFV8uji8CVcxr5ch7cHB_5pWlvxhewm8S4QfgR2-LCHBlDVRPpMjIpLuNaYaPc2F=w1000-h1000-c-n",
+      "title": "Mahogany Jazz Hall",
+      "type": "Jazz",
+      "address": "125 Chartres St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.7,
+      "reviews": 6600,
+      "reviews_original": "(6.6K)",
+      "price": "$10–20",
+      "description": "\"If you’re looking for cool, authentic, intimate live jazz this is the spot.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/9tXSOMGXkL4DelvFGCf0paROzJG9KFi7Jl_9XZGYVN0.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgcjuyFi1qZBieZW_qxbfER1bMRfDp7uzpnjRprPsXRvVbaTEYXM9JNs8Ss0qu5S2AxnCGe-ouRZB_nlqFgPNTLHrQv0o7mtMb88JwzD6gXRtayjcQ3XmEa9S-Mpwg3VD_gng=w1000-h1000-c-n",
+      "title": "The Spotted Cat Music Club",
+      "type": "Live music bar",
+      "address": "623 Frenchmen St",
+      "hours": "Closes soon · 2 AM"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 220,
+      "reviews_original": "(220)",
+      "price": "$20–30",
+      "description": "\"They had Delicious food, drinks, great music, fun and friendly atmosphere!!!\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/CA9xQkNiN1RIrS61Cewm8OL6Ma8CpgFdSyOYgAGefRc.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHORDDhd8-Qk6HH6MhsKZXC7Fru1ydlUBrSDFHihgFAlmz4im10vzMV7wgqjPJi-TmON9ahmeX90UJWWS4IfJYzeWuE2zW31vrrFuvgep4Onsrdg1CdHpzsHSjZ6KLilU9AbaRZBLndT6T0=w1000-h1000-c-n",
+      "title": "The Bourbon Square Jazz Bar",
+      "type": "Bar",
+      "address": "1131 Elysian Fields Ave",
+      "hours": "Closes soon · 2 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.5,
+      "reviews": 2100,
+      "reviews_original": "(2.1K)",
+      "description": "\"Amazing bands , great atmosphere, and good drinks won’t disappoint!\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/x0lT5p3hiReVIzHV7A43ttd1Tr8jUbmYJeore86cRhA.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHp3-lROPD6dcEFHkOIWwx8vJaL5EzzbHP726_mHkeBOFahJwKigCH-GVe3oBCECaL8S_hgyp23auoqgV2kmGBdJxPJe9U0_B5JY4R9PF36ECMna7VAxE_gBgaA9epOSVkWKT5P=w1000-h1000-c-n",
+      "title": "Famous Door",
+      "type": "Live Music",
+      "address": "339 Bourbon St"
+    },
+    {
+      "position": 7,
+      "rating": 4.7,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$30–40",
+      "description": "\"The food was great, the music/band was great, and the atmosphere was great.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/3CElv8Vsvm7SWUTjkiBNIiG_3S8jy1fvnG8o1Q0Njys.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7DgLMIZ6FZmY02tE5L1scqvf6PE3baS6z8ABc54QkKFBNDQY9WDkJtenb80QUdz8hwNrGEH1fEI0jzfYeCUGv8OUjNG5YW8GsfdK3U1EWTuS7GUABp9RDvNk4fB5LperrYAZSyQ=w1000-h1000-c-n",
+      "title": "The Jazz Playhouse",
+      "type": "Jazz",
+      "address": "300 Bourbon St",
+      "hours": "Closed · Opens 3 PM Tue"
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 120,
+      "reviews_original": "(120)",
+      "description": "\"Dope social scene!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz4e64jECbFD0AFXVug7KmaW8XYyFO4ameTMEsqjsesNhGBJhpImkM0OS1zqnYIn2KA_yPpLV3JkI7Z49DXGraySXpMeEybSC-q0tRyr2p6eQ0vySoTclCtkfgFQt3j0zzJ5MjCA=w90-h90-n-k-no-l75",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz4e64jECbFD0AFXVug7KmaW8XYyFO4ameTMEsqjsesNhGBJhpImkM0OS1zqnYIn2KA_yPpLV3JkI7Z49DXGraySXpMeEybSC-q0tRyr2p6eQ0vySoTclCtkfgFQt3j0zzJ5MjCA=w1000-h1000-c-n",
+      "title": "Good Measure",
+      "type": "Live Music",
+      "address": "600 Carondelet St Suite #1"
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 4600,
+      "reviews_original": "(4.6K)",
+      "price": "$10–20",
+      "description": "\"Fantastic live Jazz bands, great service.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/efYf8q6wDCjoGkbjyaMZsd_d2QOmKxws8RnPqxHsEJY.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtoPLjQ1qdY3wDMeBPxEzlHvDeM7qdO0XNFhnOdRIYTX8EtovNVN-kHn7yQ5qPma7uqeG1FvHx0w0y3sg0wc1G0N0Q9otGA2O9_3DBpetDi94dm-buPU35UIMIKFLZVr5o2Nh7WQ=w1000-h1000-c-n",
+      "title": "Fritzel's European Jazz Pub",
+      "type": "Jazz",
+      "address": "733 Bourbon St",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "description": "\"No wait, good drinks & food, great jazz music\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/kGuXflxnqp67f71HRJTfM0NP45OYcWMATLbErJelJXE.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnYZ2VKotvlbL3Z90syjaBYFFyzmK2x9z5Flk_TPgMkhY3E3rJ0ymIW49mtQPaS4ttLBIMNYj1aHHlSURglJlh6XvXIG4lY8MwnqDTRPg2F81ACHq75F6pK49gMeOeIsiV2c45=w1000-h1000-c-n",
+      "title": "The Maison",
+      "type": "Live Music",
+      "address": "508 Frenchmen St"
+    },
+    {
+      "position": 11,
+      "rating": 4.3,
+      "reviews": 742,
+      "reviews_original": "(742)",
+      "price": "$10–20",
+      "description": "\"Awesome atmosphere, excellent sound system, and a very talented band.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/7fIVIad-mrSIaGYCyr5_lrYwwLRPBMLSNSsvCoOXvOQ.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5F5fplcMpy5Pe96dAVBfTt4K6bh72-qkUan5Hf-m2VYqsHhD3ZVADs5K44EpHj1_LBa1YdLrG3eW2_t3o2Y4IEUXUbF5_TR4ucN0faimnQSc7p--2brCRCYXYDlHXnmyI-Axe=w1000-h1000-c-n",
+      "title": "Favela Chic",
+      "type": "Live music bar",
+      "address": "525 Frenchmen St"
+    },
+    {
+      "position": 12,
+      "rating": 3.9,
+      "reviews": 225,
+      "reviews_original": "(225)",
+      "price": "$20–30",
+      "description": "\"The music,staff, the whole street were having a amazing evening\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/kheX-5tGqlf0MKcZ70JCKJa01BlDM1Q3Kmn-SQUIlB0.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoB63sQwS3BAf8oAhD0qCvU8FBizr0iAtcQJ0ML_AxLKhAhe7AoPozANBQM2kXezB41iDXmODr-Zwl6lS2-uqcr9ZTMuLNtGYYNv5gTHDoLK2Pqfo9OYC48_T00Ca8rPoMdUgs=w1000-h1000-c-n",
+      "title": "Krazy Korner",
+      "type": "Night club",
+      "address": "640 Bourbon St"
+    },
+    {
+      "position": 13,
+      "rating": 4.5,
+      "reviews": 5100,
+      "reviews_original": "(5.1K)",
+      "description": "\"Live music no cover on Wednesday but limited menu.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/MBV4e4dj8vnfRX46Op7Oo5_BFCCvHVaV5PZt4JmopSA.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuVxZajr7ky85zSpj0IbYoOFurHoOMYvELaV-5aMvOIVQJ-jbNtm2Y8YZ9rvE26e7l7EBvhzncWgcm2o_6zFkj8c_6FznrGfSfgaspIIObRM8u_mCJkTvEPQMWT186w6iBusFf=w1000-h1000-c-n",
+      "title": "House of Blues New Orleans",
+      "type": "Live Music",
+      "address": "225 Decatur St",
+      "hours": "Closed · Opens 4 PM Thu"
+    },
+    {
+      "position": 14,
+      "rating": 4.4,
+      "reviews": 681,
+      "reviews_original": "(681)",
+      "description": "\"Live jazz band was playing, drinks were nice.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/Od6rkHN9MSzI_RlkOB9gLXKviFgwCfSCb90G_nF1SDM.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEF1Mqf4SjayF0MFglN8KcaxV393hvFQ9cw5KYkJdwNUbLAeogpvdQyAmMz91EoQ-GXO1yp_-W_rLQpWSB-MxBRLqLXHS64WQUQHF2ifj3YiKEp5UOA-JpRuhzgFCuWSwYHHMXJ=w1000-h1000-c-n",
+      "title": "Prohibition",
+      "type": "Bar",
+      "address": "333 Bourbon St",
+      "hours": "Closes soon · 2 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 5100,
+      "reviews_original": "(5.1K)",
+      "description": "\"Timeless, unique, and memorable live jazz experience!\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/j0_FAAvlbXcrIz54a6ED5OxyEzLAOGm6zajLmW-bkhE.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKpSD5fmCa875WYVqmn1rNTmSu_QXaTn5df7bNTRt77jJVoY3vVKIFeFWsvuViPWITI3xFwlre2VtT-pAVZUQDrjG6Utg9q9znkZ9-_tuvzrMXqB-Z69pEWDcIpcJG5-PH-i7QhcCkOxzY=w1000-h1000-c-n",
+      "title": "Preservation Hall",
+      "type": "Live Music",
+      "address": "726 St Peter",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 399,
+      "reviews_original": "(399)",
+      "description": "\"Cocktails and food were both on point and the live music was wonderful.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/vgNTDBP99K1ZJog6RGMiZW7LYkwfOMJPgLT4p08eWkM.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUEeliHZKpUU5D0CGnqBprML6wH1TmqLN45sZ7dbUXgs2HEFqEOBrzmaSq-TC4hpPhT-YlqreXUKAiQPjMyEtHK2gb30F16vlf85tfjG0umUed-vLurZfNEaFPqKwr27CRe-pHEEMvlaYr=w1000-h1000-c-n",
+      "title": "Bayou Bar",
+      "type": "Jazz",
+      "address": "2031 St Charles Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews": 452,
+      "reviews_original": "(452)",
+      "description": "\"Nice intimate venue with great sound acoustics\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/4YQ66xsnDTABTCel7vNMByXXLwhVWxVCfuqWRod4Cqo.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_1s88NQ9RhaKwH_NxQcQ8hVc-ZKPxVLoqnXhsmVoHLzZplBcD90v9Jn20RatsD4Q_OugAR8ZpBWHQu3Wb-aCtmtxBZyenYXGF39XQSgu-rZzG4w7qtdK7LMNvfemrkQiQiXam=w1000-h1000-c-n",
+      "title": "New Orleans Jazz & Blues Market",
+      "type": "Live Music",
+      "address": "1436 Oretha Castle Haley Blvd",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.7,
+      "reviews": 246,
+      "reviews_original": "(246)",
+      "price": "$20–30",
+      "description": "\"Beyond the food the live music and service were also stellar.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/WeWxVtjn1BZ_g8KbMAidW5_dsZ0WAS2-1iQvtjM-58E.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECWOMqFRSBU_LrgsWSsYXkBsl1EAM_RBTETKKi0SRw_6tPB89Ej73VOljaIMf177Pb61xUupX5WMVyj64-z_FXUPpqSqygcR64qvNL9FFMCfQqU1jP_AHqM2EhsAVmgvvFc99u_w=w1000-h1000-c-n",
+      "title": "Sweet Lorraine's Jazz Club",
+      "type": "Jazz",
+      "address": "1931 St Claude Ave",
+      "hours": "Closed · Opens 5 PM Tue"
+    },
+    {
+      "position": 19,
+      "rating": 4.4,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$20–30",
+      "description": "\"Great ambience of live jazz music on the video monitors while you eat.\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/ex9YjeDHUJubOumXv2ao_YGTlKIdR-lK2MSL74u3AWo.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBenSmztB3FFhkPLVQpH3A3IsUmGFEz8Xtv-72mON0Eucc9m2itWGaB9HqYFQCM_EFeyJRaff_YJgmdUS9lKzrV5ee24h4O0p0GvGMRjhHAwF0M3jgBLQwLUcKs4BJjVKe8HLM=w1000-h1000-c-n",
+      "title": "Snug Harbor Jazz Bistro",
+      "type": "Jazz",
+      "address": "626 Frenchmen St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.2,
+      "reviews": 39,
+      "reviews_original": "(39)",
+      "description": "\"The guy on stage was super energetic and had the crowd going wild!\"",
+      "thumbnail": "https://serpapi.com/searches/69f83ff495e0b3fa0ac4fae6/images/na3QmxbrL9bh0agG13I77qvoS-dndn4_MA4yNdM7_2Y.jpeg",
+      "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWSFsJpqRkC8P_acA18-fU2meZSGH3zeOQJlCh82GtaHok1qepB7lqSzTIIbw6eenwGSE_R3B7gyw3VMxM1N87queDGK8JzH7DSfnwl2AMAhWuOCRAWhIdlP8QvlSQJeowM1w-=w1000-h1000-c-n",
+      "title": "Bourbon Live",
+      "type": "Night club",
+      "address": "516 Bourbon St",
+      "hours": "Closes soon · 2 AM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=live+jazz&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=live+jazz&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=live+jazz&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=live+jazz&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=live+jazz&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=live+jazz&start=20&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0%3D",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=live+jazz&start=20&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0%3D",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=live+jazz&start=20&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0%3D",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=live+jazz&start=40&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0%3D",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=live+jazz&start=60&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0%3D",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=live+jazz&start=80&uule=j+WzIsMzIsbnVsbCwiTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXMiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0%3D"
+    }
+  }
+}

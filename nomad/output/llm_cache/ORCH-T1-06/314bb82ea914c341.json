@@ -1,0 +1,53 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_012hG9o3xrme6CFFgAJJvKxW",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01YViEDDpdBi4kZaXRdZpUZF",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "destination": "Portland",
+          "dietary_needs": [
+            "vegan",
+            "gluten-free"
+          ],
+          "interests": [
+            "Pacific Northwest cuisine",
+            "farm-to-table",
+            "outdoor seating"
+          ],
+          "num_travelers": 2
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": true
+        },
+        "response_to_user": "I'll search for highly-rated restaurants in Portland, Oregon that can accommodate both vegan and gluten-free dietary needs, with a focus on Pacific Northwest farm-to-table cuisine and outdoor seating options."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2592,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 212,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

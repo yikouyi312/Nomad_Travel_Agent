@@ -1,0 +1,51 @@
+{
+  "search_metadata": {
+    "id": "69d52dc4e6cb30f33168876d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3YqOMFizFfMNDPp8FcWuvg/69d52dc4e6cb30f33168876d.json",
+    "created_at": "2026-04-07 16:16:04 UTC",
+    "processed_at": "2026-04-07 16:16:04 UTC",
+    "google_local_url": "https://www.google.com/search?q=Willis+Tower+Skydeck&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/3YqOMFizFfMNDPp8FcWuvg/69d52dc4e6cb30f33168876d.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Willis Tower Skydeck",
+    "location_requested": "Chicago",
+    "location_used": "Chicago,Illinois,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 41.87898762614443,
+      "longitude": -87.63591170310974
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 36000,
+      "reviews_original": "(36K)",
+      "description": "Panoramic views from 1353 feet above",
+      "lsig": "AB86z5Xgn-Z9-ezOdWR_DYalhvMX",
+      "thumbnail": "https://serpapi.com/searches/69d52dc4e6cb30f33168876d/images/_5GrYzeK2mo1SCq0MkCdcHd6cu8_ttm4rILErQH81rU.jpeg",
+      "place_id": "14918508562816029949",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14918508562816029949&q=Willis+Tower+Skydeck",
+      "provider_id": "/g/1hhnxgkgv",
+      "gps_coordinates": {
+        "latitude": 41.878876,
+        "longitude": -87.63592
+      },
+      "title": "Skydeck Chicago",
+      "type": "Observation deck",
+      "phone": "(312) 875-9447",
+      "address": "233 S Wacker Dr",
+      "hours": "Open · Closes 10 PM"
+    }
+  ]
+}

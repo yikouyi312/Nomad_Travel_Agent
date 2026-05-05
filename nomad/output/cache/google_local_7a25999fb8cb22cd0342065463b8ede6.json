@@ -1,0 +1,431 @@
+{
+  "search_metadata": {
+    "id": "69d51b134c437ff126b4663d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kkJ5YC7z2p05684Sdjx6qg/69d51b134c437ff126b4663d.json",
+    "created_at": "2026-04-07 14:56:19 UTC",
+    "processed_at": "2026-04-07 14:56:19 UTC",
+    "google_local_url": "https://www.google.com/search?q=Cajun+crawfish&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/kkJ5YC7z2p05684Sdjx6qg/69d51b134c437ff126b4663d.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Cajun crawfish",
+    "location_requested": "New Orleans",
+    "location_used": "New Orleans,Louisiana,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 29.97902598296114,
+      "longitude": -90.0387954711914
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.3,
+      "reviews": 6400,
+      "reviews_original": "(6.4K)",
+      "price": "$10–20",
+      "description": "\"Some of the biggest juiciest crawfish I’ve ever had seasoned to perfection!\"",
+      "lsig": "AB86z5U2KqYrf6Yxr9SVDdMum9Di",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/R5Us7eRZwejgDotuLTi1DPHZOzVu4uSTBj2-H_C3Fkk.jpeg",
+      "place_id": "17196352793073026766",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=17196352793073026766&q=Cajun+crawfish",
+      "provider_id": "/g/11y197xlq",
+      "gps_coordinates": {
+        "latitude": 29.971203,
+        "longitude": -90.0677
+      },
+      "title": "Cajun Seafood",
+      "type": "Cajun",
+      "address": "1479 N Claiborne Ave",
+      "hours": "Closed · Opens 10:30 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.3,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "price": "$10–20",
+      "description": "\"The crawfish was flavorful and each bite was full of New Orlean spices.\"",
+      "lsig": "AB86z5XQwe-OwV6h8HgMbeD0vfQ0",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/pl9le4QTtLU7Mhn-HWtVtehs2tNMDuGz0hiMee5wpFw.jpeg",
+      "place_id": "16699291697568520027",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=16699291697568520027&q=Cajun+crawfish",
+      "provider_id": "/g/1td2bppl",
+      "gps_coordinates": {
+        "latitude": 29.950703,
+        "longitude": -90.100365
+      },
+      "title": "Cajun Seafood",
+      "type": "Seafood",
+      "address": "2730 S Broad Ave",
+      "hours": "Closed · Opens 10:30 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.1,
+      "reviews": 260,
+      "reviews_original": "(260)",
+      "description": "\"Crawfish are so good,the turkey necks,pig feets omg were EVERTHING!\"",
+      "lsig": "AB86z5W5XZmybvL7znkODtCkFu_W",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/MsitlA2N3lkCRhR-iFWAweZ6JkMOfzOyJkENPDRZ0Ow.jpeg",
+      "place_id": "8551556084062869530",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=8551556084062869530&q=Cajun+crawfish",
+      "provider_id": "/g/1tnplc0l",
+      "gps_coordinates": {
+        "latitude": 29.977442,
+        "longitude": -90.047424
+      },
+      "title": "Cajun Seafood",
+      "type": "Seafood",
+      "address": "1901 Almonaster Ave",
+      "hours": "Closed · Opens 10:30 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.6,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "description": "\"Every bite was a burst of authentic Cajun flavor!\"",
+      "lsig": "AB86z5UpJvYXNdX1aikJkdrrssSM",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/TeWpi-SlDveEHVrR5SBIAHH0tsxq5tk13i6I3fgKhAM.jpeg",
+      "place_id": "3340182241544386521",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=3340182241544386521&q=Cajun+crawfish",
+      "provider_id": "/g/11y8bjq4x0",
+      "gps_coordinates": {
+        "latitude": 29.955395,
+        "longitude": -90.07008
+      },
+      "title": "Hot N Cajun Boil House",
+      "type": "Seafood",
+      "address": "901 Iberville St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 91,
+      "reviews_original": "(91)",
+      "lsig": "AB86z5Xp9eVPaHxMp6Gh4GHkUkPE",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/4-X57zv_p3pFB9jXq-TU-PlAqCOeUKPRS5xhnpal3xQ.jpeg",
+      "place_id": "16442791958841562833",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=16442791958841562833&q=Cajun+crawfish",
+      "provider_id": "/g/11yxqxb37n",
+      "gps_coordinates": {
+        "latitude": 29.95141,
+        "longitude": -90.06693
+      },
+      "title": "Cajun Boil House",
+      "type": "Restaurant",
+      "address": "438 Canal St",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Recently opened"
+      ]
+    },
+    {
+      "position": 6,
+      "rating": 4.2,
+      "reviews": 348,
+      "reviews_original": "(348)",
+      "price": "$10–20",
+      "description": "\"Great place to get some viet cajun crawfish.\"",
+      "lsig": "AB86z5VIXegzECQxXplzK7VqBuA_",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/7tuilxCRURfqGtQEVjdo2fEnb8Fawrf6f0xV3Xien1E.jpeg",
+      "place_id": "9726796574171863007",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=9726796574171863007&q=Cajun+crawfish",
+      "provider_id": "/g/11h64l2q67",
+      "gps_coordinates": {
+        "latitude": 30.0301,
+        "longitude": -89.97749
+      },
+      "title": "Cajun Shack NOLA",
+      "type": "Seafood",
+      "address": "9830 Lake Forest Blvd Suite 110",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 705,
+      "reviews_original": "(705)",
+      "description": "\"The crawfish are perfectly seasoned.\"",
+      "lsig": "AB86z5VPaMb-p64wuqD1Mn8J14MU",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/0fRP9aa2trS4PZFDilWzNv9zwfsEWM0HN94vvAOAwKw.jpeg",
+      "place_id": "8536232404440443434",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=8536232404440443434&q=Cajun+crawfish",
+      "provider_id": "/g/1tf3bx9f",
+      "gps_coordinates": {
+        "latitude": 29.910645,
+        "longitude": -90.02409
+      },
+      "title": "Cajunland Seafood",
+      "type": "Seafood",
+      "address": "Terrytown, LA",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.1,
+      "reviews": 5400,
+      "reviews_original": "(5.4K)",
+      "price": "$20–30",
+      "description": "\"The special catfish with crawfish dish was delicious.\"",
+      "lsig": "AB86z5ViJlTa_X-w91Xy8opvrv85",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/q-4wlOHJfLFKrUUZSTmR2I68EKgdj8PI7aHL9KKQAJY.jpeg",
+      "place_id": "2325907536557379240",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=2325907536557379240&q=Cajun+crawfish",
+      "provider_id": "/m/0kjs0js",
+      "gps_coordinates": {
+        "latitude": 29.944443,
+        "longitude": -90.06481
+      },
+      "title": "Mulate's | The Original Cajun Restaurant",
+      "type": "Cajun",
+      "address": "201 Julia St"
+    },
+    {
+      "position": 9,
+      "rating": 3.9,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$10–20",
+      "description": "\"The crawfish were pretty big and the consistency was great throughout.\"",
+      "lsig": "AB86z5Xv8aP0yablm_jz-hOCV7H_",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/FEUi6K6JdulZ5sOXZhTcH5-yy0p9TraLEYRVp5agNjY.jpeg",
+      "place_id": "1413664100129267763",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=1413664100129267763&q=Cajun+crawfish",
+      "provider_id": "/g/1tjds380",
+      "gps_coordinates": {
+        "latitude": 30.038586,
+        "longitude": -89.97768
+      },
+      "title": "Cajun Seafood",
+      "type": "Seafood",
+      "address": "7020 Read Blvd",
+      "hours": "Closed · Opens 10:30 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.4,
+      "reviews": 4500,
+      "reviews_original": "(4.5K)",
+      "price": "$20–30",
+      "description": "\"The trio of jambalaya, crawfish etoufette, and gumbo was great as well!\"",
+      "lsig": "AB86z5Vo_TqBOq06DF9pPE3SOrL8",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/amfaiNzqJi1q8EDcVZ-OJGQX1cwJa1HaywudSIq1kMA.jpeg",
+      "place_id": "1993151528735567507",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=1993151528735567507&q=Cajun+crawfish",
+      "provider_id": "/g/1vpfjx7g",
+      "gps_coordinates": {
+        "latitude": 29.955732,
+        "longitude": -90.06524
+      },
+      "title": "The Original Pierre Maspero's",
+      "type": "Restaurant",
+      "address": "440 Chartres St"
+    },
+    {
+      "position": 11,
+      "rating": 4.8,
+      "reviews": 581,
+      "reviews_original": "(581)",
+      "price": "$10–20",
+      "description": "\"Highly recommended the Shrimp and Crawfish Etouffee and any of the gumbos!\"",
+      "lsig": "AB86z5WsxgSvUYzAM26-fqsqNOAZ",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/Xu556spYU3AUCSSjiFAh7UWyM7nb2RB4lFPkyc_-a2s.jpeg",
+      "place_id": "2635393530996667231",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=2635393530996667231&q=Cajun+crawfish",
+      "provider_id": "/g/11jk0x94n5",
+      "gps_coordinates": {
+        "latitude": 29.956352,
+        "longitude": -90.068016
+      },
+      "title": "NOLA GUMBO FACTORY",
+      "type": "Cajun",
+      "address": "806 Conti St",
+      "hours": "Closed · Opens 5 PM Wed"
+    },
+    {
+      "position": 12,
+      "rating": 4.8,
+      "reviews": 645,
+      "reviews_original": "(645)",
+      "description": "\"The snow crab was booming crawfish was singing 🎵 it was amazing !!!\"",
+      "lsig": "AB86z5XQYd29FefUew_URax-TV7v",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/1c2L0LqoO7ATUfBkWQiCZmz1NrQDP_HX0iFBTBmZM68.jpeg",
+      "place_id": "9107382271891469551",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=9107382271891469551&q=Cajun+crawfish",
+      "provider_id": "/g/11xl_pyc0t",
+      "gps_coordinates": {
+        "latitude": 29.897305,
+        "longitude": -90.06144
+      },
+      "title": "Hot N Cajun Boil House",
+      "type": "Seafood",
+      "address": "Harvey, LA",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.5,
+      "reviews": 291,
+      "reviews_original": "(291)",
+      "description": "\"Their crawfish are perfectly seasoned and always delicious.\"",
+      "lsig": "AB86z5XzcmDH6RaIctJsofwc2o4f",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/1m2oZtnFHYDn-f5y8JDlOhAPTYJDNxfT9DHv6zO32e4.png",
+      "place_id": "15190079214202514630",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=15190079214202514630&q=Cajun+crawfish",
+      "provider_id": "/g/11n01byb7g",
+      "gps_coordinates": {
+        "latitude": 30.01274,
+        "longitude": -90.05078
+      },
+      "title": "Nola Crawfish King Seafood & catering",
+      "type": "Seafood wholesaler",
+      "address": "5321 Franklin Ave"
+    },
+    {
+      "position": 14,
+      "rating": 4.2,
+      "reviews": 169,
+      "reviews_original": "(169)",
+      "description": "\"Amazing crawfish and boudin as well as fast and friendly service.\"",
+      "lsig": "AB86z5XPWz7F0RmhhG1UaF44WL5t",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/ncFEjzfRiEcViSQi_QgmnglB1Ib2yYC3rlg23B3K7TQ.jpeg",
+      "place_id": "15256008317089208183",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=15256008317089208183&q=Cajun+crawfish",
+      "provider_id": "/g/11lgqdt3sx",
+      "gps_coordinates": {
+        "latitude": 29.927343,
+        "longitude": -90.02551
+      },
+      "title": "Dat Cajun Seafood",
+      "type": "Seafood",
+      "address": "3020 General De Gaulle Dr",
+      "hours": "Closed · Opens 10:30 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 3300,
+      "reviews_original": "(3.3K)",
+      "price": "$20–30",
+      "description": "\"We had the Jambalaya and Crawfish Étouffée and they both tasted like heaven.\"",
+      "lsig": "AB86z5VXwY2ILLFgyag6XhjjZmhR",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/K55-jhs0mC0eM5tLUpYR62DQmqxMbu7ca295GZZx_I8.jpeg",
+      "place_id": "2684516136497893162",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=2684516136497893162&q=Cajun+crawfish",
+      "provider_id": "/g/11twnstc3m",
+      "gps_coordinates": {
+        "latitude": 29.954454,
+        "longitude": -90.070244
+      },
+      "title": "zesty creole",
+      "type": "Seafood",
+      "address": "827 Canal St"
+    },
+    {
+      "position": 16,
+      "rating": 4.3,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$10–20",
+      "description": "\"it’s hearty, comforting, and full of authentic Cajun flavor.\"",
+      "lsig": "AB86z5WQd-O01QWMWmDHENHU3q_R",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwernxUt1wcCOGxtjKb7FoW2uGtW0Sd8EwcYnI-aKALEVOflPmQ8Jk5MLpOMyxjdTcCizFCXeMmW0-TLnsplxFkXfokhBincPiPOTTDKlRiT1fsmCLY62TOmQJO4Csct_gFRBqtnR=w90-h90-n-k-no-l75",
+      "place_id": "11391794830896280729",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=11391794830896280729&q=Cajun+crawfish",
+      "provider_id": "/g/126001027",
+      "gps_coordinates": {
+        "latitude": 29.967373,
+        "longitude": -90.06196
+      },
+      "title": "Today's Cajun Seafood",
+      "type": "Cajun",
+      "address": "1700 McShane Pl",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.2,
+      "reviews": 747,
+      "reviews_original": "(747)",
+      "description": "\"Crawfish when it is in season is to die for, made perfectly each time.\"",
+      "lsig": "AB86z5UMrWtsDZcnD4t9UKjLkYWe",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/eC7HA7tCxQhLYRIlYuj8hd110YzXLiy8Jdnyb_cyNrw.jpeg",
+      "place_id": "14432437860806097680",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=14432437860806097680&q=Cajun+crawfish",
+      "provider_id": "/g/11mhpd9z0h",
+      "gps_coordinates": {
+        "latitude": 29.96914,
+        "longitude": -90.1058
+      },
+      "title": "HIEUX Boil Seafood House",
+      "type": "Seafood",
+      "address": "4077 Tulane Ave",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 18,
+      "rating": 5.0,
+      "reviews": 3,
+      "reviews_original": "(3)",
+      "description": "\"Great crawfish and super nice people!\"",
+      "lsig": "AB86z5XpyQEP8dHT2WZt1qYgB6Jc",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/wZJvqGM4NeLbK7NWLl0HmALfQsStqb2EcXm2-70Gp8w.jpeg",
+      "place_id": "5289869134262520716",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=5289869134262520716&q=Cajun+crawfish",
+      "provider_id": "/g/11c1gft6q3",
+      "gps_coordinates": {
+        "latitude": 30.000156,
+        "longitude": -90.25321
+      },
+      "title": "The Louisiana Cajun Crawfish Co.",
+      "type": "Seafood",
+      "address": "Kenner, LA",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.4,
+      "reviews": 462,
+      "reviews_original": "(462)",
+      "price": "$20–30",
+      "description": "\"The crawfish was nice and spicy, prices are reasonable too!\"",
+      "lsig": "AB86z5XUiG4QwuoSDjtGwcBfaJ5Q",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/CoxFHUEQTyG_Mx7FsSHPrtLS6awEyKCXOoUapK7uepo.jpeg",
+      "place_id": "14131701411059169458",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=14131701411059169458&q=Cajun+crawfish",
+      "provider_id": "/g/1tdn4g1d",
+      "gps_coordinates": {
+        "latitude": 29.88925,
+        "longitude": -90.01899
+      },
+      "title": "Cajun Corner Seafood",
+      "type": "Seafood",
+      "address": "Terrytown, LA",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 20,
+      "rating": 5.0,
+      "reviews": 100,
+      "reviews_original": "(100)",
+      "description": "\"The crawfish is absolutely delicious and it’s always hot upon delivery!\"",
+      "lsig": "AB86z5VJq8EXgwBL6v1VItdSJZAq",
+      "thumbnail": "https://serpapi.com/searches/69d51b134c437ff126b4663d/images/OXcY1KrTqYDYbkjBI-Ig01StCaU0jjiv8PhUs2Q2E2E.jpeg",
+      "place_id": "14278502155620162885",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=14278502155620162885&q=Cajun+crawfish",
+      "title": "Gulf Coast Crawfish Co.",
+      "type": "Caterer"
+    }
+  ]
+}

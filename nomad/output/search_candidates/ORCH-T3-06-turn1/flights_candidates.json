@@ -1,0 +1,1272 @@
+[
+  {
+    "task_id": "ORCH-T3-06-turn1",
+    "category": "flights",
+    "timestamp": "2026-04-07T12:16:48.357992",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Los Angeles",
+      "destination": "Las Vegas",
+      "departure_date": "2026-12-10",
+      "return_date": "2026-12-14"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 09:30"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 10:49"
+              },
+              "duration": 79,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1889",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 65 kg"
+              ]
+            }
+          ],
+          "total_duration": 79,
+          "carbon_emissions": {
+            "this_flight": 66000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -7
+          },
+          "price": 195,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRFNE9Ea2FDd2lZbUFFUUFob0RWVk5FT0J4d21KZ0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMTg4OSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 15:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 16:12"
+              },
+              "duration": 72,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 3130",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 71 kg"
+              ]
+            }
+          ],
+          "total_duration": 72,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 195,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRNeE16QWFDd2lZbUFFUUFob0RWVk5FT0J4d21KZ0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMzEzMCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 11:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 12:07"
+              },
+              "duration": 67,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2741",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 67,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRJM05ERWFDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMjc0MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 12:50"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 14:02"
+              },
+              "duration": 72,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2388",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 65 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 72,
+          "carbon_emissions": {
+            "this_flight": 66000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -7
+          },
+          "price": 220,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRJek9EZ2FDd2ptcXdFUUFob0RWVk5FT0J4dzVxc0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMjM4OCJdXV0="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 19:20"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 20:33"
+              },
+              "duration": 73,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2785",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 53 kg"
+              ]
+            }
+          ],
+          "total_duration": 73,
+          "carbon_emissions": {
+            "this_flight": 54000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -24
+          },
+          "price": 195,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRJM09EVWFDd2lZbUFFUUFob0RWVk5FT0J4d21KZ0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMjc4NSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 08:15"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 09:22"
+              },
+              "duration": 67,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1006",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 67,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRFd01EWWFDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMTAwNiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 16:40"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 17:57"
+              },
+              "duration": 77,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2679",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 77,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRJMk56a2FDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMjY3OSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 19:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 20:07"
+              },
+              "duration": 67,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 679",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 67,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1ZWUVRZM09Sb0xDT2luQVJBQ0dnTlZVMFE0SEhEb3B3RT0iLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiNjc5Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 22:40"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 23:56"
+              },
+              "duration": 76,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1546",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 76,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRFMU5EWWFDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMTU0NiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 18:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 19:11"
+              },
+              "duration": 71,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2202",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 71,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 251,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJeU1ESWFDd2o1d3dFUUFob0RWVk5FT0J4dytjTUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjIwMiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 07:35"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 08:46"
+              },
+              "duration": 71,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2253",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 71,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 270,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJeU5UTWFDd2prMGdFUUFob0RWVk5FT0J4dzVOSUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjI1MyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 15:40"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 16:54"
+              },
+              "duration": 74,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2084",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 74,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 270,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJd09EUWFDd2prMGdFUUFob0RWVk5FT0J4dzVOSUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjA4NCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 11:20"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 12:36"
+              },
+              "duration": 76,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1696",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 76,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 314,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERFMk9UWWFDd2lVOVFFUUFob0RWVk5FT0J4d2xQVUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMTY5NiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 21:30"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 22:49"
+              },
+              "duration": 79,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2653",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 79,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 314,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJMk5UTWFDd2lVOVFFUUFob0RWVk5FT0J4d2xQVUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjY1MyJdXV0="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-06-turn1",
+    "category": "flights",
+    "timestamp": "2026-05-04T02:54:00.020585",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Los Angeles",
+      "destination": "Las Vegas",
+      "departure_date": "2026-12-10",
+      "return_date": "2026-12-14"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 09:30"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 10:49"
+              },
+              "duration": 79,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1889",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 65 kg"
+              ]
+            }
+          ],
+          "total_duration": 79,
+          "carbon_emissions": {
+            "this_flight": 66000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -7
+          },
+          "price": 195,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRFNE9Ea2FDd2lZbUFFUUFob0RWVk5FT0J4d21KZ0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMTg4OSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 15:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 16:12"
+              },
+              "duration": 72,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 3130",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 71 kg"
+              ]
+            }
+          ],
+          "total_duration": 72,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 195,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRNeE16QWFDd2lZbUFFUUFob0RWVk5FT0J4d21KZ0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMzEzMCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 11:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 12:07"
+              },
+              "duration": 67,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2741",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 67,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRJM05ERWFDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMjc0MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 12:50"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 14:02"
+              },
+              "duration": 72,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2388",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 65 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 72,
+          "carbon_emissions": {
+            "this_flight": 66000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -7
+          },
+          "price": 220,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRJek9EZ2FDd2ptcXdFUUFob0RWVk5FT0J4dzVxc0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMjM4OCJdXV0="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 19:20"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 20:33"
+              },
+              "duration": 73,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2785",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 53 kg"
+              ]
+            }
+          ],
+          "total_duration": 73,
+          "carbon_emissions": {
+            "this_flight": 54000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -24
+          },
+          "price": 195,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pCUVRJM09EVWFDd2lZbUFFUUFob0RWVk5FT0J4d21KZ0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkFBIiwiMjc4NSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 08:15"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 09:22"
+              },
+              "duration": 67,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1006",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 67,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRFd01EWWFDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMTAwNiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 16:40"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 17:57"
+              },
+              "duration": 77,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2679",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 77,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRJMk56a2FDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMjY3OSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 19:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 20:07"
+              },
+              "duration": 67,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 679",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 67,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1ZWUVRZM09Sb0xDT2luQVJBQ0dnTlZVMFE0SEhEb3B3RT0iLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiNjc5Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 22:40"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 23:56"
+              },
+              "duration": 76,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1546",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 70 kg"
+              ]
+            }
+          ],
+          "total_duration": 76,
+          "carbon_emissions": {
+            "this_flight": 71000,
+            "typical_for_this_route": 71000,
+            "difference_percent": 0
+          },
+          "price": 215,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pWUVRFMU5EWWFDd2pvcHdFUUFob0RWVk5FT0J4dzZLY0IiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIlVBIiwiMTU0NiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 18:00"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 19:11"
+              },
+              "duration": 71,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2202",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 71,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 251,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJeU1ESWFDd2o1d3dFUUFob0RWVk5FT0J4dytjTUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjIwMiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 07:35"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 08:46"
+              },
+              "duration": 71,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2253",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 71,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 270,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJeU5UTWFDd2prMGdFUUFob0RWVk5FT0J4dzVOSUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjI1MyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 15:40"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 16:54"
+              },
+              "duration": 74,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2084",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 74,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 270,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJd09EUWFDd2prMGdFUUFob0RWVk5FT0J4dzVOSUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjA4NCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 11:20"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 12:36"
+              },
+              "duration": 76,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1696",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 76,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 314,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERFMk9UWWFDd2lVOVFFUUFob0RWVk5FT0J4d2xQVUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMTY5NiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Los Angeles International Airport",
+                "id": "LAX",
+                "time": "2026-12-10 21:30"
+              },
+              "arrival_airport": {
+                "name": "Harry Reid International Airport",
+                "id": "LAS",
+                "time": "2026-12-10 22:49"
+              },
+              "duration": 79,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2653",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 62 kg"
+              ]
+            }
+          ],
+          "total_duration": 79,
+          "carbon_emissions": {
+            "this_flight": 63000,
+            "typical_for_this_route": 71000,
+            "difference_percent": -11
+          },
+          "price": 314,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJTkVwdlVsWk5XRVpHVTBGQlJGUkhNRUZDUnkwdExTMHRMUzB0ZEdKaWIzSXhOVUZCUVVGQlIyNVdUR1U0VGtScVdubEJFZ1pFVERJMk5UTWFDd2lVOVFFUUFob0RWVk5FT0J4d2xQVUIiLFtbIkxBWCIsIjIwMjYtMTItMTAiLCJMQVMiLG51bGwsIkRMIiwiMjY1MyJdXV0="
+        }
+      ]
+    }
+  }
+]

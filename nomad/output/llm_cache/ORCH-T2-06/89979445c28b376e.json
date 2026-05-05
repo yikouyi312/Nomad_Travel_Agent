@@ -1,0 +1,57 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01GXqm8nTUmtSDdwoS4BRo1k",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01WxL5GsYLX4Az5w3jUF5LPd",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "New York",
+          "destination": "San Francisco",
+          "start_date": "2026-11-05",
+          "duration_days": 3,
+          "budget_usd": 2000,
+          "num_travelers": 1,
+          "dietary_needs": [
+            "vegan"
+          ],
+          "interests": [
+            "Golden Gate Park",
+            "bike ride across Golden Gate Bridge",
+            "plant-based restaurant Mission District",
+            "eco-friendly hotel"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your 3-day vegan-friendly trip to San Francisco from NYC, departing November 5, 2026, with a $2,000 budget. I'll find flights, an eco-friendly hotel, and create an itinerary featuring Golden Gate Park, a bike ride across the Golden Gate Bridge, and plant-based dining in the Mission District. Let me search for the best options for you!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2671,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 311,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "search_metadata": {
+    "id": "69d52c7a03610a951527e2d8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GE6ftbBvz55e6qQFuQYIew/69d52c7a03610a951527e2d8.json",
+    "created_at": "2026-04-07 16:10:34 UTC",
+    "processed_at": "2026-04-07 16:10:34 UTC",
+    "google_local_url": "https://www.google.com/search?q=halal+restaurants&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/GE6ftbBvz55e6qQFuQYIew/69d52c7a03610a951527e2d8.html",
+    "total_time_taken": 6.22
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "halal restaurants",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.864784439396765,
+      "longitude": -80.2496337890625
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.9,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "description": "\"Recommend the Kafta kabab and Lamb Kabab.\"",
+      "lsig": "AB86z5VaPxlN9rzP-bNTnSWFZM12",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/whFoAxa1JCfSkS5a2NJATNOSoSXrZZ4dMux1YLQMAkM.jpeg",
+      "place_id": "9032129717382549062",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9032129717382549062&q=halal+restaurants",
+      "provider_id": "/g/11j7ctj7fd",
+      "gps_coordinates": {
+        "latitude": 25.868141,
+        "longitude": -80.378525
+      },
+      "title": "Takesh Grill",
+      "type": "Mediterranean",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 211,
+      "reviews_original": "(211)",
+      "price": "$10–20",
+      "description": "\"Amazing Halal place and they treat you with awesome customer service.\"",
+      "lsig": "AB86z5X6jk-xNXybmhB8pu1VMZ5A",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/m4b4FyGwsWuGb7b0KdcNq3mvE4vByvlrTh8ZMuYLQWA.jpeg",
+      "place_id": "10435014673315454748",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10435014673315454748&q=halal+restaurants",
+      "provider_id": "/g/11wc34tsn5",
+      "gps_coordinates": {
+        "latitude": 25.757498,
+        "longitude": -80.376976
+      },
+      "title": "The Halal Shack",
+      "type": "Halal",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 3,
+      "rating": 4.9,
+      "reviews": 94,
+      "reviews_original": "(94)",
+      "price": "$10–20",
+      "description": "\"The only CERTIFIED Hand Slaughter Halal Restaurant I found in Miami.\"",
+      "lsig": "AB86z5XlNnu-_36psIvO75Nt-_nR",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/NG-cVY_7pTFSFeOhap92BlPSLpxHkEte6dHan-FXzZ4.jpeg",
+      "place_id": "9255305937977786674",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9255305937977786674&q=halal+restaurants",
+      "provider_id": "/g/11yd2trjlk",
+      "gps_coordinates": {
+        "latitude": 25.782948,
+        "longitude": -80.19445
+      },
+      "title": "Ruby’s Kitchen",
+      "type": "Restaurant",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 4,
+      "rating": 4.9,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$10–20",
+      "description": "\"Really delicious food and halal, highly recommended.\"",
+      "lsig": "AB86z5XkRnI7o8VSedqOyWMZylei",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/B2N9Z8peCRyLRcytoAy7WO4dedDoFWC1Syqou57d3_A.jpeg",
+      "place_id": "17819056478211311612",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17819056478211311612&q=halal+restaurants",
+      "provider_id": "/g/11sslnyms8",
+      "gps_coordinates": {
+        "latitude": 25.855637,
+        "longitude": -80.12069
+      },
+      "title": "The Wrapper Miami",
+      "type": "Halal",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 5,
+      "rating": 4.5,
+      "reviews": 15,
+      "reviews_original": "(15)",
+      "price": "$10–20",
+      "description": "\"Definitely recommend for tasty halal food!\"",
+      "lsig": "AB86z5VDS_hAPAMFdYORM4AxXGjN",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/3937matmFcI6DKDSnMy0-TX5Pupq5wppJ1FPgq7YHcM.png",
+      "place_id": "15796588226352493756",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15796588226352493756&q=halal+restaurants",
+      "provider_id": "/g/11yw_6xtxp",
+      "gps_coordinates": {
+        "latitude": 25.795135,
+        "longitude": -80.1943
+      },
+      "title": "Naz's Halal Food - Wynwood",
+      "type": "Halal",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 6,
+      "rating": 4.8,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "price": "$20–30",
+      "description": "\"Their shawarma is some of the best I've had – perfectly seasoned and tender.\"",
+      "lsig": "AB86z5WrbicSssCA5xf319jjOdP5",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/zEZ_lZndFXLyfXyBiI6D6fjhSjKhU1DyKTbnlztToiw.jpeg",
+      "place_id": "13058054224142890575",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13058054224142890575&q=halal+restaurants",
+      "provider_id": "/g/11g4fgb19n",
+      "gps_coordinates": {
+        "latitude": 25.810322,
+        "longitude": -80.31612
+      },
+      "title": "Faraon Restaurant",
+      "type": "Lebanese",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 7,
+      "rating": 4.4,
+      "reviews": 497,
+      "reviews_original": "(497)",
+      "description": "\"The best halal food and dessert in Miami, the coffee is spectacular!\"",
+      "lsig": "AB86z5UryIVUVW8fFKs42yknECxl",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/cPe9YN_j5x2-ug9TPvC_y5wrBlm0uzU8nuTylU0uSsI.png",
+      "place_id": "13772372088635966706",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13772372088635966706&q=halal+restaurants",
+      "provider_id": "/g/11vkr347jv",
+      "gps_coordinates": {
+        "latitude": 25.810543,
+        "longitude": -80.19904
+      },
+      "title": "Shahs Of Kabob Wynwood",
+      "type": "Halal",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 8,
+      "rating": 4.9,
+      "reviews": 58,
+      "reviews_original": "(58)",
+      "price": "$10–20",
+      "description": "\"Everything was fresh, tasty, and 100% halal.\"",
+      "lsig": "AB86z5XKyqKfif-GpHDmu2f_vuHG",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/igHmAaDXLQ4dLvBOoRGUObLnW2rRZqngtBkHi1GpuQ4.jpeg",
+      "place_id": "11221585295150468345",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11221585295150468345&q=halal+restaurants",
+      "provider_id": "/g/11lzhq47cl",
+      "gps_coordinates": {
+        "latitude": 25.787668,
+        "longitude": -80.13226
+      },
+      "title": "Halal Food Restaurant",
+      "type": "Restaurant",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 9,
+      "rating": 4.9,
+      "reviews": 193,
+      "reviews_original": "(193)",
+      "price": "$10–20",
+      "description": "\"Halal Shack is clean, food is great, my go to every day when they are open.\"",
+      "lsig": "AB86z5WvMTiglnMLsT_W4HGT5rjz",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/zU4gGrsA42_qwId23pPr5wAGFnTt3HRrTCKHO8LxiqY.jpeg",
+      "place_id": "9072647900815049855",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9072647900815049855&q=halal+restaurants",
+      "provider_id": "/g/11krtx6xth",
+      "gps_coordinates": {
+        "latitude": 25.71976,
+        "longitude": -80.27804
+      },
+      "title": "The Halal Shack",
+      "type": "Halal",
+      "address": "Coral Gables, FL"
+    },
+    {
+      "position": 10,
+      "rating": 4.9,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"Very friendly very tasty food all halal and delicious\"",
+      "lsig": "AB86z5W0jcs4ahnZEbzh-L5emMk-",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/sIz4Hib8cDuyeDXlH87pbm2vdmLD49L3oDSF3P_Pldw.jpeg",
+      "place_id": "9663968563285282574",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9663968563285282574&q=halal+restaurants",
+      "provider_id": "/g/11y47k4blc",
+      "gps_coordinates": {
+        "latitude": 25.991516,
+        "longitude": -80.29499
+      },
+      "title": "Shawarma Shack",
+      "type": "Halal",
+      "address": "Miramar, FL"
+    },
+    {
+      "position": 11,
+      "rating": 4.8,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "description": "\"Great atmosphere and authentic Turkish food which is also Halal!\"",
+      "lsig": "AB86z5WfizsOAvyLjoLHWL4OFogS",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/EyDRnehb6pbeyZZPPnYiVpaQ9GGfrDV9R1n5ffqPk4M.jpeg",
+      "place_id": "9667727864291067304",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9667727864291067304&q=halal+restaurants",
+      "provider_id": "/g/11v9c4prm1",
+      "gps_coordinates": {
+        "latitude": 25.779299,
+        "longitude": -80.13295
+      },
+      "title": "Turkuaz Mediterranean Restaurant",
+      "type": "Halal",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 12,
+      "rating": 4.4,
+      "reviews": 2400,
+      "reviews_original": "(2.4K)",
+      "price": "$10–20",
+      "description": "\"The service and the food are amazing- best halal food ever!!!\"",
+      "lsig": "AB86z5VSw12n3ZdIGfOsq6pu-aF6",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/qEhHTlheLJmS3TwiUaRm8KJDSLVN8lzQ_iABYM2VNu8.jpeg",
+      "place_id": "11757735944089904680",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11757735944089904680&q=halal+restaurants",
+      "provider_id": "/g/11b809hrx0",
+      "gps_coordinates": {
+        "latitude": 25.788269,
+        "longitude": -80.13159
+      },
+      "title": "Al Basha Grill",
+      "type": "Halal",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 13,
+      "rating": 4.5,
+      "reviews": 2900,
+      "reviews_original": "(2.9K)",
+      "price": "$20–30",
+      "description": "\"Really good spot with fresh halal food and the service is super cool.\"",
+      "lsig": "AB86z5WKMYQsNPcp6f4ApSQBMbqq",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/J0vIwx7As6xpZwHLmJAPFt4olhIE_7I1eixXaFe0x6E.jpeg",
+      "place_id": "9421157315765668154",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9421157315765668154&q=halal+restaurants",
+      "provider_id": "/g/11cjg91c5y",
+      "gps_coordinates": {
+        "latitude": 25.78143,
+        "longitude": -80.13248
+      },
+      "title": "Safron Grill",
+      "type": "Turkish",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 14,
+      "rating": 5.0,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$10–20",
+      "description": "\"... staff provide excellent service, and the food is delicious and halal.\"",
+      "lsig": "AB86z5UaeTjCZA62ESPW8sO21_2I",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/FQo0ACkus1MVpiamONsU376lAijWFrQJd8eW-MTCIoE.jpeg",
+      "place_id": "59919766607997691",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=59919766607997691&q=halal+restaurants",
+      "provider_id": "/g/11l_1yfr3z",
+      "gps_coordinates": {
+        "latitude": 25.760908,
+        "longitude": -80.36672
+      },
+      "title": "Sahara Grill",
+      "type": "Halal",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 15,
+      "rating": 4.5,
+      "reviews": 472,
+      "reviews_original": "(472)",
+      "description": "\"The best Persian kebab, high quality, clean, and Halal.\"",
+      "lsig": "AB86z5UHb85D3CzXWTFpRTWzzozu",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/zvTqJ50XtsRKpJLDcQ0m8OrRFFAZJ2HDQlRnVNgP0W0.png",
+      "place_id": "9199012705003536180",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9199012705003536180&q=halal+restaurants",
+      "provider_id": "/g/11vd78q2gm",
+      "gps_coordinates": {
+        "latitude": 25.747375,
+        "longitude": -80.258766
+      },
+      "title": "Shahs Of Kabob Coral Gables",
+      "type": "Halal",
+      "address": "Coral Gables, FL"
+    },
+    {
+      "position": 16,
+      "rating": 4.7,
+      "reviews": 3800,
+      "reviews_original": "(3.8K)",
+      "price": "$100+",
+      "description": "\"Adana Kebab, kofte and muhammara were very good, as well as cocktails.\"",
+      "lsig": "AB86z5XNjfxEVG8F2GxqYg4L7i1r",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/erPy6FZvwr_2XWgOeCQTa7NQvFQUxYqDkPhip47wWwc.jpeg",
+      "place_id": "6748194888256781854",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6748194888256781854&q=halal+restaurants",
+      "provider_id": "/g/11kxlj3t21",
+      "gps_coordinates": {
+        "latitude": 25.800217,
+        "longitude": -80.20144
+      },
+      "title": "Doya",
+      "type": "Turkish",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 17,
+      "rating": 4.4,
+      "reviews": 426,
+      "reviews_original": "(426)",
+      "price": "$20–30",
+      "description": "\"The kebabs were juicy and full of flavor, and the sides were amazing.\"",
+      "lsig": "AB86z5WxPMI23j7XEG9jy-VJWZgJ",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/UVDXkPQDSe0lgjJx6uXC3pJaULVHtv8RHEvN0vlS0B4.jpeg",
+      "place_id": "16649692360165230104",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16649692360165230104&q=halal+restaurants",
+      "provider_id": "/g/11kr89160t",
+      "gps_coordinates": {
+        "latitude": 25.77444,
+        "longitude": -80.1891
+      },
+      "title": "Shishkabob Mediterranean Cuisine",
+      "type": "Persian",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 18,
+      "rating": 4.3,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$10–20",
+      "description": "\"Meats was very good and flavorful, hummus on point, Kibbeb was my favorite.\"",
+      "lsig": "AB86z5WP8PWD8K3WGQTZnrCe2cYM",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/ymV8yPr-t886ae4njWGGYvnHKortSQEqI2k96qV3b0U.jpeg",
+      "place_id": "9686841073058154372",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9686841073058154372&q=halal+restaurants",
+      "provider_id": "/g/11b7xyq8r2",
+      "gps_coordinates": {
+        "latitude": 25.927835,
+        "longitude": -80.199455
+      },
+      "title": "Aladdin Mediterranean Restaurant and Supermarket,halal food",
+      "type": "Halal",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 19,
+      "rating": 5.0,
+      "reviews": 182,
+      "reviews_original": "(182)",
+      "price": "$10–20",
+      "description": "\"Fresh, flavorful, and 100% halal — highly recommended.\"",
+      "lsig": "AB86z5WolOpB9AbaQxppOD-1lpgV",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/VqWX3wM8UaFQA1mNa6LrCLJf_W2NSGCvz05RcBe31bc.jpeg",
+      "place_id": "7899987462913036280",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=7899987462913036280&q=halal+restaurants",
+      "provider_id": "/g/11ml9y8dny",
+      "gps_coordinates": {
+        "latitude": 25.79139,
+        "longitude": -80.19449
+      },
+      "title": "The Wowshi Halal – Egyptian Street Food",
+      "type": "Halal",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$30–50",
+      "description": "\"The dishes are delicious and the meat (halal) is so tender.\"",
+      "lsig": "AB86z5VrRX-HhdP2wGel2XNhu5dq",
+      "thumbnail": "https://serpapi.com/searches/69d52c7a03610a951527e2d8/images/9PMCoWujVMdChpXXYLMvJyPbEV7UTsgf0gk3LfnUHd8.jpeg",
+      "place_id": "8500357877494860590",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8500357877494860590&q=halal+restaurants",
+      "provider_id": "/g/11l5r6qvlv",
+      "gps_coordinates": {
+        "latitude": 25.855627,
+        "longitude": -80.12812
+      },
+      "title": "Sumak Restaurant",
+      "type": "Mediterranean",
+      "address": "Miami Beach, FL",
+      "hours": "Opens soon · 12:30 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=halal+restaurants&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=halal+restaurants&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=halal+restaurants&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=halal+restaurants&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=halal+restaurants&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

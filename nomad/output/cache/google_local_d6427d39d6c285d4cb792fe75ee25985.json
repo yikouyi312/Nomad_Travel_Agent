@@ -1,0 +1,96 @@
+{
+  "search_metadata": {
+    "id": "69d51c0c01289b41b21c18c1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2joAPfdz5mScEuzVRxistQ/69d51c0c01289b41b21c18c1.json",
+    "created_at": "2026-04-07 15:00:28 UTC",
+    "processed_at": "2026-04-07 15:00:28 UTC",
+    "google_local_url": "https://www.google.com/search?q=National+Gallery+of+Art&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/2joAPfdz5mScEuzVRxistQ/69d51c0c01289b41b21c18c1.html",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "National Gallery of Art",
+    "location_requested": "Washington DC",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 38.89151716529143,
+      "longitude": -77.02003955841064
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "lsig": "AB86z5XOsLYzotQr4PJhSv7NGSJo",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "https://www.nga.gov/",
+        "directions": "https://www.google.com/maps/dir//National+Gallery+of+Art,+Constitution+Ave.+NW,+Washington,+DC+20565/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b79b3b528c49:0xa8ecd80f2bb2879b?sa=X&ved=2ahUKEwjl_p_agNyTAxVy9rsIHQKcOmsQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "12172341452544837531",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Washington+DC&ludocid=12172341452544837531&q=National+Gallery+of+Art",
+      "provider_id": "/m/01z_jj",
+      "gps_coordinates": {
+        "latitude": 38.891296,
+        "longitude": -77.019966
+      },
+      "title": "National Gallery of Art",
+      "phone": "(202) 737-4215",
+      "address": "Washington, DC",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 2,
+      "lsig": "AB86z5XWCZwBRK3INyD_PY8zerLx",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "https://www.nga.gov/",
+        "directions": "https://www.google.com/maps/dir//National+Gallery+of+Art+-+East+Building,+4th+St+NW,+Washington,+DC+20565/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b785d56a0c1d:0xe8476719128ffcc9?sa=X&ved=2ahUKEwjl_p_agNyTAxVy9rsIHQKcOmsQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "16737459897529007305",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Washington+DC&ludocid=16737459897529007305&q=National+Gallery+of+Art",
+      "provider_id": "/g/11b7xkvn2f",
+      "gps_coordinates": {
+        "latitude": 38.891197,
+        "longitude": -77.01719
+      },
+      "title": "National Gallery of Art - East Building",
+      "phone": "(202) 737-4215",
+      "address": "Washington, DC",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 3,
+      "lsig": "AB86z5XmByZfBnHqpHFgvo4ZekNQ",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "http://www.nga.gov/",
+        "directions": "https://www.google.com/maps/dir//National+Gallery+of+Art+%E2%80%93+Sculpture+Garden,+Constitution+Ave+NW+%26,+7th+St+NW,+Washington,+DC+20004/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b79b3caf15a3:0x68b0d8261a1fb851?sa=X&ved=2ahUKEwjl_p_agNyTAxVy9rsIHQKcOmsQ48ADegQIIBAA&hl=en&gl=us"
+      },
+      "place_id": "7543767034004224081",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Washington+DC&ludocid=7543767034004224081&q=National+Gallery+of+Art",
+      "provider_id": "/m/02vt3t0",
+      "gps_coordinates": {
+        "latitude": 38.891296,
+        "longitude": -77.02296
+      },
+      "title": "National Gallery of Art – Sculpture Garden",
+      "phone": "(202) 289-3360",
+      "address": "Washington, DC",
+      "hours": "Open · Closes 5 PM"
+    }
+  ]
+}

@@ -1,0 +1,1608 @@
+[
+  {
+    "task_id": "ORCH-T3-04-turn2",
+    "category": "flights",
+    "timestamp": "2026-04-07T12:13:00.890591",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "Cancun",
+      "departure_date": "2026-11-01",
+      "return_date": "2026-11-06"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 06:44"
+              },
+              "arrival_airport": {
+                "name": "Miami International Airport",
+                "id": "MIA",
+                "time": "2026-11-01 10:29"
+              },
+              "duration": 225,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2980",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 145 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Miami International Airport",
+                "id": "MIA",
+                "time": "2026-11-01 12:10"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:16"
+              },
+              "duration": 126,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2422",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 90 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 101,
+              "name": "Miami International Airport",
+              "id": "MIA"
+            }
+          ],
+          "total_duration": 452,
+          "carbon_emissions": {
+            "this_flight": 237000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -16
+          },
+          "price": 365,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZzFCUVRJNU9EQjhRVUV5TkRJeUdnc0lsSjBDRUFJYUExVlRSRGdjY0pTZEFnPT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMjk4MCJdLFsiTUlBIiwiMjAyNi0xMS0wMSIsIkNVTiIsbnVsbCwiQUEiLCIyNDIyIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 06:00"
+              },
+              "arrival_airport": {
+                "name": "Fort Lauderdale-Hollywood International Airport",
+                "id": "FLL",
+                "time": "2026-11-01 09:25"
+              },
+              "duration": 205,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 569",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 183 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Fort Lauderdale-Hollywood International Airport",
+                "id": "FLL",
+                "time": "2026-11-01 11:00"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 12:55"
+              },
+              "duration": 115,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 2795",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 112 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 95,
+              "name": "Fort Lauderdale-Hollywood International Airport",
+              "id": "FLL"
+            }
+          ],
+          "total_duration": 415,
+          "carbon_emissions": {
+            "this_flight": 296000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 5
+          },
+          "price": 490,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hDTmpVMk9YeENOakkzT1RVYUN3amovZ0lRQWhvRFZWTkVPQnh3NC80QyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkZMTCIsbnVsbCwiQjYiLCI1NjkiXSxbIkZMTCIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkI2IiwiMjc5NSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 09:34"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:15"
+              },
+              "duration": 281,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 771",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 248 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 281,
+          "carbon_emissions": {
+            "this_flight": 248000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -12
+          },
+          "price": 561,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ1ZDTmpjM01Sb0xDTzIxQXhBQ0dnTlZVMFE0SEhEdHRRTT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkI2IiwiNzcxIl1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 07:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 08:42"
+              },
+              "duration": 102,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2096",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 73 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 10:50"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:49"
+              },
+              "duration": 239,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 805",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 218 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 128,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 469,
+          "carbon_emissions": {
+            "this_flight": 293000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 4
+          },
+          "price": 365,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hCUVRJd09UWjhRVUU0TURVYUN3aVVuUUlRQWhvRFZWTkVPQnh3bEowQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIlBITCIsbnVsbCwiQUEiLCIyMDk2Il0sWyJQSEwiLCIyMDI2LTExLTAxIiwiQ1VOIixudWxsLCJBQSIsIjgwNSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 19:00"
+              },
+              "arrival_airport": {
+                "name": "LaGuardia Airport",
+                "id": "LGA",
+                "time": "2026-11-01 20:20"
+              },
+              "duration": 80,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4479",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 86 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            },
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-11-02 07:25"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-02 11:45"
+              },
+              "duration": 260,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 816",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 174 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 665,
+              "name": "John F. Kennedy International Airport",
+              "id": "LGA",
+              "overnight": true
+            }
+          ],
+          "total_duration": 1005,
+          "carbon_emissions": {
+            "this_flight": 261000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -7
+          },
+          "price": 365,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hCUVRRME56bDhRVUU0TVRZYUN3aVVuUUlRQWhvRFZWTkVPQnh3bEowQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkxHQSIsbnVsbCwiQUEiLCI0NDc5Il0sWyJKRksiLCIyMDI2LTExLTAyIiwiQ1VOIixudWxsLCJBQSIsIjgxNiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 08:00"
+              },
+              "arrival_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-11-01 11:06"
+              },
+              "duration": 186,
+              "airplane": "Airbus A321",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 923",
+              "ticket_also_sold_by": [
+                "Aeromexico"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 144 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-11-01 18:50"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 21:15"
+              },
+              "duration": 145,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1939",
+              "ticket_also_sold_by": [
+                "Aeromexico"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 143 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 464,
+              "name": "Hartsfield-Jackson Atlanta International Airport",
+              "id": "ATL"
+            }
+          ],
+          "total_duration": 795,
+          "carbon_emissions": {
+            "this_flight": 288000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 2
+          },
+          "price": 381,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hFVERreU0zeEVUREU1TXprYUN3alBxUUlRQWhvRFZWTkVPQnh3ejZrQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkFUTCIsbnVsbCwiREwiLCI5MjMiXSxbIkFUTCIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkRMIiwiMTkzOSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 08:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 09:39"
+              },
+              "duration": 99,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 403",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 73 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 10:50"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:49"
+              },
+              "duration": 239,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 805",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 218 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 71,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 409,
+          "carbon_emissions": {
+            "this_flight": 293000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 4
+          },
+          "price": 421,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3RCUVRRd00zeEJRVGd3TlJvTENKWElBaEFDR2dOVlUwUTRISENWeUFJPSIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIlBITCIsbnVsbCwiQUEiLCI0MDMiXSxbIlBITCIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkFBIiwiODA1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 07:30"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 10:14"
+              },
+              "duration": 164,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1004",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 124 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 11:00"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:10"
+              },
+              "duration": 190,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 886",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 169 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 46,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 400,
+          "carbon_emissions": {
+            "this_flight": 294000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 5
+          },
+          "price": 453,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hCUVRFd01EUjhRVUU0T0RZYUN3aVY0UUlRQWhvRFZWTkVPQnh3bGVFQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkNMVCIsbnVsbCwiQUEiLCIxMDA0Il0sWyJDTFQiLCIyMDI2LTExLTAxIiwiQ1VOIixudWxsLCJBQSIsIjg4NiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 09:26"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 11:59"
+              },
+              "duration": 153,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1688",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 124 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 13:10"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 16:12"
+              },
+              "duration": 182,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1778",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 169 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 71,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 406,
+          "carbon_emissions": {
+            "this_flight": 294000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 5
+          },
+          "price": 453,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZzFCUVRFMk9EaDhRVUV4TnpjNEdnc0lsZUVDRUFJYUExVlRSRGdjY0pYaEFnPT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJDTFQiLG51bGwsIkFBIiwiMTY4OCJdLFsiQ0xUIiwiMjAyNi0xMS0wMSIsIkNVTiIsbnVsbCwiQUEiLCIxNzc4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 08:15"
+              },
+              "arrival_airport": {
+                "name": "Orlando International Airport",
+                "id": "MCO",
+                "time": "2026-11-01 11:38"
+              },
+              "duration": 203,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 751",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 174 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Orlando International Airport",
+                "id": "MCO",
+                "time": "2026-11-01 13:00"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 15:10"
+              },
+              "duration": 130,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 1013",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 131 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 82,
+              "name": "Orlando International Airport",
+              "id": "MCO"
+            }
+          ],
+          "total_duration": 415,
+          "carbon_emissions": {
+            "this_flight": 306000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 9
+          },
+          "price": 502,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hDTmpjMU1YeENOakV3TVRNYUN3aVRpQU1RQWhvRFZWTkVPQnh3azRnRCIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIk1DTyIsbnVsbCwiQjYiLCI3NTEiXSxbIk1DTyIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkI2IiwiMTAxMyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 06:00"
+              },
+              "arrival_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-11-01 07:34"
+              },
+              "duration": 94,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1734",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 77 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-11-01 08:29"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 12:20"
+              },
+              "duration": 231,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1154",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 196 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 55,
+              "name": "Dulles International Airport",
+              "id": "IAD"
+            }
+          ],
+          "total_duration": 380,
+          "carbon_emissions": {
+            "this_flight": 275000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -2
+          },
+          "price": 564,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZzFWUVRFM016UjhWVUV4TVRVMEdnc0k4YmNERUFJYUExVlRSRGdjY1BHM0F3PT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJJQUQiLG51bGwsIlVBIiwiMTczNCJdLFsiSUFEIiwiMjAyNi0xMS0wMSIsIkNVTiIsbnVsbCwiVUEiLCIxMTU0Il1dXQ=="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-04-turn2",
+    "category": "flights",
+    "timestamp": "2026-05-04T02:51:32.978132",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "Cancun",
+      "departure_date": "2026-11-01",
+      "return_date": "2026-11-06"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 06:44"
+              },
+              "arrival_airport": {
+                "name": "Miami International Airport",
+                "id": "MIA",
+                "time": "2026-11-01 10:29"
+              },
+              "duration": 225,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2980",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 145 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Miami International Airport",
+                "id": "MIA",
+                "time": "2026-11-01 12:10"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:16"
+              },
+              "duration": 126,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2422",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 90 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 101,
+              "name": "Miami International Airport",
+              "id": "MIA"
+            }
+          ],
+          "total_duration": 452,
+          "carbon_emissions": {
+            "this_flight": 237000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -16
+          },
+          "price": 365,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZzFCUVRJNU9EQjhRVUV5TkRJeUdnc0lsSjBDRUFJYUExVlRSRGdjY0pTZEFnPT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMjk4MCJdLFsiTUlBIiwiMjAyNi0xMS0wMSIsIkNVTiIsbnVsbCwiQUEiLCIyNDIyIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 06:00"
+              },
+              "arrival_airport": {
+                "name": "Fort Lauderdale-Hollywood International Airport",
+                "id": "FLL",
+                "time": "2026-11-01 09:25"
+              },
+              "duration": 205,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 569",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 183 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Fort Lauderdale-Hollywood International Airport",
+                "id": "FLL",
+                "time": "2026-11-01 11:00"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 12:55"
+              },
+              "duration": 115,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 2795",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 112 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 95,
+              "name": "Fort Lauderdale-Hollywood International Airport",
+              "id": "FLL"
+            }
+          ],
+          "total_duration": 415,
+          "carbon_emissions": {
+            "this_flight": 296000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 5
+          },
+          "price": 490,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hDTmpVMk9YeENOakkzT1RVYUN3amovZ0lRQWhvRFZWTkVPQnh3NC80QyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkZMTCIsbnVsbCwiQjYiLCI1NjkiXSxbIkZMTCIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkI2IiwiMjc5NSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 09:34"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:15"
+              },
+              "duration": 281,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 771",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 248 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 281,
+          "carbon_emissions": {
+            "this_flight": 248000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -12
+          },
+          "price": 561,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ1ZDTmpjM01Sb0xDTzIxQXhBQ0dnTlZVMFE0SEhEdHRRTT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkI2IiwiNzcxIl1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 07:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 08:42"
+              },
+              "duration": 102,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2096",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 73 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 10:50"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:49"
+              },
+              "duration": 239,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 805",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 218 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 128,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 469,
+          "carbon_emissions": {
+            "this_flight": 293000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 4
+          },
+          "price": 365,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hCUVRJd09UWjhRVUU0TURVYUN3aVVuUUlRQWhvRFZWTkVPQnh3bEowQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIlBITCIsbnVsbCwiQUEiLCIyMDk2Il0sWyJQSEwiLCIyMDI2LTExLTAxIiwiQ1VOIixudWxsLCJBQSIsIjgwNSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 19:00"
+              },
+              "arrival_airport": {
+                "name": "LaGuardia Airport",
+                "id": "LGA",
+                "time": "2026-11-01 20:20"
+              },
+              "duration": 80,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4479",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 86 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            },
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-11-02 07:25"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-02 11:45"
+              },
+              "duration": 260,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 816",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 174 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 665,
+              "name": "John F. Kennedy International Airport",
+              "id": "LGA",
+              "overnight": true
+            }
+          ],
+          "total_duration": 1005,
+          "carbon_emissions": {
+            "this_flight": 261000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -7
+          },
+          "price": 365,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hCUVRRME56bDhRVUU0TVRZYUN3aVVuUUlRQWhvRFZWTkVPQnh3bEowQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkxHQSIsbnVsbCwiQUEiLCI0NDc5Il0sWyJKRksiLCIyMDI2LTExLTAyIiwiQ1VOIixudWxsLCJBQSIsIjgxNiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 08:00"
+              },
+              "arrival_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-11-01 11:06"
+              },
+              "duration": 186,
+              "airplane": "Airbus A321",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 923",
+              "ticket_also_sold_by": [
+                "Aeromexico"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 144 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-11-01 18:50"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 21:15"
+              },
+              "duration": 145,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1939",
+              "ticket_also_sold_by": [
+                "Aeromexico"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 143 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 464,
+              "name": "Hartsfield-Jackson Atlanta International Airport",
+              "id": "ATL"
+            }
+          ],
+          "total_duration": 795,
+          "carbon_emissions": {
+            "this_flight": 288000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 2
+          },
+          "price": 381,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hFVERreU0zeEVUREU1TXprYUN3alBxUUlRQWhvRFZWTkVPQnh3ejZrQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkFUTCIsbnVsbCwiREwiLCI5MjMiXSxbIkFUTCIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkRMIiwiMTkzOSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 08:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 09:39"
+              },
+              "duration": 99,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 403",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 73 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-11-01 10:50"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:49"
+              },
+              "duration": 239,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 805",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 218 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 71,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 409,
+          "carbon_emissions": {
+            "this_flight": 293000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 4
+          },
+          "price": 421,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3RCUVRRd00zeEJRVGd3TlJvTENKWElBaEFDR2dOVlUwUTRISENWeUFJPSIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIlBITCIsbnVsbCwiQUEiLCI0MDMiXSxbIlBITCIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkFBIiwiODA1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 07:30"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 10:14"
+              },
+              "duration": 164,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1004",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 124 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 11:00"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 14:10"
+              },
+              "duration": 190,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 886",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 169 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 46,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 400,
+          "carbon_emissions": {
+            "this_flight": 294000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 5
+          },
+          "price": 453,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hCUVRFd01EUjhRVUU0T0RZYUN3aVY0UUlRQWhvRFZWTkVPQnh3bGVFQyIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkNMVCIsbnVsbCwiQUEiLCIxMDA0Il0sWyJDTFQiLCIyMDI2LTExLTAxIiwiQ1VOIixudWxsLCJBQSIsIjg4NiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 09:26"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 11:59"
+              },
+              "duration": 153,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1688",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 124 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-11-01 13:10"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 16:12"
+              },
+              "duration": 182,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1778",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 169 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 71,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 406,
+          "carbon_emissions": {
+            "this_flight": 294000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 5
+          },
+          "price": 453,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZzFCUVRFMk9EaDhRVUV4TnpjNEdnc0lsZUVDRUFJYUExVlRSRGdjY0pYaEFnPT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJDTFQiLG51bGwsIkFBIiwiMTY4OCJdLFsiQ0xUIiwiMjAyNi0xMS0wMSIsIkNVTiIsbnVsbCwiQUEiLCIxNzc4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 08:15"
+              },
+              "arrival_airport": {
+                "name": "Orlando International Airport",
+                "id": "MCO",
+                "time": "2026-11-01 11:38"
+              },
+              "duration": 203,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 751",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 174 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Orlando International Airport",
+                "id": "MCO",
+                "time": "2026-11-01 13:00"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 15:10"
+              },
+              "duration": 130,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 1013",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 131 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 82,
+              "name": "Orlando International Airport",
+              "id": "MCO"
+            }
+          ],
+          "total_duration": 415,
+          "carbon_emissions": {
+            "this_flight": 306000,
+            "typical_for_this_route": 281000,
+            "difference_percent": 9
+          },
+          "price": 502,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZ3hDTmpjMU1YeENOakV3TVRNYUN3aVRpQU1RQWhvRFZWTkVPQnh3azRnRCIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIk1DTyIsbnVsbCwiQjYiLCI3NTEiXSxbIk1DTyIsIjIwMjYtMTEtMDEiLCJDVU4iLG51bGwsIkI2IiwiMTAxMyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-11-01 06:00"
+              },
+              "arrival_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-11-01 07:34"
+              },
+              "duration": 94,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1734",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 77 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-11-01 08:29"
+              },
+              "arrival_airport": {
+                "name": "Cancun International Airport",
+                "id": "CUN",
+                "time": "2026-11-01 12:20"
+              },
+              "duration": 231,
+              "airplane": "Boeing 737",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1154",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 196 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 55,
+              "name": "Dulles International Airport",
+              "id": "IAD"
+            }
+          ],
+          "total_duration": 380,
+          "carbon_emissions": {
+            "this_flight": 275000,
+            "typical_for_this_route": 281000,
+            "difference_percent": -2
+          },
+          "price": 564,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "departure_token": "WyJDalJJUlZWbFJYSk5UR2w1WW10QlJVTk9UbWRDUnkwdExTMHRMUzB0TFMxNWJHNXlOMEZCUVVGQlIyNVdURkYzU21KelpWbEJFZzFWUVRFM016UjhWVUV4TVRVMEdnc0k4YmNERUFJYUExVlRSRGdjY1BHM0F3PT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJJQUQiLG51bGwsIlVBIiwiMTczNCJdLFsiSUFEIiwiMjAyNi0xMS0wMSIsIkNVTiIsbnVsbCwiVUEiLCIxMTU0Il1dXQ=="
+        }
+      ]
+    }
+  }
+]

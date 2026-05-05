@@ -1,0 +1,467 @@
+{
+  "search_metadata": {
+    "id": "69d51b53fbbeb57cf195b5e6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wuWo73UfElk9rCeNzRtUzQ/69d51b53fbbeb57cf195b5e6.json",
+    "created_at": "2026-04-07 14:57:23 UTC",
+    "processed_at": "2026-04-07 14:57:23 UTC",
+    "google_local_url": "https://www.google.com/search?q=ramen&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/wuWo73UfElk9rCeNzRtUzQ/69d51b53fbbeb57cf195b5e6.html",
+    "total_time_taken": 7.02
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "ramen",
+    "location_requested": "Seattle",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 47.612991142519725,
+      "longitude": -122.33585357666014
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.3,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$20–30",
+      "description": "\"My spicy ramen was yummy and the broth was perfect.\"",
+      "lsig": "AB86z5UncTD-AvEP-XDY3NdVFFOK",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/ETOJYWplPJ95SfisshMkh2ePrKldEy9ShGtxAN37ob8.jpeg",
+      "place_id": "11577488462025077180",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=11577488462025077180&q=ramen",
+      "provider_id": "/g/11gwmsw25k",
+      "gps_coordinates": {
+        "latitude": 47.614403,
+        "longitude": -122.324295
+      },
+      "title": "Menya Muso （Capitol Hill）",
+      "type": "Ramen",
+      "address": "1510 Belmont Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.4,
+      "reviews": 3300,
+      "reviews_original": "(3.3K)",
+      "price": "$20–30",
+      "description": "\"Loved the ramen and broth, wonderful rich flavor and not super duper salty.\"",
+      "lsig": "AB86z5UOeJR66ZXrsvrL5M2oN568",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/7xOa11-FbYoVEb5e1Z1p4tnInPDhvZVlq1NeYm2ic3M.jpeg",
+      "place_id": "7748447773164118501",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=7748447773164118501&q=ramen",
+      "provider_id": "/g/11byl2tgv1",
+      "gps_coordinates": {
+        "latitude": 47.615383,
+        "longitude": -122.32715
+      },
+      "title": "Kizuki Ramen & Izakaya （Capitol Hill）",
+      "type": "Ramen",
+      "address": "320 E Pine St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$20–30",
+      "description": "\"Ramens were full of rich flavor and the pork was extremely tender.\"",
+      "lsig": "AB86z5WLvKHAdg_e_wbQxwMOSWXE",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/4Se2Pu7LLeoiq3CdQMtB-Uye_OByTgv49-DSvHf30ag.jpeg",
+      "place_id": "7411743156998416531",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=7411743156998416531&q=ramen",
+      "provider_id": "/g/11cs2hr2ps",
+      "gps_coordinates": {
+        "latitude": 47.613926,
+        "longitude": -122.321266
+      },
+      "title": "Ooink Capitol Hill",
+      "type": "Ramen",
+      "address": "1416 Harvard Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 3700,
+      "reviews_original": "(3.7K)",
+      "price": "$20–30",
+      "description": "\"Ate the Miso Ramen- so delicious with pork belly in a delicious broth.\"",
+      "lsig": "AB86z5XM59Jv9pUqhCsptdRmBsTB",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/IPnHc9ix1d_mpYTVsgAmZz91FpuOVvVbrEzxYtqJhiU.jpeg",
+      "place_id": "18068037128529299519",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=18068037128529299519&q=ramen",
+      "provider_id": "/g/11f24w_9_c",
+      "gps_coordinates": {
+        "latitude": 47.615387,
+        "longitude": -122.31608
+      },
+      "title": "Ramen DANBO Capitol Hill",
+      "type": "Ramen",
+      "address": "1222 E Pine St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 5,
+      "rating": 4.2,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$20–30",
+      "description": "\"Amazing Ramen with great flavor and large portions.\"",
+      "lsig": "AB86z5X5FqGrSpzN_UllYQjJwfNZ",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/u6ozOO7nZ0xb-lEVYOHF7kXsDLlzms2DrW5OXBJlQCQ.jpeg",
+      "place_id": "13341961466452360832",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=13341961466452360832&q=ramen",
+      "provider_id": "/g/11dzl6ybkv",
+      "gps_coordinates": {
+        "latitude": 47.613384,
+        "longitude": -122.31958
+      },
+      "title": "Betsutenjin Ramen",
+      "type": "Ramen",
+      "address": "954 E Union St #102",
+      "hours": "Closed · Opens 6:30 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 99,
+      "reviews_original": "(99)",
+      "price": "$20–30",
+      "description": "\"Our ramen tastes amazing, service is very friendly and welcoming.\"",
+      "lsig": "AB86z5XnR3aCyVI6ccsUj_t2qNF1",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/H52T7Am97htdkTfLR3yNjDaUxBx2Aij0HAieI4O0h6g.jpeg",
+      "place_id": "1089641440339855648",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=1089641440339855648&q=ramen",
+      "provider_id": "/g/11xgttkh_d",
+      "gps_coordinates": {
+        "latitude": 47.613297,
+        "longitude": -122.34598
+      },
+      "title": "KAYAVA. BELLTOWN",
+      "type": "Ramen",
+      "address": "2226 1st Ave",
+      "hours": "Closed · Opens 12 PM Wed"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 347,
+      "reviews_original": "(347)",
+      "price": "$20–30",
+      "description": "\"The ramen was flavorful and delicious, and the service was top-notch.\"",
+      "lsig": "AB86z5VSzSup9w70F4OSGVKO-Z9Y",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/0XGsfER-_XtwBp60EDhCGMo0hlQEFZCsYQ_kzY8SOqo.jpeg",
+      "place_id": "12906875967642649925",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=12906875967642649925&q=ramen",
+      "provider_id": "/g/11wn12zcv5",
+      "gps_coordinates": {
+        "latitude": 47.616245,
+        "longitude": -122.317986
+      },
+      "title": "Kajiken",
+      "type": "Ramen",
+      "address": "1640 11th Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "price": "$20–30",
+      "description": "\"The broth was comforting, with a balanced flavor profile.\"",
+      "lsig": "AB86z5VihPuTdH7jIDMLE9WAocnB",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/ZwSIF7rG_D5_sMXxpdZE-OvBwA3O8SwYxMDdmpguRw8.jpeg",
+      "place_id": "4420519686607747275",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4420519686607747275&q=ramen",
+      "provider_id": "/g/11stjll73s",
+      "gps_coordinates": {
+        "latitude": 47.599934,
+        "longitude": -122.326805
+      },
+      "title": "Onibaba by Tsukushinbo",
+      "type": "Japanese",
+      "address": "515 South Main St",
+      "hours": "Closed · Opens 12 PM Thu"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 322,
+      "reviews_original": "(322)",
+      "description": "\"I really enjoyed the curry ramen and the spicy salmon onigiri.\"",
+      "lsig": "AB86z5U5JDNA-8xexSy9eVnLuesu",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/lUfMxFiBlmeA89Fbc94Me2KNn_iqPytOP31eZ4k888Y.jpeg",
+      "place_id": "14240067529687452516",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14240067529687452516&q=ramen",
+      "provider_id": "/g/11krh1qjzs",
+      "gps_coordinates": {
+        "latitude": 47.616398,
+        "longitude": -122.33767
+      },
+      "title": "Gyo Gyo En",
+      "type": "Japanese",
+      "address": "2028 8th Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 54,
+      "reviews_original": "(54)",
+      "price": "$20–30",
+      "description": "\"Ramen had lots of stuffs and good texture and flavor.\"",
+      "lsig": "AB86z5XEQj0T3bSv-L4nKpPN2vRo",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/sQXIBnv8y6krUWlgFyA4D3b8l0Xc5a0nKDs8CAqPpXg.jpeg",
+      "place_id": "15047177264374900853",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=15047177264374900853&q=ramen",
+      "provider_id": "/g/11ym8vpch_",
+      "gps_coordinates": {
+        "latitude": 47.624382,
+        "longitude": -122.355576
+      },
+      "title": "Tsuki Shokudo",
+      "type": "Japanese",
+      "address": "537 1st Ave N",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.7,
+      "reviews": 69,
+      "reviews_original": "(69)",
+      "price": "$10–20",
+      "description": "\"I tried the spicy miso ramen 🍜, and it was delicious.\"",
+      "lsig": "AB86z5WLysOmvH6ApOBHBekGPfob",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/yt9_cHlCEPcFLaRx8oMdB-JG84iaLacapIvu-cTRcK0.jpeg",
+      "place_id": "16941888138243902956",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=16941888138243902956&q=ramen",
+      "provider_id": "/g/11l5kj9tvv",
+      "gps_coordinates": {
+        "latitude": 47.60519,
+        "longitude": -122.334694
+      },
+      "title": "Donburi House",
+      "type": "Restaurant",
+      "address": "999 3rd Ave STE 201",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 920,
+      "reviews_original": "(920)",
+      "description": "\"Top notch Ramen and cheap Japanese beer.\"",
+      "lsig": "AB86z5WEoexyrBkeXBRmanIbiz5w",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/kNaL-lrZ8pLNaXmkS8oWhE5asA9yULn6_sqC7fPA67M.jpeg",
+      "place_id": "5242791768245341715",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=5242791768245341715&q=ramen",
+      "provider_id": "/g/11c1skdjxk",
+      "gps_coordinates": {
+        "latitude": 47.615185,
+        "longitude": -122.34789
+      },
+      "title": "Karaage Setsuna",
+      "type": "Restaurant",
+      "address": "2429 2nd Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.4,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "description": "\"I ordered the spicy miso ramen and it was delicious!\"",
+      "lsig": "AB86z5VFTRovjQZS_fgWhZ65wnId",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/8Ep9dfCWykvqJeAUtZHwfKs50K5Zovw5RNrtub9elOk.jpeg",
+      "place_id": "7954029265696910643",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=7954029265696910643&q=ramen",
+      "provider_id": "/g/11j488c4jy",
+      "gps_coordinates": {
+        "latitude": 47.615364,
+        "longitude": -122.34655
+      },
+      "title": "Manzoku Izakaya",
+      "type": "Japanese",
+      "address": "2401 3rd Ave",
+      "hours": "Closed · Opens 4:30 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.5,
+      "reviews": 5400,
+      "reviews_original": "(5.4K)",
+      "description": "\"We liked the Mexican ninja and Seattle sushi rolls with Ramen.\"",
+      "lsig": "AB86z5WlUpj0Gh8uh9ykgIWEfyTm",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/hBg9PL1W_K7iYD1SKph0FTmCSRmbdapntqvxyr2ujnI.jpeg",
+      "place_id": "8561836067255568606",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=8561836067255568606&q=ramen",
+      "provider_id": "/g/1tf07cdp",
+      "gps_coordinates": {
+        "latitude": 47.60799,
+        "longitude": -122.33903
+      },
+      "title": "Japonessa Sushi Cocina",
+      "type": "Sushi",
+      "address": "1400 1st Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.5,
+      "reviews": 652,
+      "reviews_original": "(652)",
+      "price": "$10–20",
+      "description": "\"The grilled chicken ramen is delicious and plentiful!!\"",
+      "lsig": "AB86z5WLTYK7VcQ8L_pGLJ-A7ZW8",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/8g3DGB-fgo9bgc-0Gz92dkv-8DppWMEBtDamhuEi64w.jpeg",
+      "place_id": "4925957723606407314",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4925957723606407314&q=ramen",
+      "provider_id": "/g/1tjdwm1s",
+      "gps_coordinates": {
+        "latitude": 47.6051,
+        "longitude": -122.338005
+      },
+      "title": "Okinawa Teriyaki",
+      "type": "Japanese",
+      "address": "1100 Western Ave",
+      "hours": "Closed · Opens 10:30 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.4,
+      "reviews": 490,
+      "reviews_original": "(490)",
+      "price": "$30–50",
+      "description": "\"A delicious take on some iconic traditional Japanese cuisine.\"",
+      "lsig": "AB86z5WlYPIkX9FkjKill752bLCv",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/QoILPRw0wN-JEMlbvyRTQp7IgUoFR6ECSnr5GaI8zqM.jpeg",
+      "place_id": "4349109073913785311",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4349109073913785311&q=ramen",
+      "provider_id": "/g/1tg_wt3f",
+      "gps_coordinates": {
+        "latitude": 47.599373,
+        "longitude": -122.32581
+      },
+      "title": "Itsumono",
+      "type": "Gastropub",
+      "address": "610 S Jackson St",
+      "hours": "Closed · Opens 4 PM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews": 126,
+      "reviews_original": "(126)",
+      "price": "$10–20",
+      "description": "\"Also, Kazuki is across the street if you're still craving ramen afterward!\"",
+      "lsig": "AB86z5USygmp1vGK1vL0Fiekikhl",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/BHhgxjjLgbcTFzPkiPeo0svuOs7ky3WGx1m4prMsNuE.jpeg",
+      "place_id": "8616500747833272929",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=8616500747833272929&q=ramen",
+      "provider_id": "/g/11q4hxgcrx",
+      "gps_coordinates": {
+        "latitude": 47.614784,
+        "longitude": -122.32806
+      },
+      "title": "sankaku onigiri cafe & bar",
+      "type": "Japanese",
+      "address": "1531 Melrose Ave",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.5,
+      "reviews": 162,
+      "reviews_original": "(162)",
+      "price": "$10–20",
+      "description": "\"Portion size for the price is a 10/10, and everyone was very friendly.\"",
+      "lsig": "AB86z5VYqp7_4xvfrmHxhc8dwyfh",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/0P3l43qzC4SHDhQYZbpbl9fm2-xINtsb35ThymfM9gU.jpeg",
+      "place_id": "9083741212522916792",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=9083741212522916792&q=ramen",
+      "provider_id": "/g/1tgwmd5g",
+      "gps_coordinates": {
+        "latitude": 47.605667,
+        "longitude": -122.334496
+      },
+      "title": "joybento",
+      "type": "Japanese",
+      "address": "214 Madison St",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.7,
+      "reviews": 292,
+      "reviews_original": "(292)",
+      "price": "$10–20",
+      "description": "\"I devoured the bowl after work the next day, I was soooo hungry.\"",
+      "lsig": "AB86z5VcrcFmTTwQTcf6LfS3j-sn",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/cNtSxVHvMO3RWgSINgT69EgRwMHLdNgghNHk0Fa-itI.jpeg",
+      "place_id": "5423653125240901248",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=5423653125240901248&q=ramen",
+      "provider_id": "/g/11vr1vbp7_",
+      "gps_coordinates": {
+        "latitude": 47.608086,
+        "longitude": -122.33876
+      },
+      "title": "Musubi Kai Seattle",
+      "type": "Hawaiian",
+      "address": "108 Union St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 233,
+      "reviews_original": "(233)",
+      "price": "$20–30",
+      "description": "\"The pho, ramen, and sushi is so good especially for the price!\"",
+      "lsig": "AB86z5WZSnYK6JKtrD3n6gF5jhA8",
+      "thumbnail": "https://serpapi.com/searches/69d51b53fbbeb57cf195b5e6/images/HoDGYO06vbPcqECnz_SjkDNg5fESGqVckpPXzn3i3q8.jpeg",
+      "place_id": "4985675735229205534",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4985675735229205534&q=ramen",
+      "provider_id": "/g/11jt2hfvh0",
+      "gps_coordinates": {
+        "latitude": 47.612537,
+        "longitude": -122.317986
+      },
+      "title": "Grain House",
+      "type": "Asian",
+      "address": "1150 11th Ave",
+      "hours": "Closed · Opens 11 AM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ramen&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ramen&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=ramen&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=ramen&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=ramen&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=ramen&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=ramen&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=ramen&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=ramen&start=40&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=ramen&start=60&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=ramen&start=80&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

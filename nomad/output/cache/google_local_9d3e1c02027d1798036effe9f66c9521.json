@@ -1,0 +1,342 @@
+{
+  "search_metadata": {
+    "id": "69d52d32217adecd1a874964",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pUMLhmYhQ_-6SJ_E-_Um8Q/69d52d32217adecd1a874964.json",
+    "created_at": "2026-04-07 16:13:38 UTC",
+    "processed_at": "2026-04-07 16:13:38 UTC",
+    "google_local_url": "https://www.google.com/search?q=reef-safe+sunscreen&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/pUMLhmYhQ_-6SJ_E-_Um8Q/69d52d32217adecd1a874964.html",
+    "total_time_taken": 1.63
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "reef-safe sunscreen",
+    "location_requested": "Cancun",
+    "location_used": "Cancun,Quintana Roo,Mexico",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 1.4061088354351594,
+      "longitude": -150.46875
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.5,
+      "reviews": 15000,
+      "reviews_original": "(15K)",
+      "description": "\"Wow huge, clean, and no lines!\"",
+      "lsig": "AB86z5XhkxhQ-mwXpDutNLGnwPGV",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/eUwxr-ByKLXAyPKMdkJBNWXjAjXC44AZMalPHlq9ytw.jpeg",
+      "place_id": "9781151785675438349",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=9781151785675438349&q=reef-safe+sunscreen",
+      "provider_id": "/g/11c6rhfdn5",
+      "gps_coordinates": {
+        "latitude": 21.148102,
+        "longitude": -86.83539
+      },
+      "title": "Costco Wholesale Cancún",
+      "type": "Warehouse store",
+      "address": "Av. Kabah esq Avenida Yaxchilán 24, Av Yaxchilán 37"
+    },
+    {
+      "position": 2,
+      "rating": 5.0,
+      "reviews": 1,
+      "reviews_original": "(1)",
+      "description": "\"Do bring a credit card.\"",
+      "lsig": "AB86z5X4hazO1kb45I5c9zDQ7G2F",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/Jtul8K5opRgyJMXPMlKqKx1w_ar09qGv_bThYX8_J-4.jpeg",
+      "place_id": "13171985288186282224",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=13171985288186282224&q=reef-safe+sunscreen",
+      "provider_id": "/g/11y4bw6m5k",
+      "gps_coordinates": {
+        "latitude": 21.188526,
+        "longitude": -86.81979
+      },
+      "title": "Contoy Adventures",
+      "type": "Tour operator",
+      "address": "Quintana Roo, Mexico"
+    },
+    {
+      "position": 3,
+      "rating": 4.3,
+      "reviews": 268,
+      "reviews_original": "(268)",
+      "description": "\"Thanks 100% Reef Safe!\"",
+      "lsig": "AB86z5XqQp3azVykgcLmH6yzPnYz",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/RrrR3wHQdbqjR6Hf7gqoFxxJCOrIxp-FITpWs-L2_yM.jpeg",
+      "place_id": "11020800151088941579",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=11020800151088941579&q=reef-safe+sunscreen",
+      "provider_id": "/g/11btlx_bqg",
+      "gps_coordinates": {
+        "latitude": -27.22738,
+        "longitude": 153.09668
+      },
+      "title": "100% Aquatics - Reef Safe",
+      "type": "Aquarium shop",
+      "address": "Kippa-Ring QLD, Australia",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 12000,
+      "reviews_original": "(12K)",
+      "description": "\"Cost us a little less than $300 USD for 2 adults and a 7-year old;\"",
+      "lsig": "AB86z5VNEPpXxr4mMvEF4pIABd_I",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/3LwtnP0_0Aal-L7TvyE1puhX54RnPMKrbBK6MBodrxE.jpeg",
+      "place_id": "8781944925243388325",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=8781944925243388325&q=reef-safe+sunscreen",
+      "provider_id": "/g/1thsbdtw",
+      "gps_coordinates": {
+        "latitude": 21.234888,
+        "longitude": -86.74128
+      },
+      "title": "Dolphin Discovery Isla Mujeres",
+      "type": "Theme park",
+      "address": "Isla Mujeres, Quintana Roo, Mexico"
+    },
+    {
+      "position": 5,
+      "rating": 4.3,
+      "reviews": 299,
+      "reviews_original": "(299)",
+      "description": "\"So quick and easy to find.\"",
+      "lsig": "AB86z5WINi2chUTJT2B-YE_BvlPR",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/hEvD9Ya_9ev9qRz7MM2drEGVkUu1dRQWC0GHBTER_OU.jpeg",
+      "place_id": "6560580027950485142",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=6560580027950485142&q=reef-safe+sunscreen",
+      "provider_id": "/g/1tkvbtms",
+      "gps_coordinates": {
+        "latitude": 21.153313,
+        "longitude": -86.82473
+      },
+      "title": "Cancun Discounts Tours",
+      "type": "Tour agency",
+      "years_in_business": "20+ years in business",
+      "address": "Av. Tulum No. 200 Local No. 101 Quintana Roo MX, SM 4 Suite 131"
+    },
+    {
+      "position": 6,
+      "rating": 4.2,
+      "reviews": 5800,
+      "reviews_original": "(5.8K)",
+      "description": "\"The reef snorkeling was refreshing and delightful, lots of cool fish to see.\"",
+      "lsig": "AB86z5VnFBox4FAYLYfaVY6we04R",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/pAx1fOu-60Io7aXaBYYiYtvrxLF8ew40TUdZ0qKavwU.jpeg",
+      "place_id": "17239770900778436558",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=17239770900778436558&q=reef-safe+sunscreen",
+      "provider_id": "/g/1ptznr01g",
+      "gps_coordinates": {
+        "latitude": 21.206049,
+        "longitude": -86.717514
+      },
+      "title": "Garrafon Park - MX",
+      "type": "Theme park",
+      "address": "Isla Mujeres, Quintana Roo, Mexico"
+    },
+    {
+      "position": 7,
+      "rating": 4.0,
+      "reviews": 11,
+      "reviews_original": "(11)",
+      "description": "\"No pressure to buy anything and safe\"",
+      "lsig": "AB86z5W1QfeUBJazulmEOhlCGXYc",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/qNVOqTguGE73TwXZF7kYKtGBvBV21BCHjdrY4CiPlaA.jpeg",
+      "place_id": "14426143443993504371",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=14426143443993504371&q=reef-safe+sunscreen",
+      "provider_id": "/g/11n97l5_0r",
+      "gps_coordinates": {
+        "latitude": 21.255949,
+        "longitude": -86.746635
+      },
+      "title": "El Faro Isla Mujeres",
+      "type": "Gift shop",
+      "address": "Isla Mujeres, Quintana Roo, Mexico"
+    },
+    {
+      "position": 8,
+      "rating": 4.1,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "description": "\"I would recommend this if you would like to snorkel on a reef.\"",
+      "lsig": "AB86z5XY1i8GctehW2xb023ZQQfp",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/Ogyq0oS0PSWfV677-GjXbcO6OkJaxznwF2aSXc7T008.jpeg",
+      "place_id": "1512051054613522351",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=1512051054613522351&q=reef-safe+sunscreen",
+      "provider_id": "/g/1tgtgkdt",
+      "gps_coordinates": {
+        "latitude": 21.084105,
+        "longitude": -86.77482
+      },
+      "title": "Aquaworld",
+      "type": "Adventure sports center",
+      "address": "Blvd. Kukulcan"
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 22,
+      "reviews_original": "(22)",
+      "description": "\"Super safe and the highlight of my trip.\"",
+      "lsig": "AB86z5WWk5FAwBQxf_830RGDa297",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/m2oZ53MQZyYxxZFpiR5j5fczjoSeErpZcbIzt08MZNI.jpeg",
+      "place_id": "12667161161604499710",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=12667161161604499710&q=reef-safe+sunscreen",
+      "provider_id": "/g/11wfy4ndwz",
+      "gps_coordinates": {
+        "latitude": 21.161907,
+        "longitude": -86.851524
+      },
+      "title": "Catamaran Tours Cancun",
+      "type": "Boat tour agency",
+      "years_in_business": "10+ years in business",
+      "address": "Marina Boats"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 4200,
+      "reviews_original": "(4.2K)",
+      "description": "\"It has all the supplies I needed.\"",
+      "lsig": "AB86z5UbPwHEEZErMKZLE0ysRyH6",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/fVj4cmo7n47OH01doTXSlZW1p41i9VACWH74FXrE0Mc.jpeg",
+      "place_id": "10748281433313382832",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=10748281433313382832&q=reef-safe+sunscreen",
+      "provider_id": "/g/1hc20y33b",
+      "gps_coordinates": {
+        "latitude": -16.922373,
+        "longitude": 145.77716
+      },
+      "title": "Woolworths Cairns",
+      "type": "Supermarket",
+      "address": "Cairns City QLD, Australia",
+      "hours": "Closed · Opens 6 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 13000,
+      "reviews_original": "(13K)",
+      "description": "\"We were able to see sea turtles and sting rays along the way.\"",
+      "lsig": "AB86z5WWbdGy1qhGxRay0H5Qi1Lt",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/h7MgJXpmQSCVHEGUuSd7w6SEYQMtWuFzfF5kyemfrsI.jpeg",
+      "place_id": "11089820778482375905",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=11089820778482375905&q=reef-safe+sunscreen",
+      "provider_id": "/g/1hm1zrjhr",
+      "gps_coordinates": {
+        "latitude": 21.25518,
+        "longitude": -86.74605
+      },
+      "title": "Ultramar",
+      "type": "Ferry service",
+      "address": "Isla Mujeres, Quintana Roo, Mexico"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 361,
+      "reviews_original": "(361)",
+      "description": "\"Make sure to bring towels bug spray and sunscreen.\"",
+      "lsig": "AB86z5XcW6jokgrbH4d5VdsVHQSW",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/E7pUTLhL-1ZkIVjeX8iaMOB2z25PCEShYlQL3O0uMyE.jpeg",
+      "place_id": "7351798839498302744",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=7351798839498302744&q=reef-safe+sunscreen",
+      "provider_id": "/g/11ptxzy7hh",
+      "gps_coordinates": {
+        "latitude": 21.145603,
+        "longitude": -86.855545
+      },
+      "title": "Cancun Travel Experience",
+      "type": "Sightseeing tour agency",
+      "years_in_business": "5+ years in business",
+      "address": "Calle Tepich Lote 7 Mza 95 SM 50 Calle Tepich Lote 7 Mazana 95"
+    },
+    {
+      "position": 13,
+      "rating": 4.9,
+      "reviews": 649,
+      "reviews_original": "(649)",
+      "description": "\"They keep your snorkel mask clean every time to get into the water.\"",
+      "lsig": "AB86z5VtvAbuVwI5wsSVKzKbUuDL",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/i7Op7SHSBzM-x7VYPvteUeQ214rU_4Mmvre6yNDjaQ0.jpeg",
+      "place_id": "14791509806662500261",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=14791509806662500261&q=reef-safe+sunscreen",
+      "provider_id": "/g/1thtf5t9",
+      "gps_coordinates": {
+        "latitude": 21.260399,
+        "longitude": -86.74982
+      },
+      "title": "Sea Hawk Divers",
+      "type": "Dive shop",
+      "address": "Isla Mujeres, Quintana Roo, Mexico"
+    },
+    {
+      "position": 14,
+      "rating": 4.6,
+      "reviews": 10,
+      "reviews_original": "(10)",
+      "description": "\"The views of the reef and schools of fish were incredible.\"",
+      "lsig": "AB86z5Ug1gVQhpgCRDumYa1JQBhb",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/yqkvqFse5EPbNyItRMIVHZGI_0k1iJ6qV_NgAod_gdI.jpeg",
+      "place_id": "13621882621122800621",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=13621882621122800621&q=reef-safe+sunscreen",
+      "provider_id": "/g/11f03t30b7",
+      "gps_coordinates": {
+        "latitude": 20.872484,
+        "longitude": -86.86596
+      },
+      "title": "Riviera Maya Snorkeling",
+      "type": "Boat tour agency",
+      "years_in_business": "7+ years in business",
+      "address": "Puerto Morelos, Quintana Roo, Mexico"
+    },
+    {
+      "position": 15,
+      "rating": 4.8,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"They provide snorkels (new unused for you to keep) and masks.\"",
+      "lsig": "AB86z5Use4ifgW_TZqYwwYEwgAx0",
+      "thumbnail": "https://serpapi.com/searches/69d52d32217adecd1a874964/images/rpsjXv168_cn526H8W9lFprxUceM_gtjZOSE5O87b-c.jpeg",
+      "place_id": "16650832343511583350",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=16650832343511583350&q=reef-safe+sunscreen",
+      "provider_id": "/g/11bwf94kzq",
+      "gps_coordinates": {
+        "latitude": 21.258297,
+        "longitude": -86.749664
+      },
+      "title": "Island Adventures Mexico",
+      "type": "Tour operator",
+      "years_in_business": "25+ years in business",
+      "address": "Isla Mujeres, Quintana Roo, Mexico"
+    },
+    {
+      "position": 16,
+      "rating": 4.7,
+      "reviews": 115,
+      "reviews_original": "(115)",
+      "description": "\"They even offered reef-safe sunscreen and dramamine!\"",
+      "lsig": "AB86z5WFfhbCQ-Ocy7MQrPTols3w",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohakXbCDjExZYug4uOE7NLi-QXA1h2FpcCrtmTh52weJmqFm0e7Pqir0nf4hMEa71284r4LoF_LSNMYUvWxzgfEh9eUR9INIoXF4b9tWEEDD_eAQF4VMwGEykNisYglFoMYghTTQ=w90-h90-n-k-no-l75",
+      "place_id": "6354547542389105714",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=6354547542389105714&q=reef-safe+sunscreen",
+      "provider_id": "/g/11h3nnvr8c",
+      "gps_coordinates": {
+        "latitude": 21.187943,
+        "longitude": -86.80732
+      },
+      "title": "Eco Tours Adventure Whale Shark Tour Cancun",
+      "type": "Tour agency",
+      "years_in_business": "20+ years in business",
+      "address": "Calle Felipe Carrillo SM 84 MZ 2 LT 1"
+    }
+  ]
+}

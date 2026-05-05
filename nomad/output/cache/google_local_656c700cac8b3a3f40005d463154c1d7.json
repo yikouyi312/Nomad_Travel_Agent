@@ -1,0 +1,481 @@
+{
+  "search_metadata": {
+    "id": "69d52c0414537b98fc5a4cea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VKmDMlppRP9GehCl9WyjCg/69d52c0414537b98fc5a4cea.json",
+    "created_at": "2026-04-07 16:08:36 UTC",
+    "processed_at": "2026-04-07 16:08:36 UTC",
+    "google_local_url": "https://www.google.com/search?q=vegetarian+restaurants&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/VKmDMlppRP9GehCl9WyjCg/69d52c0414537b98fc5a4cea.html",
+    "total_time_taken": 2.2
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "vegetarian restaurants",
+    "location_requested": "New York",
+    "location_used": "New York,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 40.72540497175607,
+      "longitude": -73.99429321289062
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 996,
+      "reviews_original": "(996)",
+      "price": "$20–30",
+      "lsig": "AB86z5Vd53Nh7BhH-pQrCN8Pl8kF",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/kdla7PEM7uofnfaMgW5aa5OtsUai9P748msNzzupHtY.jpeg",
+      "place_id": "16120363484904863897",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16120363484904863897&q=vegetarian+restaurants",
+      "provider_id": "/g/11gbl3wvs0",
+      "gps_coordinates": {
+        "latitude": 40.720493,
+        "longitude": -74.00023
+      },
+      "title": "Le Botaniste",
+      "type": "Vegan",
+      "address": "127 Grand St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 2,
+      "rating": 4.0,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$20–30",
+      "lsig": "AB86z5VB7HSgWXoO5oJZQBvYqgF5",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/g1MqgwJKngJGA5GcVeV5PsdgthzyWb0bZ6AXgU1WDG0.jpeg",
+      "place_id": "3911981252534241010",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3911981252534241010&q=vegetarian+restaurants",
+      "provider_id": "/g/11xz2xs3h",
+      "gps_coordinates": {
+        "latitude": 40.720673,
+        "longitude": -73.994705
+      },
+      "title": "The Butcher's Daughter",
+      "type": "Vegetarian",
+      "address": "19 Kenmare St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 3,
+      "rating": 4.5,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "lsig": "AB86z5XCHUsUZUN_1hzD3wh3jY0R",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/w8iu_G5pjaEHv1xwVeQ7caM71ti4-ayldeSTWU_Bbuk.jpeg",
+      "place_id": "8738392629485778085",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8738392629485778085&q=vegetarian+restaurants",
+      "provider_id": "/g/11ft0k14vc",
+      "gps_coordinates": {
+        "latitude": 40.744453,
+        "longitude": -73.98831
+      },
+      "title": "PLANTA New York",
+      "type": "Vegan",
+      "address": "15 W 27th St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "lsig": "AB86z5Uv5xoedslvJrzOD8wvDz7I",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/9Y9sxlbbcA0ZcKevFP8AaPUkTYTv53B-vBKZkIE1Pak.jpeg",
+      "place_id": "8152931150725731179",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8152931150725731179&q=vegetarian+restaurants",
+      "provider_id": "/g/11sbhvvsnp",
+      "gps_coordinates": {
+        "latitude": 40.69121,
+        "longitude": -73.99071
+      },
+      "title": "NSV Kitchen by Next Stop Vegan",
+      "type": "Vegan",
+      "address": "Brooklyn, NY",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 768,
+      "reviews_original": "(768)",
+      "price": "$20–30",
+      "lsig": "AB86z5Xi7v90FqjToJIMGo07wN6L",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/jlYGm5i93iv_u0Udb8Cnviel8KamX8SZ5mkhRsVUaYY.jpeg",
+      "place_id": "13445203345349453072",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13445203345349453072&q=vegetarian+restaurants",
+      "provider_id": "/g/11cs6nljhx",
+      "gps_coordinates": {
+        "latitude": 40.72377,
+        "longitude": -73.98849
+      },
+      "title": "divya's kitchen",
+      "type": "Vegetarian",
+      "address": "25 1st Ave",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "lsig": "AB86z5XIm3dhx3GsH3JkbXwuRiYv",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/ojg1tZxnWTZxS1yO1_qmeJ2VkdTj75BWdbUZqtKZ7C4.jpeg",
+      "place_id": "964311156010106640",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=964311156010106640&q=vegetarian+restaurants",
+      "provider_id": "/g/11rcrhsd_8",
+      "gps_coordinates": {
+        "latitude": 40.755764,
+        "longitude": -73.980835
+      },
+      "title": "Vegan On The Fly",
+      "type": "Vegan",
+      "address": "24 W 45th St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 7,
+      "rating": 4.4,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "price": "$10–20",
+      "lsig": "AB86z5UmRvJThIoQHVyLqEm-tBqN",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/e2VLPVW7M2gDM0Onlt0fowAnmMbxBB0ea6JJ4hSh00Q.jpeg",
+      "place_id": "2829769631153028736",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2829769631153028736&q=vegetarian+restaurants",
+      "provider_id": "/g/1hg508_fs",
+      "gps_coordinates": {
+        "latitude": 40.715622,
+        "longitude": -74.00765
+      },
+      "title": "Nish Nush",
+      "type": "Vegetarian",
+      "address": "88 Reade St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$20–30",
+      "lsig": "AB86z5Va8ARtpIBeMkG5VUZGN5jZ",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/0iNfecvZ5tt2El8sBOjUCk1R8P3XwhlEURojSF_BDX8.jpeg",
+      "place_id": "5236834666570805349",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5236834666570805349&q=vegetarian+restaurants",
+      "provider_id": "/g/1hc29n2zq",
+      "gps_coordinates": {
+        "latitude": 40.745197,
+        "longitude": -73.99767
+      },
+      "title": "Urban Vegan Kitchen",
+      "type": "Restaurant",
+      "address": "265 W 23rd St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 579,
+      "reviews_original": "(579)",
+      "price": "$20–30",
+      "lsig": "AB86z5VfRkl3bkY1hoEdnFItmssM",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/h1dqix8sWQC04fAdLieocrt62V7IdvWqueJwVeIXHMw.jpeg",
+      "place_id": "8713572892060129978",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8713572892060129978&q=vegetarian+restaurants",
+      "provider_id": "/g/11w4m484dw",
+      "gps_coordinates": {
+        "latitude": 40.72921,
+        "longitude": -74.00104
+      },
+      "title": "CHLOE'S",
+      "type": "Vegan",
+      "address": "185 Bleecker St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 548,
+      "reviews_original": "(548)",
+      "price": "$10–20",
+      "lsig": "AB86z5UMpbvAFPk-YDKshh44BBlj",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/c4qbA_9kqSGFCXzE1Olxtq-DVTPRZijO_YXFXYz76zg.jpeg",
+      "place_id": "1667405667147199597",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1667405667147199597&q=vegetarian+restaurants",
+      "provider_id": "/g/11h77kp35c",
+      "gps_coordinates": {
+        "latitude": 40.71789,
+        "longitude": -74.00024
+      },
+      "title": "Spring Cafe",
+      "type": "Vegan",
+      "address": "153d Centre St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 11,
+      "rating": 4.8,
+      "reviews": 635,
+      "reviews_original": "(635)",
+      "lsig": "AB86z5Vi2IybBrU_PN5sfwJDG349",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/vwJ-U6huz0SXv9oU3ulHrm4jdtDBbLqlbtyrt8XmpGI.jpeg",
+      "place_id": "8883701505890967117",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8883701505890967117&q=vegetarian+restaurants",
+      "provider_id": "/g/11tjlb7yjt",
+      "gps_coordinates": {
+        "latitude": 40.741478,
+        "longitude": -73.99938
+      },
+      "title": "White Maize +",
+      "type": "Vegetarian",
+      "address": "228 W 18th St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 660,
+      "reviews_original": "(660)",
+      "price": "$20–30",
+      "lsig": "AB86z5WZd2HdJY8gH-GK_dafa0Nj",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/7Wwr-3nFs8clZXEliHsxb6IiEI44XKaW-xt87zGdZE8.png",
+      "place_id": "14110587497170385241",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14110587497170385241&q=vegetarian+restaurants",
+      "provider_id": "/g/1wfvnknk",
+      "gps_coordinates": {
+        "latitude": 40.72049,
+        "longitude": -73.99649
+      },
+      "title": "LuAnne's Wild Ginger",
+      "type": "Vegan",
+      "address": "380 Broome St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 13,
+      "rating": 4.6,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$20–30",
+      "lsig": "AB86z5Wk6l71auqR7Q_IaHfTC74P",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/DnMhN0LXZ4B5bgFT8PEOb2qfBeJKpKIvGrwXsz88JVI.jpeg",
+      "place_id": "6309689066793917650",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6309689066793917650&q=vegetarian+restaurants",
+      "provider_id": "/g/11c75yt6pb",
+      "gps_coordinates": {
+        "latitude": 40.71423,
+        "longitude": -73.99037
+      },
+      "title": "Jajaja Mexicana",
+      "type": "Vegan",
+      "address": "162 E Broadway",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 14,
+      "rating": 4.8,
+      "reviews": 3400,
+      "reviews_original": "(3.4K)",
+      "price": "$20–30",
+      "description": "\"Great atmosphere, and very great food with lots of vegetarian options.\"",
+      "lsig": "AB86z5Vu5j7mx9K4bXzPvignNBlZ",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/szT4rlTSLv7sbYCk5xnB7Y18a-e7csYXl7Wq6rZabuo.jpeg",
+      "place_id": "11394132025405733997",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11394132025405733997&q=vegetarian+restaurants",
+      "provider_id": "/g/11t2v5gtzk",
+      "gps_coordinates": {
+        "latitude": 40.70736,
+        "longitude": -74.00521
+      },
+      "title": "Hey Thai",
+      "type": "Thai",
+      "address": "127 John St"
+    },
+    {
+      "position": 15,
+      "rating": 4.3,
+      "reviews": 2300,
+      "reviews_original": "(2.3K)",
+      "price": "$20–30",
+      "lsig": "AB86z5VwHP1nRsdERQas19qjey9A",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/Pywl55QuSp2hT4RJh5KpfaQBrmQUiByGquB6g7UNAVI.jpeg",
+      "place_id": "2854891754582777370",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2854891754582777370&q=vegetarian+restaurants",
+      "provider_id": "/g/1tggpk88",
+      "gps_coordinates": {
+        "latitude": 40.713886,
+        "longitude": -73.99881
+      },
+      "title": "The Original Buddha Bodai Kosher Vegetarian Restaurant 佛菩提",
+      "type": "Vegetarian",
+      "address": "5 Mott St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$20–30",
+      "lsig": "AB86z5Vv_oxb442eZeWljNj1SbrY",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/ZkRJs1fwCEXzpOYlg2SqSxmaAuxe-xGK8oXCiuGTUJw.jpeg",
+      "place_id": "12419954217864797302",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12419954217864797302&q=vegetarian+restaurants",
+      "provider_id": "/g/11b7b_qyn2",
+      "gps_coordinates": {
+        "latitude": 40.71635,
+        "longitude": -73.999176
+      },
+      "title": "Bodhi Kosher Vegetarian Restaurant",
+      "type": "Vegetarian",
+      "address": "77 Mulberry St",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 650,
+      "reviews_original": "(650)",
+      "price": "$20–30",
+      "lsig": "AB86z5XRc8j3Q4m-Il9yJ4AUf-Tv",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/6L-73QoL43IHF-wYiEGviFRj__FGDN06DQU-w8PncmM.jpeg",
+      "place_id": "10293011129732595257",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10293011129732595257&q=vegetarian+restaurants",
+      "provider_id": "/g/11tp719n71",
+      "gps_coordinates": {
+        "latitude": 40.723415,
+        "longitude": -73.992485
+      },
+      "title": "Spicy Moon Bowery",
+      "type": "Vegan",
+      "address": "265 Bowery",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 18,
+      "rating": 4.6,
+      "reviews": 416,
+      "reviews_original": "(416)",
+      "price": "$10–20",
+      "lsig": "AB86z5W5afuB6ush6SSMdggkl2So",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/sqxEkFJkvdWhZHZhbW3GN7H3I-mfQGisaXyHpxLi5KI.jpeg",
+      "place_id": "9632328417237528714",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9632328417237528714&q=vegetarian+restaurants",
+      "provider_id": "/g/11sn_6jvyb",
+      "gps_coordinates": {
+        "latitude": 40.727936,
+        "longitude": -73.98667
+      },
+      "title": "Vegan Grill",
+      "type": "Vegan",
+      "address": "58 St Marks Pl",
+      "extensions": [
+        "Serves vegetarian dishes"
+      ]
+    },
+    {
+      "position": 19,
+      "rating": 4.4,
+      "reviews": 612,
+      "reviews_original": "(612)",
+      "price": "$10–20",
+      "description": "\"... the chef is a great chef, they understand how to cook vegan food.\"",
+      "lsig": "AB86z5UMq0UPLcHNxnnOAsc31oCw",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/RDML1hZicaG3zZ0QT5dWO57qcs6LmzYIQrmnA9J-5Ko.jpeg",
+      "place_id": "11557984558217069878",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11557984558217069878&q=vegetarian+restaurants",
+      "provider_id": "/g/11ghl2d0ym",
+      "gps_coordinates": {
+        "latitude": 40.720978,
+        "longitude": -73.99563
+      },
+      "title": "noodlelove",
+      "type": "Asian Fusion",
+      "address": "192 Mott St"
+    },
+    {
+      "position": 20,
+      "rating": 4.7,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "price": "$20–30",
+      "description": "\"Best vegan food ever and service was amazing, plus patio back room.\"",
+      "lsig": "AB86z5VBT1z8VHvyHJ-7tmTuBJ1t",
+      "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/i9qk77cjM1_NJRRXTw67irFWpJsy4lmR4egSlSK3r1M.jpeg",
+      "place_id": "14892776074129831765",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14892776074129831765&q=vegetarian+restaurants",
+      "provider_id": "/g/11hbnyx0cc",
+      "gps_coordinates": {
+        "latitude": 40.761826,
+        "longitude": -73.99039
+      },
+      "title": "UT47 Kitchen & Bar",
+      "type": "Brunch",
+      "address": "683 9th Ave"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=vegetarian+restaurants&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=vegetarian+restaurants&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=vegetarian+restaurants&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=vegetarian+restaurants&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=vegetarian+restaurants&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=vegetarian+restaurants&start=20&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=vegetarian+restaurants&start=20&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=vegetarian+restaurants&start=20&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=vegetarian+restaurants&start=40&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=vegetarian+restaurants&start=60&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=vegetarian+restaurants&start=80&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw"
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "search_metadata": {
+    "id": "69d51513a1de12625d90badb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xwQFMLj4lTex_-dHxs2_qQ/69d51513a1de12625d90badb.json",
+    "created_at": "2026-04-07 14:30:43 UTC",
+    "processed_at": "2026-04-07 14:30:43 UTC",
+    "google_local_url": "https://www.google.com/search?q=tide+pools&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/xwQFMLj4lTex_-dHxs2_qQ/69d51513a1de12625d90badb.html",
+    "total_time_taken": 1.15
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "tide pools",
+    "location_requested": "San Diego",
+    "location_used": "San Diego County,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 33.16284622181143,
+      "longitude": -117.55645751953124
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 3500,
+      "reviews_original": "(3.5K)",
+      "description": "\"Exploring the tide pools with a 4 year old was an easy 3 hours.\"",
+      "lsig": "AB86z5XhKjukNV6DwboIFwNOG4Kx",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/KwLOaC8nNlxbJQYvuNAbroKcTne8gktHbRzSM0ZBSnU.jpeg",
+      "place_id": "5811002794280084509",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=5811002794280084509&q=tide+pools",
+      "provider_id": "/g/1hm4x3t99",
+      "gps_coordinates": {
+        "latitude": 32.84111,
+        "longitude": -117.28167
+      },
+      "title": "La Jolla Tide Pools",
+      "type": "Beach",
+      "address": "303 Coast Blvd"
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "description": "\"Always fun to visit the tide pools and see the amazing views of the Pacific.\"",
+      "lsig": "AB86z5XyvW1llBBpDrHxS3kWWBri",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/3G_2yfoH0CI224k4-QVufjVCeZzdAbjLERUPPvZxyXI.jpeg",
+      "place_id": "10022838394140599094",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=10022838394140599094&q=tide+pools",
+      "provider_id": "/g/11bwkdz5t4",
+      "gps_coordinates": {
+        "latitude": 32.668762,
+        "longitude": -117.245255
+      },
+      "title": "Point Loma Tide Pools",
+      "type": "Scenic spot",
+      "address": "San Diego, CA",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews": 854,
+      "reviews_original": "(854)",
+      "description": "\"Always fun at low tide...and the view never gets old\"",
+      "lsig": "AB86z5UgrRPRFh96vzLMBhxIno2S",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/QZdJNHz8sO_9UIRYKdEOOJ39FsTrv0RR4wCI6IKriRc.jpeg",
+      "place_id": "18217877600308640055",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=18217877600308640055&q=tide+pools",
+      "provider_id": "/g/11c2nq3gcc",
+      "gps_coordinates": {
+        "latitude": 32.74581,
+        "longitude": -117.25508
+      },
+      "title": "Ocean Beach Tide Pools",
+      "type": "Public beach",
+      "address": "San Diego, CA"
+    },
+    {
+      "position": 4,
+      "rating": 4.7,
+      "reviews": 946,
+      "reviews_original": "(946)",
+      "description": "\"Fairly clean bathrooms, rinse off station, and tide pools!\"",
+      "lsig": "AB86z5XVSDfcc-T2qIZX7beOMmVC",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/WKiOtGbsMkqbU7rxdY9R1RT4GBrCjj3cSzcazgrBe64.jpeg",
+      "place_id": "5498528764996905396",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=5498528764996905396&q=tide+pools",
+      "provider_id": "/g/11btyl5rr2",
+      "gps_coordinates": {
+        "latitude": 33.589188,
+        "longitude": -117.8684
+      },
+      "title": "Tide Pools",
+      "type": "Public beach",
+      "address": "3712 Ocean Blvd"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 83,
+      "reviews_original": "(83)",
+      "description": "\"Incredible views of the sand, sea, tide pools and lots of seals.\"",
+      "lsig": "AB86z5WY-KRjIhRZxwputf_qIpDn",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/dNrdxF3cNr1EDj42H8XTCsF4BMK6MaG4OeQMhGUoypE.jpeg",
+      "place_id": "7192054307719502482",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7192054307719502482&q=tide+pools",
+      "provider_id": "/g/11pxzy0k90",
+      "gps_coordinates": {
+        "latitude": 32.84109,
+        "longitude": -117.28164
+      },
+      "title": "La Jolla Tide Pools",
+      "type": "Park",
+      "address": "274 Coast Blvd"
+    },
+    {
+      "position": 6,
+      "rating": 4.8,
+      "reviews": 2700,
+      "reviews_original": "(2.7K)",
+      "description": "\"A peaceful coastal hike with stunning cliffs and serene tide pools.\"",
+      "lsig": "AB86z5U1lBgR8MqgEuWB2weRxkk1",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep5scZpKfbOReqe7y7khTEZ1ut2E_CrQQOreND7BdHoHI6I2zIob7f3TYL3s-Iung76p1h_9fAEjmVFnmlsfGypFKmyrlnjD1XMKDZSa9xUSQUcJZDUXZt5w0oCrs7chNRM5q43=w90-h90-n-k-no-l75",
+      "place_id": "18154231458841249162",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=18154231458841249162&q=tide+pools",
+      "provider_id": "/g/11g65bsdv0",
+      "gps_coordinates": {
+        "latitude": 32.72434,
+        "longitude": -117.25756
+      },
+      "title": "Sunset Cliffs Cave",
+      "type": "Tourist attraction",
+      "address": "San Diego, CA"
+    },
+    {
+      "position": 7,
+      "rating": 4.8,
+      "reviews": 7200,
+      "reviews_original": "(7.2K)",
+      "description": "\"Beautiful secluded beach with some tide pools and interesting cliffs.\"",
+      "lsig": "AB86z5UuJAefiyp4GnqkazPMiRJx",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/FgRmg4LPwylJxam--RJznvYeiAgWHlFzni9EpoeAukQ.jpeg",
+      "place_id": "12075423057656377245",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=12075423057656377245&q=tide+pools",
+      "provider_id": "/m/04klp9",
+      "gps_coordinates": {
+        "latitude": 33.58008,
+        "longitude": -117.805084
+      },
+      "title": "Crystal Cove State Park",
+      "type": "State park",
+      "address": "California"
+    },
+    {
+      "position": 8,
+      "rating": 3.8,
+      "reviews": 38,
+      "reviews_original": "(38)",
+      "description": "\"You can also see little tide pools at low tide.\"",
+      "lsig": "AB86z5X5gVcoc5fjZdGfJCiFmQRY",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/tjQwL4aYXPpoB11bWNRGRzxmOqKIFizM6oiR3C8aduk.jpeg",
+      "place_id": "14361963717219493819",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=14361963717219493819&q=tide+pools",
+      "provider_id": "/g/1tfshptn",
+      "gps_coordinates": {
+        "latitude": 32.995857,
+        "longitude": -117.27625
+      },
+      "title": "Tide Beach Park",
+      "type": "Beach"
+    },
+    {
+      "position": 9,
+      "rating": 4.5,
+      "reviews": 8,
+      "reviews_original": "(8)",
+      "description": "\"Go at low tide and it’s a lovely experience.\"",
+      "lsig": "AB86z5XYW4ZZDyQoqBqSH9V-hTCy",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/p_6Kyjj1O8dfme6V3qEf-SWxY8yvbxLieOugoA76u84.jpeg",
+      "place_id": "10569068804329765237",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=10569068804329765237&q=tide+pools",
+      "provider_id": "/g/11yqtsgn2_",
+      "gps_coordinates": {
+        "latitude": 33.129395,
+        "longitude": -117.334816
+      },
+      "title": "Carlsbad Tide Pools",
+      "type": "Tourist attraction",
+      "address": "Carlsbad, CA"
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 773,
+      "reviews_original": "(773)",
+      "description": "\"The tide pools were fun to explore!\"",
+      "lsig": "AB86z5UNHSmUlpShQF2d_VAjotgr",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/KvQHC588YIU0noXKPcv25Nh-bAu67ndJghGvrr_W1f8.jpeg",
+      "place_id": "3911387544394525183",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3911387544394525183&q=tide+pools",
+      "provider_id": "/g/1tf6xn7d",
+      "gps_coordinates": {
+        "latitude": 33.128517,
+        "longitude": -117.33291
+      },
+      "title": "Terramar Point",
+      "type": "Scenic spot",
+      "address": "Carlsbad, CA"
+    },
+    {
+      "position": 11,
+      "rating": 4.8,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "description": "\"I swam in the waves for hours and it was simply magnificent.\"",
+      "lsig": "AB86z5X9taE1Dk3pvgIjCKkoKXJk",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/oxouSEPp4LI-6MouiH4hb1UiQZcb20SYCVJXCiTRAvo.jpeg",
+      "place_id": "3553256402313732622",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3553256402313732622&q=tide+pools",
+      "provider_id": "/g/1tmz76x9",
+      "gps_coordinates": {
+        "latitude": 32.991375,
+        "longitude": -117.27326
+      },
+      "title": "Fletcher Cove Beach Park",
+      "type": "Park",
+      "address": "Solana Beach, CA"
+    },
+    {
+      "position": 12,
+      "rating": 4.8,
+      "reviews": 8700,
+      "reviews_original": "(8.7K)",
+      "description": "\"You can see beautiful tide pools with small plants and animals.\"",
+      "lsig": "AB86z5Wyv4f2h1m3Pb2_vvEc-kHC",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/JmjyZsnqqyeuSlJgsV54et0ueWAWnnounzu-rDcyuBw.jpeg",
+      "place_id": "16882291673573396757",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=16882291673573396757&q=tide+pools",
+      "provider_id": "/g/1thxwjjl",
+      "gps_coordinates": {
+        "latitude": 32.715916,
+        "longitude": -117.255165
+      },
+      "title": "Sunset Cliffs Natural Park",
+      "type": "Park",
+      "address": "San Diego, CA"
+    },
+    {
+      "position": 13,
+      "rating": 4.9,
+      "reviews": 226,
+      "reviews_original": "(226)",
+      "description": "\"On low tide can see a lot of exposed tide pools and reefs.\"",
+      "lsig": "AB86z5U5bT3P4wbhvwNis0z0HIkq",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/l6PEq4AYyC3YWK53JEBkeLOtrLybJFuuyl-kWvtxt5o.jpeg",
+      "place_id": "7985300462842418633",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7985300462842418633&q=tide+pools",
+      "provider_id": "/g/11q1vzzjy3",
+      "gps_coordinates": {
+        "latitude": 32.719696,
+        "longitude": -117.25676
+      },
+      "title": "Stairs to lookout on Sunset Cliffs",
+      "type": "Tourist attraction",
+      "address": "San Diego, CA"
+    },
+    {
+      "position": 14,
+      "rating": 4.9,
+      "reviews": 2300,
+      "reviews_original": "(2.3K)",
+      "description": "\"Lots of natural beauty, tide pools and very clean and uncrowded.\"",
+      "lsig": "AB86z5U9V5pj-2T5RqwzECbGflnm",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/oQC_mhYBQErzqHDSSeKvUm7rH9tJiN8gX5gl4DEZv7o.jpeg",
+      "place_id": "1480041746451586220",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1480041746451586220&q=tide+pools",
+      "provider_id": "/g/11bw3zsq6y",
+      "gps_coordinates": {
+        "latitude": 33.513577,
+        "longitude": -117.7554
+      },
+      "title": "Treasure Island Park",
+      "type": "Public beach",
+      "address": "Laguna Beach, CA"
+    },
+    {
+      "position": 15,
+      "rating": 4.8,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "description": "\"... this beach on accident while looking for the Carlsbad tide pools.\"",
+      "lsig": "AB86z5Ut7tAugElHtGBebYKPptiF",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/L02bEoa6wQqao-ecWiPHdw5wfX7xRrkbpN4VVSS9Sf4.jpeg",
+      "place_id": "11982539093735043343",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=11982539093735043343&q=tide+pools",
+      "provider_id": "/g/11bxf486lm",
+      "gps_coordinates": {
+        "latitude": 33.15434,
+        "longitude": -117.35097
+      },
+      "title": "Carlsbad State Beach",
+      "type": "Beach",
+      "address": "Carlsbad, CA"
+    },
+    {
+      "position": 16,
+      "rating": 4.7,
+      "reviews": 164,
+      "reviews_original": "(164)",
+      "description": "\"Great beach during low tides and great tide pools\"",
+      "lsig": "AB86z5VlFkcp0rYBKwuWcKeCHyt9",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/Ar-JkF1TDcdCb5hmDQSauYn9UHaAl08k-6UZHv9gOYk.jpeg",
+      "place_id": "2566246025906298982",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=2566246025906298982&q=tide+pools",
+      "provider_id": "/g/11b_268yk4",
+      "gps_coordinates": {
+        "latitude": 33.12811,
+        "longitude": -117.333694
+      },
+      "title": "Terramar",
+      "type": "Public beach",
+      "address": "Carlsbad, CA"
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 83,
+      "reviews_original": "(83)",
+      "description": "\"There were croakers, calico bass, and a sand shark in the tide pool tank.\"",
+      "lsig": "AB86z5WReTYeJkR4iz5BTL_Bi5o0",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/KQQn5zAYjsT59qPgGYGAFMS1vQjYT7nSCovqx4h1bjo.jpeg",
+      "place_id": "1364136708777882248",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1364136708777882248&q=tide+pools",
+      "provider_id": "/g/11g0t6x3m4",
+      "gps_coordinates": {
+        "latitude": 33.464035,
+        "longitude": -117.68727
+      },
+      "title": "Tide Pool & Aquarium",
+      "type": "Aquarium",
+      "address": "Dana Point, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.3,
+      "reviews": 84,
+      "reviews_original": "(84)",
+      "description": "\"🌡 Water’s cold year-round, so bring a wetsuit plus snorkel gear\"",
+      "lsig": "AB86z5Xo3WljW3oghdf0Q6iZgvDr",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/98EBA7Qtohc-KcVkswjomNxjcmFqW3qIRBX5aJ1-b6Y.jpeg",
+      "place_id": "12123571678116668613",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=12123571678116668613&q=tide+pools",
+      "provider_id": "/g/11sk8lt0gp",
+      "gps_coordinates": {
+        "latitude": 32.850258,
+        "longitude": -117.27035
+      },
+      "title": "Sea Cave",
+      "type": "Tourist attraction",
+      "address": "La Jolla, CA"
+    },
+    {
+      "position": 19,
+      "rating": 4.9,
+      "reviews": 2500,
+      "reviews_original": "(2.5K)",
+      "description": "\"Go at low tide so that you can see some sea creatures and walk in the cave.\"",
+      "lsig": "AB86z5UKH-M-7AF78Vsjc5T4kES5",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/pXchU-VCpw_5beNOHMz-bcsvm3CYu5KOKG2v4tQ1d7Q.jpeg",
+      "place_id": "14864302287066311375",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=14864302287066311375&q=tide+pools",
+      "provider_id": "/g/11clsdnbzx",
+      "gps_coordinates": {
+        "latitude": 32.732124,
+        "longitude": -117.256516
+      },
+      "title": "Sunset Cliffs",
+      "type": "Scenic spot",
+      "address": "San Diego, CA"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 947,
+      "reviews_original": "(947)",
+      "description": "\"Beautiful spot, turquoise waters, tide pools, and classic California bluffs.\"",
+      "lsig": "AB86z5V_P-VMa6D8JSmqJouuNIvX",
+      "thumbnail": "https://serpapi.com/searches/69d51513a1de12625d90badb/images/I3epLiRYrmaz3PxWE_jpkNDlxIlbmSKf1ryo66uD11c.jpeg",
+      "place_id": "275999369138698112",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=275999369138698112&q=tide+pools",
+      "provider_id": "/g/11c6r35bvb",
+      "gps_coordinates": {
+        "latitude": 33.51452,
+        "longitude": -117.75965
+      },
+      "title": "Treasure Island Beach",
+      "type": "Beach",
+      "address": "Laguna Beach, CA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tide+pools&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tide+pools&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=tide+pools&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=tide+pools&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=tide+pools&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=tide+pools&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=tide+pools&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=tide+pools&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=tide+pools&start=40&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=tide+pools&start=60&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=tide+pools&start=80&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

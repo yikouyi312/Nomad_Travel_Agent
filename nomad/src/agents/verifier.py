@@ -1,10 +1,12 @@
-from typing import Any, Dict, Optional
+from typing import Any, Dict, List, Optional
 import json
 import os
 from datetime import datetime
 
 from llm import call_llm_structured
 from config import VERIFICATION_DIR
+from state import TravelConstraints
+from agents.specialist import _to_iata
 
 VERIFIER_SCHEMA = {
     "type": "object",
@@ -360,5 +362,193 @@ def format_complete_itinerary(verification_result: Dict[str, Any]) -> str:
     if verification_result.get("final_message_to_user"):
         lines.append(f"📝 {verification_result['final_message_to_user']}")
     lines.append("=" * 70)
+    
+    return "\n".join(lines)
+
+
+# ============================================================================
+# Constraint Validation & Negotiation (New Pipeline)
+# ============================================================================
+
+def validate_plan(
+    selection_result: Dict[str, Any],
+    constraints: TravelConstraints,
+) -> Dict[str, Any]:
+    """
+    Robust plan validation: programmatic checks first, then filtered LLM claims.
+
+    Programmatic (authoritative): budget, airports, hotel star, hotel price, dates.
+    LLM (supplementary): only qualitative issues the code can't verify, with
+    budget/airport/date/star/price claims filtered out to prevent hallucination.
+
+    Returns:
+        {
+            "valid": bool,
+            "unmet_constraints": [str],
+            "plan": dict,
+            "closest_alternative": dict | None,
+        }
+    """
+    if not isinstance(selection_result, dict):
+        return {
+            "valid": False,
+            "unmet_constraints": [f"LLM returned non-dict: {str(selection_result)[:200]}"],
+            "plan": {},
+            "closest_alternative": None,
+        }
+
+    itinerary = selection_result.get("itinerary", {})
+    if not isinstance(itinerary, dict):
+        itinerary = {}
+    unmet: List[str] = []
+
+    # ── 1. Budget ──
+    if constraints.budget_usd and itinerary.get("estimated_total_cost"):
+        try:
+            total_cost = float(itinerary["estimated_total_cost"])
+        except (TypeError, ValueError):
+            total_cost = 0
+        if total_cost > constraints.budget_usd:
+            unmet.append(
+                f"Budget exceeded: ${total_cost:.0f} vs limit ${constraints.budget_usd:.0f}"
+            )
+
+    # ── 2. Flights ──
+    flights = itinerary.get("flights", {})
+    if isinstance(flights, dict) and flights:
+        outbound = flights.get("outbound", {}) if isinstance(flights.get("outbound"), dict) else {}
+        return_fl = flights.get("return", {}) if isinstance(flights.get("return"), dict) else {}
+
+        # 2a. Departure airport
+        if constraints.origin and outbound:
+            dep = outbound.get("departure_airport", {})
+            dep_id = dep.get("id", "") if isinstance(dep, dict) else ""
+            if dep_id and _to_iata(dep_id) != _to_iata(constraints.origin):
+                unmet.append(f"Departure airport: {dep_id} vs expected {constraints.origin}")
+
+        # 2b. Arrival airport
+        if constraints.destination and outbound:
+            arr = outbound.get("arrival_airport", {})
+            arr_id = arr.get("id", "") if isinstance(arr, dict) else ""
+            if arr_id and _to_iata(arr_id) != _to_iata(constraints.destination):
+                unmet.append(f"Arrival airport: {arr_id} vs expected {constraints.destination}")
+
+        # 2c. Return flight mirrors (dest → origin)
+        if constraints.origin and return_fl:
+            ret_arr = return_fl.get("arrival_airport", {})
+            ret_arr_id = ret_arr.get("id", "") if isinstance(ret_arr, dict) else ""
+            if ret_arr_id and _to_iata(ret_arr_id) != _to_iata(constraints.origin):
+                unmet.append(f"Return arrival: {ret_arr_id} vs expected {constraints.origin}")
+
+    # ── 3. Hotel star rating ──
+    hotel = itinerary.get("hotels", {})
+    if isinstance(hotel, dict) and constraints.preferred_hotel_rating:
+        star = hotel.get("extracted_hotel_class") or hotel.get("hotel_class") or hotel.get("star_rating")
+        if star is not None:
+            try:
+                if int(star) < constraints.preferred_hotel_rating:
+                    unmet.append(
+                        f"Hotel star: {star}-star vs minimum {constraints.preferred_hotel_rating}-star"
+                    )
+            except (TypeError, ValueError):
+                pass
+
+    # ── 4. Hotel budget per night ──
+    if isinstance(hotel, dict) and constraints.hotel_budget_per_night:
+        rate = hotel.get("rate_per_night", {})
+        nightly = None
+        if isinstance(rate, dict):
+            nightly = rate.get("extracted_lowest") or rate.get("lowest")
+        elif isinstance(rate, (int, float)):
+            nightly = rate
+        # Also try price_per_night directly
+        if nightly is None:
+            nightly = hotel.get("price_per_night")
+        if nightly is not None:
+            try:
+                nightly_f = float(str(nightly).replace("$", "").replace(",", ""))
+                if nightly_f > constraints.hotel_budget_per_night:
+                    unmet.append(
+                        f"Hotel rate: ${nightly_f:.0f}/night vs limit ${constraints.hotel_budget_per_night:.0f}/night"
+                    )
+            except (TypeError, ValueError):
+                pass
+
+    # ── 5. LLM qualitative issues (filtered) ──
+    # Only keep items the code above can't verify (e.g. "no pet-friendly option found")
+    PROGRAMMATIC_KEYWORDS = [
+        "budget", "cost", "price", "exceed", "over",         # budget
+        "airport", "departure", "arrival", "origin", "dest",  # airports
+        "date", "return flight", "return leg",                 # dates/flights
+        "star", "rating",                                      # hotel star
+        "per night", "nightly",                                # hotel price
+    ]
+    llm_unmet = selection_result.get("unmet_constraints", [])
+    if isinstance(llm_unmet, list):
+        for item in llm_unmet:
+            if not isinstance(item, str):
+                continue
+            item_lower = item.lower()
+            # Skip if it overlaps with any programmatic check domain
+            if any(kw in item_lower for kw in PROGRAMMATIC_KEYWORDS):
+                continue
+            unmet.append(item)
+
+    # Deduplicate
+    unmet = list(dict.fromkeys(unmet))
+
+    return {
+        "valid": len(unmet) == 0,
+        "unmet_constraints": unmet,
+        "plan": itinerary,
+        "closest_alternative": selection_result.get("closest_alternative"),
+    }
+
+
+def format_negotiation_message(validation_result: Dict[str, Any]) -> str:
+    """
+    Format a user-facing message when constraints can't be met.
+    Asks user to accept the closest option or adjust constraints.
+    
+    Args:
+        validation_result: Result from validate_plan()
+    
+    Returns:
+        Formatted negotiation message string
+    """
+    lines = []
+    lines.append("=" * 60)
+    lines.append("⚠️  SOME CONSTRAINTS COULD NOT BE MET")
+    lines.append("=" * 60)
+    
+    for issue in validation_result.get("unmet_constraints", []):
+        lines.append(f"  • {issue}")
+    
+    lines.append("")
+    
+    # Show closest alternative if available
+    alt = validation_result.get("closest_alternative")
+    if alt:
+        lines.append("📋 CLOSEST FEASIBLE OPTION:")
+        lines.append("-" * 40)
+        if alt.get("flights"):
+            lines.append(f"  ✈️  Flights: {json.dumps(alt['flights'], indent=4, ensure_ascii=False)}")
+        if alt.get("hotels"):
+            lines.append(f"  🏨 Hotel: {json.dumps(alt['hotels'], indent=4, ensure_ascii=False)}")
+        if alt.get("activities"):
+            lines.append(f"  🎯 Activities: {len(alt['activities'])} selected")
+        if alt.get("estimated_total_cost"):
+            lines.append(f"  💰 Cost: ${alt['estimated_total_cost']:,.0f}")
+    else:
+        # Fall back to showing the original plan
+        plan = validation_result.get("plan", {})
+        if plan.get("estimated_total_cost"):
+            lines.append(f"  💰 Closest cost: ${plan['estimated_total_cost']:,.0f}")
+    
+    lines.append("")
+    lines.append("OPTIONS:")
+    lines.append("  1. Accept this option (type 'accept')")
+    lines.append("  2. Adjust your constraints (tell me what to change)")
+    lines.append("=" * 60)
     
     return "\n".join(lines)

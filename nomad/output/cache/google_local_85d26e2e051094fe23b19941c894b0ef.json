@@ -1,0 +1,453 @@
+{
+  "search_metadata": {
+    "id": "69d51c84822c5f983fdf0340",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cyr6LhZgOC4oEt7ZUgAdAQ/69d51c84822c5f983fdf0340.json",
+    "created_at": "2026-04-07 15:02:28 UTC",
+    "processed_at": "2026-04-07 15:02:28 UTC",
+    "google_local_url": "https://www.google.com/search?q=afternoon+tea&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/cyr6LhZgOC4oEt7ZUgAdAQ/69d51c84822c5f983fdf0340.html",
+    "total_time_taken": 6.68
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "afternoon tea",
+    "location_requested": "London",
+    "location_used": "London TV Region,England,United Kingdom",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 52.872445481488825,
+      "longitude": -2.12310791015625
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 3.9,
+      "reviews": 353,
+      "reviews_original": "(353)",
+      "description": "\"Always a joy to enjoy hot drinks and delicious cakes/biscuits from here.\"",
+      "lsig": "AB86z5XEOpBwE2maMG2qg7NiYtrG",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/s0oKAKVps-Oq0EPoQVOqYXrQfdtgUVjyssahCjud4fc.jpeg",
+      "place_id": "16437368137797433268",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16437368137797433268&q=afternoon+tea",
+      "provider_id": "/g/1pp2x54yf",
+      "gps_coordinates": {
+        "latitude": 52.962612,
+        "longitude": -2.203702
+      },
+      "title": "Totally Delicious - Trentham Gardens (Tea Room)",
+      "type": "Restaurant",
+      "address": "Stoke-on-Trent, United Kingdom"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 747,
+      "reviews_original": "(747)",
+      "description": "\"Afternoon tea was delicious, decor is amazing, staff are very helpful\"",
+      "lsig": "AB86z5W8Tt6vSYbNbxUjswv0SFMj",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/S9mnmRn11H858hwOJgB3jhhWxviHl7L9hlGzuTCgS8M.jpeg",
+      "place_id": "2172760165194436610",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2172760165194436610&q=afternoon+tea",
+      "provider_id": "/g/11g07flb20",
+      "gps_coordinates": {
+        "latitude": 53.003685,
+        "longitude": -2.1827347
+      },
+      "title": "The Rabbit Hole Tea Room",
+      "type": "Tea house",
+      "address": "Stoke-on-Trent, United Kingdom",
+      "hours": "Closed · Opens 11:30 AM Thu"
+    },
+    {
+      "position": 3,
+      "rating": 4.5,
+      "reviews": 2300,
+      "reviews_original": "(2.3K)",
+      "description": "\"Beautiful setting, lovely food, great service and atmosphere.\"",
+      "lsig": "AB86z5WNVXgqSXsHdH7qkCDZ4Y5_",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/1kXtOiwZ7cAd3pinhHPVl58VhTcdn41Uer75ijItyP4.jpeg",
+      "place_id": "12544583344277738009",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12544583344277738009&q=afternoon+tea",
+      "provider_id": "/g/1tkf0hmn",
+      "gps_coordinates": {
+        "latitude": 52.885433,
+        "longitude": -2.1225936
+      },
+      "title": "Aston Marina",
+      "type": "Restaurant",
+      "address": "Stone, United Kingdom"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "description": "\"The quality of the afternoon tea was really good quality and plentiful.\"",
+      "lsig": "AB86z5UJuY-reBs1ZfDdILZIAwVs",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/zF9YZYdIZ0OoCyniZjEuPk0Kq56_sDggzL7TJtse0Yk.jpeg",
+      "place_id": "519876976854173543",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=519876976854173543&q=afternoon+tea",
+      "provider_id": "/g/1pxyd8knw",
+      "gps_coordinates": {
+        "latitude": 52.84057,
+        "longitude": -2.0515354
+      },
+      "title": "Weston Hall - Stafford",
+      "type": "Restaurant",
+      "address": "Stafford, United Kingdom"
+    },
+    {
+      "position": 5,
+      "rating": 4.5,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "description": "\"Fantastic afternoon tea and lovely staff and service\"",
+      "lsig": "AB86z5Wm-8ST2AxaeCneAkriLdJE",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/D29HjfspzCKEeYl6d1E4NKGQs6CrNk4UQYDXL9DIPSM.jpeg",
+      "place_id": "12117312474251093924",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12117312474251093924&q=afternoon+tea",
+      "provider_id": "/g/1tqpysg_",
+      "gps_coordinates": {
+        "latitude": 52.941948,
+        "longitude": -2.1008217
+      },
+      "title": "Moddershall Oaks Country Spa Retreat",
+      "type": "Restaurant",
+      "address": "Stone, United Kingdom"
+    },
+    {
+      "position": 6,
+      "rating": 4.8,
+      "reviews": 570,
+      "reviews_original": "(570)",
+      "description": "\"Lovely staff, fresh made food and a quirky decor Loved it ❤️\"",
+      "lsig": "AB86z5XMSaQn-SlQvF9iZ18hSD9i",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/X73qPLlcqJ79nn06YsaWvCF4vhysqPjjKK_aVKtExkE.jpeg",
+      "place_id": "613466236258949643",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=613466236258949643&q=afternoon+tea",
+      "provider_id": "/g/11bwyyn5mm",
+      "gps_coordinates": {
+        "latitude": 53.009827,
+        "longitude": -2.2258441
+      },
+      "title": "Bygones Tearoom",
+      "type": "Tea house",
+      "address": "Newcastle, United Kingdom",
+      "hours": "Closed · Opens 8:45 AM Wed"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 236,
+      "reviews_original": "(236)",
+      "description": "\"Fab afternoon tea in a lovely setting and fantastic staff.\"",
+      "lsig": "AB86z5VJJQ2icf8Low3ICZ0ToKa-",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/SKkM9-8AVXBpb3nu-iXY3kbbGnjQNxcov5sF1j2sgU8.jpeg",
+      "place_id": "16543057937043660221",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16543057937043660221&q=afternoon+tea",
+      "provider_id": "/g/11j0tlq94l",
+      "gps_coordinates": {
+        "latitude": 52.954792,
+        "longitude": -2.1703806
+      },
+      "title": "Wedgwood Tea Room",
+      "type": "Tea house",
+      "address": "Stoke-on-Trent, United Kingdom",
+      "hours": "Closes soon · 5 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 341,
+      "reviews_original": "(341)",
+      "description": "\"Wonderful little tea room ,great food ,lovely staff well worth the visit .\"",
+      "lsig": "AB86z5XyfHiDhCQpuAyeRn8L7jGd",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/-FkeFPsPQmw3SQpoHH8cwqe2tFtEc_WwX6eWcO73vs4.jpeg",
+      "place_id": "1183085978569892686",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1183085978569892686&q=afternoon+tea",
+      "provider_id": "/g/11clyh78p8",
+      "gps_coordinates": {
+        "latitude": 52.692654,
+        "longitude": -2.1245809
+      },
+      "title": "Cyril's Tearoom",
+      "type": "Tea house",
+      "address": "United Kingdom",
+      "hours": "Closed · Opens 9:30 AM Wed"
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 660,
+      "reviews_original": "(660)",
+      "description": "\"Amazing 🤩 afternoon tea very good food organising and great service\"",
+      "lsig": "AB86z5VzeBQhTteELne5t_cCu7Zc",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/Ck1gM-mTfeECPOO2VV2JQyBavtw5SqEQ7Z_5Ze_WZOM.jpeg",
+      "place_id": "15545601195855180775",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15545601195855180775&q=afternoon+tea",
+      "provider_id": "/g/11bxw8_mj_",
+      "gps_coordinates": {
+        "latitude": 52.9658,
+        "longitude": -2.2844262
+      },
+      "title": "Whitmore Tea Rooms",
+      "type": "Tea house",
+      "address": "Newcastle, United Kingdom",
+      "hours": "Closed · Opens 10:30 AM Thu"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 883,
+      "reviews_original": "(883)",
+      "price": "£10–20",
+      "description": "\"The food was amazing and the scones were out of this world.\"",
+      "lsig": "AB86z5WgvCOL8WXxYCyTMUiZSssB",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/Wi36FlXzr4PFE1Aewo70g7o9qh7czGW9Rejy04vqjEo.jpeg",
+      "place_id": "5147591672478707574",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5147591672478707574&q=afternoon+tea",
+      "provider_id": "/g/11g7nrn6_j",
+      "gps_coordinates": {
+        "latitude": 53.02643,
+        "longitude": -1.9616034
+      },
+      "title": "Hetty's Tea Shop",
+      "type": "Coffee shop",
+      "address": "United Kingdom",
+      "hours": "Closed · Opens 10 AM Thu"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 925,
+      "reviews_original": "(925)",
+      "price": "£20–30",
+      "description": "\"Fabulous food, excellent staff, gorgeous atmosphere and decor.\"",
+      "lsig": "AB86z5UWFbQsF2C3LqYcPHfU3ZnH",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/8WufXPX5I3mDA1YKRSHB3fzBoGrGN3WutLqhBLBDwoQ.png",
+      "place_id": "15970866957105833643",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15970866957105833643&q=afternoon+tea",
+      "provider_id": "/g/11hm_96c4m",
+      "gps_coordinates": {
+        "latitude": 53.005512,
+        "longitude": -2.1853023
+      },
+      "title": "the QUARTER at Potbank",
+      "type": "Restaurant",
+      "address": "Stoke-on-Trent, United Kingdom",
+      "hours": "Closed · Opens 10 AM Wed"
+    },
+    {
+      "position": 12,
+      "rating": 4.9,
+      "reviews": 84,
+      "reviews_original": "(84)",
+      "lsig": "AB86z5UfBJx0CfYLzPgrceaZJk03",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/qsqrNQebsmMW1J6K1pdwz34jZkZCjwhx8ilgQ3KqcLg.jpeg",
+      "place_id": "11236033953104145487",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11236033953104145487&q=afternoon+tea",
+      "provider_id": "/g/12nq93mym",
+      "gps_coordinates": {
+        "latitude": 52.89439,
+        "longitude": -2.0777576
+      },
+      "title": "Oak Tree Farm Rural Project",
+      "type": "Tea house",
+      "address": "Stone, United Kingdom",
+      "hours": "Closed · Opens 10 AM Wed",
+      "extensions": [
+        "Menu highlight: afternoon tea"
+      ]
+    },
+    {
+      "position": 13,
+      "rating": 4.4,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "description": "\"The setting is beautiful, the staff were fab and the food was delicious!\"",
+      "lsig": "AB86z5XSBu-xIUi67KhtMuuCUwVK",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/H9nn_Z5ltNkEnAGWpd-e2Gg8Z-rvnuT5YmUionVbJrY.jpeg",
+      "place_id": "114432325280368338",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=114432325280368338&q=afternoon+tea",
+      "provider_id": "/g/11f3n25k8y",
+      "gps_coordinates": {
+        "latitude": 52.679638,
+        "longitude": -2.679568
+      },
+      "title": "The Mytton & Mermaid",
+      "type": "Pub",
+      "address": "Shrewsbury, United Kingdom"
+    },
+    {
+      "position": 14,
+      "rating": 4.7,
+      "reviews": 784,
+      "reviews_original": "(784)",
+      "lsig": "AB86z5VUS_8gUUUPysECArcAmX59",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/_6buF46SAFBUcdMaersettYQTurF3IzTvIZV2OGFOXs.jpeg",
+      "place_id": "11096384088301656667",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11096384088301656667&q=afternoon+tea",
+      "provider_id": "/g/1v2kwzkw",
+      "gps_coordinates": {
+        "latitude": 52.97427,
+        "longitude": -2.062409
+      },
+      "title": "Heath House Farm",
+      "type": "Tea house",
+      "address": "Stoke-on-Trent, United Kingdom",
+      "hours": "Closes soon · 4:30 PM",
+      "extensions": [
+        "Menu highlight: afternoon tea"
+      ]
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 732,
+      "reviews_original": "(732)",
+      "price": "£10–20",
+      "description": "\"Delicious afternoon tea with great service - really enjoyed our visit!\"",
+      "lsig": "AB86z5XjcWIp0LqyUWXXOOdImFYk",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/CG7dRzo7I_wrzLnYinbJwPlaMztivJBlY9n2G-lf7wo.jpeg",
+      "place_id": "1983027531285871252",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1983027531285871252&q=afternoon+tea",
+      "provider_id": "/g/1v62h2sk",
+      "gps_coordinates": {
+        "latitude": 52.598324,
+        "longitude": -2.1678298
+      },
+      "title": "Gluttons for Nourishment",
+      "type": "Coffee shop",
+      "address": "Wolverhampton, United Kingdom",
+      "hours": "Closed · Opens 9 AM Wed"
+    },
+    {
+      "position": 16,
+      "rating": 4.5,
+      "reviews": 759,
+      "reviews_original": "(759)",
+      "price": "£10–20",
+      "description": "\"Delicious food and drinks and even cream teas all with friendly service.\"",
+      "lsig": "AB86z5X68_2HoOhRGg1dr-IMornR",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/y2EG8yPXW69p-c_VGjdJ3A1sSkKScWcranlt9Rm1mjQ.jpeg",
+      "place_id": "12722073340909604814",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12722073340909604814&q=afternoon+tea",
+      "provider_id": "/g/1hc4fccnp",
+      "gps_coordinates": {
+        "latitude": 52.74591,
+        "longitude": -2.0330637
+      },
+      "title": "Springslade Lodge",
+      "type": "Cafe",
+      "address": "Camp Rd",
+      "hours": "Closed · Opens 10:30 AM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.7,
+      "reviews": 432,
+      "reviews_original": "(432)",
+      "price": "£1–10",
+      "description": "\"Super tasty afternoon tea, delightful atmosphere.\"",
+      "lsig": "AB86z5UxPTEsc3KTQRG2cdFoONmf",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/P_zYUtaduVtqZWNHctvjIiI7mwRUvvILtI71i9-B9W8.jpeg",
+      "place_id": "15933948406055747108",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15933948406055747108&q=afternoon+tea",
+      "provider_id": "/g/11c1wsy3fx",
+      "gps_coordinates": {
+        "latitude": 52.808147,
+        "longitude": -2.1161318
+      },
+      "title": "Cup a Cha",
+      "type": "Cafe",
+      "address": "Stafford, United Kingdom",
+      "hours": "Closed · Opens 9 AM Wed"
+    },
+    {
+      "position": 18,
+      "rating": 4.8,
+      "reviews": 143,
+      "reviews_original": "(143)",
+      "description": "\"The service, the cleanliness, the food, all is second to none.\"",
+      "lsig": "AB86z5X-esbP6Pc8a7-b07LAI07p",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/s14RygpRrbAmUaU4AeR3vSo3nU8fv-kTdJWGTOsl3zI.jpeg",
+      "place_id": "2629838047334495523",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2629838047334495523&q=afternoon+tea",
+      "provider_id": "/g/11d_wnl6r5",
+      "gps_coordinates": {
+        "latitude": 52.901783,
+        "longitude": -2.1469734
+      },
+      "title": "The Secret Tea Room",
+      "type": "Tea house",
+      "address": "Stone, United Kingdom",
+      "hours": "Closed · Opens 10 AM Wed"
+    },
+    {
+      "position": 19,
+      "rating": 4.6,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"Lovely setting afternoon tea was delicious.\"",
+      "lsig": "AB86z5XgjfX6e2LV-slGTJSTJiU6",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/ibFV9KQH0lZ2LZ4JMBi-KZJ-rCYOCOW3EfaCa6qKdOM.jpeg",
+      "place_id": "16766892904527474291",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16766892904527474291&q=afternoon+tea",
+      "provider_id": "/g/1tc_dsyy",
+      "gps_coordinates": {
+        "latitude": 52.939396,
+        "longitude": -2.1578698
+      },
+      "title": "The Upper House",
+      "type": "Restaurant",
+      "address": "Stoke-on-Trent, United Kingdom"
+    },
+    {
+      "position": 20,
+      "rating": 4.7,
+      "reviews": 347,
+      "reviews_original": "(347)",
+      "description": "\"Went here for afternoon tea, lovely food - filled me to the brim!\"",
+      "lsig": "AB86z5WMMPwMQQ7jFVnSBYYrvsdV",
+      "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/WysEVOE7kV4juQy6aieVW9RtnwvW-Qis23W_H7k3VlE.jpeg",
+      "place_id": "16028952285301263123",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16028952285301263123&q=afternoon+tea",
+      "provider_id": "/g/1tj45fgk",
+      "gps_coordinates": {
+        "latitude": 52.85241,
+        "longitude": -2.436207
+      },
+      "title": "Goldstone Hall Hotel",
+      "type": "Restaurant",
+      "address": "Market Drayton, United Kingdom"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=afternoon+tea&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=afternoon+tea&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=afternoon+tea&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=afternoon+tea&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=afternoon+tea&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=afternoon+tea&start=20&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=afternoon+tea&start=20&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=afternoon+tea&start=20&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=afternoon+tea&start=40&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=afternoon+tea&start=60&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=afternoon+tea&start=80&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t"
+    }
+  }
+}

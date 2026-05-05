@@ -1,0 +1,964 @@
+[
+  {
+    "task_id": "ORCH-T3-06-turn1",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:16:53.367843",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "budget-friendly",
+      "location": "Las Vegas"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 3.3,
+          "reviews": 316,
+          "reviews_original": "(316)",
+          "description": "\"They were friendly and helpful from start to finish!\"",
+          "lsig": "AB86z5UDAobrN3IrBPyeooUsHrI1",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/s1v?utm_source=google&utm_medium=gbp&utm_campaign=budget_gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+3255+E+Sahara+Ave,+Las+Vegas,+NV+89104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c4b74b45c8df:0x71a3856a0e6c8cb?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIRAA&hl=en&gl=us"
+          },
+          "place_id": "511783452377794763",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=511783452377794763&q=budget-friendly",
+          "provider_id": "/g/11c2pk2vrg",
+          "gps_coordinates": {
+            "latitude": 36.143593,
+            "longitude": -115.10471
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 749-9227",
+          "address": "3255 E Sahara Ave",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 2,
+          "rating": 3.5,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"The staff is very attentive and willing to help with your needs.\"",
+          "lsig": "AB86z5U-iYTW7QIUYP4Cu3soMXB8",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/ve2",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental+Las+Vegas,+4475+W+Tropicana+Ave,+Las+Vegas,+NV+89103/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c688a045144d:0x7950720edc3e9480?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIGRAA&hl=en&gl=us"
+          },
+          "place_id": "8741612284876330112",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=8741612284876330112&q=budget-friendly",
+          "provider_id": "/g/1tk6w5nf",
+          "gps_coordinates": {
+            "latitude": 36.100296,
+            "longitude": -115.200966
+          },
+          "title": "Budget Car Rental Las Vegas",
+          "type": "Car rental agency",
+          "phone": "(702) 362-8668",
+          "address": "4475 W Tropicana Ave",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 3,
+          "rating": 3.2,
+          "reviews": 261,
+          "reviews_original": "(261)",
+          "lsig": "AB86z5X3dGwbDLM78YVUexP4Nxkc",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/north-las-vegas/bglv1",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental+-+North+Las+Vegas,+3120+Losee+Rd,+North+Las+Vegas,+NV+89030/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c3b60707bd39:0x9f791ace5ab67871?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIGxAA&hl=en&gl=us"
+          },
+          "place_id": "11491245397800024177",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=11491245397800024177&q=budget-friendly",
+          "provider_id": "/g/11fp686ww5",
+          "gps_coordinates": {
+            "latitude": 36.21653,
+            "longitude": -115.12754
+          },
+          "title": "Budget Car Rental - North Las Vegas",
+          "type": "Car rental agency",
+          "phone": "(702) 568-2229",
+          "address": "North Las Vegas, NV",
+          "hours": "Open · Closes 5 PM",
+          "extensions": [
+            "Rentals available from US$ 26/day"
+          ]
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 32,
+          "reviews_original": "(32)",
+          "description": "\"Sabrina and Marvel are amazing great customer service and friendly.\"",
+          "lsig": "AB86z5V_N8Kc_ZUTwu5VTjjhJnq9",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/henderson/bghnd",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+3500+Executive+Terminal+Dr+Suite+B,+Henderson,+NV+89052/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cdc36620af13:0x1ee82e4f9af505d5?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIKhAA&hl=en&gl=us"
+          },
+          "place_id": "2227080935171753429",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=2227080935171753429&q=budget-friendly",
+          "provider_id": "/g/11t053wkn5",
+          "gps_coordinates": {
+            "latitude": 35.977074,
+            "longitude": -115.13903
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 730-0109",
+          "address": "Henderson, NV",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.4,
+          "reviews": 384,
+          "reviews_original": "(384)",
+          "lsig": "AB86z5X5vmtsqhyMCoJNPTBVi-1q",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/l3s",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+129+Fremont+St,+Las+Vegas,+NV+89101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c3a1cd248143:0xf4d38df5c746c5d1?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIGhAA&hl=en&gl=us"
+          },
+          "place_id": "17641600252090172881",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=17641600252090172881&q=budget-friendly",
+          "provider_id": "/g/1vxz9xh5",
+          "gps_coordinates": {
+            "latitude": 36.170128,
+            "longitude": -115.145
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 568-2212",
+          "address": "129 Fremont St",
+          "hours": "Open · Closes 4:30 PM",
+          "extensions": [
+            "Rentals available from US$ 35/day"
+          ]
+        },
+        {
+          "position": 6,
+          "rating": 4.8,
+          "reviews": 820,
+          "reviews_original": "(820)",
+          "description": "\"Very progressional, friendly and reasonable prices.\"",
+          "lsig": "AB86z5UgvclNRM7A5StN9wvYJwdG",
+          "links": {
+            "website": "https://www.budgetdental.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Dental,+6376+Spring+Mountain+Rd+%233,+Las+Vegas,+NV+89146/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c6d41aaa38dd:0x73b45c40a52f2623?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIKRAA&hl=en&gl=us"
+          },
+          "place_id": "8337390242888623651",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=8337390242888623651&q=budget-friendly",
+          "provider_id": "/g/1tdzg8dd",
+          "gps_coordinates": {
+            "latitude": 36.12598,
+            "longitude": -115.23113
+          },
+          "title": "Budget Dental",
+          "type": "Dentist",
+          "phone": "(702) 220-8488",
+          "address": "6376 Spring Mountain Rd #3",
+          "hours": "Open · Closes 4 PM"
+        },
+        {
+          "position": 7,
+          "rating": 5.0,
+          "reviews": 21,
+          "reviews_original": "(21)",
+          "lsig": "AB86z5W4RvvYtujIC2vG7w67PVZ9",
+          "service_options": {
+            "onsite_services": true,
+            "online_estimates": true
+          },
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Budget+Services+LLC,+3330+Sunrise+Ave+Suite+%23103,+Las+Vegas,+NV+89101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c324b84369e7:0x36ab637e19fae6dd?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIKBAA&hl=en&gl=us"
+          },
+          "place_id": "3939351692318533341",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=3939351692318533341&q=budget-friendly",
+          "provider_id": "/g/11g0hv040y",
+          "gps_coordinates": {
+            "latitude": 36.16349,
+            "longitude": -115.100136
+          },
+          "title": "Budget Services LLC",
+          "type": "Carpet cleaning service",
+          "phone": "(702) 338-9337",
+          "years_in_business": "7+ years in business",
+          "address": "3330 Sunrise Ave Suite #103",
+          "hours": "Open · Closes 4 PM"
+        },
+        {
+          "position": 8,
+          "rating": 3.3,
+          "reviews": 7500,
+          "reviews_original": "(7.5K)",
+          "lsig": "AB86z5W3719diPsl3Yo2PQ5HnOx0",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/las?utm_source=google&utm_medium=gbp&utm_campaign=budget_gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+7135+Gilespie+St,+Las+Vegas,+NV+89119/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cf60bd622379:0xe1b448931c428e0f?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJxAA&hl=en&gl=us"
+          },
+          "place_id": "16263703951013219855",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16263703951013219855&q=budget-friendly",
+          "provider_id": "/g/11b6_cc2rz",
+          "gps_coordinates": {
+            "latitude": 36.060143,
+            "longitude": -115.16465
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 736-1212",
+          "address": "7135 Gilespie St",
+          "hours": "Open 24 hours",
+          "extensions": [
+            "Rentals available from US$ 66/day"
+          ]
+        },
+        {
+          "position": 9,
+          "lsig": "AB86z5UH_V5-QbHOBHpXsbgCJoBX",
+          "place_id": "16173158862604589053",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16173158862604589053&q=budget-friendly",
+          "provider_id": "/g/11mkyq6y5d",
+          "gps_coordinates": {
+            "latitude": 36.113266,
+            "longitude": -115.18851
+          },
+          "title": "Budget-Friendly 2BR/2BA Near Vegas Strip Free Parking, Pool, WiFi, No Resort Fee",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 10,
+          "rating": 3.1,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Super friendly just make sure you have reservations\"",
+          "lsig": "AB86z5Wwy6Cqfh1lAf2gEpuCefw8",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/c7p?utm_source=google&utm_medium=gbp&utm_campaign=budget_gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+3049+S+Las+Vegas+Blvd,+Las+Vegas,+NV+89109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c4762c92f227:0x628ee21eaafccb48?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJhAA&hl=en&gl=us"
+          },
+          "place_id": "7101862283755440968",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=7101862283755440968&q=budget-friendly",
+          "provider_id": "/g/1tr7jnv6",
+          "gps_coordinates": {
+            "latitude": 36.13213,
+            "longitude": -115.16376
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 568-2241",
+          "address": "3049 S Las Vegas Blvd",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 11,
+          "rating": 3.5,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"The staff was always so helpful and friendly.\"",
+          "lsig": "AB86z5VWAV1sJRu4WnUHuWFSSMdP",
+          "links": {
+            "website": "http://www.budgetsuites.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Suites+of+America,+2219+N+Rancho+Dr,+Las+Vegas,+NV+89129/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c1f2fa102feb:0x4aa7cf462d1b24aa?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJBAA&hl=en&gl=us"
+          },
+          "place_id": "5379496180228760746",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=5379496180228760746&q=budget-friendly",
+          "provider_id": "/g/11b6v36s83",
+          "gps_coordinates": {
+            "latitude": 36.20139,
+            "longitude": -115.19814
+          },
+          "title": "Budget Suites of America",
+          "type": "Extended stay hotel",
+          "phone": "(702) 638-1800",
+          "address": "2219 N Rancho Dr"
+        },
+        {
+          "position": 12,
+          "rating": 3.4,
+          "reviews": 245,
+          "reviews_original": "(245)",
+          "lsig": "AB86z5XTGnlB0oucsE4Dlf8eGipG",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/bglv3",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+9232+W+Sahara+Ave,+Las+Vegas,+NV+89117/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8bf07d5376afd:0x4d56e00eb615ea11?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIBAA&hl=en&gl=us"
+          },
+          "place_id": "5572887942706620945",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=5572887942706620945&q=budget-friendly",
+          "provider_id": "/g/11q2syjhjc",
+          "gps_coordinates": {
+            "latitude": 36.145676,
+            "longitude": -115.29738
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 749-9231",
+          "address": "9232 W Sahara Ave",
+          "hours": "Open · Closes 5 PM",
+          "extensions": [
+            "Rentals available from US$ 57/day"
+          ]
+        },
+        {
+          "position": 13,
+          "rating": 5.0,
+          "reviews": 5,
+          "reviews_original": "(5)",
+          "description": "\"No hidden charges, no pressure—just honest, reliable service.\"",
+          "lsig": "AB86z5XmIdbKrXoOICDL38hDhmxx",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Budget+Air+Conditioner+%26+Heather+Repair+Services,+2516+Rye+St,+Las+Vegas,+NV+89102/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c39e61b312c7:0xde1b4508b4d8e3ca?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHBAA&hl=en&gl=us"
+          },
+          "place_id": "16004461604487357386",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16004461604487357386&q=budget-friendly",
+          "provider_id": "/g/11c43chrx_",
+          "gps_coordinates": {
+            "latitude": 36.143787,
+            "longitude": -115.18567
+          },
+          "title": "Budget Air Conditioner & Heather Repair Services",
+          "type": "Air conditioning repair service",
+          "phone": "(702) 347-4414",
+          "years_in_business": "7+ years in business",
+          "address": "2516 Rye St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 14,
+          "lsig": "AB86z5XW7iy0V3rLjtZ0ptJ09Sa2",
+          "links": {
+            "website": "https://br.bluepillow.com/search/695e98ecac408a6eb70b9ee1?dest=bkng&cat=House&lat=36.09158&lng=-115.14551&language=pt"
+          },
+          "place_id": "7341760145142627809",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=7341760145142627809&q=budget-friendly",
+          "provider_id": "/g/11yz9713v6",
+          "gps_coordinates": {
+            "latitude": 36.091545,
+            "longitude": -115.14551
+          },
+          "title": "Budget friendly 2 bedroom 2 bath - Two-Bedroom Apartment",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 15,
+          "rating": 1.7,
+          "reviews": 22,
+          "reviews_original": "(22)",
+          "lsig": "AB86z5XAqq8mFpLoxXCszcGUTtKo",
+          "links": {
+            "website": "https://www.budgettruck.com/locations/nv/north-las-vegas/890316?utm_campaign=budget_truck_gbp&utm_source=google&utm_medium=gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Truck+Rental,+3120+Losee+Rd,+North+Las+Vegas,+NV+89030/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c379d425b3cf:0x9908b0b157e868eb?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIxAA&hl=en&gl=us",
+            "schedule": "https://automotionapp.com/service.html?id=9308b94d-1fa8-437a-97df-c965d1aa4e48&source=cat&rwg_token=AFd1xnHGLCLDV4ZPzvQsNCJNSYrbFZbcRK1iDWnJOpCebACNPbxjuL3ZI5cJVVoXNPBEexX9yStjJ223lmezk64pMKgHdKR4mQ%3D%3D"
+          },
+          "place_id": "11027257963347208427",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=11027257963347208427&q=budget-friendly",
+          "provider_id": "/g/11j3x946qr",
+          "gps_coordinates": {
+            "latitude": 36.21697,
+            "longitude": -115.126686
+          },
+          "title": "Budget Truck Rental",
+          "type": "Truck rental agency",
+          "phone": "(702) 633-4908",
+          "address": "North Las Vegas, NV",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 16,
+          "rating": 3.4,
+          "reviews": 433,
+          "reviews_original": "(433)",
+          "description": "\"Front desk staff is friendly-ish.\"",
+          "lsig": "AB86z5Xy0KdN8mBY8Rq0rsWajH14",
+          "links": {
+            "website": "http://www.budgetsuites.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Suites+of+America,+8440+S+Las+Vegas+Blvd,+Las+Vegas,+NV+89123/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cf3bff1ab351:0x14d90aa5221c78c1?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIhAA&hl=en&gl=us"
+          },
+          "place_id": "1502243655062943937",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=1502243655062943937&q=budget-friendly",
+          "provider_id": "/g/12lngn9pc",
+          "gps_coordinates": {
+            "latitude": 36.03687,
+            "longitude": -115.17182
+          },
+          "title": "Budget Suites of America",
+          "type": "Extended stay hotel",
+          "phone": "(702) 837-2000",
+          "address": "8440 S Las Vegas Blvd"
+        },
+        {
+          "position": 17,
+          "rating": 3.6,
+          "reviews": 380,
+          "reviews_original": "(380)",
+          "description": "\"The management is very friendly and very helpful.\"",
+          "lsig": "AB86z5Xqp9pPS1cBSojbYJQsGK52",
+          "links": {
+            "website": "http://www.budgetsuites.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Suites+of+America,+3655+W+Tropicana+Ave,+Las+Vegas,+NV+89103/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c42aa23b83ed:0x89e1de280ed4427d?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHxAA&hl=en&gl=us"
+          },
+          "place_id": "9935466516584874621",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=9935466516584874621&q=budget-friendly",
+          "provider_id": "/g/1hc1c_k_q",
+          "gps_coordinates": {
+            "latitude": 36.10056,
+            "longitude": -115.18814
+          },
+          "title": "Budget Suites of America",
+          "type": "Extended stay hotel",
+          "phone": "(702) 739-1000",
+          "address": "3655 W Tropicana Ave"
+        },
+        {
+          "position": 18,
+          "rating": 2.0,
+          "reviews": 46,
+          "reviews_original": "(46)",
+          "description": "\"The good: Vehicle was clean and worked well with no issues.\"",
+          "lsig": "AB86z5Xns3xZyUgzWUqiPFFM0XpC",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Budget+Rent+A+Car+Rental+Offices,+7120+Haven+St,+Las+Vegas,+NV+89119/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cf7e3d02b0c3:0xe7354186fcf7884f?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJRAA&hl=en&gl=us"
+          },
+          "place_id": "16660294444552521807",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16660294444552521807&q=budget-friendly",
+          "provider_id": "/g/11g19q2gp4",
+          "gps_coordinates": {
+            "latitude": 36.06052,
+            "longitude": -115.167534
+          },
+          "title": "Budget Rent A Car Rental Offices",
+          "type": "Car rental agency",
+          "address": "7120 Haven St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 19,
+          "rating": 4.2,
+          "reviews": 136,
+          "reviews_original": "(136)",
+          "description": "\"Everyone was professional and courteous, and answered any questions I had.\"",
+          "lsig": "AB86z5XK6Jnd6IcrjfFGwYZCJcNH",
+          "links": {
+            "website": "http://budgetflooringlv.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Flooring+and+Shutters,+4528+W+Craig+Rd+Ste+%23140,+North+Las+Vegas,+NV+89032/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8ea3d75c82957:0xc472603874929a39?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHRAA&hl=en&gl=us"
+          },
+          "place_id": "14155482374369090105",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=14155482374369090105&q=budget-friendly",
+          "provider_id": "/g/1thk90g5",
+          "gps_coordinates": {
+            "latitude": 36.239277,
+            "longitude": -115.203766
+          },
+          "title": "Budget Flooring and Shutters",
+          "type": "Flooring store",
+          "phone": "(702) 647-3800",
+          "address": "North Las Vegas, NV",
+          "hours": "Closed · Opens 10 AM"
+        },
+        {
+          "position": 20,
+          "rating": 5.0,
+          "reviews": 4,
+          "reviews_original": "(4)",
+          "lsig": "AB86z5U0PodWPFchhj0wwjZfSbap",
+          "links": {
+            "website": "https://budgetwatchers.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Watchers,+1201+N+Decatur+Blvd+STE+109,+Las+Vegas,+NV+89108/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c19a2af44d49:0x26a8b79addb271e5?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHhAA&hl=en&gl=us"
+          },
+          "place_id": "2785678245300957669",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=2785678245300957669&q=budget-friendly",
+          "provider_id": "/g/11b6gntnd5",
+          "gps_coordinates": {
+            "latitude": 36.18419,
+            "longitude": -115.20656
+          },
+          "title": "Budget Watchers",
+          "type": "Disability services and support organization",
+          "phone": "(702) 834-5200",
+          "address": "1201 N Decatur Blvd STE 109"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-06-turn1",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:54:00.071970",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "budget-friendly",
+      "location": "Las Vegas"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 3.3,
+          "reviews": 316,
+          "reviews_original": "(316)",
+          "description": "\"They were friendly and helpful from start to finish!\"",
+          "lsig": "AB86z5UDAobrN3IrBPyeooUsHrI1",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/s1v?utm_source=google&utm_medium=gbp&utm_campaign=budget_gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+3255+E+Sahara+Ave,+Las+Vegas,+NV+89104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c4b74b45c8df:0x71a3856a0e6c8cb?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIRAA&hl=en&gl=us"
+          },
+          "place_id": "511783452377794763",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=511783452377794763&q=budget-friendly",
+          "provider_id": "/g/11c2pk2vrg",
+          "gps_coordinates": {
+            "latitude": 36.143593,
+            "longitude": -115.10471
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 749-9227",
+          "address": "3255 E Sahara Ave",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 2,
+          "rating": 3.5,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"The staff is very attentive and willing to help with your needs.\"",
+          "lsig": "AB86z5U-iYTW7QIUYP4Cu3soMXB8",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/ve2",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental+Las+Vegas,+4475+W+Tropicana+Ave,+Las+Vegas,+NV+89103/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c688a045144d:0x7950720edc3e9480?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIGRAA&hl=en&gl=us"
+          },
+          "place_id": "8741612284876330112",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=8741612284876330112&q=budget-friendly",
+          "provider_id": "/g/1tk6w5nf",
+          "gps_coordinates": {
+            "latitude": 36.100296,
+            "longitude": -115.200966
+          },
+          "title": "Budget Car Rental Las Vegas",
+          "type": "Car rental agency",
+          "phone": "(702) 362-8668",
+          "address": "4475 W Tropicana Ave",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 3,
+          "rating": 3.2,
+          "reviews": 261,
+          "reviews_original": "(261)",
+          "lsig": "AB86z5X3dGwbDLM78YVUexP4Nxkc",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/north-las-vegas/bglv1",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental+-+North+Las+Vegas,+3120+Losee+Rd,+North+Las+Vegas,+NV+89030/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c3b60707bd39:0x9f791ace5ab67871?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIGxAA&hl=en&gl=us"
+          },
+          "place_id": "11491245397800024177",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=11491245397800024177&q=budget-friendly",
+          "provider_id": "/g/11fp686ww5",
+          "gps_coordinates": {
+            "latitude": 36.21653,
+            "longitude": -115.12754
+          },
+          "title": "Budget Car Rental - North Las Vegas",
+          "type": "Car rental agency",
+          "phone": "(702) 568-2229",
+          "address": "North Las Vegas, NV",
+          "hours": "Open · Closes 5 PM",
+          "extensions": [
+            "Rentals available from US$ 26/day"
+          ]
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 32,
+          "reviews_original": "(32)",
+          "description": "\"Sabrina and Marvel are amazing great customer service and friendly.\"",
+          "lsig": "AB86z5V_N8Kc_ZUTwu5VTjjhJnq9",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/henderson/bghnd",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+3500+Executive+Terminal+Dr+Suite+B,+Henderson,+NV+89052/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cdc36620af13:0x1ee82e4f9af505d5?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIKhAA&hl=en&gl=us"
+          },
+          "place_id": "2227080935171753429",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=2227080935171753429&q=budget-friendly",
+          "provider_id": "/g/11t053wkn5",
+          "gps_coordinates": {
+            "latitude": 35.977074,
+            "longitude": -115.13903
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 730-0109",
+          "address": "Henderson, NV",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.4,
+          "reviews": 384,
+          "reviews_original": "(384)",
+          "lsig": "AB86z5X5vmtsqhyMCoJNPTBVi-1q",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/l3s",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+129+Fremont+St,+Las+Vegas,+NV+89101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c3a1cd248143:0xf4d38df5c746c5d1?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIGhAA&hl=en&gl=us"
+          },
+          "place_id": "17641600252090172881",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=17641600252090172881&q=budget-friendly",
+          "provider_id": "/g/1vxz9xh5",
+          "gps_coordinates": {
+            "latitude": 36.170128,
+            "longitude": -115.145
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 568-2212",
+          "address": "129 Fremont St",
+          "hours": "Open · Closes 4:30 PM",
+          "extensions": [
+            "Rentals available from US$ 35/day"
+          ]
+        },
+        {
+          "position": 6,
+          "rating": 4.8,
+          "reviews": 820,
+          "reviews_original": "(820)",
+          "description": "\"Very progressional, friendly and reasonable prices.\"",
+          "lsig": "AB86z5UgvclNRM7A5StN9wvYJwdG",
+          "links": {
+            "website": "https://www.budgetdental.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Dental,+6376+Spring+Mountain+Rd+%233,+Las+Vegas,+NV+89146/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c6d41aaa38dd:0x73b45c40a52f2623?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIKRAA&hl=en&gl=us"
+          },
+          "place_id": "8337390242888623651",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=8337390242888623651&q=budget-friendly",
+          "provider_id": "/g/1tdzg8dd",
+          "gps_coordinates": {
+            "latitude": 36.12598,
+            "longitude": -115.23113
+          },
+          "title": "Budget Dental",
+          "type": "Dentist",
+          "phone": "(702) 220-8488",
+          "address": "6376 Spring Mountain Rd #3",
+          "hours": "Open · Closes 4 PM"
+        },
+        {
+          "position": 7,
+          "rating": 5.0,
+          "reviews": 21,
+          "reviews_original": "(21)",
+          "lsig": "AB86z5W4RvvYtujIC2vG7w67PVZ9",
+          "service_options": {
+            "onsite_services": true,
+            "online_estimates": true
+          },
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Budget+Services+LLC,+3330+Sunrise+Ave+Suite+%23103,+Las+Vegas,+NV+89101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c324b84369e7:0x36ab637e19fae6dd?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIKBAA&hl=en&gl=us"
+          },
+          "place_id": "3939351692318533341",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=3939351692318533341&q=budget-friendly",
+          "provider_id": "/g/11g0hv040y",
+          "gps_coordinates": {
+            "latitude": 36.16349,
+            "longitude": -115.100136
+          },
+          "title": "Budget Services LLC",
+          "type": "Carpet cleaning service",
+          "phone": "(702) 338-9337",
+          "years_in_business": "7+ years in business",
+          "address": "3330 Sunrise Ave Suite #103",
+          "hours": "Open · Closes 4 PM"
+        },
+        {
+          "position": 8,
+          "rating": 3.3,
+          "reviews": 7500,
+          "reviews_original": "(7.5K)",
+          "lsig": "AB86z5W3719diPsl3Yo2PQ5HnOx0",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/las?utm_source=google&utm_medium=gbp&utm_campaign=budget_gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+7135+Gilespie+St,+Las+Vegas,+NV+89119/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cf60bd622379:0xe1b448931c428e0f?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJxAA&hl=en&gl=us"
+          },
+          "place_id": "16263703951013219855",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16263703951013219855&q=budget-friendly",
+          "provider_id": "/g/11b6_cc2rz",
+          "gps_coordinates": {
+            "latitude": 36.060143,
+            "longitude": -115.16465
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 736-1212",
+          "address": "7135 Gilespie St",
+          "hours": "Open 24 hours",
+          "extensions": [
+            "Rentals available from US$ 66/day"
+          ]
+        },
+        {
+          "position": 9,
+          "lsig": "AB86z5UH_V5-QbHOBHpXsbgCJoBX",
+          "place_id": "16173158862604589053",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16173158862604589053&q=budget-friendly",
+          "provider_id": "/g/11mkyq6y5d",
+          "gps_coordinates": {
+            "latitude": 36.113266,
+            "longitude": -115.18851
+          },
+          "title": "Budget-Friendly 2BR/2BA Near Vegas Strip Free Parking, Pool, WiFi, No Resort Fee",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 10,
+          "rating": 3.1,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Super friendly just make sure you have reservations\"",
+          "lsig": "AB86z5Wwy6Cqfh1lAf2gEpuCefw8",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/c7p?utm_source=google&utm_medium=gbp&utm_campaign=budget_gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+3049+S+Las+Vegas+Blvd,+Las+Vegas,+NV+89109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c4762c92f227:0x628ee21eaafccb48?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJhAA&hl=en&gl=us"
+          },
+          "place_id": "7101862283755440968",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=7101862283755440968&q=budget-friendly",
+          "provider_id": "/g/1tr7jnv6",
+          "gps_coordinates": {
+            "latitude": 36.13213,
+            "longitude": -115.16376
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 568-2241",
+          "address": "3049 S Las Vegas Blvd",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 11,
+          "rating": 3.5,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"The staff was always so helpful and friendly.\"",
+          "lsig": "AB86z5VWAV1sJRu4WnUHuWFSSMdP",
+          "links": {
+            "website": "http://www.budgetsuites.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Suites+of+America,+2219+N+Rancho+Dr,+Las+Vegas,+NV+89129/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c1f2fa102feb:0x4aa7cf462d1b24aa?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJBAA&hl=en&gl=us"
+          },
+          "place_id": "5379496180228760746",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=5379496180228760746&q=budget-friendly",
+          "provider_id": "/g/11b6v36s83",
+          "gps_coordinates": {
+            "latitude": 36.20139,
+            "longitude": -115.19814
+          },
+          "title": "Budget Suites of America",
+          "type": "Extended stay hotel",
+          "phone": "(702) 638-1800",
+          "address": "2219 N Rancho Dr"
+        },
+        {
+          "position": 12,
+          "rating": 3.4,
+          "reviews": 245,
+          "reviews_original": "(245)",
+          "lsig": "AB86z5XTGnlB0oucsE4Dlf8eGipG",
+          "links": {
+            "website": "https://www.budget.com/en/locations/us/nv/las-vegas/bglv3",
+            "directions": "https://www.google.com/maps/dir//Budget+Car+Rental,+9232+W+Sahara+Ave,+Las+Vegas,+NV+89117/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8bf07d5376afd:0x4d56e00eb615ea11?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIBAA&hl=en&gl=us"
+          },
+          "place_id": "5572887942706620945",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=5572887942706620945&q=budget-friendly",
+          "provider_id": "/g/11q2syjhjc",
+          "gps_coordinates": {
+            "latitude": 36.145676,
+            "longitude": -115.29738
+          },
+          "title": "Budget Car Rental",
+          "type": "Car rental agency",
+          "phone": "(702) 749-9231",
+          "address": "9232 W Sahara Ave",
+          "hours": "Open · Closes 5 PM",
+          "extensions": [
+            "Rentals available from US$ 57/day"
+          ]
+        },
+        {
+          "position": 13,
+          "rating": 5.0,
+          "reviews": 5,
+          "reviews_original": "(5)",
+          "description": "\"No hidden charges, no pressure—just honest, reliable service.\"",
+          "lsig": "AB86z5XmIdbKrXoOICDL38hDhmxx",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Budget+Air+Conditioner+%26+Heather+Repair+Services,+2516+Rye+St,+Las+Vegas,+NV+89102/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c39e61b312c7:0xde1b4508b4d8e3ca?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHBAA&hl=en&gl=us"
+          },
+          "place_id": "16004461604487357386",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16004461604487357386&q=budget-friendly",
+          "provider_id": "/g/11c43chrx_",
+          "gps_coordinates": {
+            "latitude": 36.143787,
+            "longitude": -115.18567
+          },
+          "title": "Budget Air Conditioner & Heather Repair Services",
+          "type": "Air conditioning repair service",
+          "phone": "(702) 347-4414",
+          "years_in_business": "7+ years in business",
+          "address": "2516 Rye St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 14,
+          "lsig": "AB86z5XW7iy0V3rLjtZ0ptJ09Sa2",
+          "links": {
+            "website": "https://br.bluepillow.com/search/695e98ecac408a6eb70b9ee1?dest=bkng&cat=House&lat=36.09158&lng=-115.14551&language=pt"
+          },
+          "place_id": "7341760145142627809",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=7341760145142627809&q=budget-friendly",
+          "provider_id": "/g/11yz9713v6",
+          "gps_coordinates": {
+            "latitude": 36.091545,
+            "longitude": -115.14551
+          },
+          "title": "Budget friendly 2 bedroom 2 bath - Two-Bedroom Apartment",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 15,
+          "rating": 1.7,
+          "reviews": 22,
+          "reviews_original": "(22)",
+          "lsig": "AB86z5XAqq8mFpLoxXCszcGUTtKo",
+          "links": {
+            "website": "https://www.budgettruck.com/locations/nv/north-las-vegas/890316?utm_campaign=budget_truck_gbp&utm_source=google&utm_medium=gbp",
+            "directions": "https://www.google.com/maps/dir//Budget+Truck+Rental,+3120+Losee+Rd,+North+Las+Vegas,+NV+89030/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c379d425b3cf:0x9908b0b157e868eb?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIxAA&hl=en&gl=us",
+            "schedule": "https://automotionapp.com/service.html?id=9308b94d-1fa8-437a-97df-c965d1aa4e48&source=cat&rwg_token=AFd1xnHGLCLDV4ZPzvQsNCJNSYrbFZbcRK1iDWnJOpCebACNPbxjuL3ZI5cJVVoXNPBEexX9yStjJ223lmezk64pMKgHdKR4mQ%3D%3D"
+          },
+          "place_id": "11027257963347208427",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=11027257963347208427&q=budget-friendly",
+          "provider_id": "/g/11j3x946qr",
+          "gps_coordinates": {
+            "latitude": 36.21697,
+            "longitude": -115.126686
+          },
+          "title": "Budget Truck Rental",
+          "type": "Truck rental agency",
+          "phone": "(702) 633-4908",
+          "address": "North Las Vegas, NV",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 16,
+          "rating": 3.4,
+          "reviews": 433,
+          "reviews_original": "(433)",
+          "description": "\"Front desk staff is friendly-ish.\"",
+          "lsig": "AB86z5Xy0KdN8mBY8Rq0rsWajH14",
+          "links": {
+            "website": "http://www.budgetsuites.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Suites+of+America,+8440+S+Las+Vegas+Blvd,+Las+Vegas,+NV+89123/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cf3bff1ab351:0x14d90aa5221c78c1?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIIhAA&hl=en&gl=us"
+          },
+          "place_id": "1502243655062943937",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=1502243655062943937&q=budget-friendly",
+          "provider_id": "/g/12lngn9pc",
+          "gps_coordinates": {
+            "latitude": 36.03687,
+            "longitude": -115.17182
+          },
+          "title": "Budget Suites of America",
+          "type": "Extended stay hotel",
+          "phone": "(702) 837-2000",
+          "address": "8440 S Las Vegas Blvd"
+        },
+        {
+          "position": 17,
+          "rating": 3.6,
+          "reviews": 380,
+          "reviews_original": "(380)",
+          "description": "\"The management is very friendly and very helpful.\"",
+          "lsig": "AB86z5Xqp9pPS1cBSojbYJQsGK52",
+          "links": {
+            "website": "http://www.budgetsuites.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Suites+of+America,+3655+W+Tropicana+Ave,+Las+Vegas,+NV+89103/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c42aa23b83ed:0x89e1de280ed4427d?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHxAA&hl=en&gl=us"
+          },
+          "place_id": "9935466516584874621",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=9935466516584874621&q=budget-friendly",
+          "provider_id": "/g/1hc1c_k_q",
+          "gps_coordinates": {
+            "latitude": 36.10056,
+            "longitude": -115.18814
+          },
+          "title": "Budget Suites of America",
+          "type": "Extended stay hotel",
+          "phone": "(702) 739-1000",
+          "address": "3655 W Tropicana Ave"
+        },
+        {
+          "position": 18,
+          "rating": 2.0,
+          "reviews": 46,
+          "reviews_original": "(46)",
+          "description": "\"The good: Vehicle was clean and worked well with no issues.\"",
+          "lsig": "AB86z5Xns3xZyUgzWUqiPFFM0XpC",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Budget+Rent+A+Car+Rental+Offices,+7120+Haven+St,+Las+Vegas,+NV+89119/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8cf7e3d02b0c3:0xe7354186fcf7884f?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIJRAA&hl=en&gl=us"
+          },
+          "place_id": "16660294444552521807",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=16660294444552521807&q=budget-friendly",
+          "provider_id": "/g/11g19q2gp4",
+          "gps_coordinates": {
+            "latitude": 36.06052,
+            "longitude": -115.167534
+          },
+          "title": "Budget Rent A Car Rental Offices",
+          "type": "Car rental agency",
+          "address": "7120 Haven St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 19,
+          "rating": 4.2,
+          "reviews": 136,
+          "reviews_original": "(136)",
+          "description": "\"Everyone was professional and courteous, and answered any questions I had.\"",
+          "lsig": "AB86z5XK6Jnd6IcrjfFGwYZCJcNH",
+          "links": {
+            "website": "http://budgetflooringlv.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Flooring+and+Shutters,+4528+W+Craig+Rd+Ste+%23140,+North+Las+Vegas,+NV+89032/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8ea3d75c82957:0xc472603874929a39?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHRAA&hl=en&gl=us"
+          },
+          "place_id": "14155482374369090105",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=14155482374369090105&q=budget-friendly",
+          "provider_id": "/g/1thk90g5",
+          "gps_coordinates": {
+            "latitude": 36.239277,
+            "longitude": -115.203766
+          },
+          "title": "Budget Flooring and Shutters",
+          "type": "Flooring store",
+          "phone": "(702) 647-3800",
+          "address": "North Las Vegas, NV",
+          "hours": "Closed · Opens 10 AM"
+        },
+        {
+          "position": 20,
+          "rating": 5.0,
+          "reviews": 4,
+          "reviews_original": "(4)",
+          "lsig": "AB86z5U0PodWPFchhj0wwjZfSbap",
+          "links": {
+            "website": "https://budgetwatchers.com/",
+            "directions": "https://www.google.com/maps/dir//Budget+Watchers,+1201+N+Decatur+Blvd+STE+109,+Las+Vegas,+NV+89108/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c19a2af44d49:0x26a8b79addb271e5?sa=X&ved=2ahUKEwiDg_3jkdyTAxWuANAFHeq-PXwQ48ADegQIHhAA&hl=en&gl=us"
+          },
+          "place_id": "2785678245300957669",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Las+Vegas&ludocid=2785678245300957669&q=budget-friendly",
+          "provider_id": "/g/11b6gntnd5",
+          "gps_coordinates": {
+            "latitude": 36.18419,
+            "longitude": -115.20656
+          },
+          "title": "Budget Watchers",
+          "type": "Disability services and support organization",
+          "phone": "(702) 834-5200",
+          "address": "1201 N Decatur Blvd STE 109"
+        }
+      ]
+    }
+  }
+]

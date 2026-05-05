@@ -1,0 +1,518 @@
+{
+  "search_metadata": {
+    "id": "69d51bc95b92f875f4c411f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eeYHtVcK1eRp2Vv3fu4rpQ/69d51bc95b92f875f4c411f6.json",
+    "created_at": "2026-04-07 14:59:21 UTC",
+    "processed_at": "2026-04-07 14:59:21 UTC",
+    "google_local_url": "https://www.google.com/search?q=kids+club&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/eeYHtVcK1eRp2Vv3fu4rpQ/69d51bc95b92f875f4c411f6.html",
+    "total_time_taken": 5.37
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "kids club",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.80483668216131,
+      "longitude": -80.24826049804688
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 57,
+      "reviews_original": "(57)",
+      "description": "\"clean and safe childcare.\"",
+      "lsig": "AB86z5XNPm6G2ymhuWAy47fvV55k",
+      "links": {
+        "website": "http://sunnyislesdaycare.com/",
+        "directions": "https://www.google.com/maps/dir//Sunny+Isles+KIDS'+CLUB,+17395+N+Bay+Rd+%23102,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ad1c2a2258f7:0xaec38d7e46c7c88d?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIKhAA&hl=en&gl=us"
+      },
+      "place_id": "12593064556550932621",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12593064556550932621&q=kids+club",
+      "provider_id": "/g/1tjxgg41",
+      "gps_coordinates": {
+        "latitude": 25.936598,
+        "longitude": -80.12631
+      },
+      "title": "Sunny Isles KIDS' CLUB",
+      "type": "Day care center",
+      "phone": "(305) 933-3888",
+      "years_in_business": "15+ years in business",
+      "address": "Sunny Isles Beach, FL",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.3,
+      "reviews": 15,
+      "reviews_original": "(15)",
+      "description": "\"Very nice place for kids, all staff is professional and kind.\"",
+      "lsig": "AB86z5V59nH1khv5RMp8-nLJZV9c",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Kid's+Club+Academy,+11373+SW+211+St,+Cutler+Bay,+FL+33189/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9c34180132bbf:0x30a8023d8c681035?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIJxAA&hl=en&gl=us"
+      },
+      "place_id": "3506054773279821877",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3506054773279821877&q=kids+club",
+      "provider_id": "/g/11gjp3hkf6",
+      "gps_coordinates": {
+        "latitude": 25.571653,
+        "longitude": -80.37471
+      },
+      "title": "Kid's Club Academy",
+      "type": "Preschool",
+      "phone": "(305) 256-0759",
+      "years_in_business": "7+ years in business",
+      "address": "Cutler Bay, FL",
+      "hours": "Open · Closes 6:30 PM"
+    },
+    {
+      "position": 3,
+      "rating": 5.0,
+      "reviews": 18,
+      "reviews_original": "(18)",
+      "description": "\"We hosted a fantastic sixth birthday party for our daughter.\"",
+      "lsig": "AB86z5VVcBfYS_ND8BaIGVktuYP6",
+      "links": {
+        "website": "https://mybloomclub.com/",
+        "directions": "https://www.google.com/maps/dir//BLOOM+CLUB,+923+S+21st+Ave,+Hollywood,+FL+33020/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9abd61cec845d:0xc80ed744febf5984?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "14415696148591237508",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14415696148591237508&q=kids+club",
+      "provider_id": "/g/11z1_xbjqv",
+      "gps_coordinates": {
+        "latitude": 26.003267,
+        "longitude": -80.14849
+      },
+      "title": "BLOOM CLUB",
+      "type": "Children's club",
+      "phone": "(305) 240-5706",
+      "address": "Hollywood, FL",
+      "hours": "Open · Closes 8 PM"
+    },
+    {
+      "position": 4,
+      "rating": 5.0,
+      "reviews": 13,
+      "reviews_original": "(13)",
+      "description": "\"Kudos to the team for making my daughter's time there so memorable!\"",
+      "lsig": "AB86z5WDUxDd07pCctNOdh9pPjlw",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Parents+Club,+5701+Sunset+Dr+unit+180,+Miami,+FL+33143/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9c7d8c8a0f01b:0x592568349bb48ae7?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIMxAA&hl=en&gl=us"
+      },
+      "place_id": "6423655018673769191",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6423655018673769191&q=kids+club",
+      "provider_id": "/g/11l5jl6smj",
+      "gps_coordinates": {
+        "latitude": 25.704653,
+        "longitude": -80.28605
+      },
+      "title": "Parents Club",
+      "type": "Children's club",
+      "address": "Miami, FL",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.2,
+      "reviews": 19,
+      "reviews_original": "(19)",
+      "description": "\"My daughter enjoys this kids club very much.\"",
+      "lsig": "AB86z5VCVPlU3sSlMZUbYe-Hh8CD",
+      "links": {
+        "website": "http://kkidsclub.com/",
+        "directions": "https://www.google.com/maps/dir//Kangaroo+Kid's+Club+%E2%80%94+Children+Development+Tutoring+Center,+501+Golden+Isles+Dr+STE+101,+Hallandale+Beach,+FL+33009/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ad5689196597:0x657bdf56c0327fff?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "7312683983650848767",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=7312683983650848767&q=kids+club",
+      "provider_id": "/g/11fd6d3lfj",
+      "gps_coordinates": {
+        "latitude": 25.984818,
+        "longitude": -80.1297
+      },
+      "title": "Kangaroo Kid's Club — Children Development Tutoring Center",
+      "type": "Children's club",
+      "phone": "(305) 776-9359",
+      "address": "Hallandale Beach, FL",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.9,
+      "reviews": 38,
+      "reviews_original": "(38)",
+      "description": "\"So many different activities and very attentive and caring personnel.\"",
+      "lsig": "AB86z5VeiZGhS-frVQELsvHUyCjc",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Cipollino+Kids+Club,+636+W+Hallandale+Beach+Blvd,+Hallandale+Beach,+FL+33009/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ab495d56da3d:0xebee9356e05c8c94?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIMhAA&hl=en&gl=us"
+      },
+      "place_id": "17000687644710833300",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17000687644710833300&q=kids+club",
+      "provider_id": "/g/11s2_nrqht",
+      "gps_coordinates": {
+        "latitude": 25.985998,
+        "longitude": -80.15446
+      },
+      "title": "Cipollino Kids Club",
+      "type": "Art studio",
+      "phone": "(786) 833-4333",
+      "address": "Hallandale Beach, FL",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 7,
+      "rating": 5.0,
+      "reviews": 61,
+      "reviews_original": "(61)",
+      "description": "\"... was warm, responsible, and incredibly engaging with our kids.\"",
+      "lsig": "AB86z5VByzRPMWAKJidEBrwyXlhK",
+      "links": {
+        "website": "http://www.kidsclubmiami.com/"
+      },
+      "place_id": "14657400237048907730",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14657400237048907730&q=kids+club",
+      "title": "Kids Club Miami - Babysitting Services",
+      "type": "Child care agency",
+      "phone": "(786) 867-0774",
+      "years_in_business": "3+ years in business",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 8,
+      "rating": 4.9,
+      "reviews": 174,
+      "reviews_original": "(174)",
+      "description": "\"Very good organization, tasty food and plenty of fun activities!\"",
+      "lsig": "AB86z5WSmMDkeX1EMApSpg9brTwe",
+      "links": {
+        "website": "http://www.miamifamily.club/",
+        "directions": "https://www.google.com/maps/dir//Miami+Family+Club,+17425+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9adb253f51ea5:0x42eb15b8de6ab32c?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIMRAA&hl=en&gl=us"
+      },
+      "place_id": "4821971709779948332",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4821971709779948332&q=kids+club",
+      "provider_id": "/g/11ql_4fnp8",
+      "gps_coordinates": {
+        "latitude": 25.937403,
+        "longitude": -80.120766
+      },
+      "title": "Miami Family Club",
+      "type": "Outdoor activity organiser",
+      "phone": "(305) 924-0443",
+      "years_in_business": "5+ years in business",
+      "address": "Sunny Isles Beach, FL",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 9,
+      "rating": 5.0,
+      "reviews": 17,
+      "reviews_original": "(17)",
+      "description": "\"Teaching the kids life skills, having fun and funny time with kids.\"",
+      "lsig": "AB86z5VKZD6wsi3m1WAwtmDoN8Ei",
+      "links": {
+        "website": "http://www.funclubcamp.com/",
+        "directions": "https://www.google.com/maps/dir//Fun+Club+Camp,+18800+NE+22nd+Ave,+Miami,+FL+33180/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9adb73816aecd:0x3fe9b353b5f2b5fa?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "4605409266079282682",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4605409266079282682&q=kids+club",
+      "provider_id": "/g/11q8s45wzq",
+      "gps_coordinates": {
+        "latitude": 25.949894,
+        "longitude": -80.15567
+      },
+      "title": "Fun Club Camp",
+      "type": "Children's club",
+      "phone": "(954) 588-7788",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 10,
+      "rating": 5.0,
+      "reviews": 7,
+      "reviews_original": "(7)",
+      "description": "\"The place is clean, they have great options of classes and activities.\"",
+      "lsig": "AB86z5VHa4XzxK81E32k-sjObCxx",
+      "links": {
+        "website": "https://ezpzkids.org/",
+        "directions": "https://www.google.com/maps/dir//EZPZ+Kids+Club,+8619+S+Dixie+Hwy,+Miami,+FL+33143/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9c7a8a49345a1:0xe3bd24df2e65a53e?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIMBAA&hl=en&gl=us"
+      },
+      "place_id": "16410313158182675774",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16410313158182675774&q=kids+club",
+      "provider_id": "/g/11wqwcwq3z",
+      "gps_coordinates": {
+        "latitude": 25.689398,
+        "longitude": -80.30618
+      },
+      "title": "EZPZ Kids Club",
+      "type": "After school program",
+      "phone": "(786) 895-6466",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 11,
+      "rating": 4.9,
+      "reviews": 42,
+      "reviews_original": "(42)",
+      "description": "\"The activities are always fun, creative and educational.\"",
+      "lsig": "AB86z5Ueq3UeG1apwYhe5V2wanMN",
+      "links": {
+        "website": "http://www.creatingmemiami.com/",
+        "directions": "https://www.google.com/maps/dir//Creating+Me,+7520+NE+4th+Ct+%23105,+Miami,+FL+33138/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b14403ef9c77:0xad89edbbe078a6f7?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQILhAA&hl=en&gl=us"
+      },
+      "place_id": "12504787231551563511",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12504787231551563511&q=kids+club",
+      "provider_id": "/g/11h269xhjy",
+      "gps_coordinates": {
+        "latitude": 25.844337,
+        "longitude": -80.18825
+      },
+      "title": "Creating Me",
+      "type": "Children's club",
+      "phone": "(954) 663-2239",
+      "address": "Miami, FL",
+      "hours": "Open · Closes 1 PM"
+    },
+    {
+      "position": 12,
+      "rating": 4.4,
+      "reviews": 26,
+      "reviews_original": "(26)",
+      "description": "\"ALL of the staff are very welcoming and want the very best for the students.\"",
+      "lsig": "AB86z5XUJQXkqwVh08e_A1x86Y7Q",
+      "links": {
+        "website": "http://www.celebritykidsclubofmg.com/",
+        "directions": "https://www.google.com/maps/dir//Celebrity+Kids+Club+of+Miami+Gardens,+2740+NW+169th+Terrace,+Miami+Gardens,+FL+33056/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9afb9a4865d09:0xd1d9d7a81d0504dc?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "15121354340914496732",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15121354340914496732&q=kids+club",
+      "provider_id": "/g/1tdzxjb7",
+      "gps_coordinates": {
+        "latitude": 25.928345,
+        "longitude": -80.24542
+      },
+      "title": "Celebrity Kids Club of Miami Gardens",
+      "type": "Day care center",
+      "phone": "(305) 623-9130",
+      "years_in_business": "10+ years in business",
+      "address": "Miami Gardens, FL",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.5,
+      "reviews": 107,
+      "reviews_original": "(107)",
+      "description": "\"The place was very clean, not stinky, and the kids had a blast.\"",
+      "lsig": "AB86z5XogVKJT_OkoR_sZ3_jZvAr",
+      "links": {
+        "website": "http://www.recesskidsclub.com/",
+        "directions": "https://www.google.com/maps/dir//Recess+Kids+Club,+16098+W+State+Rd+84+%232,+Weston,+FL+33326/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9097af6320a13:0xf18d0699af647d1e?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQILBAA&hl=en&gl=us"
+      },
+      "place_id": "17405575391999196446",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17405575391999196446&q=kids+club",
+      "provider_id": "/g/11fl8xl3z_",
+      "gps_coordinates": {
+        "latitude": 26.124502,
+        "longitude": -80.36213
+      },
+      "title": "Recess Kids Club",
+      "type": "Indoor playground",
+      "phone": "(954) 990-6578",
+      "address": "Weston, FL",
+      "hours": "Open · Closes 1 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.6,
+      "reviews": 142,
+      "reviews_original": "(142)",
+      "description": "\"They have a great staff, with very loving and caring teachers.\"",
+      "lsig": "AB86z5XLL8Q4Cuugb1EvjyN_ljmT",
+      "links": {
+        "website": "http://fitkidsofamerica.org/",
+        "directions": "https://www.google.com/maps/dir//Fit+Kids+of+America+Corp,+9395+SW+40th+St,+Miami,+FL+33165/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b8bcc8f7d9b9:0x2b45dcca707acaca?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "3118141079052536522",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3118141079052536522&q=kids+club",
+      "provider_id": "/g/1tj7fvyt",
+      "gps_coordinates": {
+        "latitude": 25.733501,
+        "longitude": -80.34717
+      },
+      "title": "Fit Kids of America Corp",
+      "type": "Physical fitness program",
+      "phone": "(305) 207-0022",
+      "years_in_business": "10+ years in business",
+      "address": "Miami, FL",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.6,
+      "reviews": 156,
+      "reviews_original": "(156)",
+      "description": "\"The place is always clean.\"",
+      "lsig": "AB86z5XnH2OfCEwQWC2q7sFSLKI0",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Kendall+Square+Clubhouse,+9501+SW+171st+Ct,+Miami,+FL+33196/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ea63eab3fa49:0x8c7c26f816c6a638?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIKBAA&hl=en&gl=us"
+      },
+      "place_id": "10123008909397894712",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10123008909397894712&q=kids+club",
+      "provider_id": "/g/11fxw9m0hl",
+      "gps_coordinates": {
+        "latitude": 25.677614,
+        "longitude": -80.47023
+      },
+      "title": "Kendall Square Clubhouse",
+      "type": "Country club",
+      "phone": "(305) 385-4833",
+      "address": "Miami, FL",
+      "hours": "Open · Closes 10 PM"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 34,
+      "reviews_original": "(34)",
+      "description": "\"The instructors are very caring and my son has had a fun time.\"",
+      "lsig": "AB86z5XMmW1H1Fhm2KqYff35agSm",
+      "links": {
+        "website": "http://www.bricks4kidz.us/miami-kendall",
+        "directions": "https://www.google.com/maps/dir//Bricks+4+Kidz+-+Kendall,+12952+SW+133rd+Ct,+Miami,+FL+33186/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9c19f3c5f887b:0x415c05ff118a57f3?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQILRAA&hl=en&gl=us"
+      },
+      "place_id": "4709645903391774707",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4709645903391774707&q=kids+club",
+      "provider_id": "/g/11btrs2j6h",
+      "gps_coordinates": {
+        "latitude": 25.647388,
+        "longitude": -80.4105
+      },
+      "title": "Bricks 4 Kidz - Kendall",
+      "type": "After school program",
+      "phone": "(866) 384-5501",
+      "years_in_business": "10+ years in business",
+      "address": "Miami, FL",
+      "hours": "Open · Closes 5:30 PM"
+    },
+    {
+      "position": 17,
+      "rating": 5.0,
+      "reviews": 4,
+      "reviews_original": "(4)",
+      "lsig": "AB86z5X7QvGnxKWLxvhutkDMd-z0",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Fun+Club,+6710+SW+80th+St+%23+103,+Miami,+FL+33143/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9c795a775b0db:0x56b07031116637bd?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIKRAA&hl=en&gl=us"
+      },
+      "place_id": "6246616039210497981",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6246616039210497981&q=kids+club",
+      "provider_id": "/g/1td7zw_h",
+      "gps_coordinates": {
+        "latitude": 25.696205,
+        "longitude": -80.30188
+      },
+      "title": "Fun Club",
+      "type": "Day care center",
+      "phone": "(305) 669-1700",
+      "years_in_business": "10+ years in business",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 18,
+      "rating": 1.0,
+      "reviews": 1,
+      "reviews_original": "(1)",
+      "lsig": "AB86z5X8HmFWJ782q8WbPTR2ratS",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//KINGDOM+KIDS+COMMUNITY+CENTER,+8051+W+24th+Ave+Bay%238,+Hialeah,+FL+33016/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9bb42ff978273:0xd7023e6afabeef59?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQILxAA&hl=en&gl=us"
+      },
+      "place_id": "15493014297302200153",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15493014297302200153&q=kids+club",
+      "provider_id": "/g/11h5v9535l",
+      "gps_coordinates": {
+        "latitude": 25.895535,
+        "longitude": -80.33177
+      },
+      "title": "KINGDOM KIDS COMMUNITY CENTER",
+      "type": "Summer camp organizer",
+      "phone": "(305) 684-3006",
+      "address": "Hialeah, FL",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 19,
+      "rating": 5.0,
+      "reviews": 7,
+      "reviews_original": "(7)",
+      "description": "\"They really care about the kids and are very gentle and loving with them.\"",
+      "lsig": "AB86z5XQLXjQGvNQm_Ai08q14qcA",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Kinder+Kids,+19370+Collins+Ave+STE+CU3,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ad9d622f9feb:0x4865da3e1752062b?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIKxAA&hl=en&gl=us"
+      },
+      "place_id": "5216815703592666667",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5216815703592666667&q=kids+club",
+      "provider_id": "/g/11y6jg_fsq",
+      "gps_coordinates": {
+        "latitude": 25.954718,
+        "longitude": -80.121826
+      },
+      "title": "Kinder Kids",
+      "type": "Association / Organization",
+      "address": "Sunny Isles Beach, FL",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.9,
+      "reviews": 5100,
+      "reviews_original": "(5.1K)",
+      "description": "\"Friendly staff, easy convenient entertainment for kids, and lots of seating.\"",
+      "lsig": "AB86z5V8hRXA98dAxrSjAGp4_p1f",
+      "links": {
+        "website": "https://www.kidsempire.com/park/miami?utm_source=gmb&utm_medium=organic",
+        "directions": "https://www.google.com/maps/dir//Kids+Empire+Miami+Dolphin+Mall,+11401+NW+12th+St,+Miami,+FL+33172/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9bfb647a6ea11:0x3d310e22666156c0?sa=X&ved=2ahUKEwjkroG8gNyTAxU2TTABHVvMNM8Q48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "4409321051081758400",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4409321051081758400&q=kids+club",
+      "provider_id": "/g/11t5803yr_",
+      "gps_coordinates": {
+        "latitude": 25.786745,
+        "longitude": -80.38065
+      },
+      "title": "Kids Empire Miami Dolphin Mall",
+      "type": "Indoor playground",
+      "phone": "(305) 874-7596",
+      "address": "Miami, FL",
+      "hours": "Open · Closes 8 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=kids+club&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=kids+club&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=kids+club&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=kids+club&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=kids+club&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=kids+club&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=kids+club&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=kids+club&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=kids+club&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=kids+club&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=kids+club&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

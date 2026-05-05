@@ -1,0 +1,1162 @@
+[
+  {
+    "task_id": "ORCH-T3-03-turn1",
+    "category": "flights",
+    "timestamp": "2026-04-07T12:11:08.434654",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "New York",
+      "destination": "Portland",
+      "departure_date": "2026-09-05",
+      "return_date": "2026-09-08"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 09:55"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 12:59"
+              },
+              "duration": 364,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 19",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 314 kg"
+              ]
+            }
+          ],
+          "total_duration": 364,
+          "carbon_emissions": {
+            "this_flight": 314000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -8
+          },
+          "price": 367,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1JCVXpFNUdnc0l5SjRDRUFJYUExVlRSRGdjY01pZUFnPT0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkFTIiwiMTkiXV1d"
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 17:26"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 20:37"
+              },
+              "duration": 371,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 335",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 314 kg"
+              ]
+            }
+          ],
+          "total_duration": 371,
+          "carbon_emissions": {
+            "this_flight": 314000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -8
+          },
+          "price": 367,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1ZCVXpNek5Sb0xDTWllQWhBQ0dnTlZVMFE0SEhESW5nST0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkFTIiwiMzM1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 08:30"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 11:43"
+              },
+              "duration": 373,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1574",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 277 kg"
+              ]
+            }
+          ],
+          "total_duration": 373,
+          "carbon_emissions": {
+            "this_flight": 277000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -19
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1pFVERFMU56UWFDd2lZcmdJUUFob0RWVk5FT0J4d21LNEMiLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkRMIiwiMTU3NCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 18:10"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 21:35"
+              },
+              "duration": 385,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 684",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 277 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 385,
+          "carbon_emissions": {
+            "this_flight": 277000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -19
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1ZFVERZNE5Cb0xDSml1QWhBQ0dnTlZVMFE0SEhDWXJnST0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkRMIiwiNjg0Il1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 11:30"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-09-05 14:24"
+              },
+              "duration": 234,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1880",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 189 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-09-05 15:25"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 17:26"
+              },
+              "duration": 241,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2028",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 217 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 61,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 536,
+          "carbon_emissions": {
+            "this_flight": 407000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 20
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZzFCUVRFNE9EQjhRVUV5TURJNEdnc0k4SzBDRUFJYUExVlRSRGdjY1BDdEFnPT0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJERlciLG51bGwsIkFBIiwiMTg4MCJdLFsiREZXIiwiMjAyNi0wOS0wNSIsIlBEWCIsbnVsbCwiQUEiLCIyMDI4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 15:26"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-09-05 17:37"
+              },
+              "duration": 131,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 377",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 100 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-09-05 18:23"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 20:52"
+              },
+              "duration": 329,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2873",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 300 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 46,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 506,
+          "carbon_emissions": {
+            "this_flight": 401000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 18
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3hCUVRNM04zeEJRVEk0TnpNYUN3andyUUlRQWhvRFZWTkVPQnh3OEswQyIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIkNMVCIsbnVsbCwiQUEiLCIzNzciXSxbIkNMVCIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkFBIiwiMjg3MyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 13:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-09-05 16:11"
+              },
+              "duration": 371,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 23",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 304 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-09-05 17:43"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 18:40"
+              },
+              "duration": 57,
+              "airplane": "Embraer 175",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 2325",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Stream media to your device",
+                "Carbon emissions estimate: 67 kg"
+              ],
+              "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 92,
+              "name": "Seattle-Tacoma International Airport",
+              "id": "SEA"
+            }
+          ],
+          "total_duration": 520,
+          "carbon_emissions": {
+            "this_flight": 372000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 9
+          },
+          "price": 472,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3RCVXpJemZFRlRNak15TlJvTENMandBaEFDR2dOVlUwUTRISEM0OEFJPSIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIlNFQSIsbnVsbCwiQVMiLCIyMyJdLFsiU0VBIiwiMjAyNi0wOS0wNSIsIlBEWCIsbnVsbCwiQVMiLCIyMzI1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 13:10"
+              },
+              "arrival_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-09-05 15:37"
+              },
+              "duration": 147,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2342",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 117 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-09-05 16:45"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 18:55"
+              },
+              "duration": 310,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 503",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 269 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 68,
+              "name": "Hartsfield-Jackson Atlanta International Airport",
+              "id": "ATL"
+            }
+          ],
+          "total_duration": 525,
+          "carbon_emissions": {
+            "this_flight": 387000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 14
+          },
+          "price": 472,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3hFVERJek5ESjhSRXcxTURNYUN3aTQ4QUlRQWhvRFZWTkVPQnh3dVBBQyIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIkFUTCIsbnVsbCwiREwiLCIyMzQyIl0sWyJBVEwiLCIyMDI2LTA5LTA1IiwiUERYIixudWxsLCJETCIsIjUwMyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 11:00"
+              },
+              "arrival_airport": {
+                "name": "Salt Lake City International Airport",
+                "id": "SLC",
+                "time": "2026-09-05 14:18"
+              },
+              "duration": 318,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 917",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 224 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Salt Lake City International Airport",
+                "id": "SLC",
+                "time": "2026-09-05 15:25"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 16:21"
+              },
+              "duration": 116,
+              "airplane": "Airbus A320",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1244",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 101 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 67,
+              "name": "Salt Lake City International Airport",
+              "id": "SLC"
+            }
+          ],
+          "total_duration": 501,
+          "carbon_emissions": {
+            "this_flight": 326000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -4
+          },
+          "price": 502,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3hFVERreE4zeEVUREV5TkRRYUN3andod01RQWhvRFZWTkVPQnh3OEljRCIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIlNMQyIsbnVsbCwiREwiLCI5MTciXSxbIlNMQyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkRMIiwiMTI0NCJdXV0="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-03-turn1",
+    "category": "flights",
+    "timestamp": "2026-05-04T02:49:58.365330",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "New York",
+      "destination": "Portland",
+      "departure_date": "2026-09-05",
+      "return_date": "2026-09-08"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 09:55"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 12:59"
+              },
+              "duration": 364,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 19",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 314 kg"
+              ]
+            }
+          ],
+          "total_duration": 364,
+          "carbon_emissions": {
+            "this_flight": 314000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -8
+          },
+          "price": 367,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1JCVXpFNUdnc0l5SjRDRUFJYUExVlRSRGdjY01pZUFnPT0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkFTIiwiMTkiXV1d"
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 17:26"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 20:37"
+              },
+              "duration": 371,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 335",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 314 kg"
+              ]
+            }
+          ],
+          "total_duration": 371,
+          "carbon_emissions": {
+            "this_flight": 314000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -8
+          },
+          "price": 367,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1ZCVXpNek5Sb0xDTWllQWhBQ0dnTlZVMFE0SEhESW5nST0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkFTIiwiMzM1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 08:30"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 11:43"
+              },
+              "duration": 373,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1574",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 277 kg"
+              ]
+            }
+          ],
+          "total_duration": 373,
+          "carbon_emissions": {
+            "this_flight": 277000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -19
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1pFVERFMU56UWFDd2lZcmdJUUFob0RWVk5FT0J4d21LNEMiLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkRMIiwiMTU3NCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 18:10"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 21:35"
+              },
+              "duration": 385,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 684",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 277 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 385,
+          "carbon_emissions": {
+            "this_flight": 277000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -19
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ1ZFVERZNE5Cb0xDSml1QWhBQ0dnTlZVMFE0SEhDWXJnST0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkRMIiwiNjg0Il1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 11:30"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-09-05 14:24"
+              },
+              "duration": 234,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1880",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 189 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-09-05 15:25"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 17:26"
+              },
+              "duration": 241,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2028",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 217 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 61,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 536,
+          "carbon_emissions": {
+            "this_flight": 407000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 20
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZzFCUVRFNE9EQjhRVUV5TURJNEdnc0k4SzBDRUFJYUExVlRSRGdjY1BDdEFnPT0iLFtbIkpGSyIsIjIwMjYtMDktMDUiLCJERlciLG51bGwsIkFBIiwiMTg4MCJdLFsiREZXIiwiMjAyNi0wOS0wNSIsIlBEWCIsbnVsbCwiQUEiLCIyMDI4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 15:26"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-09-05 17:37"
+              },
+              "duration": 131,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 377",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 100 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-09-05 18:23"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 20:52"
+              },
+              "duration": 329,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2873",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 300 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 46,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 506,
+          "carbon_emissions": {
+            "this_flight": 401000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 18
+          },
+          "price": 387,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3hCUVRNM04zeEJRVEk0TnpNYUN3andyUUlRQWhvRFZWTkVPQnh3OEswQyIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIkNMVCIsbnVsbCwiQUEiLCIzNzciXSxbIkNMVCIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkFBIiwiMjg3MyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 13:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-09-05 16:11"
+              },
+              "duration": 371,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 23",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 304 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-09-05 17:43"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 18:40"
+              },
+              "duration": 57,
+              "airplane": "Embraer 175",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 2325",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Stream media to your device",
+                "Carbon emissions estimate: 67 kg"
+              ],
+              "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 92,
+              "name": "Seattle-Tacoma International Airport",
+              "id": "SEA"
+            }
+          ],
+          "total_duration": 520,
+          "carbon_emissions": {
+            "this_flight": 372000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 9
+          },
+          "price": 472,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3RCVXpJemZFRlRNak15TlJvTENMandBaEFDR2dOVlUwUTRISEM0OEFJPSIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIlNFQSIsbnVsbCwiQVMiLCIyMyJdLFsiU0VBIiwiMjAyNi0wOS0wNSIsIlBEWCIsbnVsbCwiQVMiLCIyMzI1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 13:10"
+              },
+              "arrival_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-09-05 15:37"
+              },
+              "duration": 147,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2342",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 117 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Hartsfield-Jackson Atlanta International Airport",
+                "id": "ATL",
+                "time": "2026-09-05 16:45"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 18:55"
+              },
+              "duration": 310,
+              "airplane": "Boeing 737",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 503",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 269 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 68,
+              "name": "Hartsfield-Jackson Atlanta International Airport",
+              "id": "ATL"
+            }
+          ],
+          "total_duration": 525,
+          "carbon_emissions": {
+            "this_flight": 387000,
+            "typical_for_this_route": 340000,
+            "difference_percent": 14
+          },
+          "price": 472,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3hFVERJek5ESjhSRXcxTURNYUN3aTQ4QUlRQWhvRFZWTkVPQnh3dVBBQyIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIkFUTCIsbnVsbCwiREwiLCIyMzQyIl0sWyJBVEwiLCIyMDI2LTA5LTA1IiwiUERYIixudWxsLCJETCIsIjUwMyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-05 11:00"
+              },
+              "arrival_airport": {
+                "name": "Salt Lake City International Airport",
+                "id": "SLC",
+                "time": "2026-09-05 14:18"
+              },
+              "duration": 318,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 917",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 224 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Salt Lake City International Airport",
+                "id": "SLC",
+                "time": "2026-09-05 15:25"
+              },
+              "arrival_airport": {
+                "name": "Portland International Airport",
+                "id": "PDX",
+                "time": "2026-09-05 16:21"
+              },
+              "duration": 116,
+              "airplane": "Airbus A320",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1244",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 101 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 67,
+              "name": "Salt Lake City International Airport",
+              "id": "SLC"
+            }
+          ],
+          "total_duration": 501,
+          "carbon_emissions": {
+            "this_flight": 326000,
+            "typical_for_this_route": 340000,
+            "difference_percent": -4
+          },
+          "price": 502,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYldKcFNtVkxjVE5uWkRSQlJFVXhNbmRDUnkwdExTMHRMUzB0TFMxNWFYbDVOa0ZCUVVGQlIyNVdURXAzUkUxMWRVOUJFZ3hFVERreE4zeEVUREV5TkRRYUN3andod01RQWhvRFZWTkVPQnh3OEljRCIsW1siSkZLIiwiMjAyNi0wOS0wNSIsIlNMQyIsbnVsbCwiREwiLCI5MTciXSxbIlNMQyIsIjIwMjYtMDktMDUiLCJQRFgiLG51bGwsIkRMIiwiMTI0NCJdXV0="
+        }
+      ]
+    }
+  }
+]

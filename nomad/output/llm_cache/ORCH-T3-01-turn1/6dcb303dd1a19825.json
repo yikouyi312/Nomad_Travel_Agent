@@ -1,0 +1,49 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01V6kE5VNmvj6XWUJqzit3kU",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01Ux4u78wpy6sBiJb3XXXe9p",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Boston",
+          "destination": "New York",
+          "start_date": "2026-06-01",
+          "end_date": "2026-06-04",
+          "duration_days": 3,
+          "budget_usd": 1200,
+          "num_travelers": 1
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": false
+        },
+        "response_to_user": "Perfect! I'll help you plan a 3-day trip to NYC from Boston, departing June 1st and returning June 4th, 2026, with a budget of $1,200. I'll search for flights and hotels for you now."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2566,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 245,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

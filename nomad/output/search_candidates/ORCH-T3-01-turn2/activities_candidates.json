@@ -1,0 +1,1630 @@
+[
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:07:55.015006",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "Broadway show",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 2600,
+          "reviews_original": "(2.6K)",
+          "description": "\"took me 5 minutes to find the show and seats that met all my expectations\"",
+          "lsig": "AB86z5VYdJ7B_6ZWgBBueotjukCr",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/oNccG3aF3AHSpSTpNrMhlxLs7Ky7YzCG6tOpMeBn6xM.jpeg",
+          "place_id": "1396520872680707490",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1396520872680707490&q=Broadway+show",
+          "provider_id": "/g/1pty8bq7d",
+          "gps_coordinates": {
+            "latitude": 40.760242,
+            "longitude": -73.983604
+          },
+          "title": "Broadway.com",
+          "type": "Event ticket seller",
+          "address": "729 7th Ave 6th Floor"
+        },
+        {
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 5200,
+          "reviews_original": "(5.2K)",
+          "description": "\"At Broadway Theatre to see the Great Gatsby, great show, great seats.\"",
+          "lsig": "AB86z5UoDE1MgNSytKIc6ILip5ji",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/L_kDlszX-RWMzKn7vg5n_kM3gOV0sxnMSZoX_Vss-Dw.jpeg",
+          "place_id": "6611263863904037878",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6611263863904037878&q=Broadway+show",
+          "provider_id": "/m/0bz7bg",
+          "gps_coordinates": {
+            "latitude": 40.76325,
+            "longitude": -73.98314
+          },
+          "title": "Broadway Theatre",
+          "type": "Performing arts theater",
+          "address": "1681 Broadway"
+        },
+        {
+          "position": 3,
+          "rating": 4.6,
+          "reviews": 32,
+          "reviews_original": "(32)",
+          "description": "\"Amazing I must say\"",
+          "lsig": "AB86z5U16dIBcekkCawdFcWBK56e",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/r8dQu5DqnPv-BoI6_mzzWfdA-79YOZiReajipQQpdvY.jpeg",
+          "place_id": "9190981814318073449",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9190981814318073449&q=Broadway+show",
+          "provider_id": "/g/1tnpgc14",
+          "gps_coordinates": {
+            "latitude": 40.720695,
+            "longitude": -73.99978
+          },
+          "title": "Broadway",
+          "type": "Performing arts theater",
+          "address": "473 Broadway"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"The seats were great, the show - unforgettable.\"",
+          "lsig": "AB86z5W9YDaG45cw9gQfHdoFx6Jy",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/dGK-7jFp4TuSLfJ8nxQQ0Y7qP0ie56_xoLVaoO4A1Go.jpeg",
+          "place_id": "3550841835535959418",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3550841835535959418&q=Broadway+show",
+          "provider_id": "/g/11j31vp07t",
+          "gps_coordinates": {
+            "latitude": 40.75956,
+            "longitude": -73.9847
+          },
+          "title": "Broadway Tickets Last Minute Center",
+          "type": "Event ticket seller",
+          "address": "1578 Broadway"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 2000,
+          "reviews_original": "(2K)",
+          "description": "\"The Lion King on Broadway was an absolutely unforgettable experience.\"",
+          "lsig": "AB86z5UjcgEqbrmA41s1-ZaXlRnR",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/80CG5HL54fMsVzBE6vfd1-GTj8UrisHOHJZpvR_GRHE.jpeg",
+          "place_id": "16897918525835204107",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16897918525835204107&q=Broadway+show",
+          "provider_id": "/g/11bxb9njgv",
+          "gps_coordinates": {
+            "latitude": 40.758022,
+            "longitude": -73.98602
+          },
+          "title": "The Lion King",
+          "type": "Performing arts theater",
+          "address": "200 W 45th St"
+        },
+        {
+          "position": 6,
+          "rating": 4.3,
+          "reviews": 592,
+          "reviews_original": "(592)",
+          "description": "\"The Broadway show was absolutely mesmerizing from start to finish.\"",
+          "lsig": "AB86z5UvSHyN7aCHcKqkwoa3cxsp",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/6qICIrNCI9E6QDCyEg4Ldfcd8Y6fb5Q9vg8Ekyp6htw.jpeg",
+          "place_id": "13672119977302661892",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13672119977302661892&q=Broadway+show",
+          "provider_id": "/g/11y1ch00jc",
+          "gps_coordinates": {
+            "latitude": 40.75701,
+            "longitude": -73.987625
+          },
+          "title": "Harry Potter and the Cursed Child",
+          "type": "Theater production",
+          "address": "214 W 43rd St"
+        },
+        {
+          "position": 7,
+          "rating": 4.7,
+          "reviews": 64,
+          "reviews_original": "(64)",
+          "description": "\"Broadway shows are a truly unique and unforgettable experience.\"",
+          "lsig": "AB86z5VtZzc0SyaPm53aVwJEkogJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/B9tEZBAwa2qiyuctJl9f5KHQKpgK7Mj0I144eQpRMNg.jpeg",
+          "place_id": "15682781211841165713",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15682781211841165713&q=Broadway+show",
+          "provider_id": "/g/11fs2pdf4p",
+          "gps_coordinates": {
+            "latitude": 40.758766,
+            "longitude": -73.98769
+          },
+          "title": "Broadway",
+          "type": "Performing arts theater",
+          "address": "242 W 45th St"
+        },
+        {
+          "position": 8,
+          "rating": 3.1,
+          "reviews": 100,
+          "reviews_original": "(100)",
+          "description": "\"Broadway Direct was phenomenal and refunded my ticket.\"",
+          "lsig": "AB86z5Wvi7d9C0QSVVmJ3nkjDopA",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/1_KONnm5ybpvOapNh7QlHv9iY-MlUXqzdtBIujK04qo.jpeg",
+          "place_id": "15329848847997760473",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15329848847997760473&q=Broadway+show",
+          "provider_id": "/g/1tkr05k8",
+          "gps_coordinates": {
+            "latitude": 40.75707,
+            "longitude": -73.98644
+          },
+          "title": "Broadway Direct",
+          "type": "Event ticket seller",
+          "address": "1501 Broadway 14th floor"
+        },
+        {
+          "position": 9,
+          "rating": 4.3,
+          "reviews": 282,
+          "reviews_original": "(282)",
+          "description": "\"An extraordinary Broadway show with the energy of a live concert.\"",
+          "lsig": "AB86z5UoQ-eV2RE5WkvKPfU1i4pI",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/tfiNdphhSwfcryeGVWus2MnGe-x-unLV3n6eCINQOA8.jpeg",
+          "place_id": "18442375463817619027",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18442375463817619027&q=Broadway+show",
+          "provider_id": "/g/11j2fnzlb2",
+          "gps_coordinates": {
+            "latitude": 40.759964,
+            "longitude": -73.98691
+          },
+          "title": "Six on Broadway",
+          "type": "Theater production",
+          "address": "256 W 47th St"
+        },
+        {
+          "position": 10,
+          "rating": 4.3,
+          "reviews": 251,
+          "reviews_original": "(251)",
+          "description": "\"A fun, high-energy Broadway show with a modern twist on Shakespeare.\"",
+          "lsig": "AB86z5WieBSoDuTiuRhC07QngrLY",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/bEKDgT8s8HYDEABwumzAbLdgLHhg_-7A8Y7EDdme3gQ.jpeg",
+          "place_id": "16737030536451138380",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16737030536451138380&q=Broadway+show",
+          "provider_id": "/g/11tnxkmj13",
+          "gps_coordinates": {
+            "latitude": 40.755844,
+            "longitude": -73.984856
+          },
+          "title": "& Juliet on Broadway",
+          "type": "Theater production",
+          "address": "124 W 43rd St"
+        },
+        {
+          "position": 11,
+          "rating": 4.2,
+          "reviews": 240,
+          "reviews_original": "(240)",
+          "description": "\"The special effects, acoustics, and stage designs were excellent.\"",
+          "lsig": "AB86z5XERAwgMn7kSMlzwGJeGiUU",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/QEu2pjyetNgu-SWo_EG9aRgqzOdSOpZEdZgTjDSo9Ro.jpeg",
+          "place_id": "9174009635572747992",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9174009635572747992&q=Broadway+show",
+          "provider_id": "/g/11vbmr111g",
+          "gps_coordinates": {
+            "latitude": 40.757168,
+            "longitude": -73.986664
+          },
+          "title": "New York Theatre Guide",
+          "type": "Event ticket seller",
+          "address": "1501 Broadway"
+        },
+        {
+          "position": 12,
+          "rating": 4.4,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"Great music, dancing, sets, costumes, in all a top Broadway play.\"",
+          "lsig": "AB86z5UZ1otBM5k8HwgMbd_1TP1D",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/mfB95VrX60GsfIdXN9pEs7gCCQaESJI6gaTNgh75Z9U.jpeg",
+          "place_id": "1514882333496200720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1514882333496200720&q=Broadway+show",
+          "provider_id": "/g/11bw82l8bl",
+          "gps_coordinates": {
+            "latitude": 40.761112,
+            "longitude": -73.98497
+          },
+          "title": "Chicago The Musical",
+          "type": "Performing arts theater",
+          "address": "219 W 49th St"
+        },
+        {
+          "position": 13,
+          "rating": 3.5,
+          "reviews": 393,
+          "reviews_original": "(393)",
+          "description": "\"Best prices and best seats available from Broadway shows.\"",
+          "lsig": "AB86z5USf2RKT5-Tc0X2wKzr-8VN",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/IE2P3MHxK34rmEut7y-6J-eI7gQ8TxqOsbnfgkHz4vY.png",
+          "place_id": "2713976244074746453",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2713976244074746453&q=Broadway+show",
+          "provider_id": "/g/11bwpyw6w_",
+          "gps_coordinates": {
+            "latitude": 40.757168,
+            "longitude": -73.986664
+          },
+          "title": "TodayTix",
+          "type": "Event ticket seller",
+          "address": "1501 Broadway"
+        },
+        {
+          "position": 14,
+          "rating": 4.8,
+          "reviews": 1400,
+          "reviews_original": "(1.4K)",
+          "description": "\"We were seated in the orchestra very close to the stage for only $35!\"",
+          "lsig": "AB86z5W3DVVl0mYzU8Dj-sXXMndJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/9AKnJp0teuZpovIBAlb89ZothD9mblswtzkuX2W2pX4.jpeg",
+          "place_id": "8699902661441973871",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8699902661441973871&q=Broadway+show",
+          "provider_id": "/g/11j1sdd31y",
+          "gps_coordinates": {
+            "latitude": 40.75621,
+            "longitude": -73.98773
+          },
+          "title": "Aladdin the Musical",
+          "type": "Theater production",
+          "address": "214 W 42nd St"
+        },
+        {
+          "position": 15,
+          "rating": 4.4,
+          "reviews": 109,
+          "reviews_original": "(109)",
+          "description": "\"A great way of seeing a broadway show for cheaper than usual.\"",
+          "lsig": "AB86z5Wy1gtXfitzXNClDWdTPxT5",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/V-Tzbocav51qNci2vzVSHDCsqh7i5MUteIvfXVcjypw.jpeg",
+          "place_id": "17441000170071730133",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17441000170071730133&q=Broadway+show",
+          "title": "Broadway Roulette",
+          "type": "Event ticket seller"
+        },
+        {
+          "position": 16,
+          "rating": 4.8,
+          "reviews": 7300,
+          "reviews_original": "(7.3K)",
+          "description": "\"The cast, music production, and stage setup were all soo amazing.\"",
+          "lsig": "AB86z5XRSHj5KixNeTM5NMUbh1y8",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/ySpBDeziiMizOeUOoUz-E95jtQEOoRC5uhldbu1SWC8.jpeg",
+          "place_id": "17269304829974522299",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17269304829974522299&q=Broadway+show",
+          "provider_id": "/m/0c07jx",
+          "gps_coordinates": {
+            "latitude": 40.757908,
+            "longitude": -73.98608
+          },
+          "title": "Minskoff Theatre",
+          "type": "Performing arts theater",
+          "address": "200 W 45th St"
+        },
+        {
+          "position": 17,
+          "rating": 2.7,
+          "reviews": 12,
+          "reviews_original": "(12)",
+          "description": "\"Amazing seats, friendly staff 👌 thank you Olga...\"",
+          "lsig": "AB86z5VAIdHCzfP6P-N5PmqUmMTB",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/zaJ18S1r6n6nnobvGHZQTZluWotdE1rN_YbV0xRYN68.jpeg",
+          "place_id": "3216636160698918362",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3216636160698918362&q=Broadway+show",
+          "provider_id": "/g/11ghpys2p7",
+          "gps_coordinates": {
+            "latitude": 40.75956,
+            "longitude": -73.9847
+          },
+          "title": "Discounted Broadway Tickets",
+          "type": "Event ticket seller",
+          "address": "1578 Broadway"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 2800,
+          "reviews_original": "(2.8K)",
+          "description": "\"The music, set design, cast and crew are Broadway at its finest.\"",
+          "lsig": "AB86z5VrGyJv0QaK1DkIKt-2c2fZ",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/nNHZxOzzCSu9OVADuwtv63bauPcIX5PBg4-9jGqmTFE.jpeg",
+          "place_id": "11035058566009073586",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11035058566009073586&q=Broadway+show",
+          "provider_id": "/m/0c07cw",
+          "gps_coordinates": {
+            "latitude": 40.760723,
+            "longitude": -73.985664
+          },
+          "title": "Walter Kerr Theatre",
+          "type": "Performing arts theater",
+          "address": "219 W 48th St"
+        },
+        {
+          "position": 19,
+          "rating": 4.7,
+          "reviews": 3000,
+          "reviews_original": "(3K)",
+          "description": "\"Intimate theater with great views of the stage.\"",
+          "lsig": "AB86z5WbruVVfiTNLC04zyJeHAAf",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/jWGjsGN38Wd0C9jUY5eLT31scULYSVhHu4oFCVHUObo.jpeg",
+          "place_id": "8242433625113643590",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8242433625113643590&q=Broadway+show",
+          "provider_id": "/m/0c07rt",
+          "gps_coordinates": {
+            "latitude": 40.75996,
+            "longitude": -73.98689
+          },
+          "title": "Lena Horne Theatre",
+          "type": "Performing arts theater",
+          "address": "256 W 47th St"
+        },
+        {
+          "position": 20,
+          "rating": 4.4,
+          "reviews": 314,
+          "reviews_original": "(314)",
+          "description": "\"We saw Alice in Wonderland, and most of the cast were excellent performers.\"",
+          "lsig": "AB86z5WpgrlvW49oCRR5gVjKzbZ5",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/1fHx1xW4fHGYnUIODCEBRsqgdZzrvSqPyCZn8XZID5M.jpeg",
+          "place_id": "16186555405801218721",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16186555405801218721&q=Broadway+show",
+          "provider_id": "/m/0k2rg67",
+          "gps_coordinates": {
+            "latitude": 40.7301,
+            "longitude": -74.00054
+          },
+          "title": "The Players Theatre",
+          "type": "Performing arts theater",
+          "address": "115 MacDougal St"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:07:56.829627",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "musical",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 2000,
+          "reviews_original": "(2K)",
+          "description": "\"Great musical, well organized, prices for snacks/drinks are excessive.\"",
+          "lsig": "AB86z5UjcgEqbrmA41s1-ZaXlRnR",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/G1H2M7FMCxtMIzPkoZiSaY67x3kvhRVmP1bDYKXnMWU.jpeg",
+          "place_id": "16897918525835204107",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16897918525835204107&q=musical",
+          "provider_id": "/g/11bxb9njgv",
+          "gps_coordinates": {
+            "latitude": 40.758022,
+            "longitude": -73.98602
+          },
+          "title": "The Lion King",
+          "type": "Performing arts theater",
+          "address": "200 W 45th St"
+        },
+        {
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 1400,
+          "reviews_original": "(1.4K)",
+          "description": "\"Great musical, incredible stage presence and the effects, so cool.\"",
+          "lsig": "AB86z5W3DVVl0mYzU8Dj-sXXMndJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/akch4OGy4SBKuC0sGqF9AjGcRYYWK4rzNwJpjhj4Sxo.jpeg",
+          "place_id": "8699902661441973871",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8699902661441973871&q=musical",
+          "provider_id": "/g/11j1sdd31y",
+          "gps_coordinates": {
+            "latitude": 40.75621,
+            "longitude": -73.98773
+          },
+          "title": "Aladdin the Musical",
+          "type": "Theater production",
+          "address": "214 W 42nd St",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.4,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"Terrific cast, amazing music, high energy show & cozy theater.\"",
+          "lsig": "AB86z5UZ1otBM5k8HwgMbd_1TP1D",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/Fw9krqHLu139VnNoRYtlxMbV9df3Ia3SZuW0fscIQRI.jpeg",
+          "place_id": "1514882333496200720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1514882333496200720&q=musical",
+          "provider_id": "/g/11bw82l8bl",
+          "gps_coordinates": {
+            "latitude": 40.761112,
+            "longitude": -73.98497
+          },
+          "title": "Chicago The Musical",
+          "type": "Performing arts theater",
+          "phone": "(212) 239-6200",
+          "address": "219 W 49th St"
+        },
+        {
+          "position": 4,
+          "rating": 4.4,
+          "reviews": 262,
+          "reviews_original": "(262)",
+          "description": "\"Very unique experience and a must for musicians in the city.\"",
+          "lsig": "AB86z5V_OT9xXfsJruiqw50eYwbf",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/mcxiGKMPpjQm6okgoloMIttbH4gg7h6qyHKWvY0aH48.jpeg",
+          "place_id": "6493296651964392529",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6493296651964392529&q=musical",
+          "provider_id": "/g/1th1dmzx",
+          "gps_coordinates": {
+            "latitude": 40.73223,
+            "longitude": -74.00146
+          },
+          "title": "Music Inn World Instruments",
+          "type": "Musical instrument store",
+          "phone": "(212) 243-5715",
+          "address": "169 W 4th St",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.8,
+          "reviews": 5100,
+          "reviews_original": "(5.1K)",
+          "description": "\"The cast was incredible, the set is stunning and the music was so fun!\"",
+          "lsig": "AB86z5VcD84AjkQAKHYtYeVjneKS",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/1XdohcHWRID8va7u6CkUEwjJcnHa7jhEp2rlibTpTOs.jpeg",
+          "place_id": "2717933546398219837",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2717933546398219837&q=musical",
+          "provider_id": "/g/11fr3c3hjj",
+          "gps_coordinates": {
+            "latitude": 40.75935,
+            "longitude": -73.989174
+          },
+          "title": "Moulin Rouge! The Musical",
+          "type": "Theater company",
+          "address": "302 W 45th St",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.6,
+          "reviews": 251,
+          "reviews_original": "(251)",
+          "description": "\"You get to see really talented musicians up close!\"",
+          "lsig": "AB86z5Vd9V7ustR3UBrhdPHxRTbC",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/pAINQeeqfv_aR0s85bjWxhS30rJFsT23kbPGwz7hMps.jpeg",
+          "place_id": "7186463494583270673",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=7186463494583270673&q=musical",
+          "provider_id": "/g/1td72xxr",
+          "gps_coordinates": {
+            "latitude": 40.71511,
+            "longitude": -73.96546
+          },
+          "title": "Main Drag Music",
+          "type": "Musical instrument store",
+          "phone": "(718) 388-6365",
+          "address": "Brooklyn, NY",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.6,
+          "reviews": 641,
+          "reviews_original": "(641)",
+          "description": "\"Perfect vibes of vintage and new era of musical instruments!\"",
+          "lsig": "AB86z5XzYhdFa-PMaXIuql_BOVlb",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/76UiBKYwu5dGvSBOV425Xg_sMI9NcqB1e4UmD2ZNwcs.jpeg",
+          "place_id": "18220958098637724477",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18220958098637724477&q=musical",
+          "provider_id": "/g/1tdch8g4",
+          "gps_coordinates": {
+            "latitude": 40.72232,
+            "longitude": -74.00117
+          },
+          "title": "Rudy's Music Soho",
+          "type": "Guitar store",
+          "phone": "(212) 625-2557",
+          "address": "461 Broome St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.8,
+          "reviews": 137,
+          "reviews_original": "(137)",
+          "description": "\"Amazing cello rental, great price, money spent counts toward buying.\"",
+          "lsig": "AB86z5V_2V6Rly9gVBjnrdEqWzqJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/sQ5Fvhikg28EdnLiPZ5MAAFZGur-vwMxuhb0I4Sm_a8.jpeg",
+          "place_id": "2657555648948019368",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2657555648948019368&q=musical",
+          "provider_id": "/g/1tg5d07h",
+          "gps_coordinates": {
+            "latitude": 40.71526,
+            "longitude": -74.00823
+          },
+          "title": "Finlay + Gage Musical Instruments NYC",
+          "type": "Musical instrument store",
+          "phone": "(212) 274-1322",
+          "address": "113 Chambers St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.1,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "description": "\"Great classes, soundproofing in studios.\"",
+          "lsig": "AB86z5UMx52-WN6WxY_DB4MlFXYi",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/UBnoOm1w-h7PTsCNp4l8G3HZ07Cw1ktBpoG5Z5-xhSw.jpeg",
+          "place_id": "168568160975857934",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=168568160975857934&q=musical",
+          "provider_id": "/g/1td0zd5y",
+          "gps_coordinates": {
+            "latitude": 40.688885,
+            "longitude": -73.981544
+          },
+          "title": "Guitar Center",
+          "type": "Music store",
+          "phone": "(718) 230-5025",
+          "address": "Brooklyn, NY",
+          "hours": "Open · Closes 9 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 167,
+          "reviews_original": "(167)",
+          "description": "\"It feels like a shop that genuinely cares about musicians at every level.\"",
+          "lsig": "AB86z5UPkxkA6rFbOsUQO50-c1FP",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/1Ngvjwc-pJOComnVSCvUs3rOPH861vrkFeUbCVQXTn0.jpeg",
+          "place_id": "10272240921962722356",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10272240921962722356&q=musical",
+          "provider_id": "/g/1tdwfvq6",
+          "gps_coordinates": {
+            "latitude": 40.703728,
+            "longitude": -73.94205
+          },
+          "title": "Johnny Albino Music Center",
+          "type": "Musical instrument store",
+          "phone": "(718) 782-7586",
+          "address": "Brooklyn, NY",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 2900,
+          "reviews_original": "(2.9K)",
+          "description": "\"Great new and used musicals equipment.\"",
+          "lsig": "AB86z5VvEmi3x-eOuUgHuAGOvIUg",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/o9vcHYgMc8dW1YEc5mYfygY0o_kMb85kNc5BbT9qUE0.jpeg",
+          "place_id": "1885020921540031757",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1885020921540031757&q=musical",
+          "provider_id": "/g/1tj46tz4",
+          "gps_coordinates": {
+            "latitude": 40.7367,
+            "longitude": -73.99481
+          },
+          "title": "Guitar Center",
+          "type": "Music store",
+          "phone": "(212) 463-7500",
+          "address": "25 W 14th St",
+          "hours": "Open · Closes 9 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.7,
+          "reviews": 178,
+          "reviews_original": "(178)",
+          "description": "\"Rogue music - still alive!\"",
+          "lsig": "AB86z5VGCH8JqqMuIntmAL0msjn4",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/2rVZsN8BNHvEq0uQeGtMdI-X5Gr3P0IyIBkjmP77iwE.jpeg",
+          "place_id": "685812460147457846",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=685812460147457846&q=musical",
+          "provider_id": "/g/1w0p6k4k",
+          "gps_coordinates": {
+            "latitude": 40.74883,
+            "longitude": -73.99355
+          },
+          "title": "Rogue Music",
+          "type": "Music store",
+          "phone": "(212) 629-3708",
+          "address": "220 W 30th St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 13,
+          "rating": 3.0,
+          "reviews": 132,
+          "reviews_original": "(132)",
+          "description": "\"We ended up talking about old Midtown for a while, which was a nice touch.\"",
+          "lsig": "AB86z5WZYc5pyBh852rnrEbYAUuw",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/-abA4Bj0BKzcMuVd6OLzyT0Y8KCrZkhSivQr0biFs7Y.jpeg",
+          "place_id": "6726265494597985247",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6726265494597985247&q=musical",
+          "provider_id": "/g/1tjds7jr",
+          "gps_coordinates": {
+            "latitude": 40.754467,
+            "longitude": -73.99439
+          },
+          "title": "Armen's Music Shop",
+          "type": "Musical instrument store",
+          "phone": "(212) 563-4514",
+          "address": "347 W 36th St.",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 64,
+          "reviews_original": "(64)",
+          "description": "\"Broadway shows are a truly unique and unforgettable experience.\"",
+          "lsig": "AB86z5VtZzc0SyaPm53aVwJEkogJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/oRJVzdc1vGU3-SjlvGROOjyNIF25Tuh980yLCdmJbW0.jpeg",
+          "place_id": "15682781211841165713",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15682781211841165713&q=musical",
+          "provider_id": "/g/11fs2pdf4p",
+          "gps_coordinates": {
+            "latitude": 40.758766,
+            "longitude": -73.98769
+          },
+          "title": "Broadway",
+          "type": "Performing arts theater",
+          "phone": "(212) 239-6200",
+          "address": "242 W 45th St"
+        },
+        {
+          "position": 15,
+          "rating": 4.9,
+          "reviews": 323,
+          "reviews_original": "(323)",
+          "description": "\"I was floored, and the old girl really does sound better.\"",
+          "lsig": "AB86z5Vbi6fLbq5HLyled7ehc06Z",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/m4vgsOg1wP0SHoQFqX3t2xIZHBZa7bzTepqPF68h37g.jpeg",
+          "place_id": "10421265725348988227",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10421265725348988227&q=musical",
+          "provider_id": "/g/1tfg3_pw",
+          "gps_coordinates": {
+            "latitude": 40.746777,
+            "longitude": -73.99327
+          },
+          "title": "Flute Center",
+          "type": "Musical instrument store",
+          "phone": "(212) 307-9737",
+          "address": "307 7th Ave Suite 401",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 16,
+          "rating": 4.8,
+          "reviews": 164,
+          "reviews_original": "(164)",
+          "description": "\"Good atmosphere with an impressive collection of modern musical artists.\"",
+          "lsig": "AB86z5VSeUPSlfyAWxsZQB5qJ92h",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/IMigjSbvaizm52f_khKDalfTfkZTXnRpXtRQDSjTUic.jpeg",
+          "place_id": "5930157190305847255",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5930157190305847255&q=musical",
+          "provider_id": "/g/1tdzmgfp",
+          "gps_coordinates": {
+            "latitude": 40.7583,
+            "longitude": -73.984146
+          },
+          "title": "Jon Baltimore Music Company, Inc.",
+          "type": "Musical instrument store",
+          "phone": "(212) 575-1508",
+          "address": "151 W 46th St 2nd floor",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 17,
+          "rating": 4.9,
+          "reviews": 102,
+          "reviews_original": "(102)",
+          "description": "\"Very large choice of acoustic vintage guitars and Strats and Teles.\"",
+          "lsig": "AB86z5V6HxhmcTpJ6SU3NTrzwVp0",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/fybczLHTJ6AiH_yBhgGC1rEsAAEIMOLfxkJRYDqDMco.jpeg",
+          "place_id": "685585376872173372",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=685585376872173372&q=musical",
+          "provider_id": "/g/12hly4yjq",
+          "gps_coordinates": {
+            "latitude": 40.720974,
+            "longitude": -73.98764
+          },
+          "title": "TR Crandall Guitars",
+          "type": "Musical instrument store",
+          "phone": "(646) 692-4235",
+          "address": "156 Ludlow St 5th floor",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 6600,
+          "reviews_original": "(6.6K)",
+          "description": "\"Musical numbers, setting, and choreography, out of this world!\"",
+          "lsig": "AB86z5Whb5ib098A39x66iJEgZ0j",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/N-igAnOmUl0Sk4i_fYoIYjx-wj5F6LiSrgAK9sCt1wc.jpeg",
+          "place_id": "12276174329768519627",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12276174329768519627&q=musical",
+          "provider_id": "/m/06mq48",
+          "gps_coordinates": {
+            "latitude": 40.76316,
+            "longitude": -73.98454
+          },
+          "title": "Neil Simon Theatre",
+          "type": "Performing arts theater",
+          "phone": "(212) 757-8646",
+          "address": "250 W 52nd St"
+        },
+        {
+          "position": 19,
+          "rating": 4.2,
+          "reviews": 6,
+          "reviews_original": "(6)",
+          "lsig": "AB86z5XxyxqJrogbOLI_TgkAJME3",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/fuI_Wl_We_IwYwAISsNds18_NQH5SGOaGgI6OqZT-PY.png",
+          "place_id": "11822357770447347784",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11822357770447347784&q=musical",
+          "provider_id": "/g/11b6p6mz4d",
+          "gps_coordinates": {
+            "latitude": 40.75506,
+            "longitude": -73.9911
+          },
+          "title": "Musical Theatre Factory",
+          "type": "Non-profit organization",
+          "address": "584 8th Ave STE 1002",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.4,
+          "reviews": 91,
+          "reviews_original": "(91)",
+          "description": "\"This school has changed my life.\"",
+          "lsig": "AB86z5W2F7oYmqZ8BXtEXlmu60V8",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/RVdgLB4Acc3xYiA-6ZaNcpgeYKfWPK_0MdyLcarjcJA.jpeg",
+          "place_id": "14213251908451783887",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14213251908451783887&q=musical",
+          "provider_id": "/m/02l6fr",
+          "gps_coordinates": {
+            "latitude": 40.772156,
+            "longitude": -73.98758
+          },
+          "title": "The American Musical and Dramatic Academy",
+          "type": "Drama school",
+          "phone": "(212) 787-5300",
+          "years_in_business": "10+ years in business",
+          "address": "211 W 61st St",
+          "hours": "Open · Closes 8 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:53.543347",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "Broadway show",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 2600,
+          "reviews_original": "(2.6K)",
+          "description": "\"took me 5 minutes to find the show and seats that met all my expectations\"",
+          "lsig": "AB86z5VYdJ7B_6ZWgBBueotjukCr",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/oNccG3aF3AHSpSTpNrMhlxLs7Ky7YzCG6tOpMeBn6xM.jpeg",
+          "place_id": "1396520872680707490",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1396520872680707490&q=Broadway+show",
+          "provider_id": "/g/1pty8bq7d",
+          "gps_coordinates": {
+            "latitude": 40.760242,
+            "longitude": -73.983604
+          },
+          "title": "Broadway.com",
+          "type": "Event ticket seller",
+          "address": "729 7th Ave 6th Floor"
+        },
+        {
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 5200,
+          "reviews_original": "(5.2K)",
+          "description": "\"At Broadway Theatre to see the Great Gatsby, great show, great seats.\"",
+          "lsig": "AB86z5UoDE1MgNSytKIc6ILip5ji",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/L_kDlszX-RWMzKn7vg5n_kM3gOV0sxnMSZoX_Vss-Dw.jpeg",
+          "place_id": "6611263863904037878",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6611263863904037878&q=Broadway+show",
+          "provider_id": "/m/0bz7bg",
+          "gps_coordinates": {
+            "latitude": 40.76325,
+            "longitude": -73.98314
+          },
+          "title": "Broadway Theatre",
+          "type": "Performing arts theater",
+          "address": "1681 Broadway"
+        },
+        {
+          "position": 3,
+          "rating": 4.6,
+          "reviews": 32,
+          "reviews_original": "(32)",
+          "description": "\"Amazing I must say\"",
+          "lsig": "AB86z5U16dIBcekkCawdFcWBK56e",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/r8dQu5DqnPv-BoI6_mzzWfdA-79YOZiReajipQQpdvY.jpeg",
+          "place_id": "9190981814318073449",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9190981814318073449&q=Broadway+show",
+          "provider_id": "/g/1tnpgc14",
+          "gps_coordinates": {
+            "latitude": 40.720695,
+            "longitude": -73.99978
+          },
+          "title": "Broadway",
+          "type": "Performing arts theater",
+          "address": "473 Broadway"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"The seats were great, the show - unforgettable.\"",
+          "lsig": "AB86z5W9YDaG45cw9gQfHdoFx6Jy",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/dGK-7jFp4TuSLfJ8nxQQ0Y7qP0ie56_xoLVaoO4A1Go.jpeg",
+          "place_id": "3550841835535959418",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3550841835535959418&q=Broadway+show",
+          "provider_id": "/g/11j31vp07t",
+          "gps_coordinates": {
+            "latitude": 40.75956,
+            "longitude": -73.9847
+          },
+          "title": "Broadway Tickets Last Minute Center",
+          "type": "Event ticket seller",
+          "address": "1578 Broadway"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 2000,
+          "reviews_original": "(2K)",
+          "description": "\"The Lion King on Broadway was an absolutely unforgettable experience.\"",
+          "lsig": "AB86z5UjcgEqbrmA41s1-ZaXlRnR",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/80CG5HL54fMsVzBE6vfd1-GTj8UrisHOHJZpvR_GRHE.jpeg",
+          "place_id": "16897918525835204107",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16897918525835204107&q=Broadway+show",
+          "provider_id": "/g/11bxb9njgv",
+          "gps_coordinates": {
+            "latitude": 40.758022,
+            "longitude": -73.98602
+          },
+          "title": "The Lion King",
+          "type": "Performing arts theater",
+          "address": "200 W 45th St"
+        },
+        {
+          "position": 6,
+          "rating": 4.3,
+          "reviews": 592,
+          "reviews_original": "(592)",
+          "description": "\"The Broadway show was absolutely mesmerizing from start to finish.\"",
+          "lsig": "AB86z5UvSHyN7aCHcKqkwoa3cxsp",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/6qICIrNCI9E6QDCyEg4Ldfcd8Y6fb5Q9vg8Ekyp6htw.jpeg",
+          "place_id": "13672119977302661892",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13672119977302661892&q=Broadway+show",
+          "provider_id": "/g/11y1ch00jc",
+          "gps_coordinates": {
+            "latitude": 40.75701,
+            "longitude": -73.987625
+          },
+          "title": "Harry Potter and the Cursed Child",
+          "type": "Theater production",
+          "address": "214 W 43rd St"
+        },
+        {
+          "position": 7,
+          "rating": 4.7,
+          "reviews": 64,
+          "reviews_original": "(64)",
+          "description": "\"Broadway shows are a truly unique and unforgettable experience.\"",
+          "lsig": "AB86z5VtZzc0SyaPm53aVwJEkogJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/B9tEZBAwa2qiyuctJl9f5KHQKpgK7Mj0I144eQpRMNg.jpeg",
+          "place_id": "15682781211841165713",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15682781211841165713&q=Broadway+show",
+          "provider_id": "/g/11fs2pdf4p",
+          "gps_coordinates": {
+            "latitude": 40.758766,
+            "longitude": -73.98769
+          },
+          "title": "Broadway",
+          "type": "Performing arts theater",
+          "address": "242 W 45th St"
+        },
+        {
+          "position": 8,
+          "rating": 3.1,
+          "reviews": 100,
+          "reviews_original": "(100)",
+          "description": "\"Broadway Direct was phenomenal and refunded my ticket.\"",
+          "lsig": "AB86z5Wvi7d9C0QSVVmJ3nkjDopA",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/1_KONnm5ybpvOapNh7QlHv9iY-MlUXqzdtBIujK04qo.jpeg",
+          "place_id": "15329848847997760473",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15329848847997760473&q=Broadway+show",
+          "provider_id": "/g/1tkr05k8",
+          "gps_coordinates": {
+            "latitude": 40.75707,
+            "longitude": -73.98644
+          },
+          "title": "Broadway Direct",
+          "type": "Event ticket seller",
+          "address": "1501 Broadway 14th floor"
+        },
+        {
+          "position": 9,
+          "rating": 4.3,
+          "reviews": 282,
+          "reviews_original": "(282)",
+          "description": "\"An extraordinary Broadway show with the energy of a live concert.\"",
+          "lsig": "AB86z5UoQ-eV2RE5WkvKPfU1i4pI",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/tfiNdphhSwfcryeGVWus2MnGe-x-unLV3n6eCINQOA8.jpeg",
+          "place_id": "18442375463817619027",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18442375463817619027&q=Broadway+show",
+          "provider_id": "/g/11j2fnzlb2",
+          "gps_coordinates": {
+            "latitude": 40.759964,
+            "longitude": -73.98691
+          },
+          "title": "Six on Broadway",
+          "type": "Theater production",
+          "address": "256 W 47th St"
+        },
+        {
+          "position": 10,
+          "rating": 4.3,
+          "reviews": 251,
+          "reviews_original": "(251)",
+          "description": "\"A fun, high-energy Broadway show with a modern twist on Shakespeare.\"",
+          "lsig": "AB86z5WieBSoDuTiuRhC07QngrLY",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/bEKDgT8s8HYDEABwumzAbLdgLHhg_-7A8Y7EDdme3gQ.jpeg",
+          "place_id": "16737030536451138380",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16737030536451138380&q=Broadway+show",
+          "provider_id": "/g/11tnxkmj13",
+          "gps_coordinates": {
+            "latitude": 40.755844,
+            "longitude": -73.984856
+          },
+          "title": "& Juliet on Broadway",
+          "type": "Theater production",
+          "address": "124 W 43rd St"
+        },
+        {
+          "position": 11,
+          "rating": 4.2,
+          "reviews": 240,
+          "reviews_original": "(240)",
+          "description": "\"The special effects, acoustics, and stage designs were excellent.\"",
+          "lsig": "AB86z5XERAwgMn7kSMlzwGJeGiUU",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/QEu2pjyetNgu-SWo_EG9aRgqzOdSOpZEdZgTjDSo9Ro.jpeg",
+          "place_id": "9174009635572747992",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9174009635572747992&q=Broadway+show",
+          "provider_id": "/g/11vbmr111g",
+          "gps_coordinates": {
+            "latitude": 40.757168,
+            "longitude": -73.986664
+          },
+          "title": "New York Theatre Guide",
+          "type": "Event ticket seller",
+          "address": "1501 Broadway"
+        },
+        {
+          "position": 12,
+          "rating": 4.4,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"Great music, dancing, sets, costumes, in all a top Broadway play.\"",
+          "lsig": "AB86z5UZ1otBM5k8HwgMbd_1TP1D",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/mfB95VrX60GsfIdXN9pEs7gCCQaESJI6gaTNgh75Z9U.jpeg",
+          "place_id": "1514882333496200720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1514882333496200720&q=Broadway+show",
+          "provider_id": "/g/11bw82l8bl",
+          "gps_coordinates": {
+            "latitude": 40.761112,
+            "longitude": -73.98497
+          },
+          "title": "Chicago The Musical",
+          "type": "Performing arts theater",
+          "address": "219 W 49th St"
+        },
+        {
+          "position": 13,
+          "rating": 3.5,
+          "reviews": 393,
+          "reviews_original": "(393)",
+          "description": "\"Best prices and best seats available from Broadway shows.\"",
+          "lsig": "AB86z5USf2RKT5-Tc0X2wKzr-8VN",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/IE2P3MHxK34rmEut7y-6J-eI7gQ8TxqOsbnfgkHz4vY.png",
+          "place_id": "2713976244074746453",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2713976244074746453&q=Broadway+show",
+          "provider_id": "/g/11bwpyw6w_",
+          "gps_coordinates": {
+            "latitude": 40.757168,
+            "longitude": -73.986664
+          },
+          "title": "TodayTix",
+          "type": "Event ticket seller",
+          "address": "1501 Broadway"
+        },
+        {
+          "position": 14,
+          "rating": 4.8,
+          "reviews": 1400,
+          "reviews_original": "(1.4K)",
+          "description": "\"We were seated in the orchestra very close to the stage for only $35!\"",
+          "lsig": "AB86z5W3DVVl0mYzU8Dj-sXXMndJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/9AKnJp0teuZpovIBAlb89ZothD9mblswtzkuX2W2pX4.jpeg",
+          "place_id": "8699902661441973871",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8699902661441973871&q=Broadway+show",
+          "provider_id": "/g/11j1sdd31y",
+          "gps_coordinates": {
+            "latitude": 40.75621,
+            "longitude": -73.98773
+          },
+          "title": "Aladdin the Musical",
+          "type": "Theater production",
+          "address": "214 W 42nd St"
+        },
+        {
+          "position": 15,
+          "rating": 4.4,
+          "reviews": 109,
+          "reviews_original": "(109)",
+          "description": "\"A great way of seeing a broadway show for cheaper than usual.\"",
+          "lsig": "AB86z5Wy1gtXfitzXNClDWdTPxT5",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/V-Tzbocav51qNci2vzVSHDCsqh7i5MUteIvfXVcjypw.jpeg",
+          "place_id": "17441000170071730133",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17441000170071730133&q=Broadway+show",
+          "title": "Broadway Roulette",
+          "type": "Event ticket seller"
+        },
+        {
+          "position": 16,
+          "rating": 4.8,
+          "reviews": 7300,
+          "reviews_original": "(7.3K)",
+          "description": "\"The cast, music production, and stage setup were all soo amazing.\"",
+          "lsig": "AB86z5XRSHj5KixNeTM5NMUbh1y8",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/ySpBDeziiMizOeUOoUz-E95jtQEOoRC5uhldbu1SWC8.jpeg",
+          "place_id": "17269304829974522299",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17269304829974522299&q=Broadway+show",
+          "provider_id": "/m/0c07jx",
+          "gps_coordinates": {
+            "latitude": 40.757908,
+            "longitude": -73.98608
+          },
+          "title": "Minskoff Theatre",
+          "type": "Performing arts theater",
+          "address": "200 W 45th St"
+        },
+        {
+          "position": 17,
+          "rating": 2.7,
+          "reviews": 12,
+          "reviews_original": "(12)",
+          "description": "\"Amazing seats, friendly staff 👌 thank you Olga...\"",
+          "lsig": "AB86z5VAIdHCzfP6P-N5PmqUmMTB",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/zaJ18S1r6n6nnobvGHZQTZluWotdE1rN_YbV0xRYN68.jpeg",
+          "place_id": "3216636160698918362",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3216636160698918362&q=Broadway+show",
+          "provider_id": "/g/11ghpys2p7",
+          "gps_coordinates": {
+            "latitude": 40.75956,
+            "longitude": -73.9847
+          },
+          "title": "Discounted Broadway Tickets",
+          "type": "Event ticket seller",
+          "address": "1578 Broadway"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 2800,
+          "reviews_original": "(2.8K)",
+          "description": "\"The music, set design, cast and crew are Broadway at its finest.\"",
+          "lsig": "AB86z5VrGyJv0QaK1DkIKt-2c2fZ",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/nNHZxOzzCSu9OVADuwtv63bauPcIX5PBg4-9jGqmTFE.jpeg",
+          "place_id": "11035058566009073586",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11035058566009073586&q=Broadway+show",
+          "provider_id": "/m/0c07cw",
+          "gps_coordinates": {
+            "latitude": 40.760723,
+            "longitude": -73.985664
+          },
+          "title": "Walter Kerr Theatre",
+          "type": "Performing arts theater",
+          "address": "219 W 48th St"
+        },
+        {
+          "position": 19,
+          "rating": 4.7,
+          "reviews": 3000,
+          "reviews_original": "(3K)",
+          "description": "\"Intimate theater with great views of the stage.\"",
+          "lsig": "AB86z5WbruVVfiTNLC04zyJeHAAf",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/jWGjsGN38Wd0C9jUY5eLT31scULYSVhHu4oFCVHUObo.jpeg",
+          "place_id": "8242433625113643590",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8242433625113643590&q=Broadway+show",
+          "provider_id": "/m/0c07rt",
+          "gps_coordinates": {
+            "latitude": 40.75996,
+            "longitude": -73.98689
+          },
+          "title": "Lena Horne Theatre",
+          "type": "Performing arts theater",
+          "address": "256 W 47th St"
+        },
+        {
+          "position": 20,
+          "rating": 4.4,
+          "reviews": 314,
+          "reviews_original": "(314)",
+          "description": "\"We saw Alice in Wonderland, and most of the cast were excellent performers.\"",
+          "lsig": "AB86z5WpgrlvW49oCRR5gVjKzbZ5",
+          "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/1fHx1xW4fHGYnUIODCEBRsqgdZzrvSqPyCZn8XZID5M.jpeg",
+          "place_id": "16186555405801218721",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16186555405801218721&q=Broadway+show",
+          "provider_id": "/m/0k2rg67",
+          "gps_coordinates": {
+            "latitude": 40.7301,
+            "longitude": -74.00054
+          },
+          "title": "The Players Theatre",
+          "type": "Performing arts theater",
+          "address": "115 MacDougal St"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:53.559270",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "musical",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 2000,
+          "reviews_original": "(2K)",
+          "description": "\"Great musical, well organized, prices for snacks/drinks are excessive.\"",
+          "lsig": "AB86z5UjcgEqbrmA41s1-ZaXlRnR",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/G1H2M7FMCxtMIzPkoZiSaY67x3kvhRVmP1bDYKXnMWU.jpeg",
+          "place_id": "16897918525835204107",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16897918525835204107&q=musical",
+          "provider_id": "/g/11bxb9njgv",
+          "gps_coordinates": {
+            "latitude": 40.758022,
+            "longitude": -73.98602
+          },
+          "title": "The Lion King",
+          "type": "Performing arts theater",
+          "address": "200 W 45th St"
+        },
+        {
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 1400,
+          "reviews_original": "(1.4K)",
+          "description": "\"Great musical, incredible stage presence and the effects, so cool.\"",
+          "lsig": "AB86z5W3DVVl0mYzU8Dj-sXXMndJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/akch4OGy4SBKuC0sGqF9AjGcRYYWK4rzNwJpjhj4Sxo.jpeg",
+          "place_id": "8699902661441973871",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8699902661441973871&q=musical",
+          "provider_id": "/g/11j1sdd31y",
+          "gps_coordinates": {
+            "latitude": 40.75621,
+            "longitude": -73.98773
+          },
+          "title": "Aladdin the Musical",
+          "type": "Theater production",
+          "address": "214 W 42nd St",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.4,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"Terrific cast, amazing music, high energy show & cozy theater.\"",
+          "lsig": "AB86z5UZ1otBM5k8HwgMbd_1TP1D",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/Fw9krqHLu139VnNoRYtlxMbV9df3Ia3SZuW0fscIQRI.jpeg",
+          "place_id": "1514882333496200720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1514882333496200720&q=musical",
+          "provider_id": "/g/11bw82l8bl",
+          "gps_coordinates": {
+            "latitude": 40.761112,
+            "longitude": -73.98497
+          },
+          "title": "Chicago The Musical",
+          "type": "Performing arts theater",
+          "phone": "(212) 239-6200",
+          "address": "219 W 49th St"
+        },
+        {
+          "position": 4,
+          "rating": 4.4,
+          "reviews": 262,
+          "reviews_original": "(262)",
+          "description": "\"Very unique experience and a must for musicians in the city.\"",
+          "lsig": "AB86z5V_OT9xXfsJruiqw50eYwbf",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/mcxiGKMPpjQm6okgoloMIttbH4gg7h6qyHKWvY0aH48.jpeg",
+          "place_id": "6493296651964392529",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6493296651964392529&q=musical",
+          "provider_id": "/g/1th1dmzx",
+          "gps_coordinates": {
+            "latitude": 40.73223,
+            "longitude": -74.00146
+          },
+          "title": "Music Inn World Instruments",
+          "type": "Musical instrument store",
+          "phone": "(212) 243-5715",
+          "address": "169 W 4th St",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.8,
+          "reviews": 5100,
+          "reviews_original": "(5.1K)",
+          "description": "\"The cast was incredible, the set is stunning and the music was so fun!\"",
+          "lsig": "AB86z5VcD84AjkQAKHYtYeVjneKS",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/1XdohcHWRID8va7u6CkUEwjJcnHa7jhEp2rlibTpTOs.jpeg",
+          "place_id": "2717933546398219837",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2717933546398219837&q=musical",
+          "provider_id": "/g/11fr3c3hjj",
+          "gps_coordinates": {
+            "latitude": 40.75935,
+            "longitude": -73.989174
+          },
+          "title": "Moulin Rouge! The Musical",
+          "type": "Theater company",
+          "address": "302 W 45th St",
+          "hours": "Open · Closes 8 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.6,
+          "reviews": 251,
+          "reviews_original": "(251)",
+          "description": "\"You get to see really talented musicians up close!\"",
+          "lsig": "AB86z5Vd9V7ustR3UBrhdPHxRTbC",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/pAINQeeqfv_aR0s85bjWxhS30rJFsT23kbPGwz7hMps.jpeg",
+          "place_id": "7186463494583270673",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=7186463494583270673&q=musical",
+          "provider_id": "/g/1td72xxr",
+          "gps_coordinates": {
+            "latitude": 40.71511,
+            "longitude": -73.96546
+          },
+          "title": "Main Drag Music",
+          "type": "Musical instrument store",
+          "phone": "(718) 388-6365",
+          "address": "Brooklyn, NY",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.6,
+          "reviews": 641,
+          "reviews_original": "(641)",
+          "description": "\"Perfect vibes of vintage and new era of musical instruments!\"",
+          "lsig": "AB86z5XzYhdFa-PMaXIuql_BOVlb",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/76UiBKYwu5dGvSBOV425Xg_sMI9NcqB1e4UmD2ZNwcs.jpeg",
+          "place_id": "18220958098637724477",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18220958098637724477&q=musical",
+          "provider_id": "/g/1tdch8g4",
+          "gps_coordinates": {
+            "latitude": 40.72232,
+            "longitude": -74.00117
+          },
+          "title": "Rudy's Music Soho",
+          "type": "Guitar store",
+          "phone": "(212) 625-2557",
+          "address": "461 Broome St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.8,
+          "reviews": 137,
+          "reviews_original": "(137)",
+          "description": "\"Amazing cello rental, great price, money spent counts toward buying.\"",
+          "lsig": "AB86z5V_2V6Rly9gVBjnrdEqWzqJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/sQ5Fvhikg28EdnLiPZ5MAAFZGur-vwMxuhb0I4Sm_a8.jpeg",
+          "place_id": "2657555648948019368",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2657555648948019368&q=musical",
+          "provider_id": "/g/1tg5d07h",
+          "gps_coordinates": {
+            "latitude": 40.71526,
+            "longitude": -74.00823
+          },
+          "title": "Finlay + Gage Musical Instruments NYC",
+          "type": "Musical instrument store",
+          "phone": "(212) 274-1322",
+          "address": "113 Chambers St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.1,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "description": "\"Great classes, soundproofing in studios.\"",
+          "lsig": "AB86z5UMx52-WN6WxY_DB4MlFXYi",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/UBnoOm1w-h7PTsCNp4l8G3HZ07Cw1ktBpoG5Z5-xhSw.jpeg",
+          "place_id": "168568160975857934",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=168568160975857934&q=musical",
+          "provider_id": "/g/1td0zd5y",
+          "gps_coordinates": {
+            "latitude": 40.688885,
+            "longitude": -73.981544
+          },
+          "title": "Guitar Center",
+          "type": "Music store",
+          "phone": "(718) 230-5025",
+          "address": "Brooklyn, NY",
+          "hours": "Open · Closes 9 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 167,
+          "reviews_original": "(167)",
+          "description": "\"It feels like a shop that genuinely cares about musicians at every level.\"",
+          "lsig": "AB86z5UPkxkA6rFbOsUQO50-c1FP",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/1Ngvjwc-pJOComnVSCvUs3rOPH861vrkFeUbCVQXTn0.jpeg",
+          "place_id": "10272240921962722356",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10272240921962722356&q=musical",
+          "provider_id": "/g/1tdwfvq6",
+          "gps_coordinates": {
+            "latitude": 40.703728,
+            "longitude": -73.94205
+          },
+          "title": "Johnny Albino Music Center",
+          "type": "Musical instrument store",
+          "phone": "(718) 782-7586",
+          "address": "Brooklyn, NY",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 2900,
+          "reviews_original": "(2.9K)",
+          "description": "\"Great new and used musicals equipment.\"",
+          "lsig": "AB86z5VvEmi3x-eOuUgHuAGOvIUg",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/o9vcHYgMc8dW1YEc5mYfygY0o_kMb85kNc5BbT9qUE0.jpeg",
+          "place_id": "1885020921540031757",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1885020921540031757&q=musical",
+          "provider_id": "/g/1tj46tz4",
+          "gps_coordinates": {
+            "latitude": 40.7367,
+            "longitude": -73.99481
+          },
+          "title": "Guitar Center",
+          "type": "Music store",
+          "phone": "(212) 463-7500",
+          "address": "25 W 14th St",
+          "hours": "Open · Closes 9 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.7,
+          "reviews": 178,
+          "reviews_original": "(178)",
+          "description": "\"Rogue music - still alive!\"",
+          "lsig": "AB86z5VGCH8JqqMuIntmAL0msjn4",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/2rVZsN8BNHvEq0uQeGtMdI-X5Gr3P0IyIBkjmP77iwE.jpeg",
+          "place_id": "685812460147457846",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=685812460147457846&q=musical",
+          "provider_id": "/g/1w0p6k4k",
+          "gps_coordinates": {
+            "latitude": 40.74883,
+            "longitude": -73.99355
+          },
+          "title": "Rogue Music",
+          "type": "Music store",
+          "phone": "(212) 629-3708",
+          "address": "220 W 30th St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 13,
+          "rating": 3.0,
+          "reviews": 132,
+          "reviews_original": "(132)",
+          "description": "\"We ended up talking about old Midtown for a while, which was a nice touch.\"",
+          "lsig": "AB86z5WZYc5pyBh852rnrEbYAUuw",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/-abA4Bj0BKzcMuVd6OLzyT0Y8KCrZkhSivQr0biFs7Y.jpeg",
+          "place_id": "6726265494597985247",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6726265494597985247&q=musical",
+          "provider_id": "/g/1tjds7jr",
+          "gps_coordinates": {
+            "latitude": 40.754467,
+            "longitude": -73.99439
+          },
+          "title": "Armen's Music Shop",
+          "type": "Musical instrument store",
+          "phone": "(212) 563-4514",
+          "address": "347 W 36th St.",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 64,
+          "reviews_original": "(64)",
+          "description": "\"Broadway shows are a truly unique and unforgettable experience.\"",
+          "lsig": "AB86z5VtZzc0SyaPm53aVwJEkogJ",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/oRJVzdc1vGU3-SjlvGROOjyNIF25Tuh980yLCdmJbW0.jpeg",
+          "place_id": "15682781211841165713",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15682781211841165713&q=musical",
+          "provider_id": "/g/11fs2pdf4p",
+          "gps_coordinates": {
+            "latitude": 40.758766,
+            "longitude": -73.98769
+          },
+          "title": "Broadway",
+          "type": "Performing arts theater",
+          "phone": "(212) 239-6200",
+          "address": "242 W 45th St"
+        },
+        {
+          "position": 15,
+          "rating": 4.9,
+          "reviews": 323,
+          "reviews_original": "(323)",
+          "description": "\"I was floored, and the old girl really does sound better.\"",
+          "lsig": "AB86z5Vbi6fLbq5HLyled7ehc06Z",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/m4vgsOg1wP0SHoQFqX3t2xIZHBZa7bzTepqPF68h37g.jpeg",
+          "place_id": "10421265725348988227",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10421265725348988227&q=musical",
+          "provider_id": "/g/1tfg3_pw",
+          "gps_coordinates": {
+            "latitude": 40.746777,
+            "longitude": -73.99327
+          },
+          "title": "Flute Center",
+          "type": "Musical instrument store",
+          "phone": "(212) 307-9737",
+          "address": "307 7th Ave Suite 401",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 16,
+          "rating": 4.8,
+          "reviews": 164,
+          "reviews_original": "(164)",
+          "description": "\"Good atmosphere with an impressive collection of modern musical artists.\"",
+          "lsig": "AB86z5VSeUPSlfyAWxsZQB5qJ92h",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/IMigjSbvaizm52f_khKDalfTfkZTXnRpXtRQDSjTUic.jpeg",
+          "place_id": "5930157190305847255",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5930157190305847255&q=musical",
+          "provider_id": "/g/1tdzmgfp",
+          "gps_coordinates": {
+            "latitude": 40.7583,
+            "longitude": -73.984146
+          },
+          "title": "Jon Baltimore Music Company, Inc.",
+          "type": "Musical instrument store",
+          "phone": "(212) 575-1508",
+          "address": "151 W 46th St 2nd floor",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 17,
+          "rating": 4.9,
+          "reviews": 102,
+          "reviews_original": "(102)",
+          "description": "\"Very large choice of acoustic vintage guitars and Strats and Teles.\"",
+          "lsig": "AB86z5V6HxhmcTpJ6SU3NTrzwVp0",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/fybczLHTJ6AiH_yBhgGC1rEsAAEIMOLfxkJRYDqDMco.jpeg",
+          "place_id": "685585376872173372",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=685585376872173372&q=musical",
+          "provider_id": "/g/12hly4yjq",
+          "gps_coordinates": {
+            "latitude": 40.720974,
+            "longitude": -73.98764
+          },
+          "title": "TR Crandall Guitars",
+          "type": "Musical instrument store",
+          "phone": "(646) 692-4235",
+          "address": "156 Ludlow St 5th floor",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 6600,
+          "reviews_original": "(6.6K)",
+          "description": "\"Musical numbers, setting, and choreography, out of this world!\"",
+          "lsig": "AB86z5Whb5ib098A39x66iJEgZ0j",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/N-igAnOmUl0Sk4i_fYoIYjx-wj5F6LiSrgAK9sCt1wc.jpeg",
+          "place_id": "12276174329768519627",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12276174329768519627&q=musical",
+          "provider_id": "/m/06mq48",
+          "gps_coordinates": {
+            "latitude": 40.76316,
+            "longitude": -73.98454
+          },
+          "title": "Neil Simon Theatre",
+          "type": "Performing arts theater",
+          "phone": "(212) 757-8646",
+          "address": "250 W 52nd St"
+        },
+        {
+          "position": 19,
+          "rating": 4.2,
+          "reviews": 6,
+          "reviews_original": "(6)",
+          "lsig": "AB86z5XxyxqJrogbOLI_TgkAJME3",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/fuI_Wl_We_IwYwAISsNds18_NQH5SGOaGgI6OqZT-PY.png",
+          "place_id": "11822357770447347784",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11822357770447347784&q=musical",
+          "provider_id": "/g/11b6p6mz4d",
+          "gps_coordinates": {
+            "latitude": 40.75506,
+            "longitude": -73.9911
+          },
+          "title": "Musical Theatre Factory",
+          "type": "Non-profit organization",
+          "address": "584 8th Ave STE 1002",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.4,
+          "reviews": 91,
+          "reviews_original": "(91)",
+          "description": "\"This school has changed my life.\"",
+          "lsig": "AB86z5W2F7oYmqZ8BXtEXlmu60V8",
+          "thumbnail": "https://serpapi.com/searches/69d52bdbbb40c8a2fe746673/images/RVdgLB4Acc3xYiA-6ZaNcpgeYKfWPK_0MdyLcarjcJA.jpeg",
+          "place_id": "14213251908451783887",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14213251908451783887&q=musical",
+          "provider_id": "/m/02l6fr",
+          "gps_coordinates": {
+            "latitude": 40.772156,
+            "longitude": -73.98758
+          },
+          "title": "The American Musical and Dramatic Academy",
+          "type": "Drama school",
+          "phone": "(212) 787-5300",
+          "years_in_business": "10+ years in business",
+          "address": "211 W 61st St",
+          "hours": "Open · Closes 8 PM"
+        }
+      ]
+    }
+  }
+]

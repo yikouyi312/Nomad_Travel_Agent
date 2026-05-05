@@ -1,0 +1,464 @@
+{
+  "search_metadata": {
+    "id": "69d51c43bc3f0bc54b00dcc3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2g2qCkwHMXPlgjcmVC5xHg/69d51c43bc3f0bc54b00dcc3.json",
+    "created_at": "2026-04-07 15:01:23 UTC",
+    "processed_at": "2026-04-07 15:01:23 UTC",
+    "google_local_url": "https://www.google.com/search?q=plant-based+restaurant+Mission+District&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/2g2qCkwHMXPlgjcmVC5xHg/69d51c43bc3f0bc54b00dcc3.html",
+    "total_time_taken": 2.27
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "plant-based restaurant Mission District",
+    "location_requested": "San Francisco",
+    "location_used": "San Francisco Bay Area,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 37.7662367386528,
+      "longitude": -122.42297172546387
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$30–40",
+      "description": "\"Phenomenal/creative food - I’m not vegan but I loved the food.\"",
+      "lsig": "AB86z5WyVUUrZemZ8bVo7Xgv8SPb",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/03R9zQotjIFvRNvp5g3gBMDemDzhAZk8kzAlintnAhI.jpeg",
+      "place_id": "13878078190866534047",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=13878078190866534047&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11b6_gwvm0",
+      "gps_coordinates": {
+        "latitude": 37.7683,
+        "longitude": -122.421684
+      },
+      "title": "Shizen",
+      "type": "Vegan",
+      "address": "370 14th St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.6,
+      "reviews": 508,
+      "reviews_original": "(508)",
+      "description": "\"10/10 service, food and smoothies, all organic.\"",
+      "lsig": "AB86z5WapUP-K5zwrCR9UQ54SIKb",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/Fvu_1NHbuCiKkUirhblZB8yCVWRp5FAMd-b1_ZG36SQ.jpeg",
+      "place_id": "17430358555043628472",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=17430358555043628472&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11bzsdv2yk",
+      "gps_coordinates": {
+        "latitude": 37.752293,
+        "longitude": -122.4193
+      },
+      "title": "Beloved Cafe & Organic Juicery",
+      "type": "Vegetarian",
+      "address": "3338 24th St",
+      "hours": "Opens soon · 8:30 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.7,
+      "reviews": 344,
+      "reviews_original": "(344)",
+      "price": "$30–50",
+      "description": "\"Great vegetarian options, nice ambiance and excellent service.\"",
+      "lsig": "AB86z5UMJEQXV6KRSJ7nUXiuAHgR",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/We6fFgMr-62BYXDKRagdk-Fcb2ukoFNxT24dtYcdg9U.jpeg",
+      "place_id": "3816539634967347767",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=3816539634967347767&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11n_z9crf0",
+      "gps_coordinates": {
+        "latitude": 37.765076,
+        "longitude": -122.42261
+      },
+      "title": "Freekeh",
+      "type": "Middle Eastern",
+      "address": "3126 16th St",
+      "hours": "Closed · Opens 5:30 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 656,
+      "reviews_original": "(656)",
+      "price": "$10–20",
+      "description": "\"Sooo delicious and felt like a healthy meal at a good price\"",
+      "lsig": "AB86z5Uw0uv8GUY1B7488KonWHfE",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/S02LcSVkGaWtW897dFIf6bkQi2VItX4JVNK8ZGYL7CM.jpeg",
+      "place_id": "2792258463431626779",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2792258463431626779&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11cjhqzltt",
+      "gps_coordinates": {
+        "latitude": 37.76477,
+        "longitude": -122.41948
+      },
+      "title": "Kitava",
+      "type": "Health Food",
+      "address": "2011 Mission St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 5,
+      "rating": 4.5,
+      "reviews": 918,
+      "reviews_original": "(918)",
+      "price": "$20–30",
+      "description": "\"Tasty vegan rolls, yummy soups, and a delightful experience.\"",
+      "lsig": "AB86z5W6jdcPRO1JrOZF37jlumSh",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/pgZLqLNWDUm1Q-PmKiUQMLvVfhmF0RppF6b0yjq7rzk.jpeg",
+      "place_id": "76959416020648031",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=76959416020648031&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/m/04fj_6_",
+      "gps_coordinates": {
+        "latitude": 37.760773,
+        "longitude": -122.42168
+      },
+      "title": "Cha-Ya",
+      "type": "Vegan",
+      "address": "762 Valencia St",
+      "hours": "Closed · Opens 5 PM Wed"
+    },
+    {
+      "position": 6,
+      "rating": 4.5,
+      "reviews": 238,
+      "reviews_original": "(238)",
+      "price": "$20–30",
+      "description": "\"Very tasty vegan food, fairly well priced and a pretty cool environment.\"",
+      "lsig": "AB86z5W6cvdUq542S3peExklHsQG",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoTwsYLIevJaSU7Jd560n2SNcROSE0qrwrEkSQHWYBwXch-t8fj8_ilXBq5w9Pk0gmtL-vEgVUfEpXi-i_auoBIepqmpnVTBuqe-DqMkLLRQqhZ3JLL9GrvREtwyZOapKM2aVYgBQ=w90-h90-n-k-no-l75",
+      "place_id": "2439976837139767128",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2439976837139767128&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11rgcjdt6d",
+      "gps_coordinates": {
+        "latitude": 37.778088,
+        "longitude": -122.422676
+      },
+      "title": "Om Sabor",
+      "type": "Vegan",
+      "address": "370 Grove St",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 604,
+      "reviews_original": "(604)",
+      "description": "\"Fantastic vegan restaurant in SF with unique dishes and great atmosphere.\"",
+      "lsig": "AB86z5VShn_lc3U0IwCgRqLm_-DH",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/UhyyW-GrnbE-hqUK3LvV4OPAisy9eG90p28yq0-XXRk.jpeg",
+      "place_id": "13686094195963484054",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=13686094195963484054&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11s5bzf1x_",
+      "gps_coordinates": {
+        "latitude": 37.776955,
+        "longitude": -122.42161
+      },
+      "title": "Rad Radish",
+      "type": "Restaurant",
+      "address": "301 Hayes St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 112,
+      "reviews_original": "(112)",
+      "price": "$40–50",
+      "description": "\"amazing experience, love that it’s 100% plant based and cruelty free!\"",
+      "lsig": "AB86z5UKRb_ajZ3vd20xis9VFzQn",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/1p8NARe8ZwDnw2wplFiqpu5pZ1TyPnw2pozyuOr3z7k.jpeg",
+      "place_id": "372751461504712264",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=372751461504712264&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11xkwcz10k",
+      "gps_coordinates": {
+        "latitude": 37.761147,
+        "longitude": -122.43427
+      },
+      "title": "aíso",
+      "type": "Vegan",
+      "address": "4068 18th St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.2,
+      "reviews": 427,
+      "reviews_original": "(427)",
+      "price": "$20–30",
+      "description": "\"I got a vegan Khao Soi and I was in heaven.\"",
+      "lsig": "AB86z5VhvtjLO6KndvZR_VMkcK0k",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/jmGgwlVPBVtgXxs7ikMm5nh5rwMQY6ZU-sAVnOJSgEI.jpeg",
+      "place_id": "17222624927962197248",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=17222624927962197248&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11g6rl3kkc",
+      "gps_coordinates": {
+        "latitude": 37.76433,
+        "longitude": -122.42213
+      },
+      "title": "RAW Sugar Factory",
+      "type": "Breakfast",
+      "address": "530 Valencia St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 283,
+      "reviews_original": "(283)",
+      "price": "$10–20",
+      "description": "\"Such tasty, healthy and comforting food paired with a really warm vibe.\"",
+      "lsig": "AB86z5W--YTiaxiOTQ283H96YFyY",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/dlY2wm6UXxj_XscBtzHzCU6EtzFbQ1frBycuTWo24CE.jpeg",
+      "place_id": "2498940146272416607",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2498940146272416607&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11jw6c4132",
+      "gps_coordinates": {
+        "latitude": 37.75282,
+        "longitude": -122.41173
+      },
+      "title": "Healthyish Republic",
+      "type": "Vegan",
+      "address": "2990 24th St",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.6,
+      "reviews": 195,
+      "reviews_original": "(195)",
+      "price": "$10–20",
+      "description": "\"Super unique menu with incredible bread, sandwich and pastries option.\"",
+      "lsig": "AB86z5UXO2iNyzjDmF9aixAr6MoH",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/6C0zH8nTMiMwCUmxMX9HydBO5bIkFJSFe2RKcSVeGAI.jpeg",
+      "place_id": "2274000543336777889",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2274000543336777889&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11b7y7tm9x",
+      "gps_coordinates": {
+        "latitude": 37.762104,
+        "longitude": -122.41848
+      },
+      "title": "Fox and Lion Bread",
+      "type": "Vegan",
+      "address": "3350 18th St"
+    },
+    {
+      "position": 12,
+      "rating": 4.7,
+      "reviews": 521,
+      "reviews_original": "(521)",
+      "price": "$20–30",
+      "description": "\"There were lots of high quality vegetarian options.\"",
+      "lsig": "AB86z5UL-5E7KGBHYN2aKU6WmBKR",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepjgZzcrfkM-eMIzrsLs6HA6aMUXQeISJq3eziYLYfn1COgwhyXhykhuNqDkt1wdKGbq1j4tJjPSO0Y9ZG6od006B_J_7138tIS_VfO1yUuC-3MhVUPnb6bGtgxp2jdaaGstkcfSQ=w90-h90-n-k-no-l75",
+      "place_id": "10328319367979684233",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=10328319367979684233&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11ryln3r6c",
+      "gps_coordinates": {
+        "latitude": 37.768135,
+        "longitude": -122.42463
+      },
+      "title": "Mezze and Mooore",
+      "type": "Lebanese",
+      "address": "198 Guerrero St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.6,
+      "reviews": 28,
+      "reviews_original": "(28)",
+      "price": "$10–20",
+      "description": "\"This spot and Roasted and Raw have the best vegan Mac and cheese!!!\"",
+      "lsig": "AB86z5VMcPsFguOTXwxMrL2eSFxB",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/34_f2SyojbOrx-P8diL2MsDKA7G5AwCcFgsVO4lbVic.jpeg",
+      "place_id": "6325010438202054278",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=6325010438202054278&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11jngdhsjm",
+      "gps_coordinates": {
+        "latitude": 37.730385,
+        "longitude": -122.38432
+      },
+      "title": "The Vegan Hood Chefs",
+      "type": "Vegan",
+      "address": "San Francisco, CA",
+      "hours": "Closed · Opens 3 PM Sun"
+    },
+    {
+      "position": 14,
+      "rating": 4.2,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$20–30",
+      "description": "\"Great food, especially for gluten free people.\"",
+      "lsig": "AB86z5XNivMKLrXDneKiDv97gF8f",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/-74xKTxGu9MTn3MMsw7rRlF8wligWiPfPqTcxdBOFZs.jpeg",
+      "place_id": "3166131371242319863",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=3166131371242319863&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/1tgnm9fw",
+      "gps_coordinates": {
+        "latitude": 37.766457,
+        "longitude": -122.42191
+      },
+      "title": "Pica Pica Arepa Kitchen",
+      "type": "Venezuelan",
+      "address": "401 Valencia St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.5,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "description": "\"Lots of impeccable vegan and veg options if you lean that way as well.\"",
+      "lsig": "AB86z5WYMtVfywFotNPNPRQL6jiH",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/xraob5JQDsngLP4LET6KAobZkBJe-ovpl9L43uYxxJQ.jpeg",
+      "place_id": "3728111535059805777",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=3728111535059805777&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11b6xddpjt",
+      "gps_coordinates": {
+        "latitude": 37.769608,
+        "longitude": -122.42222
+      },
+      "title": "Burma Love",
+      "type": "Asian",
+      "address": "211 Valencia St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.5,
+      "reviews": 72,
+      "reviews_original": "(72)",
+      "price": "$10–20",
+      "description": "\"The staff is friendly and the food is delicious and beautiful\"",
+      "lsig": "AB86z5UcuVjv26mol0D3BzCcdw9W",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqlP8PjjjHp16jv0Iv5QLPWwwy7Yq2bpnsFfXiCfZKTx1sUhDjejBnku8MnWx2cmgMaZMgq_Kz6Et-wLxQIx6Xcm48GfWfcMvdTrOfJdaMuP8972-T6G8qVLVYbR410hlO6eWXo=w90-h90-n-k-no-l75",
+      "place_id": "12593523136146911811",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=12593523136146911811&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11jzqtgc0p",
+      "gps_coordinates": {
+        "latitude": 37.764442,
+        "longitude": -122.41981
+      },
+      "title": "Martha's Restaurant",
+      "type": "Restaurant",
+      "address": "2034 Mission St"
+    },
+    {
+      "position": 17,
+      "rating": 5.0,
+      "reviews": 2,
+      "reviews_original": "(2)",
+      "description": "\"I’m not vegan but I bring all my veg friends and we all love it!!😍\"",
+      "lsig": "AB86z5WwEJbuRP8BiJUk7CKHojv1",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/-kuXLI3UBY6WeEb07C-2aQ7Oc8ImxRmEvNqEz3OsaAA.jpeg",
+      "place_id": "6611057638897949353",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=6611057638897949353&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11y99rhqnk",
+      "gps_coordinates": {
+        "latitude": 37.75512,
+        "longitude": -122.42082
+      },
+      "title": "Nixta",
+      "type": "Salvadoran",
+      "address": "1109 Valencia St",
+      "hours": "Closed · Opens 11 AM Thu"
+    },
+    {
+      "position": 18,
+      "rating": 5.0,
+      "reviews": 260,
+      "reviews_original": "(260)",
+      "price": "$20–30",
+      "description": "\"Vegetarian-friendly, great food and drinks, and everyone is super nice!\"",
+      "lsig": "AB86z5WzRlwblifnwSGAt2Xt5v02",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/XTvIxNe2209PiXIXowZXaBOLfUwRDWJ-VMD9efIulrk.jpeg",
+      "place_id": "13860213543865688529",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=13860213543865688529&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11thtft00g",
+      "gps_coordinates": {
+        "latitude": 37.782684,
+        "longitude": -122.3968
+      },
+      "title": "Boochmania",
+      "type": "Mediterranean",
+      "address": "685 Harrison St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.6,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "price": "$20–30",
+      "description": "\"The outdoor seating is spacious and peaceful with lots of plants;\"",
+      "lsig": "AB86z5UjE9rH4A5NNsBSlqELN_yA",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/XSnP4DmJYgPDa-wsQAUg4Ak03snZ75F0gdTCwVc5NfY.jpeg",
+      "place_id": "9601651699180262599",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=9601651699180262599&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/1tl_ly_y",
+      "gps_coordinates": {
+        "latitude": 37.763226,
+        "longitude": -122.41528
+      },
+      "title": "Stable Cafe",
+      "type": "Restaurant",
+      "address": "2128 Folsom St"
+    },
+    {
+      "position": 20,
+      "rating": 4.4,
+      "reviews": 332,
+      "reviews_original": "(332)",
+      "price": "$20–30",
+      "description": "\"Clear designation of Gluten Free and Vegan options - and they are a lot!!!\"",
+      "lsig": "AB86z5X22YPNRGiT6_JoRJz8a1vj",
+      "thumbnail": "https://serpapi.com/searches/69d51c43bc3f0bc54b00dcc3/images/eKuaViuVgrXxi-o_VVbWlUNbpyPr-V8X7VisIlY2Nv4.jpeg",
+      "place_id": "809506303467357311",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=809506303467357311&q=plant-based+restaurant+Mission+District",
+      "provider_id": "/g/11hy9n8l52",
+      "gps_coordinates": {
+        "latitude": 37.757996,
+        "longitude": -122.41931
+      },
+      "title": "Mission Curry House",
+      "type": "Vegan",
+      "address": "2434 Mission St",
+      "hours": "Closed · Opens 11 AM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=plant-based+restaurant+Mission+District&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=plant-based+restaurant+Mission+District&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=plant-based+restaurant+Mission+District&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=plant-based+restaurant+Mission+District&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=plant-based+restaurant+Mission+District&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=plant-based+restaurant+Mission+District&start=20&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=plant-based+restaurant+Mission+District&start=20&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=plant-based+restaurant+Mission+District&start=20&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=plant-based+restaurant+Mission+District&start=40&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=plant-based+restaurant+Mission+District&start=60&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=plant-based+restaurant+Mission+District&start=80&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

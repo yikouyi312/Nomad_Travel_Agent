@@ -1,0 +1,403 @@
+{
+  "search_metadata": {
+    "id": "69d51b8e97c19f68f4ab4238",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zltConxg_qXB_M75NvK5rg/69d51b8e97c19f68f4ab4238.json",
+    "created_at": "2026-04-07 14:58:22 UTC",
+    "processed_at": "2026-04-07 14:58:23 UTC",
+    "google_local_url": "https://www.google.com/search?q=WiFi&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/zltConxg_qXB_M75NvK5rg/69d51b8e97c19f68f4ab4238.html",
+    "total_time_taken": 1.89
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "WiFi",
+    "location_requested": "Chicago",
+    "location_used": "Chicago,Illinois,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 41.891288306543736,
+      "longitude": -87.65682220458984
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 3100,
+      "reviews_original": "(3.1K)",
+      "description": "\"Made my internet speeds 4x faster over wifi and 10x over Ethernet.\"",
+      "lsig": "AB86z5V7V6TbiwiOZr2gIERf0jAI",
+      "links": {
+        "website": "https://zentrointernet.com/",
+        "directions": "https://www.google.com/maps/dir//Zentro+Internet,+420+N+May+St,+Chicago,+IL+60642/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880fd32d4b42b03b:0x4fd77908e2e5eaf3?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "5753200128062515955",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5753200128062515955&q=WiFi",
+      "provider_id": "/g/1tzvx4s7",
+      "gps_coordinates": {
+        "latitude": 41.889507,
+        "longitude": -87.65605
+      },
+      "title": "Zentro Internet",
+      "type": "Internet service provider",
+      "phone": "(877) 936-8761",
+      "address": "420 N May St",
+      "hours": "Open · Closes 12 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 323,
+      "reviews_original": "(323)",
+      "description": "\"Nelson came by and got our WiFi up and going within ten minutes.\"",
+      "lsig": "AB86z5XA_c-XCr8rRm9YoP9vnRp8",
+      "links": {
+        "website": "https://silverip.com/",
+        "directions": "https://www.google.com/maps/dir//SilverIP+Communications,+2241+S+Wabash+Ave,+Chicago,+IL+60616/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca5f3011891:0xc47c072f06c2729c?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "14158199227104260764",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14158199227104260764&q=WiFi",
+      "provider_id": "/g/1thhl2ml",
+      "gps_coordinates": {
+        "latitude": 41.85165,
+        "longitude": -87.62504
+      },
+      "title": "SilverIP Communications",
+      "type": "Internet service provider",
+      "address": "2241 S Wabash Ave",
+      "hours": "Open · Closes 12 AM"
+    },
+    {
+      "position": 3,
+      "rating": 2.2,
+      "reviews": 19,
+      "reviews_original": "(19)",
+      "description": "\"Very helpful 🙂\"",
+      "lsig": "AB86z5W1eleZhNKDBpB9V8QIuu5X",
+      "links": {
+        "website": "https://www.xfinity.com/",
+        "directions": "https://www.google.com/maps/dir//Xfinity,+1232+W+North+Ave,+Chicago,+IL+60642/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880fd2df6ce2b877:0xeeff5d682723ba13?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIIBAA&hl=en&gl=us"
+      },
+      "place_id": "17221586202002700819",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17221586202002700819&q=WiFi",
+      "provider_id": "/g/11ffl_yw_5",
+      "gps_coordinates": {
+        "latitude": 41.91047,
+        "longitude": -87.65919
+      },
+      "title": "Xfinity",
+      "type": "Internet service provider",
+      "phone": "(800) 934-6489",
+      "address": "1232 W North Ave"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 62,
+      "reviews_original": "(62)",
+      "price": "$1–10",
+      "description": "\"Plenty of great spots to work or meet someone.\"",
+      "lsig": "AB86z5XMovMUqdqOY_7k97KQL8zz",
+      "links": {
+        "website": "https://convene-cafe-chicago-311.square.site/",
+        "directions": "https://www.google.com/maps/dir//Convene+Cafe,+311+W+Monroe+St,+Chicago,+IL+60606/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2d155c9117cb:0x113f0ac3b08433e4?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "1242723857773900772",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=1242723857773900772&q=WiFi",
+      "provider_id": "/g/11h5l29kkx",
+      "gps_coordinates": {
+        "latitude": 41.880463,
+        "longitude": -87.635445
+      },
+      "title": "Convene Cafe",
+      "type": "Cafe",
+      "phone": "(312) 481-8632",
+      "address": "311 W Monroe St",
+      "hours": "Open · Closes 4 PM"
+    },
+    {
+      "position": 5,
+      "lsig": "AB86z5VogncJIu-VnH304VJxxXbx",
+      "links": {
+        "website": "https://br.bluepillow.com/search/62176e42a723979680768034?dest=bpvr&cat=Apartment&lat=41.87028&lng=-87.63102&language=pt"
+      },
+      "place_id": "14248860901846536676",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14248860901846536676&q=WiFi",
+      "provider_id": "/g/11z144t2kc",
+      "gps_coordinates": {
+        "latitude": 41.870518,
+        "longitude": -87.63103
+      },
+      "title": "Kasa | Family Friendly 2 BD + Fast Wifi | Chicago",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 6,
+      "lsig": "AB86z5UhNIjgtwLK4h1LjRaKz3yc",
+      "links": {
+        "website": "https://br.bluepillow.com/search/62176e66a723979680769001?dest=bpvr&cat=Apartment&lat=41.87028&lng=-87.63101&language=pt"
+      },
+      "place_id": "8611055496925569308",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8611055496925569308&q=WiFi",
+      "provider_id": "/g/11z22tjkzp",
+      "gps_coordinates": {
+        "latitude": 41.870514,
+        "longitude": -87.63102
+      },
+      "title": "Kasa | Classic Studio + Fast Wifi | Chicago",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 7,
+      "rating": 3.9,
+      "reviews": 2900,
+      "reviews_original": "(2.9K)",
+      "description": "\"The wifi is fast and included in the resort fee).\"",
+      "lsig": "AB86z5WaBtTZKJYG9QINIDKFOuc-",
+      "links": {
+        "website": "https://freehandhotels.com/chicago/?utm_source=google-my-business&utm_medium=organic&utm_campaign=hotel-chicago",
+        "directions": "https://www.google.com/maps/dir//Freehand+Chicago,+19+E+Ohio+St,+Chicago,+IL+60611/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2cad98bd799f:0x530b4ce71e087400?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "5983961085416862720",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5983961085416862720&q=WiFi",
+      "provider_id": "/g/11b81v42dr",
+      "gps_coordinates": {
+        "latitude": 41.892376,
+        "longitude": -87.62733
+      },
+      "title": "Freehand Chicago",
+      "type": "Hotel",
+      "phone": "(312) 940-3699",
+      "address": "19 E Ohio St"
+    },
+    {
+      "position": 8,
+      "rating": 3.0,
+      "reviews": 2,
+      "reviews_original": "(2)",
+      "lsig": "AB86z5XWsDX-ontudZvfEnhAJono",
+      "links": {
+        "website": "http://www.windstreambusiness.com/shop/products/il/chicago"
+      },
+      "place_id": "17248063903975924879",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17248063903975924879&q=WiFi",
+      "title": "Windstream",
+      "type": "Internet service provider",
+      "phone": "(312) 924-9300",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 9,
+      "lsig": "AB86z5XH40DtQxmF7Gm5cGYdOipg",
+      "links": {
+        "website": "https://www.decolar.com/hoteis/h-6411298"
+      },
+      "place_id": "18383732990867510222",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18383732990867510222&q=WiFi",
+      "provider_id": "/g/11z21ggdpj",
+      "gps_coordinates": {
+        "latitude": 41.924107,
+        "longitude": -87.63795
+      },
+      "title": "Chic 2-bedroom apartment in welcoming Lincoln Park area of Chicago with AC, WiFi",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 10,
+      "reviews_original": "(10)",
+      "price": "$1–10",
+      "description": "\"Excellent coffee in a comfortable space.\"",
+      "lsig": "AB86z5VwdmlOvRoth2oOvetjMeci",
+      "links": {
+        "website": "https://www.350norleans.com/amenities",
+        "directions": "https://www.google.com/maps/dir//Tela+Caf%C3%A9+%26+Bar,+350+N+Orleans+St+Ste+200,+Chicago,+IL+60654/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2da4737d2fcf:0x5dba82156b766c9?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "422115851231520457",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=422115851231520457&q=WiFi",
+      "provider_id": "/g/11q40gqgfh",
+      "gps_coordinates": {
+        "latitude": 41.8881,
+        "longitude": -87.63697
+      },
+      "title": "Tela Café & Bar",
+      "type": "Latin American restaurant",
+      "address": "350 N Orleans St Ste 200",
+      "hours": "Open · Closes 3 PM"
+    },
+    {
+      "position": 11,
+      "lsig": "AB86z5U92z7yMrV9YDq1kH-znCrZ",
+      "place_id": "14827224295838298898",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14827224295838298898&q=WiFi",
+      "provider_id": "/g/11n9c3g_44",
+      "gps_coordinates": {
+        "latitude": 41.91158,
+        "longitude": -87.688675
+      },
+      "title": "Peaceful Living-2Bdrm/2Bath w/Private Parking, WiFi-Work Station-Wicker Park!",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 12,
+      "lsig": "AB86z5WeMRf0GNnQZlAM3CoQbHiR",
+      "links": {
+        "website": "https://br.bluepillow.com/search/68123b551a0d3c624bfe2ccd?dest=bpex&cat=Apartment&lat=41.89676&lng=-87.63454&language=pt"
+      },
+      "place_id": "7342528454229615413",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=7342528454229615413&q=WiFi",
+      "provider_id": "/g/11ssgd0m6q",
+      "gps_coordinates": {
+        "latitude": 41.89676,
+        "longitude": -87.63454
+      },
+      "title": "Kasa | Bright Airy 2 BD + Fast Wifi | River North Chicago",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 13,
+      "lsig": "AB86z5VEzWmLq6ASS1qeH3QcGRrz",
+      "place_id": "18070456743362573787",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18070456743362573787&q=WiFi",
+      "provider_id": "/g/11ywlhjw9y",
+      "gps_coordinates": {
+        "latitude": 41.870514,
+        "longitude": -87.63102
+      },
+      "title": "Kasa | Traditional 1 BD + Fast Wifi | Chicago",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 14,
+      "rating": 4.3,
+      "reviews": 3400,
+      "reviews_original": "(3.4K)",
+      "description": "\"In the morning, I find out the have a coffee pot with single serve coffees.\"",
+      "lsig": "AB86z5UwHsIwIU9_jtgqXVkbM5wh",
+      "links": {
+        "website": "https://www.fairmont.com/chicago/?goto=fiche_hotel&code_hotel=A557&merchantid=seo-maps-US-A557&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+        "directions": "https://www.google.com/maps/dir//Fairmont+Chicago,+Millennium+Park,+200+N+Columbus+Dr,+Chicago,+IL+60601/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca47ce550bf:0x2a27d544eb316f86?sa=X&ved=2ahUKEwjxucSegNyTAxXiXfEDHUsaIo0Q48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "3037630965665066886",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3037630965665066886&q=WiFi",
+      "provider_id": "/g/11c5wkpzc9",
+      "gps_coordinates": {
+        "latitude": 41.886093,
+        "longitude": -87.62089
+      },
+      "title": "Fairmont Chicago, Millennium Park",
+      "type": "Restaurant",
+      "phone": "(312) 565-8000",
+      "address": "200 N Columbus Dr"
+    },
+    {
+      "position": 15,
+      "lsig": "AB86z5VTKup67W0Woyj4mYp9gh2k",
+      "place_id": "8171913631223067135",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8171913631223067135&q=WiFi",
+      "provider_id": "/g/11wmsjx_nv",
+      "gps_coordinates": {
+        "latitude": 41.881813,
+        "longitude": -87.65566
+      },
+      "title": "Charming 2-bedroom penthouse with a rooftop in pleasant Chicago with WiFi, AC",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 16,
+      "lsig": "AB86z5Wp0MLFP23eriTq46ESwg7F",
+      "links": {
+        "website": "https://br.bluepillow.com/search/62166662cd0be5cd41c90916?dest=bpvr&cat=Apartment&lat=41.89195&lng=-87.62853&language=pt"
+      },
+      "place_id": "7128228510852145853",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=7128228510852145853&q=WiFi",
+      "provider_id": "/g/11mkyp4t07",
+      "gps_coordinates": {
+        "latitude": 41.89195,
+        "longitude": -87.62853
+      },
+      "title": "52th Floor Penthouse - Fireplace, VIEWS, grocery store in building.",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 17,
+      "lsig": "AB86z5V6DWfDYsEVHelPCEFP1BDA",
+      "links": {
+        "website": "https://br.bluepillow.com/search/67a4be11064d51dcdc915088?dest=bpex&cat=Apartment&lat=41.8817&lng=-87.65932&language=pt"
+      },
+      "place_id": "13800707501394966535",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13800707501394966535&q=WiFi",
+      "provider_id": "/g/11ycl8gzdf",
+      "gps_coordinates": {
+        "latitude": 41.8817,
+        "longitude": -87.65932
+      },
+      "title": "Charming 2-bedroom penthouse with a rooftop in pleasant Chicago with WiFi, AC",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 18,
+      "lsig": "AB86z5V997uHC1_MFYd4SeV1xrQ0",
+      "place_id": "4829888949988583488",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4829888949988583488&q=WiFi",
+      "provider_id": "/g/11xc_whzqy",
+      "gps_coordinates": {
+        "latitude": 41.89924,
+        "longitude": -87.62337
+      },
+      "title": "Charming 2-bedroom condo with AC and WiFi in lakefront downtown Chicago",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 19,
+      "lsig": "AB86z5UtuCYqslQPqjO--oki1PEX",
+      "links": {
+        "website": "https://br.bluepillow.com/search/67a4c3b4064d51dcdc94517b?dest=bpex&cat=Apartment&lat=41.90407&lng=-87.66666&language=pt"
+      },
+      "place_id": "10789696425652230628",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10789696425652230628&q=WiFi",
+      "provider_id": "/g/11ycgt3bdx",
+      "gps_coordinates": {
+        "latitude": 41.90407,
+        "longitude": -87.66666
+      },
+      "title": "Chic 2-bedroom with AC, WiFi, in terrific Chicago neighborhood of Wicker Park.",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 20,
+      "lsig": "AB86z5XO8dLqmwg8VjylEMhElTH0",
+      "links": {
+        "website": "https://www.decolar.com/hoteis/h-6423537"
+      },
+      "place_id": "1999762327157540672",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=1999762327157540672&q=WiFi",
+      "provider_id": "/g/11lzw2_58_",
+      "gps_coordinates": {
+        "latitude": 41.90408,
+        "longitude": -87.666664
+      },
+      "title": "Chic 2-bedroom with AC, WiFi, in terrific Chicago neighborhood of Wicker Park.",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    }
+  ]
+}

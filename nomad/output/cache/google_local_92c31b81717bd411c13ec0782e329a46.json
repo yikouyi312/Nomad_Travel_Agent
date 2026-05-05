@@ -1,0 +1,473 @@
+{
+  "search_metadata": {
+    "id": "69d52b61b333eed1db02f79e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4P3BtLOmlSM0h_Gd8EiQHw/69d52b61b333eed1db02f79e.json",
+    "created_at": "2026-04-07 16:05:53 UTC",
+    "processed_at": "2026-04-07 16:05:53 UTC",
+    "google_local_url": "https://www.google.com/search?q=hot+tub&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/4P3BtLOmlSM0h_Gd8EiQHw/69d52b61b333eed1db02f79e.html",
+    "total_time_taken": 6.71
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "hot tub",
+    "location_requested": "Denver",
+    "location_used": "Denver,Colorado,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 39.756296389617624,
+      "longitude": -104.9359130859375
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 280,
+      "reviews_original": "(280)",
+      "description": "\"His customer service skills and knowledge of hot tubs are unmatched.\"",
+      "lsig": "AB86z5UT5rcxgqkuJp41ojhuIJ6q",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/bh4pcd0z7qCf41bdz8ZKpDA6lAWX_20oeXHBtJH8CRQ.jpeg",
+      "place_id": "3186510560022595725",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3186510560022595725&q=hot+tub",
+      "provider_id": "/g/1tg50xxp",
+      "gps_coordinates": {
+        "latitude": 39.733074,
+        "longitude": -105.0166
+      },
+      "title": "International Hot Tub Company",
+      "type": "Hot tub store",
+      "phone": "(303) 755-4772",
+      "address": "1035 Zuni St",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 298,
+      "reviews_original": "(298)",
+      "description": "\"Beautiful tub, smooth delivery and excellent customer service.\"",
+      "lsig": "AB86z5WCtqwgl_2EUsei70gcaTS5",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/kBw93OJiZwJh8nqtRjyGD7hno-B5oQmSrBsfTfuBKgg.jpeg",
+      "place_id": "17764810574141320035",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17764810574141320035&q=hot+tub",
+      "provider_id": "/g/1tfbyz2z",
+      "gps_coordinates": {
+        "latitude": 39.731827,
+        "longitude": -105.01663
+      },
+      "title": "Spa Brokers",
+      "type": "Hot tub store",
+      "phone": "(303) 261-3366",
+      "address": "955 Zuni St",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.7,
+      "reviews": 227,
+      "reviews_original": "(227)",
+      "description": "\"I bought my hot tub here and they have great customer service.\"",
+      "lsig": "AB86z5UGqA7bIw0fuWGFdUfhaUa1",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/BuSDTpwwcRDTOY8OuclYhWXLOL2B4KGxOMsPzvh-iL4.jpeg",
+      "place_id": "14574716967284123353",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14574716967284123353&q=hot+tub",
+      "provider_id": "/g/11c0vnvgh9",
+      "gps_coordinates": {
+        "latitude": 39.773083,
+        "longitude": -104.9439
+      },
+      "title": "Aqua Living Factory Outlets",
+      "type": "Hot tub store",
+      "phone": "(303) 285-9277",
+      "address": "3705 E 40th Ave",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.9,
+      "reviews": 473,
+      "reviews_original": "(473)",
+      "description": "\"They moved my hot tub twice in the last 4 months and did a great job.\"",
+      "lsig": "AB86z5VRfizX92CVYOC9hVRgGDtZ",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/t6DCmkmJEQIz2yFl1ccnXmEgscEdYr7acvyOT9TX67s.jpeg",
+      "place_id": "12787049330374530076",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=12787049330374530076&q=hot+tub",
+      "provider_id": "/g/1vl9rzx9",
+      "gps_coordinates": {
+        "latitude": 39.81183,
+        "longitude": -104.9817
+      },
+      "title": "Colorado Custom Spas",
+      "type": "Hot tub store",
+      "phone": "(303) 468-8827",
+      "address": "601 E 64th Ave Building B Suite 200",
+      "hours": "Open · Closes 5:30 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 180,
+      "reviews_original": "(180)",
+      "description": "\"Steve replaced a broken part on my hot tub quickly, thanks!\"",
+      "lsig": "AB86z5VEf_F7z03vF1kImVfT9im1",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/_xFLC97nL6pzhqiG3AcNdcfPT5MLDxowOaiApo5W388.jpeg",
+      "place_id": "7653564520891156426",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7653564520891156426&q=hot+tub",
+      "provider_id": "/g/1w97vwjp",
+      "gps_coordinates": {
+        "latitude": 39.880913,
+        "longitude": -105.09696
+      },
+      "title": "Spa Palace Hot Tubs and Saunas - Denver",
+      "type": "Hot tub store",
+      "phone": "(303) 432-8900",
+      "address": "Westminster, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.9,
+      "reviews": 252,
+      "reviews_original": "(252)",
+      "description": "\"They navigated the new hot tub around the property with precision.\"",
+      "lsig": "AB86z5XD_X1AebfZwBdTHwSOzXed",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/8rog7wSS04LPgnNJKTHNMpHZFvX1SixExhdZ4okhOhY.jpeg",
+      "place_id": "18383679995727685700",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18383679995727685700&q=hot+tub",
+      "provider_id": "/g/11fpt_fqlp",
+      "gps_coordinates": {
+        "latitude": 39.616577,
+        "longitude": -104.81639
+      },
+      "title": "Mile High Hot Tubs",
+      "type": "Hot tub store",
+      "phone": "(720) 500-2521",
+      "address": "Aurora, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.9,
+      "reviews": 40,
+      "reviews_original": "(40)",
+      "description": "\"Their selection of hot tub brands and products were amazing!!\"",
+      "lsig": "AB86z5U5UYHPuwHPqX1VpSDgjPSl",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/OQrdQR_ZYths-8USJOy7pKrcBZg64yYqHAoKrqMcqfw.jpeg",
+      "place_id": "4299731718830178178",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4299731718830178178&q=hot+tub",
+      "provider_id": "/g/11w1hp8j6y",
+      "gps_coordinates": {
+        "latitude": 39.855797,
+        "longitude": -105.05457
+      },
+      "title": "High Altitude Hot Tubs of Westminster, CO",
+      "type": "Hot tub store",
+      "phone": "(303) 502-5313",
+      "address": "Westminster, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 8,
+      "rating": 5.0,
+      "reviews": 246,
+      "reviews_original": "(246)",
+      "description": "\"It only took 3 weeks for our new hot tub to be custom built and delivered.\"",
+      "lsig": "AB86z5U5GhJqMDHTfZZOKFi-KRan",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/hPd2U9IPJRJ3FlFXwQib23FA4sv6n_xZNIQXd3joa1s.jpeg",
+      "place_id": "6050394909115670029",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6050394909115670029&q=hot+tub",
+      "provider_id": "/g/1tj920rp",
+      "gps_coordinates": {
+        "latitude": 39.663216,
+        "longitude": -104.995544
+      },
+      "title": "Wind River Spas",
+      "type": "Hot tub store",
+      "phone": "(303) 789-2656",
+      "address": "Englewood, CO",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 203,
+      "reviews_original": "(203)",
+      "description": "\"Our hot tub and swim spa are always clean and ready to use.\"",
+      "lsig": "AB86z5V9haHoyL8oazjV7Uot0Hb9",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/oqXDbOXSy-MvszGLY1R0hP79TYwLcvqJFxGTLhAiziw.jpeg",
+      "place_id": "9313975891745681605",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9313975891745681605&q=hot+tub",
+      "provider_id": "/g/1tj2jcw6",
+      "gps_coordinates": {
+        "latitude": 39.774666,
+        "longitude": -104.98844
+      },
+      "title": "International Hot Tub Company",
+      "type": "Hot tub store",
+      "phone": "(303) 296-7727",
+      "address": "4275 N Broadway A",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 10,
+      "rating": 4.8,
+      "reviews": 221,
+      "reviews_original": "(221)",
+      "description": "\"Nothing but happy with our hot tub and the ongoing service.\"",
+      "lsig": "AB86z5XX8wVH5CQVR1ulGnZRTkyK",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/ruD4admX3A5v3C0sInHhuv_gCUtRYnXhRHtg-UTHNHI.jpeg",
+      "place_id": "14651397489162997167",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14651397489162997167&q=hot+tub",
+      "provider_id": "/g/1tf4fjbp",
+      "gps_coordinates": {
+        "latitude": 39.757664,
+        "longitude": -104.77461
+      },
+      "title": "Spa Brokers Clearance Center",
+      "type": "Hot tub store",
+      "phone": "(303) 261-3324",
+      "address": "Aurora, CO",
+      "hours": "Open · Closes 5:30 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.9,
+      "reviews": 224,
+      "reviews_original": "(224)",
+      "description": "\"He came and fixed our hot tub and got it back on-line!\"",
+      "lsig": "AB86z5WKwD-R8a-5R2Wm5Uf2Erg7",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/nZhSCH5ujdsMPZqfXVfxUbo-0aLAagkrlxoLZuuGC1U.jpeg",
+      "place_id": "15701606947087110005",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15701606947087110005&q=hot+tub",
+      "provider_id": "/g/11gj0w5cwd",
+      "gps_coordinates": {
+        "latitude": 39.784874,
+        "longitude": -105.11694
+      },
+      "title": "Arctic Spas Denver",
+      "type": "Hot tub store",
+      "phone": "(303) 403-8829",
+      "address": "Wheat Ridge, CO",
+      "hours": "Open · Closes 5:30 PM"
+    },
+    {
+      "position": 12,
+      "rating": 4.6,
+      "reviews": 34,
+      "reviews_original": "(34)",
+      "description": "\"The hot tub is great and the delivery was smooth and easy.\"",
+      "lsig": "AB86z5UdHG0Q2Kwvy4i8a5p_8kzj",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/ABfMKva1tpHOuX0zHy2-IMbbq-U376z2v_gl2s2xUVc.jpeg",
+      "place_id": "7074836926350807112",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7074836926350807112&q=hot+tub",
+      "provider_id": "/g/11sdx_tzxx",
+      "gps_coordinates": {
+        "latitude": 39.74301,
+        "longitude": -104.93867
+      },
+      "title": "Hot Tub Helpers Denver",
+      "type": "Hot tub repair service",
+      "phone": "(720) 938-3883",
+      "years_in_business": "5+ years in business",
+      "address": "1670 Albion St",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 123,
+      "reviews_original": "(123)",
+      "description": "\"Very friendly and assisted with problem solving hot tub issues.\"",
+      "lsig": "AB86z5VdCTDs5l5nl5HQZa0y03wS",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/cU6_LJNvbQta5RJPpp-EMom2NYyTa39FXPnzbp_dB30.jpeg",
+      "place_id": "16067995684696983472",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16067995684696983472&q=hot+tub",
+      "provider_id": "/g/11b708l4cv",
+      "gps_coordinates": {
+        "latitude": 39.57522,
+        "longitude": -105.12974
+      },
+      "title": "Hot Tub Outlet",
+      "type": "Hot tub store",
+      "phone": "(720) 296-2518",
+      "address": "Littleton, CO",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.9,
+      "reviews": 34,
+      "reviews_original": "(34)",
+      "description": "\"Hot Tub Bob was fun to work with and he gave us a great deal on a new tub.\"",
+      "lsig": "AB86z5V8C3jZgwE_MTw0lxp2TbdC",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/JEE2Qj-kO-7gQ-iv7I3J3mxVr8sAiUamD4bwLd9oux8.jpeg",
+      "place_id": "6309393855257453928",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6309393855257453928&q=hot+tub",
+      "provider_id": "/g/11pzsjltsk",
+      "gps_coordinates": {
+        "latitude": 39.867027,
+        "longitude": -105.08824
+      },
+      "title": "Patio Splash Hot Tubs & Spas Denver",
+      "type": "Hot tub store",
+      "phone": "(720) 475-1669",
+      "address": "Westminster, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.9,
+      "reviews": 73,
+      "reviews_original": "(73)",
+      "description": "\"... High delivery guys did an excellent job delivering my new hot tub.\"",
+      "lsig": "AB86z5XdgQrwWMBd1c1uv70ixPAX",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/_DHobJ0RTKM95Qj4BgIdv0WbphEpIJu__ucMgT5ZSX4.jpeg",
+      "place_id": "6637510558537556101",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6637510558537556101&q=hot+tub",
+      "provider_id": "/g/11j_29_cvj",
+      "gps_coordinates": {
+        "latitude": 39.888805,
+        "longitude": -105.069
+      },
+      "title": "Mile High Hot Tubs",
+      "type": "Hot tub store",
+      "phone": "(720) 500-2521",
+      "address": "Westminster, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 16,
+      "rating": 5.0,
+      "reviews": 502,
+      "reviews_original": "(502)",
+      "description": "\"Always professional and thorough hot tub service.\"",
+      "lsig": "AB86z5WlNmZ9ZMTA4rb4H7YC62Fi",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/xU3UrvdmF5MpRCFDCwK6qwwvCgK18G6wAjA4PoNHh7w.jpeg",
+      "place_id": "9177294023909298425",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9177294023909298425&q=hot+tub",
+      "provider_id": "/g/11cmcld0lw",
+      "gps_coordinates": {
+        "latitude": 39.756214,
+        "longitude": -104.98888
+      },
+      "title": "Alpine Hot Tub Moving & Hot Tub Repair Service",
+      "type": "Hot tub store",
+      "phone": "(720) 218-9960",
+      "years_in_business": "20+ years in business",
+      "address": "2315 Larimer St",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 17,
+      "rating": 4.8,
+      "reviews": 187,
+      "reviews_original": "(187)",
+      "description": "\"He was kind and professional and got our hot tub up and running!\"",
+      "lsig": "AB86z5V4CXxU_me4smFqo-hlPnh-",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/crY34ScSDrmTZRh9DgXNfmIRTk6DIzumw5MmsODYZo4.jpeg",
+      "place_id": "6148702364605590343",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6148702364605590343&q=hot+tub",
+      "provider_id": "/g/1tczfd28",
+      "gps_coordinates": {
+        "latitude": 39.56409,
+        "longitude": -104.88241
+      },
+      "title": "Spa Brokers",
+      "type": "Hot tub store",
+      "phone": "(303) 779-8645",
+      "address": "Lone Tree, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.7,
+      "reviews": 235,
+      "reviews_original": "(235)",
+      "description": "\"Cortez came out and did a outstanding job fixing my hot tub.\"",
+      "lsig": "AB86z5UTYUXEuzbE6UeSNObuKYJA",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/iQF9gbTYm-0789otBqzlo2dAASLPlrfvdKL6pcWV4Xg.jpeg",
+      "place_id": "5280518910479912490",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5280518910479912490&q=hot+tub",
+      "provider_id": "/g/12m8ygbk5",
+      "gps_coordinates": {
+        "latitude": 39.652863,
+        "longitude": -104.990776
+      },
+      "title": "Everything Hot Tubz",
+      "type": "Hot tub store",
+      "phone": "(303) 806-9400",
+      "address": "Englewood, CO",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 19,
+      "rating": 3.8,
+      "reviews": 12,
+      "reviews_original": "(12)",
+      "description": "\"Couldn’t find a better deal anywhere else in the city!!\"",
+      "lsig": "AB86z5WGZMsztIDpbqfQO3CNyUv7",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/RMokW3XGr9oewEMQoDoZ28g84Ennuik9M105KoiDx0o.jpeg",
+      "place_id": "16289475699625219465",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16289475699625219465&q=hot+tub",
+      "provider_id": "/g/11ddwvn8cn",
+      "gps_coordinates": {
+        "latitude": 39.731766,
+        "longitude": -105.01665
+      },
+      "title": "Cal Spas",
+      "type": "Hot tub store",
+      "address": "955 Zuni St",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.3,
+      "reviews": 81,
+      "reviews_original": "(81)",
+      "description": "\"Dan came out to service our hot tub, which required a new pump and switch.\"",
+      "lsig": "AB86z5XUWrG7c3YhA_5lQUEYigxW",
+      "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/OUT0DpRzMyheLJIGNyKfgujmx6JuIbyW6mCXGt2FhPI.jpeg",
+      "place_id": "18165205659269023110",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18165205659269023110&q=hot+tub",
+      "provider_id": "/g/1wbf_x8w",
+      "gps_coordinates": {
+        "latitude": 39.62436,
+        "longitude": -105.028824
+      },
+      "title": "DND Spas Denver Hot Tub Repair",
+      "type": "Hot tub repair service",
+      "phone": "(303) 789-2980",
+      "years_in_business": "35+ years in business",
+      "address": "Englewood, CO",
+      "hours": "Open · Closes 6 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hot+tub&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hot+tub&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=hot+tub&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=hot+tub&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=hot+tub&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=hot+tub&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=hot+tub&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=hot+tub&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=hot+tub&start=40&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=hot+tub&start=60&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=hot+tub&start=80&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

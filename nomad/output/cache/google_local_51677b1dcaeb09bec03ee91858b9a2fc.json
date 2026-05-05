@@ -1,0 +1,449 @@
+{
+  "search_metadata": {
+    "id": "69d5150fa688557c59e8e347",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iucEcrb7lwdh6gE7_vUIrA/69d5150fa688557c59e8e347.json",
+    "created_at": "2026-04-07 14:30:39 UTC",
+    "processed_at": "2026-04-07 14:30:39 UTC",
+    "google_local_url": "https://www.google.com/search?q=kid-friendly&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/iucEcrb7lwdh6gE7_vUIrA/69d5150fa688557c59e8e347.html",
+    "total_time_taken": 1.58
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "kid-friendly",
+    "location_requested": "San Diego",
+    "location_used": "San Diego County,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 33.1398510418607,
+      "longitude": -116.97967529296874
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"We had a blast driving the little Lego cars in funtown\"",
+      "lsig": "AB86z5UP0lL6do7YNZC9pOkr1ZqB",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/CaHclL6OjjHmnAiiEGQ5DHM-6IxhlDezB_kDRgWhicc.jpeg",
+      "place_id": "9243666903691154348",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=9243666903691154348&q=kid-friendly",
+      "provider_id": "/g/1pp2vmswv",
+      "gps_coordinates": {
+        "latitude": 33.1278,
+        "longitude": -117.3132
+      },
+      "title": "Fun Town",
+      "type": "Tourist attraction",
+      "address": "Carlsbad, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.5,
+      "reviews": 182,
+      "reviews_original": "(182)",
+      "description": "\"The cafe has toddler friendly food options, pastries, coffee, and beer.\"",
+      "lsig": "AB86z5U1neSx4sOs3v6_Y8cglI0w",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/fz4TvOJnGnHA2zpmORzCuMwIM7wSHwaZSC3dyZ8e5K8.jpeg",
+      "place_id": "1833682964615752325",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1833682964615752325&q=kid-friendly",
+      "provider_id": "/g/11lp56pmhr",
+      "gps_coordinates": {
+        "latitude": 33.11959,
+        "longitude": -117.27075
+      },
+      "title": "Kids & Coffee (Reservation based indoor playground and cafe)",
+      "type": "Cafe",
+      "address": "Carlsbad, CA",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.2,
+      "reviews": 826,
+      "reviews_original": "(826)",
+      "description": "\"My nephew had his birthday party here, the kids had a fantastic time.\"",
+      "lsig": "AB86z5U4CwoUwEXxc19nnJ74UFjN",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/fdquQB1fwXe9SxHp9hAlNtCvOs0na_101jbbKJhPqew.jpeg",
+      "place_id": "1259147696689233469",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1259147696689233469&q=kid-friendly",
+      "provider_id": "/g/1vk6zj21",
+      "gps_coordinates": {
+        "latitude": 32.8083,
+        "longitude": -116.97865
+      },
+      "title": "Boardwalk",
+      "type": "Restaurant",
+      "address": "El Cajon, CA",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.2,
+      "reviews": 2500,
+      "reviews_original": "(2.5K)",
+      "description": "\"Took my kids to the water part for a friend's birthday and they had a blast!\"",
+      "lsig": "AB86z5WeJUN-Swx10n1007ms7_l4",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/kJqplw7ktcxufQ7jIsTrX2eOuGy0cY_kW4aZEJvMwPc.jpeg",
+      "place_id": "6868021608392819785",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=6868021608392819785&q=kid-friendly",
+      "provider_id": "/g/1tpps7z1",
+      "gps_coordinates": {
+        "latitude": 33.559574,
+        "longitude": -117.201546
+      },
+      "title": "Mulligan Family Fun Center- Murrieta",
+      "type": "Amusement park",
+      "address": "Murrieta, CA",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"Very kid friendly but was fun for adults as well.\"",
+      "lsig": "AB86z5WI3X0D_joOMthk2VPwGBdu",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/S4Irmjq7-t3qIDsGmGvA7JdPms_ngVQ3VEDj6xDotoY.jpeg",
+      "place_id": "3005706386642889688",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3005706386642889688&q=kid-friendly",
+      "provider_id": "/m/012ny11r",
+      "gps_coordinates": {
+        "latitude": 32.640053,
+        "longitude": -117.11042
+      },
+      "title": "Living Coast Discovery Center",
+      "type": "Aquarium",
+      "address": "Chula Vista, CA",
+      "hours": "Closed · Opens 10 AM Wed"
+    },
+    {
+      "position": 6,
+      "rating": 4.6,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "description": "\"... even have a toddler playground seperate from the rougher big kids.\"",
+      "lsig": "AB86z5W1UmLUMSa9zVMqeR5iZB9Y",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/fJOVLz_O88GptXnzh3P4iypwqGJGfUQJsb7d1piV02o.jpeg",
+      "place_id": "4987406345492800448",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=4987406345492800448&q=kid-friendly",
+      "provider_id": "/g/11g889gcj3",
+      "gps_coordinates": {
+        "latitude": 32.651875,
+        "longitude": -116.95377
+      },
+      "title": "Play City",
+      "type": "Amusement center",
+      "address": "Chula Vista, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.6,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"Nice and comfortable and not overcrowded, very safe for all kids.\"",
+      "lsig": "AB86z5WcEK4DGFoOcIa8PK0WccKx",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/vJuq1W9KjhlP4tUVqbbdMSMZ1QQogCXg9wbYEl6Pbwk.jpeg",
+      "place_id": "6008019565900342502",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=6008019565900342502&q=kid-friendly",
+      "provider_id": "/g/1hc2wshsx",
+      "gps_coordinates": {
+        "latitude": 33.124523,
+        "longitude": -117.082344
+      },
+      "title": "Children's Museum of Discovery",
+      "type": "Children's museum",
+      "address": "Escondido, CA",
+      "hours": "Closed · Opens 9:30 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.8,
+      "reviews": 206,
+      "reviews_original": "(206)",
+      "description": "\"Farmer Ben was amazing — so warm, engaging, and great with kids.\"",
+      "lsig": "AB86z5Uw3_NK8wfU8W0Y6Ny16JE-",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaHbEGskn5E7Cqv1rFTlpQWTSCuBN1yHlK84S9YcOgho26ZdUKI6JjgLz7KaSohy51DfK-M6dheJ9HWaMdppxVxbhS5Teloq3avRtiYtU0dV2NgRZ2dU_a-X05kXTMs_c3Bc-zjg=w90-h90-n-k-no-l75",
+      "place_id": "1006466028121898253",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1006466028121898253&q=kid-friendly",
+      "provider_id": "/g/11cs1w83j6",
+      "gps_coordinates": {
+        "latitude": 33.097458,
+        "longitude": -116.64683
+      },
+      "title": "Fort Cross Old Timey Adventures",
+      "type": "Farm household tour",
+      "address": "Santa Ysabel, CA",
+      "hours": "Closed · Opens 1 PM Sat"
+    },
+    {
+      "position": 9,
+      "rating": 4.4,
+      "reviews": 586,
+      "reviews_original": "(586)",
+      "price": "$20–30",
+      "description": "\"Kids loved the food (and they are picky eaters!).\"",
+      "lsig": "AB86z5UQ2jp2f3BF4kJMDvO1wwuO",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/_az6em2zII957w8UgPJ3UBcIw0bzuPZ5FFIOTEwjOTI.jpeg",
+      "place_id": "11376330704319866232",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=11376330704319866232&q=kid-friendly",
+      "provider_id": "/g/11j3w0jsn0",
+      "gps_coordinates": {
+        "latitude": 33.1096,
+        "longitude": -116.67443
+      },
+      "title": "Farmhouse 78",
+      "type": "Restaurant",
+      "address": "Santa Ysabel, CA",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "description": "\"Great indoor playground, clean, lots of seating for families.\"",
+      "lsig": "AB86z5UgqohXUEBxlgCV9yw--6_w",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/izOZr_PUymYkfERMK5L-cq6A9pqHOhdA8n2XbLnrbjg.jpeg",
+      "place_id": "7115388994057738394",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7115388994057738394&q=kid-friendly",
+      "provider_id": "/g/11f2_lwdxr",
+      "gps_coordinates": {
+        "latitude": 33.57587,
+        "longitude": -117.17858
+      },
+      "title": "Uptown Jungle Fun Park",
+      "type": "Indoor playground",
+      "address": "Murrieta, CA",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.6,
+      "reviews": 104,
+      "reviews_original": "(104)",
+      "description": "\"Great to get in touch with your inner child\"",
+      "lsig": "AB86z5U27p5xEg1JO6Tusf7C6c3Z",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/aMjGSY8MIMz4-aSTpTAss0QS-6RU9feAnK2kinkER8E.jpeg",
+      "place_id": "9008384197749381623",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=9008384197749381623&q=kid-friendly",
+      "provider_id": "/g/1pp2vm6zv",
+      "gps_coordinates": {
+        "latitude": 33.126278,
+        "longitude": -117.31159
+      },
+      "title": "The Beginning",
+      "type": "Amusement park",
+      "address": "Carlsbad, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 12,
+      "rating": 4.9,
+      "reviews": 7,
+      "reviews_original": "(7)",
+      "lsig": "AB86z5UvmY7s_1lInPeK3id4Pa45",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/OtWBONh-Ry-swAyM-bIQwHc58i_soDD1A1X3k-IBVzQ.jpeg",
+      "place_id": "2889162090963953668",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=2889162090963953668&q=kid-friendly",
+      "provider_id": "/g/11rzj8z11p",
+      "gps_coordinates": {
+        "latitude": 33.12793,
+        "longitude": -117.309685
+      },
+      "title": "Land Of Adventure",
+      "type": "Tourist attraction",
+      "address": "Carlsbad, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.9,
+      "reviews": 401,
+      "reviews_original": "(401)",
+      "description": "\"My husband and I took our 17 month old and we all had a blast.\"",
+      "lsig": "AB86z5VNWwTf6ha1YJaWwf7HmkqS",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/qrJNEUXbLWn3Bz0RCyk033gOV4IYLEKP9s_rXuZBSD8.jpeg",
+      "place_id": "3376387675932615527",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3376387675932615527&q=kid-friendly",
+      "provider_id": "/g/11cjj14xh1",
+      "gps_coordinates": {
+        "latitude": 32.767548,
+        "longitude": -116.6812
+      },
+      "title": "Alpine Acres Sanctuary Farm™",
+      "type": "Farm",
+      "address": "Alpine, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.9,
+      "reviews": 112,
+      "reviews_original": "(112)",
+      "description": "\"super fun kids loved the water not the hike\"",
+      "lsig": "AB86z5Wa1pivKErDYEGTHYMhLr55",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/lOFR9-DBLRkvSD246ySabaRSUZ-zUpILj_ugW_CkCrI.jpeg",
+      "place_id": "1336616765782433106",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1336616765782433106&q=kid-friendly",
+      "provider_id": "/g/11c6_g9cyw",
+      "gps_coordinates": {
+        "latitude": 32.99,
+        "longitude": -116.729965
+      },
+      "title": "Cedar Creek Falls",
+      "type": "Tourist attraction",
+      "address": "Ramona, CA"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "description": "\"It has 4 very cute play structures spread out for lots of running space.\"",
+      "lsig": "AB86z5V6eU35grCL4X7ld4-tUsKq",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/XUlht_5MhLTcw0DDbMOJszHPXa2roEjlT2vzwr0GQPs.jpeg",
+      "place_id": "4344819209238305818",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=4344819209238305818&q=kid-friendly",
+      "provider_id": "/g/1tnpl8zh",
+      "gps_coordinates": {
+        "latitude": 33.082253,
+        "longitude": -117.085365
+      },
+      "title": "Felicita County Park",
+      "type": "Park",
+      "address": "Escondido, CA"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 2100,
+      "reviews_original": "(2.1K)",
+      "description": "\"The place is very kid friendly with lots of fun stuff to do.\"",
+      "lsig": "AB86z5WkLluDwGDfsAhn5DU6vEHB",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/xD7YYqi95UOTzP4g8um4BFxmUaFHVRYcxe90AevA8sk.jpeg",
+      "place_id": "17744118549796414336",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=17744118549796414336&q=kid-friendly",
+      "provider_id": "/g/1tfpk34w",
+      "gps_coordinates": {
+        "latitude": 33.121723,
+        "longitude": -117.27861
+      },
+      "title": "K1 Speed Carlsbad",
+      "type": "Amusement center",
+      "address": "Carlsbad, CA",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 17,
+      "rating": 3.8,
+      "reviews": 57,
+      "reviews_original": "(57)",
+      "description": "\"My son loved the stationary play sets and interactive props.\"",
+      "lsig": "AB86z5UqtMFN9FFZsSFWm5F-pYAO",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/XWzutgVywUxb-2-4k8M1RmRkIfQBOHnzmQIV4wkuWis.jpeg",
+      "place_id": "11275027107320879680",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=11275027107320879680&q=kid-friendly",
+      "provider_id": "/g/11rm1z7k58",
+      "gps_coordinates": {
+        "latitude": 32.80566,
+        "longitude": -116.9657
+      },
+      "title": "Le Funland",
+      "type": "Indoor playground",
+      "address": "El Cajon, CA",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.6,
+      "reviews": 192,
+      "reviews_original": "(192)",
+      "description": "\"My kids were able to play with everything and no lines no waiting.\"",
+      "lsig": "AB86z5X6Hs66-PkxDxEOHnrscTvI",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwermXPF_yJ6jzSWaSJdNxeezSNTZEy7QntLIxS5XwvCo8_GtNLI3gCEjlSwd0EkDXm3hmnXz-74kR6cXLfEeMh1HCYIFOx-larywP0MdjXzLFjVr5jgd6gJKOJftdlWyUPYleQSNJ33YvgQ=w90-h90-n-k-no-l75",
+      "place_id": "14811601722647144549",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=14811601722647144549&q=kid-friendly",
+      "provider_id": "/g/1w455xjh",
+      "gps_coordinates": {
+        "latitude": 32.882843,
+        "longitude": -116.87156
+      },
+      "title": "Oma's Family Farm",
+      "type": "Farm",
+      "address": "Lakeside, CA",
+      "hours": "Closed · Opens 6 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.6,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$20–30",
+      "description": "\"Also Friday nights have live music and it’s kid friendly.\"",
+      "lsig": "AB86z5U_cpQLhgAh1sIwyONa7Xe9",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/eYN8kP0bPV0Wpx_Z8v8Mk745MiZH9xWNKTDZPZKw00E.jpeg",
+      "place_id": "718468169752063848",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=718468169752063848&q=kid-friendly",
+      "provider_id": "/g/11glt0tltq",
+      "gps_coordinates": {
+        "latitude": 32.855232,
+        "longitude": -116.83773
+      },
+      "title": "Grand Ole BBQ Flinn Springs",
+      "type": "Barbecue",
+      "address": "El Cajon, CA",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 423,
+      "reviews_original": "(423)",
+      "description": "\"The staff is very knowledgeable and patient with kiddos.\"",
+      "lsig": "AB86z5UVrJqAun-6wANwreobFME2",
+      "thumbnail": "https://serpapi.com/searches/69d5150fa688557c59e8e347/images/WRfD0yA4bz12Y6BfRz_qs637W_eiWHPxjRpaQ6PlT00.jpeg",
+      "place_id": "8176806794644648897",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=8176806794644648897&q=kid-friendly",
+      "provider_id": "/g/1vbl7wlg",
+      "gps_coordinates": {
+        "latitude": 33.06422,
+        "longitude": -116.75287
+      },
+      "title": "Oasis Camel Dairy",
+      "type": "Tourist attraction",
+      "address": "Ramona, CA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=kid-friendly&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=kid-friendly&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=kid-friendly&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=kid-friendly&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=kid-friendly&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=kid-friendly&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=kid-friendly&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=kid-friendly&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=kid-friendly&start=40&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=kid-friendly&start=60&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=kid-friendly&start=80&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

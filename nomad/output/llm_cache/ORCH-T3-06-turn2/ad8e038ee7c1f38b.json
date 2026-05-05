@@ -1,0 +1,46 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01GpBeGUhznZJr4f7Fn4ySCj",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01NfRjdYYeuuUYVz5Wgx2FDK",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "budget_usd": 2500,
+          "preferred_hotel_rating": 3,
+          "hotel_rating_priority": "hard",
+          "hotel_location": "near Las Vegas Strip"
+        },
+        "needs": {
+          "flight": false,
+          "hotel": true,
+          "activity": false
+        },
+        "response_to_user": "Got it! I've updated your budget to $2,500 and will search for hotels that are at least 3 stars on the Las Vegas Strip for your December 10-14 trip."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2587,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 203,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

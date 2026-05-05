@@ -1,0 +1,452 @@
+{
+  "search_metadata": {
+    "id": "69d515416e2237e782d3516e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LbSohADHqshiwX-CcCYwjA/69d515416e2237e782d3516e.json",
+    "created_at": "2026-04-07 14:31:29 UTC",
+    "processed_at": "2026-04-07 14:31:29 UTC",
+    "google_local_url": "https://www.google.com/search?q=farm-to-table&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/LbSohADHqshiwX-CcCYwjA/69d515416e2237e782d3516e.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "farm-to-table",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.45579591943491,
+      "longitude": -122.71385192871094
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 119,
+      "reviews_original": "(119)",
+      "description": "\"The venue is so beautiful and the locally sourced food delicious.\"",
+      "lsig": "AB86z5Uvfb2dv8WfitjoHTgr3lnq",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/jziNbvAzDLLPnUThLXP2itHo2ZRSWLhtsphXXTlUCO8.jpeg",
+      "place_id": "15640332164962172046",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15640332164962172046&q=farm-to-table",
+      "provider_id": "/g/11btwv6km9",
+      "gps_coordinates": {
+        "latitude": 45.565056,
+        "longitude": -122.61307
+      },
+      "title": "Side Yard Farm and Kitchen-Pdx",
+      "type": "Farm",
+      "address": "4800 NE Simpson St"
+    },
+    {
+      "position": 2,
+      "rating": 4.3,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "description": "\"The experience was fantastic and the cinnamon corn bread is to die for!\"",
+      "lsig": "AB86z5UlASZXhy_z3eTFfbPIWStR",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/70kcFQDhvPIY_NgHOEE-KUZew57Jb3NDbqAWjk8coeQ.jpeg",
+      "place_id": "13816995012983544053",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=13816995012983544053&q=farm-to-table",
+      "provider_id": "/g/1v6wp0rm",
+      "gps_coordinates": {
+        "latitude": 45.519127,
+        "longitude": -122.678024
+      },
+      "title": "Urban Farmer Portland",
+      "type": "Steak",
+      "address": "525 SW Morrison St"
+    },
+    {
+      "position": 3,
+      "rating": 4.3,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "description": "\"Good brunch with super fresh farm to table vibe.\"",
+      "lsig": "AB86z5W9SdjrxcA9hJGaA9-onUkz",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/BTyYGPV6GUG3w3fbrOriJq9-UrmkTUihQ-Rg0ZxnJRA.jpeg",
+      "place_id": "3711269267819827945",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3711269267819827945&q=farm-to-table",
+      "provider_id": "/g/11crzgdtvt",
+      "gps_coordinates": {
+        "latitude": 45.510303,
+        "longitude": -122.760445
+      },
+      "title": "Cornell Farm Cafe",
+      "type": "Cafe",
+      "address": "8212 SW Barnes Rd",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.6,
+      "reviews": 263,
+      "reviews_original": "(263)",
+      "price": "$20–30",
+      "description": "\"All food is farm to table and fresh fresh fresh !\"",
+      "lsig": "AB86z5WYukfRCzZyUVR5Dw5YTq6O",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/vSbf4hXpKfil3SruWLJUkPLUG4j4R8NmLyUzFp16kXU.jpeg",
+      "place_id": "139545828157471606",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=139545828157471606&q=farm-to-table",
+      "provider_id": "/g/11frk5032g",
+      "gps_coordinates": {
+        "latitude": 45.53666,
+        "longitude": -122.701645
+      },
+      "title": "Urban Steel Kitchen + Bar",
+      "type": "Pacific Northwestern",
+      "address": "2426 NW Vaughn St"
+    },
+    {
+      "position": 5,
+      "rating": 4.8,
+      "reviews": 57,
+      "reviews_original": "(57)",
+      "price": "$10–20",
+      "description": "\"Great food cart pod, cozy vibes and excellent food!\"",
+      "lsig": "AB86z5VX_8A7WdS9CarFo5es-nHD",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/2VYd7lbDFF9_gwaDTvDAFqc0xwJkp9a3nVhrOIr0EEM.jpeg",
+      "place_id": "10884766268912194819",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=10884766268912194819&q=farm-to-table",
+      "provider_id": "/g/11s8n0x95p",
+      "gps_coordinates": {
+        "latitude": 45.50513,
+        "longitude": -122.62795
+      },
+      "title": "Farmhouse Carts",
+      "type": "Food court",
+      "address": "2415 SE 35th Pl",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.9,
+      "reviews": 7600,
+      "reviews_original": "(7.6K)",
+      "description": "\"beautiful plates, fresh bold flavors, top‑notch ambiance.\"",
+      "lsig": "AB86z5XCSinUKgQxfS2dv-5NCiGw",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/UEQPHxqy3F0ucgJD7RhWn_MWyYxFjrWcutN3GSPAtLM.jpeg",
+      "place_id": "12084191215586592971",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12084191215586592971&q=farm-to-table",
+      "provider_id": "/g/11qpqys1d6",
+      "gps_coordinates": {
+        "latitude": 45.523827,
+        "longitude": -122.680275
+      },
+      "title": "Farmhouse Kitchen Thai Cuisine | Pearl District",
+      "type": "Restaurant",
+      "address": "121 NW 9th Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.7,
+      "reviews": 156,
+      "reviews_original": "(156)",
+      "description": "\"Farm to table dinner a couple of times during summer.\"",
+      "lsig": "AB86z5UC6dgPmtBxJxRh5jSeks4O",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/yOWf6v00vgI6wcYJsGH6LTT1GPaV36OjjZBcCE8CLzc.jpeg",
+      "place_id": "17645902430650507117",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17645902430650507117&q=farm-to-table",
+      "provider_id": "/g/12hlgn1n0",
+      "gps_coordinates": {
+        "latitude": 45.338142,
+        "longitude": -122.81443
+      },
+      "title": "Our Table Cooperative",
+      "type": "Farm",
+      "address": "Sherwood, OR",
+      "hours": "Closed · Opens 10 AM Sat"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "description": "\"Creative and delicious dishes in a fun relaxed environment.\"",
+      "lsig": "AB86z5UstBTCZ-3Q0HfGsXEg0loR",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/I2tLlljQdniizYHiA1NqrJOGdsqOCRFioaIURorc01I.jpeg",
+      "place_id": "4759313346632383730",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4759313346632383730&q=farm-to-table",
+      "provider_id": "/g/11dym2hvs2",
+      "gps_coordinates": {
+        "latitude": 45.511913,
+        "longitude": -122.62978
+      },
+      "title": "Farmhouse Kitchen Thai Cuisine",
+      "type": "Restaurant",
+      "address": "3354 SE Hawthorne Blvd",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 9,
+      "rating": 5.0,
+      "reviews": 92,
+      "reviews_original": "(92)",
+      "description": "\"Amazing farm to table, chef driven, unpretentious fine dining.\"",
+      "lsig": "AB86z5U6LFp_Par-3DD7HGxREyC_",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/DIaNdMQuPeGQZ10HKQczoYGOvvLsJgpdEu2Dk9XTEkc.jpeg",
+      "place_id": "8366819439559415318",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8366819439559415318&q=farm-to-table",
+      "provider_id": "/g/11cm_hs_wm",
+      "gps_coordinates": {
+        "latitude": 45.332256,
+        "longitude": -122.724556
+      },
+      "title": "The Kitchen at Middleground Farms",
+      "type": "Farm",
+      "address": "Wilsonville, OR"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 289,
+      "reviews_original": "(289)",
+      "description": "\"The service is fantastic and the food is truly next level.\"",
+      "lsig": "AB86z5UH-U0GY_C69_HjInsKiU9T",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/rQi9cbqNJcMgQFQCsEh9VvvL_jIhw-9zkOIJ5iTUnQI.jpeg",
+      "place_id": "16021627789601735191",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16021627789601735191&q=farm-to-table",
+      "provider_id": "/g/11gfb3s6r4",
+      "gps_coordinates": {
+        "latitude": 45.516674,
+        "longitude": -122.66292
+      },
+      "title": "Trap Kitchen PDX - The EAST",
+      "type": "Restaurant",
+      "address": "825 SE 3rd Ave",
+      "hours": "Opens Apr 24"
+    },
+    {
+      "position": 11,
+      "rating": 4.7,
+      "reviews": 56,
+      "reviews_original": "(56)",
+      "price": "$50–100",
+      "description": "\"... Road farm provides exceptional ingredients to 82 Acres' tables.\"",
+      "lsig": "AB86z5UUnprf3F4OI0BR0um_b1lB",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/zHd5cWGRiRkh4ZmTfpsaFHZN3FfDy-c0FA6n7ziriUA.jpeg",
+      "place_id": "2208977049359767310",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2208977049359767310&q=farm-to-table",
+      "provider_id": "/g/11lzd3szr6",
+      "gps_coordinates": {
+        "latitude": 45.503307,
+        "longitude": -122.644905
+      },
+      "title": "82 Acres",
+      "type": "Restaurant",
+      "address": "2032 SE Clinton St",
+      "hours": "Closed · Opens 5 PM Wed"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "description": "\"I bought one of their farm to table ice cream cups and they are to die for.\"",
+      "lsig": "AB86z5V1B1MGl5Ouj0hMXvP7aMD5",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/Rkn1yPIxmbUdMD7KbJImxEihrYo-LxW5TihbcJrZlSY.jpeg",
+      "place_id": "16998334200789199300",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16998334200789199300&q=farm-to-table",
+      "provider_id": "/g/1tk9qh1x",
+      "gps_coordinates": {
+        "latitude": 45.647778,
+        "longitude": -122.823616
+      },
+      "title": "Topaz Farm",
+      "type": "Produce market",
+      "address": "17100 NW Sauvie Island Rd",
+      "hours": "Closed · Opens 9 AM Sat"
+    },
+    {
+      "position": 13,
+      "rating": 4.6,
+      "reviews": 78,
+      "reviews_original": "(78)",
+      "description": "\"A perfect little experience with perfect little cows.\"",
+      "lsig": "AB86z5UW3GTW6H_aeFHrMDm18W-g",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/eZBxkctNwNcsXkZR-1eKHedB-Xw6VgC7HKrITbkqCLY.jpeg",
+      "place_id": "190441886831808704",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=190441886831808704&q=farm-to-table",
+      "provider_id": "/g/11fxzmb63l",
+      "gps_coordinates": {
+        "latitude": 45.888012,
+        "longitude": -122.64238
+      },
+      "title": "Gather and Feast Farm",
+      "type": "Farm",
+      "address": "La Center, WA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.8,
+      "reviews": 57,
+      "reviews_original": "(57)",
+      "description": "\"Great food with fresh, healthy ingredients.\"",
+      "lsig": "AB86z5W0vz_Ub-OsNygm34GbztBn",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/mB47CItGLYAFX8nRsclUiKRABWAe98UyjYlgp3ppitY.jpeg",
+      "place_id": "15912822889822573554",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15912822889822573554&q=farm-to-table",
+      "provider_id": "/g/1hhvl68r1",
+      "gps_coordinates": {
+        "latitude": 45.568714,
+        "longitude": -122.60747
+      },
+      "title": "Farm To Fit",
+      "type": "Delivery Restaurant",
+      "address": "5411 NE Lombard St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 414,
+      "reviews_original": "(414)",
+      "description": "\"Their food is healthy and fresh with delicious microgreens grown in-house.\"",
+      "lsig": "AB86z5VnfEpXAVj4B594OL1YSZiz",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/onmRMnpVn9QOVbaIgI0Dt-3sMCAP_CB5LavCN_EbGTw.jpeg",
+      "place_id": "5213819559532887097",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5213819559532887097&q=farm-to-table",
+      "provider_id": "/g/11n0bq6z0d",
+      "gps_coordinates": {
+        "latitude": 45.522896,
+        "longitude": -122.69044
+      },
+      "title": "The Soop",
+      "type": "Restaurant",
+      "address": "1902 W Burnside St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 286,
+      "reviews_original": "(286)",
+      "description": "\"Friendly staff, diverse wine list, and the farm to table food is incredible!\"",
+      "lsig": "AB86z5XiWYoUxz5XzkHHtPLPv5Ho",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/o2nirDNA5xYSXPfbWrgrzZVYDqQC-LgE269Y7c9AJqI.jpeg",
+      "place_id": "594113605333134110",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=594113605333134110&q=farm-to-table",
+      "provider_id": "/g/11t413vfr4",
+      "gps_coordinates": {
+        "latitude": 45.210114,
+        "longitude": -123.19535
+      },
+      "title": "Grounded Table | Farm-to-Table Dining",
+      "type": "New American",
+      "address": "McMinnville, OR",
+      "hours": "Closed · Opens 4:30 PM Thu"
+    },
+    {
+      "position": 17,
+      "rating": 4.8,
+      "reviews": 205,
+      "reviews_original": "(205)",
+      "price": "$10–20",
+      "description": "\"This is the most incredible gluten free and vegan food I’ve ever had!\"",
+      "lsig": "AB86z5XJqYz3_exKgECLMpTNpA5J",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/nKUgvBjU-3rzxGiR-D5vSH7kwe16wjbfxZDbWY-s0dA.jpeg",
+      "place_id": "4776875571280383286",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4776875571280383286&q=farm-to-table",
+      "provider_id": "/g/11q1jz9x63",
+      "gps_coordinates": {
+        "latitude": 45.57067,
+        "longitude": -122.68193
+      },
+      "title": "Honey Butter Country Fare",
+      "type": "Restaurant",
+      "address": "6550 N Interstate Ave",
+      "hours": "Closed · Opens 12 PM Wed"
+    },
+    {
+      "position": 18,
+      "rating": 4.7,
+      "reviews": 185,
+      "reviews_original": "(185)",
+      "description": "\"The food was amazing and we received plenty of compliments on the menu.\"",
+      "lsig": "AB86z5WdDlwkD9qoTXCgteSMYfNn",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/WTQn97HI2c4D3IziUsM14UFXOV2sVshQaNppMi-xFSw.jpeg",
+      "place_id": "16321616182682011511",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16321616182682011511&q=farm-to-table",
+      "provider_id": "/g/1q5gjzqjh",
+      "gps_coordinates": {
+        "latitude": 45.519875,
+        "longitude": -122.65958
+      },
+      "title": "Coopers Hall",
+      "type": "Event venue",
+      "address": "404 SE 6th Ave",
+      "hours": "Closed · Opens 9 AM Mon"
+    },
+    {
+      "position": 19,
+      "rating": 4.6,
+      "reviews": 971,
+      "reviews_original": "(971)",
+      "price": "$20–30",
+      "description": "\"I especially recommend the lamb shank and the roasted cauliflower.\"",
+      "lsig": "AB86z5VVb_A6oz9H1BV_n-YxmWea",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/BWzDf0DRF5NIZA3ib55WjO09Lfg60i0KtCW5_fg597Q.jpeg",
+      "place_id": "5311358234693954702",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5311358234693954702&q=farm-to-table",
+      "provider_id": "/g/1v6wp0vy",
+      "gps_coordinates": {
+        "latitude": 45.516563,
+        "longitude": -122.629425
+      },
+      "title": "Hoda’s -Lebanese- Farm to Table - Portland Dining Month and Hoda's 27 years Anniversary . March 1st-March 31st 3",
+      "type": "Lebanese",
+      "address": "3401 SE Belmont St",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.3,
+      "reviews": 39,
+      "reviews_original": "(39)",
+      "description": "\"My friends go here and I hear it's amazing\"",
+      "lsig": "AB86z5VztAXXG9aNi3Bdz4NlknfP",
+      "thumbnail": "https://serpapi.com/searches/69d515416e2237e782d3516e/images/R3cP_zsZy7N1OUcAUsDR4tpWvzKJD4FbzR14SPMQ4yY.jpeg",
+      "place_id": "8676478665312846761",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8676478665312846761&q=farm-to-table",
+      "provider_id": "/g/1tk62v5c",
+      "gps_coordinates": {
+        "latitude": 45.47685,
+        "longitude": -122.54233
+      },
+      "title": "Zenger Farm",
+      "type": "Non-profit organization",
+      "address": "11741 SE Foster Rd",
+      "hours": "Closed · Opens 11 AM Sat"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=farm-to-table&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=farm-to-table&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=farm-to-table&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=farm-to-table&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=farm-to-table&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=farm-to-table&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=farm-to-table&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=farm-to-table&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=farm-to-table&start=40&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=farm-to-table&start=60&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=farm-to-table&start=80&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

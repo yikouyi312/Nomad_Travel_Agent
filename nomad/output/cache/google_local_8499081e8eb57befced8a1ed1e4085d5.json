@@ -1,0 +1,297 @@
+{
+  "search_metadata": {
+    "id": "69d52c46a89e02ea602a4a54",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CVSABqKahwiVqDQ4XcHAAw/69d52c46a89e02ea602a4a54.json",
+    "created_at": "2026-04-07 16:09:42 UTC",
+    "processed_at": "2026-04-07 16:09:42 UTC",
+    "google_local_url": "https://www.google.com/search?q=beachfront+hotel&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/CVSABqKahwiVqDQ4XcHAAw/69d52c46a89e02ea602a4a54.html",
+    "total_time_taken": 7.19
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "beachfront hotel",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "OCEAN SANDS BEACH BOUTIQUE INN - 1 ACRE PRIVATE BEACH",
+      "type": "3-star hotel",
+      "rating": 4.4,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "price": "$136",
+      "images": [
+        "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/CkIzjP9fx2sUX2p0Wptb07DpUhZvJXewsfB3IneO0bg.jpeg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepZgHkEOGbnDFHA9OpZX1xAx3VwQEl4WMVtYWBq-0gLFtSodCC99pnPm1PlYrooW4-2WfVOGPI1rJIX5ZZSoGeAd9VT3LdvZHJuRW7P6DFNo6ZPKOTVTzU1ZNKsFOowV-sMu0sofpNrgNgI=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoMLI8xjfuI7QYIPQh5h2zl2rooRZxF2JDBBcRAU9RB9StWeOn9OjkiOHlxTr-87hKVEknPrkDExswKbkqMpMNRx4LKs4CClq5-yOcZnC013-GqMkN1of-SL9a_veN2QOnxA19lbAoyk3I=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepr4iDfU74XerHfqlKUCEUPi-omjmgAeZjtq7BPVe1iHFhQwjvHno033z9QQa5IMJaOfi2B9rHlTLTZtaAh3DjGn-liS5QKnSM6EGdZ0H8pqEqrFheKkAI2EeWfoA9e8ZnnbDtn=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerX1sc475QRJmhlyQoHcqpNJDrkrl8sVegQEdWk40j3XhuU4ShBlpPbJta2ShoDTs7h6UeYB0WIofJmv_mjnIGmaBlukG0x4jyAFTaSO9-3EEyay9wVgp_7XTskJk0k9tCphMK1gym7Ytst=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo7pcqJFTaYSk9imy0V_rHyYpJzogf25IXXFP_ntKT-T6g6VlUAx79sfAda9T6v2lQcm8ku-BLkTIWxq_1hNmNOkiayn_TVIrxSu4kQjXyqZzm-iZ71fzb1-z_9vsMrdTd7kHfLtSF1w1vT=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "10089545977088654656",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10089545977088654656&q=beachfront+hotel",
+      "provider_id": "/g/1tltn5k1",
+      "gps_coordinates": {
+        "latitude": 29.934731699999997,
+        "longitude": -81.29877019999999
+      },
+      "extensions": [
+        "Beach access",
+        "Pool"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Gilbert's Resort & Marina",
+      "type": "2-star hotel",
+      "rating": 4.4,
+      "reviews": 7200,
+      "reviews_original": "(7.2K)",
+      "price": "$221",
+      "images": [
+        "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/br7lzJ-EG_iKXcO9AlQfkt6jd1OF6HGWObd0iDIBDHE.jpeg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqoV0JcnT_0Qm9p1HODl1yODXhZG-F42LCWykBoVREvmEF-O_cxoY5ZAHmhVDA7e0UBl1FfgAzOfq13ILgrOcO3wbN9I4D3Zhzkh1U2ojF_sVfjqxFb9UfqlDdrpj3tjwKLw5mY=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwervTMXkVf4V35yfbXF6RDqlKM5u_Gc5KftLBluUG8G33hVQx7HoednNGOSQERp7KTvDTzwdZZAz6zyZvDHLZe7vaGqXX3lFxV-lAcINFEFUzA0fuz0x6VNqoPwexzqtFhGIN3IGtiYWNhY3=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowsVVmLkrAGyYIzcGMppXVU4a2xpXnqMciKR8bBhLlvvbFWKkOXxPbLXAQ_tHM2NT8hYZ5s6jAgZplveCmH0WWU9vXkvQZtxkuIELrHG-KCO0WS10f1qAzoBqQMmJhwOoEHs2r36G0M4M=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerDAj7xilwqGFp7anghxcf_7OjUpraUN3-zoj0cPwwD7va80_LH3GHhJEgaPhx-Vo3_AQBVnoDeTtIhUKgjrt7w4fQrw9azM-4XK-pfvdB1FXghH3oSMhoGOY3I-qvLGL09Rpw=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqnx0TsiPuPG420H6ydY7rALjO5HJl_nPOBo53aFNTbnf2H5NHUvQrBUGcDzn1Uxde2ZDMH7mfWuzWipiKbyW7gwOG9JK065RnDVU_QDexC7rzvmjhZ-46GrGlQajhvpzPDl8Ov=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "9906905100844263385",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9906905100844263385&q=beachfront+hotel",
+      "provider_id": "/g/1th87xwy",
+      "gps_coordinates": {
+        "latitude": 25.183560999999997,
+        "longitude": -80.38933
+      },
+      "extensions": [
+        "Beach access",
+        "Pool"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Plunge Beach Resort",
+      "type": "3-star hotel",
+      "rating": 4.3,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$168",
+      "images": [
+        "https://serpapi.com/searches/69d52c46a89e02ea602a4a54/images/mdSytVQoyPPvLFhO5p_YOqhX6hChOYsclnuDzHKeLdo.jpeg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerfD37OIhqfvJZBffCeFZMh5NVD6fNYnBJkO8bNkw8D5zYC7KwQoCxC5xF3BAwHfqmRiQ7IJugROuuHGNh3i7qIGoDSs4rcJr-YS9PMkp8iyHcaIt5vSjQHDwX9ZXb-PvjM8_0CWQ=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepG34CIQSt6EARNP8SA_7XwHdYgmQF5bkjcbP2Wdymz9f5DXF0I_4pyCpJH-tx5J0gcDm8Z4HrH0B0BEmADx7p5gq-MiJvOVSaODDApWEZ3tigGeYxLMGmQRJB6wvKb3HW0orxLsA=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF__xeWJCsL7qYzDmMbJO667fSjSawE5x4qHqcn3dYsA1oatM4bex-Vsb7ssxWqP5IrU5CQ7ud1ZOorQB0mc6RJOyUfjL5qIIGQvdMVm2Axo0ErbNaGrT-6D1ZH3jJG3blYJrV6kfwbB7DpR8xVXRxdPLTOj4roNMqc5MjeCo6RAoJ9QLKUzH7X_w=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFtENTIPq7vOobTSZmEw7tPMU6wJ3rpWOSGmj-ATHlUBiY5RkhtFij8s-PjplWxySR7u53QbcWrXGssSmgg01PMU1t3HOQV02Kq450LrWSdiZNm-MDCLs1YdcMqPDnSrtD8ZhGtMAguUxXG43x-LUORUrhbviL3wd3_Ti7vRFiCO1EIDFg899RU=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH9I60cnWmm1vNtx8skdOYXnyID026ZXv8-uYhN2LqLOEYxvGjA4VQELpbbb-2i24oCBFVmEX03n5budKjSxVdlXxSiNJx3QQUZIOJqFIQndUpJEL07T5jwPPu145rxNfDzU-5q3stXnagHUgk8XyY2QveQM9ZOmqJBwpMVVPxlVQp9kaQcxYyTQw=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "13341145188172883972",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13341145188172883972&q=beachfront+hotel",
+      "provider_id": "/g/11c58q6bjv",
+      "gps_coordinates": {
+        "latitude": 26.1967006,
+        "longitude": -80.0945524
+      },
+      "extensions": [
+        "Beach access",
+        "Pool"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Grand Beach Hotel Surfside",
+      "type": "4-star hotel",
+      "rating": 4.0,
+      "reviews": 2700,
+      "reviews_original": "(2.7K)",
+      "price": "$299",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHc7QOTbSV7QRT_OehLQ5yCfCCsUL3G9H4uMywEqGwsT7sIE55_QR9_YC8ks2eraT04mnGw345H4OkkJvkY2E9jdynyX-STnfq9czinRk-SKQEzpmMADbXg9bcQchJvuuoE45vHv2gpH3a7R38ZjHiGsSFbV90qHx-TYin8SyOKI6Oh3cBTwJ65=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6YhjV2clVxTLfVzuVGBlATZS72VRS_9sv04p7AYE--hJNA7rMdQ2mXWe-2OA1woDHNyTt2mys--jfFeuuH7-gLi5goDKSrPisdeCvqp1jBkmC8R9IMSc00RMCJougqmfYB7Io=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerleF65w7hbDFXOseEDQovns9a8-0CfWp_o4ExbjRHytyvKo2QlpqztiElPVzCDhqPxoVIRN8uyrhlLHpmIrEYQ1LrfwnNZ-rZHSQ79xJoTD9aXQnRamdDaGJ2aDb45xEnuGXn9=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepzkjiYoJf3CiiNUs4ydos_hybCn0UeBhtz_p6Odfh86UmzSwMM9JtPg-5yuO6YKCBj_-wsbQUQXg4DcR75ZnOmXEuSeXuhOCMJlaZQ6kH2lx0oYK1bLRhrPiIQsnXPDqB7rQyXmA=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqxGeSF4DRaYm_jcd9-d4Q9ePNAqLMopJeJ7fXOllTRahUc54liOSuSz-vUvl4dLSjmiA5wMTKLA4GT6Wrl0GS-xxrzyy-sBTCOD1yQtsp5aCzlbJ2Raxa1QM9lK6h5wQ05frWJoA=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerUFBkdsqAPu1kF4Lyj2ktrXXeshA0KmEUPWJFYFXTVQywD18WWZ5YlBrqhtlieo_BaCe9KNGB4Z4tshGCpitcsoI1PqWxxkq46CEXjD3OGc77r0jnsyMy_PPUEhenqBYRma4V0=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "16691066921658232927",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16691066921658232927&q=beachfront+hotel",
+      "provider_id": "/g/11b7rxmpdz",
+      "gps_coordinates": {
+        "latitude": 25.8844295,
+        "longitude": -80.1222237
+      },
+      "extensions": [
+        "Beach access",
+        "Eco-certified"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Oceanside Hotel + Suites",
+      "type": "3-star hotel",
+      "rating": 3.7,
+      "reviews": 2500,
+      "reviews_original": "(2.5K)",
+      "price": "$62",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqb9EsZMfUJxVBizCfXvZENY5tqnBRORFqNOekv88i_diYt4SvVzc58-qv_dEt-Bep2txTCZtPZFTcZD-Ztu1wrJK2vgfSE_d06rT6ofdQKaFIEgmznYGuP-XrnOIGtY0BxOgO50A=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerl2ojWfEEjCf0vNVrc5-vMggtR3ZLn2JjrIVQE1EShZHKxfWRhgttX6xZi5E81RwLZQm2nKYIomLf_MR0xaMiU6eyB_T29YLbT4neRrXAuCu_VmCiu4a-RQ3SRSZNdKabj5BMWgA=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4UthlAKduBkw-vS6h9MZtvTOP0kqzY3nvMGOwCOUGgetRc4LFjU2FiwxpnW7Gc01Tk8D96-ELuSByqYVTX4OpOzLop2XwDkJ39y5xDYs4FfPGRzRaqNCVp-_Vk4Inl-grubFB=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAlsYPONw32xipHmnvEMjRYT7lSj-OsAi4QQW7_8JJEMDc2-dKDFvgJgwRsZNR5JPkGQdg0jwbQBqkVDSxn1r6rssekmXgxZTKEq_HtdeXCvgTOKGWmnDQUjA8CPaqLRrmVTms=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerodJquUF0ZVjV8yGxtlRPuHNhyNUpwRsdfkKdKHc7rpKmnr0QHSyUmO1pZN9fudO-gjmFtAZ1XxUbpKZyxFg00lZWBvqjIArYCdYMSSUwl5rN59XwbjRsPlAO_cQR2HOn7Kbsficzc0v7H=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEeHJxIsX9-Rwx7CZN3FyEsO_Sus2VqmeVOIh1dv-l0UuXCxnw6lK6Us_CBoCXZOCmugMGgVMsY3zoHi_RV93OV_H5b1vI0pKLWtYD7VuoFqbQPmNh-o1CkvHcUuRNuaIx94MMBaVYaVG69CsjOFW2OJJbgRkrjdj4-XKLFvVTTvWbRuWJA0EofHA=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "13952074537482038539",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13952074537482038539&q=beachfront+hotel",
+      "provider_id": "/g/1q4kl_h6v",
+      "gps_coordinates": {
+        "latitude": 25.8441241,
+        "longitude": -80.1212805
+      },
+      "extensions": [
+        "Beach access",
+        "Pool"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Ocean Manor Beach Resort",
+      "type": "3-star hotel",
+      "rating": 4.0,
+      "reviews": 4000,
+      "reviews_original": "(4K)",
+      "price": "$201",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqz7QMSELv4a8rmSWcqcswYqoxBSxCkXgAP5OOYrFLtc1OXErfBAwzc3ODqROTja91WtiwGdmPKfDc3EyAREOn8O36LyQmNq92YZQmZkGmM15Fc7Fo_W346lDmLoza-rGi4lsUJCA=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFmJesrhmY08bBwjplW3CIhk7Q9h7gPYn4jRCPB154SNYNiqB_5-0Cdw-u0sr_y8Fqq7EoBsIyViKc8KP6bQ3ScZ24wvRiEipnUJ4Ofpstu8w6Qa1qt5Dp9vU8O9NGAN49tzZexOzyqIaH=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoDUlhWMpP5fyUF7QvFpMzoYGCN626UQ_3c4dh7L3bTSC-uh3ofkiW6pvjuql9DXl7KAz2zPa2Hd6TcsMrhpygDRZdRn-xyVIR7IuEvk8F9XEj2WWq75rX5_biFVRinmZDHPCnMFS8gGbY0=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocH5aO7A6ZRFYHjkCx-dNxUa7PFn_yx6KWK_8h-YCVHyOV3sBea4ILt0cznNHo-niQ94BOz5XSVxaxYYbFSgvS0F895H6ZLxJdJR2QnGQg7Mfc-bywviFuTEDKAR21g2MINNfZJA=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7Bi7XLj9bJvU6uvzHnhwrW4fGn_Mw3pDIi-rewN2hrzlnSXwoD9xd-z8dHGXhYfLkKktNp6jQ0IcforVTrQNrJ4kRAqxSZRDLCNL8ZO984fcLdwQmhEQL9qPulT2zWCufhQDBp3U4cNpD=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepIdcfXef_fgkSGRS_pWymRJz7FZCCMu2XkNVU8PgRPIhTkQ8se3UNlx-OAHb5U2U56Gmtinkcj2x13sH1_Zd4mxUbZ83mv5ug-2sKetxZ66zs16r5pTlZ-4l86DvKZmRx5_aB7BZvbNRZA=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "6437827570326698480",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6437827570326698480&q=beachfront+hotel",
+      "provider_id": "/g/1vljh3vk",
+      "gps_coordinates": {
+        "latitude": 26.1778897,
+        "longitude": -80.0972453
+      },
+      "extensions": [
+        "Beach access",
+        "Pool"
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Hampton Inn Key Largo, FL",
+      "type": "3-star hotel",
+      "rating": 4.3,
+      "reviews": 2100,
+      "reviews_original": "(2.1K)",
+      "price": "$141",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRrimqCp1xQhMHeDCsa4JKqATqQYbjZvyGKmd6sSxqF8F_JXtdtuJkr_7Fe51CfxJzmb8WWv216nrmyuxs8AgheSCc8EckjFzHGfOfI9d3n9Bcilkc-4Q-KEcgCEwDU3hhHx0y=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcyTnAXnFcWam6ILZOaeYb1tvvVCMaCG6EGH2r9diezqDh-zmSIDbpGLl15NHYFc9bdKE19tq_lqnFQRWC3AnMe5mr0x5hbpkF8wZcKfeYMgEkSIyjVSXFqpGj-Q3Z_c8o5mwE=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep4iYBWKB3A6BiKiCYB--9K5ehyS2X--UkTc70zQyczOJ-ddhzuUGcyd6CCFp2e41rn5vOdPXgaSi6IfY8-F8HcjjtIvNjFks6liT-fSTM-gtM6ztQhl3_1ojh38QSejnVW6gAq=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAVd_70R_m1oUHGi91im7Fm9CTOFzBEZ4ZXMrFZqUi360dp4gQ76KZG4f-yWYOOEOgkAehBawKdvKT5FYjMLiwBNzL8fKwSx9_z3_HkWCpu__SXT-QabDNpTqedmbGeH8A5Is=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep1DliOnuk5KzeskyddeeiGTZ8diy3GFQEwkLFj9Y38Wg9SE4vKxQYnF9Evhv8UMu0JzBwL-QjLidO7ANOTEghgkEfG1izvVVCLWpZebGpF3J_Oy2GwHmaE_ymj_cbk5QqzatIL=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqctNOnRA2IVyIOeOQmJ-VR5Ji9T1WemeXOEI6MH97Nebl3KfEVDsQnsWS_DwK9-iVu3f7XhPi_wBQWqrbxu08p4eTvybb-sasupd_7JnIrnzRaaWFm9MCSWZG0vxjcdcVN18CU1A=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "11899447482400599957",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11899447482400599957&q=beachfront+hotel",
+      "provider_id": "/g/1tglzsf2",
+      "gps_coordinates": {
+        "latitude": 25.1220854,
+        "longitude": -80.4171921
+      },
+      "extensions": [
+        "Beach access",
+        "Eco-certified"
+      ]
+    },
+    {
+      "position": 8,
+      "title": "Sherry Frontenac Oceanfront Hotel",
+      "type": "3-star hotel",
+      "rating": 3.1,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$112",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweofpVMTVWor0Sdi0gbCNoNrcpPEefSa2Hyjc4p-kT2m9714mBW5pqWN_d0ThWIgYTmQBL_CMcOZy6Y3jGLeEB-Ygd9bECW8ijLvhGjBIMyz_v5l13ylWxVYNx_iJuCwGY2IBFkL=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq_JDAreyulbHfw_12HfBkr1vcLBIrrL6wwr6P_RfGsM4Ko5BBOM9bhf5qdtwn2JAjIg9T8c-EzKzD-mW3mUb2haKLy3v7L3ONlVGIIHHCEH5AFLARgH8JaoLLoHyJAvozUvtMb=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerbpyTD6bjMkZh7oiz0rEBNnjP197F4JU3xoixjrYONw7S5kuAVtHutmX_UDpgT3PHzrI81hxADbOWDrXVZ6aBHy597OnC8OP1YvcOgl4C6FaUPGI_crVPWTnuhSbZBLEmYb0zEEg=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRerY9CRcrYf93FWlk-u9eNFPpV8uhbjqMJSkq8VTFEsCE1kQkPeR6hrEyhfMn4aF9S73-wYamuvgkBjlsjp8zuDffIvpkif4L56mdfGFpRA_RRsUl0YlIatj7Nhyt1azr4FlBwGQu422n=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEx3KzjhmkKiVZQrKhUHN7k7R3hk0LHmIEWC5NfOo6-Eib86hbC_XNDM4SFEKCnb96EssK3s7jQL5nzt0b2kg19ONYNBPML-EZnniOxTKxQwXy43lF9Ubyp__Niq-CWojnoUWuRm0xBuyTFWZmBZNgoJDWV5kW7LBNQgeZXsVvodua0eRBUxfpJ=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEgjnTkxBjlRq4p2YWlPgybpbg4WEeQFXDuB5OANqXmRDqCYTZtVfmc1EUI4G_EdyPi5UdVcNEFSsd4mrVQs48DDTufcpywEDYqf2CHbXmHo2-jPxcNMek8l3XGvDeRdkpmFUwEdnx4Gggh0f9SbdjibIJRxwm59YkExhAxYE6Nv3ZTrakdsYIx=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "11283809343273885853",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11283809343273885853&q=beachfront+hotel",
+      "provider_id": "/g/1tk6wq5m",
+      "gps_coordinates": {
+        "latitude": 25.8492902,
+        "longitude": -80.1200515
+      },
+      "extensions": [
+        "Beach access",
+        "Pool"
+      ]
+    },
+    {
+      "position": 9,
+      "title": "Hilton Grand Vacations Club McAlpin Ocean Plaza Miami",
+      "type": "4-star hotel",
+      "rating": 4.5,
+      "reviews": 471,
+      "reviews_original": "(471)",
+      "price": "$269",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweobcF-EGewKeK5L2WYorAhQrDuOYYHxeHOGKoUs5kP_bWV8bXuqih5-iNEpgZ9bApQ6yhFLhBweqYCaADlU-YN4-8j_OMaYQxYvfbPvI4NOcb3ObrBNU7lUv5J7BQEv77X-Bi-g=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqY5JW9867q0uksz7jP8P-MvMrq1i6t-U5SxBWMe0hj7ZenmCtGtCtAEX5FLfBLqk50wTv5_7wZUxDVhJ08yYZ8lGLUpTI3bG4K5kTARcv6WmrRTBsyN88bzBeRefYUfztfKMZ6=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerNR9_gMN0qaWyYa6e-Wb9naFe2xLr0GaOfOfXyzBo0EnHUsqCY_S-Dg6TdpkybTK5Cfeh0sM1umLpYLy8Nkv0l5feJknx7XxqVy6mBi3t1wzZSNA7liwBXbOGIjOenUlagpCRc=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepz4PfIE10Vmi7vbAvrHTpE1cPFFyHkWjDB8ivLu81Dq3Y0cMPhWf5B4Q2pqdJ64_ti4EMj1eL7kjrtmMCw5lPEhXflRu1qnQYXJO5k9Sy7WVGOwMMYE0XaH7WhkOLmQJrNBQmH=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqgsrzS1wVpCVXVxxKTklF0Cld0S6-RQxid3R7PbUKZ42h5Ew9j5k2z9EOH9EFxecAunD5zcG7kjBoiUlblFR_dxSa-Xrrbi7D2mLe0dpmO13RAi0tfJJ80Ur35gr72TpZCzh88=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweooB74IVI5pnROXgaxaToHnZ3qliowHMQ2fhVVGcWFiSX7yxpiJwH1JQbaY-era8PEY2dt9pc-9pBb6_I49xveb0uVRSjQSQauod5xqgM5_uHmZQv7avxAlkLIm1wJ5XwKZwgg5=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "9357216602811675757",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9357216602811675757&q=beachfront+hotel",
+      "provider_id": "/g/1tdkn0gz",
+      "gps_coordinates": {
+        "latitude": 25.786290299999997,
+        "longitude": -80.1299086
+      },
+      "extensions": [
+        "Beach access",
+        "Free Wi-Fi"
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=beachfront+hotel&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=10&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=beachfront+hotel&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=10&udm=1",
+      "3": "https://www.google.com/search?q=beachfront+hotel&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "4": "https://www.google.com/search?q=beachfront+hotel&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=30&udm=1",
+      "5": "https://www.google.com/search?q=beachfront+hotel&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=beachfront+hotel&start=10&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=beachfront+hotel&start=10&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=beachfront+hotel&start=10&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=beachfront+hotel&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=beachfront+hotel&start=30&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=beachfront+hotel&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

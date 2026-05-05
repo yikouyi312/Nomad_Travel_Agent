@@ -1,0 +1,439 @@
+{
+  "search_metadata": {
+    "id": "69d52c014fa3ba1559ed5daa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/i4VOyKGPfv5WFbgCG7rM7w/69d52c014fa3ba1559ed5daa.json",
+    "created_at": "2026-04-07 16:08:33 UTC",
+    "processed_at": "2026-04-07 16:08:33 UTC",
+    "google_local_url": "https://www.google.com/search?q=Little+Italy&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/i4VOyKGPfv5WFbgCG7rM7w/69d52c014fa3ba1559ed5daa.html",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Little Italy",
+    "location_requested": "New York",
+    "location_used": "New York,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 40.71421605600625,
+      "longitude": -74.00266170501709
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.3,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "lsig": "AB86z5Unz8HQEwniqdHUCYgEgllQ",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/ZL8kKGfDZL72oVJJbiGMINDRV8FpCQEf35cga2tNLx0.jpeg",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "place_id": "17898085436872455458",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17898085436872455458&q=Little+Italy",
+      "provider_id": "/g/11clzr5x2x",
+      "gps_coordinates": {
+        "latitude": 40.708195,
+        "longitude": -74.0048
+      },
+      "title": "Little Italy Pizzeria and Deli",
+      "type": "Italian",
+      "address": "50 Fulton St"
+    },
+    {
+      "position": 2,
+      "rating": 4.5,
+      "reviews": 815,
+      "reviews_original": "(815)",
+      "lsig": "AB86z5WV83fB8gUNXm0N2VQxQS4g",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/1la_VNYPA0ypcOOAn8I9YQ9ReSanRmqk4tddYCd_zlA.jpeg",
+      "service_options": {
+        "onsite_services": true
+      },
+      "place_id": "2010456002789153033",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2010456002789153033&q=Little+Italy",
+      "provider_id": "/g/11b5wl2xc2",
+      "gps_coordinates": {
+        "latitude": 40.719234,
+        "longitude": -73.99749
+      },
+      "title": "Little Italy",
+      "type": "Restaurant",
+      "address": "189 Grand St"
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews": 65,
+      "reviews_original": "(65)",
+      "lsig": "AB86z5U9sAs0mRMKZNdVPwJ4cZOy",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/t_vDXIWfPwE6kakCWuiMR70lRnL2BOamRix9GF0p_4k.jpeg",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_delivery": true
+      },
+      "place_id": "16293312791889188766",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16293312791889188766&q=Little+Italy",
+      "provider_id": "/g/11n9mq7xzv",
+      "gps_coordinates": {
+        "latitude": 40.719067,
+        "longitude": -73.99699
+      },
+      "title": "L’industrie Pizzeria - Little Italy",
+      "type": "Pizza",
+      "address": "197 Grand St"
+    },
+    {
+      "position": 4,
+      "rating": 4.0,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$10–20",
+      "description": "Late-night nook for hefty slices & grub",
+      "lsig": "AB86z5X2FJY_Ar9vZfoHkxpNscDh",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/YpVpDaw4ZOZ0Dw6QJDrwDxpiv2XdL0TJEr4s_b-rVAo.jpeg",
+      "place_id": "4220952323027039852",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4220952323027039852&q=Little+Italy",
+      "provider_id": "/g/1tfbtt0w",
+      "gps_coordinates": {
+        "latitude": 40.715145,
+        "longitude": -74.00797
+      },
+      "title": "Little Italy Pizza",
+      "type": "Pizza",
+      "address": "154 Church St"
+    },
+    {
+      "position": 5,
+      "rating": 4.2,
+      "reviews": 562,
+      "reviews_original": "(562)",
+      "price": "$1–10",
+      "description": "Counter for slices of pizza & calzones",
+      "lsig": "AB86z5WOWIKuYpvV-sKs216bCaKN",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/LBxkP_Nm9YFa-Jrgablh-I720JJPUqK5mgurKNN6EUE.jpeg",
+      "place_id": "3171214220453940517",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3171214220453940517&q=Little+Italy",
+      "provider_id": "/g/1tp308__",
+      "gps_coordinates": {
+        "latitude": 40.713043,
+        "longitude": -74.00833
+      },
+      "title": "Little Italy Pizza - Park Place",
+      "type": "Italian",
+      "address": "11 Park Pl"
+    },
+    {
+      "position": 6,
+      "rating": 4.6,
+      "reviews": 6100,
+      "reviews_original": "(6.1K)",
+      "description": "Low-key destination serving Italian fare",
+      "lsig": "AB86z5WUMmNjBY-8NU6IKr_WrP1d",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/0EI5YgNn735MgGz0DN9UHrT8SwJ75jDLzLph4SwUB1U.jpeg",
+      "place_id": "17592187765502933062",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17592187765502933062&q=Little+Italy",
+      "provider_id": "/g/11grc8gtn5",
+      "gps_coordinates": {
+        "latitude": 40.71871,
+        "longitude": -73.99757
+      },
+      "title": "Zia Maria Little Italy",
+      "type": "Italian",
+      "address": "138 Mulberry St"
+    },
+    {
+      "position": 7,
+      "rating": 4.6,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$20–30",
+      "lsig": "AB86z5UIBMlJ9xdDD8SeWBWONcds",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/n3d5WEhhIMPOJDCn-1qxt7fC1gW_Xioi1-cfVvmKKwo.jpeg",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "place_id": "679269727088840293",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=679269727088840293&q=Little+Italy",
+      "provider_id": "/g/11sfsfgxn4",
+      "gps_coordinates": {
+        "latitude": 40.717693,
+        "longitude": -73.998405
+      },
+      "title": "Jose Luis Little Italy",
+      "type": "Italian",
+      "address": "115 Mulberry St"
+    },
+    {
+      "position": 8,
+      "lsig": "AB86z5UoyOuax7mKWW9WS_QJWQvA",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/eg6bMi1dlSJ9E313FGiIQXvWCu2xI0ljRr8MjMsndHo.jpeg",
+      "place_id": "11443395511910642820",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11443395511910642820&q=Little+Italy",
+      "provider_id": "/m/01nbpn",
+      "gps_coordinates": {
+        "latitude": 40.719143,
+        "longitude": -73.99733
+      },
+      "title": "Little Italy",
+      "address": "New York, NY"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 3400,
+      "reviews_original": "(3.4K)",
+      "price": "$20–30",
+      "lsig": "AB86z5War0NLvxJZprUD1sJ43k48",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/Zfc5fD-xJJ2ZZPjIdHT27HvnVTSdtwRrC2_gRPqaSdY.jpeg",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "place_id": "16935897339943061647",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16935897339943061647&q=Little+Italy",
+      "provider_id": "/g/11jb0xphv6",
+      "gps_coordinates": {
+        "latitude": 40.71887,
+        "longitude": -73.99772
+      },
+      "title": "Sofia's of Little Italy",
+      "type": "Italian",
+      "address": "143 Mulberry St"
+    },
+    {
+      "position": 10,
+      "rating": 4.6,
+      "reviews": 2900,
+      "reviews_original": "(2.9K)",
+      "lsig": "AB86z5W8vBn8baZTqm9uZPkV14fl",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/mX_fLFe0EteqD_TYCore0bdHZs1EKnLzTJk4CKUuacQ.jpeg",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "place_id": "12787779098574241270",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12787779098574241270&q=Little+Italy",
+      "provider_id": "/g/11kj896nq7",
+      "gps_coordinates": {
+        "latitude": 40.718647,
+        "longitude": -73.997925
+      },
+      "title": "Osteria Barocca",
+      "type": "Italian",
+      "address": "133 Mulberry St"
+    },
+    {
+      "position": 11,
+      "rating": 4.2,
+      "reviews": 4300,
+      "reviews_original": "(4.3K)",
+      "price": "$10–20",
+      "description": "New York-style pizzeria",
+      "lsig": "AB86z5VpDUzKODvgNxm2l3XjRxbM",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/tIMmP20PRMmy6yv7I0uaV55N72bGw7_XBODu4MhEp2s.jpeg",
+      "place_id": "12178872282548738491",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12178872282548738491&q=Little+Italy",
+      "provider_id": "/g/1tcx7ycp",
+      "gps_coordinates": {
+        "latitude": 40.74761,
+        "longitude": -73.984886
+      },
+      "title": "Little Italy Pizza",
+      "type": "Italian",
+      "address": "2 E 33rd St"
+    },
+    {
+      "position": 12,
+      "rating": 4.2,
+      "reviews": 792,
+      "reviews_original": "(792)",
+      "price": "$1–10",
+      "description": "Standard slices & specialty pies",
+      "lsig": "AB86z5WBwYSvGimZne4L8Z7JHRG6",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/jojEvoxyoQD3WREGAsCTqhDICMXASIaHI4mI9EtCMi8.jpeg",
+      "place_id": "14631156496762869152",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14631156496762869152&q=Little+Italy",
+      "provider_id": "/g/1tfrsvg0",
+      "gps_coordinates": {
+        "latitude": 40.734756,
+        "longitude": -73.9923
+      },
+      "title": "Little Italy Pizza III",
+      "type": "Italian",
+      "address": "122 University Pl"
+    },
+    {
+      "position": 13,
+      "rating": 4.4,
+      "reviews": 627,
+      "reviews_original": "(627)",
+      "lsig": "AB86z5XGmEqyg__AKjXFIVN4cVRE",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/5KMpOXebygnuFUovZc1MDFBQTNOOZR6mfSqMkHR28Lg.jpeg",
+      "service_options": {
+        "onsite_services": true
+      },
+      "place_id": "14075349808424177708",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14075349808424177708&q=Little+Italy",
+      "provider_id": "/g/11g6_0ny_y",
+      "gps_coordinates": {
+        "latitude": 40.718227,
+        "longitude": -73.99787
+      },
+      "title": "Little Italy Sign",
+      "type": "Tourist attraction",
+      "address": "177 Hester St"
+    },
+    {
+      "position": 14,
+      "rating": 4.4,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "price": "$10–20",
+      "description": "Slice joint with wide variety",
+      "lsig": "AB86z5VBQmy36GrdsYJyfTTeSebj",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/LkW3lbjlbXx5R5CuO19Mdoi8uo1rfOFrdm4Qn3dU7A0.jpeg",
+      "place_id": "4515448181439626767",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4515448181439626767&q=Little+Italy",
+      "provider_id": "/g/1tf3291r",
+      "gps_coordinates": {
+        "latitude": 40.75641,
+        "longitude": -73.981544
+      },
+      "title": "Little Italy Pizza",
+      "type": "Italian",
+      "address": "55 W 45th St"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$1–10",
+      "description": "Pies and slices in casual digs",
+      "lsig": "AB86z5WSHeeJSxhcz7QVmpOz6MzA",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcWBPquILxFDlGFIfczxj3H_mEAcxYMTqqgf7D3sfWJK06puk2F88n_sl-Cpcuavl48hY3br0ZvWY9kVYdsxLFh6s85PsQ5LQo2QoZccoStudWsTivsR98yXeiKxOkdQS4B_i7=w90-h90-n-k-no-l75",
+      "place_id": "4671332717857073092",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4671332717857073092&q=Little+Italy",
+      "provider_id": "/g/11kxkcl_ph",
+      "gps_coordinates": {
+        "latitude": 40.75979,
+        "longitude": -73.98375
+      },
+      "title": "Little Italy Pizza",
+      "type": "Italian",
+      "address": "167 W 48th St"
+    },
+    {
+      "position": 16,
+      "rating": 4.4,
+      "reviews": 2300,
+      "reviews_original": "(2.3K)",
+      "description": "Retro Italian restaurant",
+      "lsig": "AB86z5UDYNjX-uS92UwvqJgWHGo3",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/gwCCG_0nJY7gaA90pjCMJQ4QXRQ4oLzEacXBvLfgwYM.jpeg",
+      "place_id": "8810040272551183991",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8810040272551183991&q=Little+Italy",
+      "provider_id": "/g/1v5_bbnt",
+      "gps_coordinates": {
+        "latitude": 40.717983,
+        "longitude": -73.99823
+      },
+      "title": "Il Cortile",
+      "type": "Italian",
+      "address": "125 Mulberry St",
+      "hours": "Closed · Opens 5 PM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "description": "Homey Italian trattoria with a patio",
+      "lsig": "AB86z5X30m6FAv_1WakFjyNe2j-v",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/cUN0ODvaHgyxE0PA2gYHLwyQsAWbamT1-I0h2QwTjAM.jpeg",
+      "place_id": "10426176329784344593",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10426176329784344593&q=Little+Italy",
+      "provider_id": "/g/1vhlz2zr",
+      "gps_coordinates": {
+        "latitude": 40.71775,
+        "longitude": -73.997955
+      },
+      "title": "Buona Notte",
+      "type": "Italian",
+      "address": "120 Mulberry St #2"
+    },
+    {
+      "position": 18,
+      "rating": 4.6,
+      "reviews": 5800,
+      "reviews_original": "(5.8K)",
+      "description": "Old-school Italian dining & service",
+      "lsig": "AB86z5Xr6exAI2--4QUuTiCoBCHT",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/0lUqIncL2AjLrPAXi0zTSby1fuN2sKhB6sxq7yM3emI.jpeg",
+      "place_id": "18099147441938130374",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18099147441938130374&q=Little+Italy",
+      "provider_id": "/g/1thd7lnm",
+      "gps_coordinates": {
+        "latitude": 40.718807,
+        "longitude": -73.99723
+      },
+      "title": "Casa D'angelo New York",
+      "type": "Italian",
+      "address": "Between Hester &, 146 Mulberry Street, Grand St"
+    },
+    {
+      "position": 19,
+      "rating": 4.4,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "Year-round shop for holiday decorations",
+      "lsig": "AB86z5WIw5NjRPC0OnpLsB5ByC5B",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/8Q85LYgM2qc9Gmt0Ins4-IxM3FUEQ0juut6bxudtDLM.jpeg",
+      "place_id": "892895527938266483",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=892895527938266483&q=Little+Italy",
+      "provider_id": "/g/1vhlz329",
+      "gps_coordinates": {
+        "latitude": 40.718815,
+        "longitude": -73.997444
+      },
+      "title": "Christmas in New York - Little Italy",
+      "type": "Christmas store",
+      "address": "142 Mulberry St"
+    },
+    {
+      "position": 20,
+      "rating": 4.5,
+      "reviews": 385,
+      "reviews_original": "(385)",
+      "price": "$1–10",
+      "description": "Pizza counter with sandwiches & more",
+      "lsig": "AB86z5XmyiSOaxaT-Iqrr7iPcgXR",
+      "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/OBo6_UTpo0PjnPQrYv1yH0xWscU70fKOEwEJTcnk7GM.jpeg",
+      "place_id": "12175031842992206086",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12175031842992206086&q=Little+Italy",
+      "provider_id": "/g/1td9fp0_",
+      "gps_coordinates": {
+        "latitude": 40.751255,
+        "longitude": -73.98193
+      },
+      "title": "The Original Little Italy",
+      "type": "Italian",
+      "address": "2 East 39th Street, 5th Ave Off"
+    }
+  ]
+}

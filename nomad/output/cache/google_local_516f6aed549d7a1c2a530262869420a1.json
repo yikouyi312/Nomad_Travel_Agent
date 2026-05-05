@@ -1,0 +1,85 @@
+{
+  "search_metadata": {
+    "id": "69d52d2f73d175247d5e07b2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6q0d6JCLVgZ7u18wuh9ZOg/69d52d2f73d175247d5e07b2.json",
+    "created_at": "2026-04-07 16:13:35 UTC",
+    "processed_at": "2026-04-07 16:13:35 UTC",
+    "google_local_url": "https://www.google.com/search?q=Chichen+Itza&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/6q0d6JCLVgZ7u18wuh9ZOg/69d52d2f73d175247d5e07b2.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Chichen Itza",
+    "location_requested": "Cancun",
+    "location_used": "Cancun,Quintana Roo,Mexico",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 20.99734274071184,
+      "longitude": -87.6983642578125
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.5,
+      "reviews": 433,
+      "reviews_original": "(433)",
+      "lsig": "AB86z5XhpQo2UkMKFcGEuzBkwF9g",
+      "thumbnail": "https://serpapi.com/searches/69d52d2f73d175247d5e07b2/images/D3kEigATPJFUaCsr69RJSjg-qt4kQM8LWdI5xXzOr9U.jpeg",
+      "place_id": "9599358058761643011",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=9599358058761643011&q=Chichen+Itza",
+      "provider_id": "/g/11hdb8fqyx",
+      "gps_coordinates": {
+        "latitude": 21.168982,
+        "longitude": -86.855156
+      },
+      "title": "Chichen Itzá Park",
+      "type": "Park",
+      "address": "C. 46 LB"
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 137000,
+      "reviews_original": "(137K)",
+      "description": "Famous destination for Mayan ruins",
+      "lsig": "AB86z5Uxuaw2HUuLRu1CXuLorEgZ",
+      "thumbnail": "https://serpapi.com/searches/69d52d2f73d175247d5e07b2/images/GGnpigeYbclwnDxrnhCGWm408XtsdEWFakipZr8orrk.jpeg",
+      "place_id": "8943762525109439898",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=8943762525109439898&q=Chichen+Itza",
+      "provider_id": "/m/017kpv",
+      "gps_coordinates": {
+        "latitude": 20.684284,
+        "longitude": -88.56778
+      },
+      "title": "Chichén Itzá",
+      "type": "Archaeological site",
+      "address": "Yucatan, Mexico"
+    },
+    {
+      "position": 3,
+      "rating": 5.0,
+      "reviews": 15,
+      "reviews_original": "(15)",
+      "lsig": "AB86z5V8padc9qv9UmUlfH0lC69k",
+      "thumbnail": "https://serpapi.com/searches/69d52d2f73d175247d5e07b2/images/I0LnDjt8s6xx2OwYkbE0D93iRvABkCbLxXueBixzuiU.jpeg",
+      "place_id": "6265960369200241743",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=6265960369200241743&q=Chichen+Itza",
+      "provider_id": "/g/11tnfzq_ch",
+      "gps_coordinates": {
+        "latitude": 21.155123,
+        "longitude": -86.82488
+      },
+      "title": "Chichen Itza Cancun",
+      "type": "Sightseeing tour agency",
+      "address": "Av. Tulúm 4"
+    }
+  ]
+}

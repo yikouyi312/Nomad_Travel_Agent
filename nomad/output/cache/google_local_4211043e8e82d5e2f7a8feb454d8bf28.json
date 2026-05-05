@@ -1,0 +1,468 @@
+{
+  "search_metadata": {
+    "id": "69d5153fbd17317e6d89949a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9VA5zX8z9x6j4789vZVF0A/69d5153fbd17317e6d89949a.json",
+    "created_at": "2026-04-07 14:31:27 UTC",
+    "processed_at": "2026-04-07 14:31:27 UTC",
+    "google_local_url": "https://www.google.com/search?q=Pacific+Northwest+cuisine&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/9VA5zX8z9x6j4789vZVF0A/69d5153fbd17317e6d89949a.html",
+    "total_time_taken": 1.6
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Pacific Northwest cuisine",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.625563438215984,
+      "longitude": -122.60467529296875
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.4,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "price": "$20–30",
+      "description": "\"Best clam chowder, halibut, and chips I've ever had anywhere!!!\"",
+      "lsig": "AB86z5VWLQLcWEJaN66erIUEHGTJ",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/JKcHpxVcGM8JwwLlCHj-b0rzfZJIbo4o5_564mq6_TU.jpeg",
+      "place_id": "16013921327029841272",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16013921327029841272&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1tdwvddq",
+      "gps_coordinates": {
+        "latitude": 45.798103,
+        "longitude": -122.661
+      },
+      "title": "Pacific Northwest Best Fish Co",
+      "type": "Seafood",
+      "address": "Ridgefield, WA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 2,
+      "rating": 5.0,
+      "reviews": 22,
+      "reviews_original": "(22)",
+      "price": "$10–20",
+      "description": "\"Food was excellent, delicious and our whole experience was rare hospitality.\"",
+      "lsig": "AB86z5WmFnh_rYw_dYcRC0aonAVk",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweojTugk986k6EoTFxppqvy1dDIqSrm9X3y2koSaBOGGASibFsrCbeplRyQH8l7kMg8GUZim4FpuCNkIlVWs-gIcBAg9KFj1EewD0BhYzpZJdeq3gQrEQ7aT7lmlWOXy6fwWYVFAVQ=w90-h90-n-k-no-l75",
+      "place_id": "3258021663454494106",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3258021663454494106&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11y5jmfp0g",
+      "gps_coordinates": {
+        "latitude": 45.52438,
+        "longitude": -122.67076
+      },
+      "title": "Dungu",
+      "type": "Pacific Northwestern",
+      "address": "38 NW Davis St",
+      "hours": "Closed · Opens 4 PM Wed"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 263,
+      "reviews_original": "(263)",
+      "price": "$20–30",
+      "description": "\"Excellent flavors and presentation, and easy parking.\"",
+      "lsig": "AB86z5WYukfRCzZyUVR5Dw5YTq6O",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqEQOH4g8gAbRKfwlOYQU9K1vEPywdhQrAG5IsmPtpqueUBG3ia2qY9DlUnuSNZ7M51nm4Y2jw78hvpy2IhxktE22wVgHF3oiTyf4z3Za-muM8hykaZmxHpmZPS3bDd-cYLGytqwe12-Mj8=w90-h90-n-k-no-l75",
+      "place_id": "139545828157471606",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=139545828157471606&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11frk5032g",
+      "gps_coordinates": {
+        "latitude": 45.53666,
+        "longitude": -122.701645
+      },
+      "title": "Urban Steel Kitchen + Bar",
+      "type": "Pacific Northwestern",
+      "address": "2426 NW Vaughn St"
+    },
+    {
+      "position": 4,
+      "rating": 4.7,
+      "reviews": 276,
+      "reviews_original": "(276)",
+      "price": "$100+",
+      "description": "\"Every dish was an experience and the flavor’s exploded in your mouth.\"",
+      "lsig": "AB86z5XJi1Kr3jLPebKHm5minglX",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/wDYPeSWsgdOG86paRSqx3axyYLAN-ZEcciokZn7PsqE.jpeg",
+      "place_id": "18351935091715351956",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=18351935091715351956&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11s94nzrnh",
+      "gps_coordinates": {
+        "latitude": 45.526306,
+        "longitude": -122.67829
+      },
+      "title": "Lilia Comedor",
+      "type": "Pacific Northwestern",
+      "address": "422 NW 8th Ave",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 458,
+      "reviews_original": "(458)",
+      "price": "$100+",
+      "description": "\"Every dish was artfully presented and every bite was outstanding.\"",
+      "lsig": "AB86z5VGgdcDe5iEkSkdMez4lFck",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/mrUlDkXCLIQZTk0UtDuZPM8dc3rW_9eyMoDJGdC66aA.jpeg",
+      "place_id": "421449594404653546",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=421449594404653546&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11hbw3wdsr",
+      "gps_coordinates": {
+        "latitude": 45.526054,
+        "longitude": -122.681366
+      },
+      "title": "Arden Restaurant Portland",
+      "type": "Restaurant",
+      "address": "417 NW 10th Ave",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 6,
+      "rating": 3.6,
+      "reviews": 138,
+      "reviews_original": "(138)",
+      "description": "\"2 hour parking on the street.\"",
+      "lsig": "AB86z5VyBtcoFODsGI_1KQKrl5EY",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/An4KpvV7a1rjnA5Lr2d4DkMFnc5earRKpHUFvoXfUCg.jpeg",
+      "place_id": "939186019564084039",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=939186019564084039&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1thx_j2x",
+      "gps_coordinates": {
+        "latitude": 45.53632,
+        "longitude": -122.4594
+      },
+      "title": "Performance Foodservice - Pacific Northwest",
+      "type": "Food products supplier",
+      "address": "19786 NE San Rafael St"
+    },
+    {
+      "position": 7,
+      "rating": 4.0,
+      "reviews": 1,
+      "reviews_original": "(1)",
+      "lsig": "AB86z5UkiL0O4iROkyE45vTlq0yz",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/YChBnVWNjeoCyJvneaTAerbMIkMuT1cZhXFIwUhIdbU.webp",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_delivery": true
+      },
+      "place_id": "18072373618263118475",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=18072373618263118475&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1tkrlhyc",
+      "gps_coordinates": {
+        "latitude": 45.423256,
+        "longitude": -122.75052
+      },
+      "title": "Pacific Coast Restaurants Inc",
+      "type": "American",
+      "address": "7165 SW Fir Loop # 200",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 3500,
+      "reviews_original": "(3.5K)",
+      "price": "$50–100",
+      "description": "\"Everything had unique flavors and I thought the portion sizes were perfect.\"",
+      "lsig": "AB86z5WiXls7p9DYRG9U5kgdQuKE",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/oHTvvUKYzVdKPYZxcUxaO1OwPxtD7kNjD5qZPoseZ50.jpeg",
+      "place_id": "3100174719211852303",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3100174719211852303&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1thnnh4v",
+      "gps_coordinates": {
+        "latitude": 45.526333,
+        "longitude": -122.6846
+      },
+      "title": "Andina",
+      "type": "Peruvian",
+      "address": "1314 NW Glisan St",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$100+",
+      "description": "\"Great variety of Pacific Northwest food and inventive cocktails.\"",
+      "lsig": "AB86z5XaZ9gF8bwKR4gQBVSyFwiI",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/lxQcYhDSu18IZvDnDXhCO3B5X7wRwWtHymxglVyfGVQ.jpeg",
+      "place_id": "6593202195607173994",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6593202195607173994&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11c5rpjx25",
+      "gps_coordinates": {
+        "latitude": 45.516804,
+        "longitude": -122.67506
+      },
+      "title": "Q Restaurant & Bar",
+      "type": "Restaurant",
+      "address": "828 SW 2nd Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "description": "\"The fish was cooked perfectly, and the vinaigrette was absolutely delicious.\"",
+      "lsig": "AB86z5VQ3xrC8jGsJzy_OUXbpt_K",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/EfRJl-yNZ24tCxiW0fkxMYESV_kYzRf0DmXSwc-cXlY.jpeg",
+      "place_id": "17427190921001690893",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17427190921001690893&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11cmbgw3s5",
+      "gps_coordinates": {
+        "latitude": 45.51557,
+        "longitude": -122.682
+      },
+      "title": "Higgins",
+      "type": "Pacific Northwestern",
+      "address": "1239 SW Broadway",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.6,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$20–30",
+      "description": "\"Reasonably priced dishes that will knock your socks off with flavour.\"",
+      "lsig": "AB86z5V5VoZvpmDY0cqIH8TJHBY0",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/6KbLxz8p_N0rxX959yCT7yc6Okkg_tUzVRuBc-Y1K48.jpeg",
+      "place_id": "2574505151415432726",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2574505151415432726&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11ngjn33rw",
+      "gps_coordinates": {
+        "latitude": 45.523796,
+        "longitude": -122.68271
+      },
+      "title": "Screen Door Pearl District",
+      "type": "Southern",
+      "address": "1131 NW Couch St",
+      "hours": "Closed · Opens 8:30 AM"
+    },
+    {
+      "position": 12,
+      "rating": 4.6,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$20–30",
+      "description": "\"The oysters, the clams, and the chicken were incredible.\"",
+      "lsig": "AB86z5WjFBaaU3nkG-jfKmGJ0QS6",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/OriYIHghOGmDGMWRh5WzgiFm6e95SPR2jLY4Fjs8CNQ.jpeg",
+      "place_id": "1157787888973979999",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=1157787888973979999&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1tcxjgzf",
+      "gps_coordinates": {
+        "latitude": 45.51877,
+        "longitude": -122.66394
+      },
+      "title": "Olympia Provisions",
+      "type": "Restaurant",
+      "address": "107 SE Washington St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.8,
+      "reviews": 92,
+      "reviews_original": "(92)",
+      "description": "\"Professional\"",
+      "lsig": "AB86z5WYuEp_a-jiX56EK09A5_2U",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/RXP8Ug2algKt8ubPABh7dO6XmAELJSEpIyfzlhh-vqk.jpeg",
+      "place_id": "18297349398521355421",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=18297349398521355421&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1tzlyp7v",
+      "gps_coordinates": {
+        "latitude": 45.553688,
+        "longitude": -122.49852
+      },
+      "title": "Pacific Northwest Carpenters Institute",
+      "type": "Training center",
+      "address": "4222 NE 158th Ave",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.5,
+      "reviews": 7900,
+      "reviews_original": "(7.9K)",
+      "price": "$50–100",
+      "description": "\"The seafood was fresh, flavorful, and plated beautifully.\"",
+      "lsig": "AB86z5UUQM0i8pRr5RDQore7EdEo",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/uxE4urqIoEqEmjKapaNZQeZYgzYPY-gGgn9P7sBJpiU.jpeg",
+      "place_id": "6983450090413321676",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6983450090413321676&q=Pacific+Northwest+cuisine",
+      "provider_id": "/m/0cc7ctx",
+      "gps_coordinates": {
+        "latitude": 45.522213,
+        "longitude": -122.67595
+      },
+      "title": "Portland City Grill",
+      "type": "Seafood",
+      "address": "111 SW 5th Ave 30th Floor",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 907,
+      "reviews_original": "(907)",
+      "price": "$20–30",
+      "description": "\"Delicious fresh food, great menu, friendly service.\"",
+      "lsig": "AB86z5W1RCcHRKrMIhnFrox9bAoW",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/QD-F_qEm9Uaw3HJx4f67yruxb4K5BZ_nJA3MX2cb2GU.jpeg",
+      "place_id": "1312402599300575287",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=1312402599300575287&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1ydxc3g05",
+      "gps_coordinates": {
+        "latitude": 45.527294,
+        "longitude": -122.683075
+      },
+      "title": "Verde Cocina En La Perla",
+      "type": "Mexican",
+      "address": "1131 NW Hoyt St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.9,
+      "reviews": 7600,
+      "reviews_original": "(7.6K)",
+      "description": "\"The fried noodles were incredibly creative and absolutely delicious.\"",
+      "lsig": "AB86z5XCSinUKgQxfS2dv-5NCiGw",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/wD_aJz712DyrhiF1wHwCowLPVn5rArKsWFoHbvS8KfM.jpeg",
+      "place_id": "12084191215586592971",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12084191215586592971&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11qpqys1d6",
+      "gps_coordinates": {
+        "latitude": 45.523827,
+        "longitude": -122.680275
+      },
+      "title": "Farmhouse Kitchen Thai Cuisine | Pearl District",
+      "type": "Restaurant",
+      "address": "121 NW 9th Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$20–30",
+      "description": "\"The halibut was delicious and tender, the crab melted in your mouth.\"",
+      "lsig": "AB86z5WTSqBUU8ftIhmr92FCuHCO",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/Ck3FDZtFu6VgJdef6GE23OSoF8VBZo9177zZ0SbNowg.jpeg",
+      "place_id": "11816365451101352683",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=11816365451101352683&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/1tfrggq5",
+      "gps_coordinates": {
+        "latitude": 45.47587,
+        "longitude": -122.7051
+      },
+      "title": "Seasons & Regions Seafood Grill",
+      "type": "Seafood",
+      "address": "6660 SW Capitol Hwy",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.5,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "price": "$50–100",
+      "description": "\"The food was delicious, and it was cozy to sit outside on their patio.\"",
+      "lsig": "AB86z5VkwywzBt0-4HrzEdX4YgBY",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/6clVXjUm3N2LGAd9CH1kSaxuvnFlahMM77jBf38FzXI.jpeg",
+      "place_id": "2609171275777852549",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2609171275777852549&q=Pacific+Northwest+cuisine",
+      "provider_id": "/m/0xmcd27",
+      "gps_coordinates": {
+        "latitude": 45.51763,
+        "longitude": -122.65142
+      },
+      "title": "Nostrana",
+      "type": "Italian",
+      "address": "1401 SE Morrison St #101",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.5,
+      "reviews": 596,
+      "reviews_original": "(596)",
+      "price": "$20–30",
+      "description": "\"Their tea leaf salad is out of this world - if you like spicy.\"",
+      "lsig": "AB86z5WBrH1UYqQVVeXmyz3tHbgf",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerg_45qH7VLLscHfbQiN2oOKW4gQdYIw5RdprG5o2nV813OP6_yVsIYlSvbNVNwkKXrQYzWaX9q40x72IIyfduShpRb7Wtq3ft0ZMrwNe0V6o-yIt8Om8N4gRT97vrAu35g-q9J=w90-h90-n-k-no-l75",
+      "place_id": "5882566144233027263",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5882566144233027263&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11h3dg6wf3",
+      "gps_coordinates": {
+        "latitude": 45.525837,
+        "longitude": -122.694695
+      },
+      "title": "Top Burmese",
+      "type": "Asian",
+      "address": "413 NW 21st Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 451,
+      "reviews_original": "(451)",
+      "price": "$20–30",
+      "description": "\"Clean flavors, incredible fish, simple - easy - tasty.\"",
+      "lsig": "AB86z5UGFyO7f4gL_GWEYbbOww49",
+      "thumbnail": "https://serpapi.com/searches/69d5153fbd17317e6d89949a/images/8fUo-5tyHCZ0FiKkPGWkOL65faoj89fEsWDu5TTvMTA.jpeg",
+      "place_id": "7016203127602270428",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=7016203127602270428&q=Pacific+Northwest+cuisine",
+      "provider_id": "/g/11gjq23hp9",
+      "gps_coordinates": {
+        "latitude": 45.524483,
+        "longitude": -122.69914
+      },
+      "title": "Fish & Rice",
+      "type": "Sushi",
+      "address": "2332 NW Westover Rd",
+      "hours": "Closed · Opens 12 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Pacific+Northwest+cuisine&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Pacific+Northwest+cuisine&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=Pacific+Northwest+cuisine&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=Pacific+Northwest+cuisine&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=Pacific+Northwest+cuisine&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=Pacific+Northwest+cuisine&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=Pacific+Northwest+cuisine&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=Pacific+Northwest+cuisine&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=Pacific+Northwest+cuisine&start=40&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=Pacific+Northwest+cuisine&start=60&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=Pacific+Northwest+cuisine&start=80&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

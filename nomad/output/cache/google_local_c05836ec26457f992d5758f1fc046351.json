@@ -1,0 +1,463 @@
+{
+  "search_metadata": {
+    "id": "69d515482f5ea0163e109605",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pOpHhke5Cr-3XqKMK2-TvQ/69d515482f5ea0163e109605.json",
+    "created_at": "2026-04-07 14:31:36 UTC",
+    "processed_at": "2026-04-07 14:31:36 UTC",
+    "google_local_url": "https://www.google.com/search?q=gluten-free+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/pOpHhke5Cr-3XqKMK2-TvQ/69d515482f5ea0163e109605.html",
+    "total_time_taken": 3.11
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "gluten-free restaurants",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.53942118763241,
+      "longitude": -122.6620101928711
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "price": "$10–20",
+      "description": "\"Great gf options, friendly servers, really good service.\"",
+      "lsig": "AB86z5VoA1FRo1w2AJajlEDti64D",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/K2vi9UItnX-t7CIWxc3d4aQrwtyBCMuvhyaIQbUd20o.jpeg",
+      "place_id": "12950475952049856372",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12950475952049856372&q=gluten-free+restaurants",
+      "provider_id": "/g/11cn9zgllg",
+      "gps_coordinates": {
+        "latitude": 45.519085,
+        "longitude": -122.68392
+      },
+      "title": "The Daily Feast",
+      "type": "Restaurant",
+      "address": "837 SW 11th Ave"
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 205,
+      "reviews_original": "(205)",
+      "price": "$10–20",
+      "description": "\"This is the most incredible gluten free and vegan food I’ve ever had!\"",
+      "lsig": "AB86z5XJqYz3_exKgECLMpTNpA5J",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/KfWvHA16QFaMYk0JnNeXvD2QQOvnx7dKDu4ykLlRYT0.jpeg",
+      "place_id": "4776875571280383286",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4776875571280383286&q=gluten-free+restaurants",
+      "provider_id": "/g/11q1jz9x63",
+      "gps_coordinates": {
+        "latitude": 45.57067,
+        "longitude": -122.68193
+      },
+      "title": "Honey Butter Country Fare",
+      "type": "Restaurant",
+      "address": "6550 N Interstate Ave",
+      "hours": "Closed · Opens 12 PM Wed"
+    },
+    {
+      "position": 3,
+      "rating": 4.0,
+      "reviews": 262,
+      "reviews_original": "(262)",
+      "price": "$20–30",
+      "description": "\"Homemade sausage and wonderful gluten free bread.\"",
+      "lsig": "AB86z5X7DEMD_YS6WKEERPQfY6V3",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/YTq8o2CexltUTWjgy_bdxzfkVmCRiEkcUUEF80pft4c.jpeg",
+      "place_id": "11963929123670928759",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=11963929123670928759&q=gluten-free+restaurants",
+      "provider_id": "/g/11dzdk5rz3",
+      "gps_coordinates": {
+        "latitude": 45.520317,
+        "longitude": -122.67505
+      },
+      "title": "CRAFTpdx",
+      "type": "American",
+      "address": "320 SW Harvey Milk St"
+    },
+    {
+      "position": 4,
+      "rating": 4.7,
+      "reviews": 455,
+      "reviews_original": "(455)",
+      "price": "$20–30",
+      "description": "\"All vegan with multiple gluten free options.\"",
+      "lsig": "AB86z5XmyhX4n0HZsG1_kg6Tnwum",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/5kru2NP4ZdXcsRrXmzue4v2vZOwoYsq3fRy2JoK6dJI.jpeg",
+      "place_id": "8609625482922068190",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8609625482922068190&q=gluten-free+restaurants",
+      "provider_id": "/g/11q3y47bfr",
+      "gps_coordinates": {
+        "latitude": 45.51276,
+        "longitude": -122.656006
+      },
+      "title": "Lilla",
+      "type": "Vegan",
+      "address": "960 SE Madison St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.5,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$10–20",
+      "description": "\"A cute place to have some delicious gluten-free and vegan food with friends.\"",
+      "lsig": "AB86z5VKWyliPNXs_RDz9eWcgrut",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/0ANr-xXXvPvVEUGGBtP5nIaQ_TxwAiA8eibSFlF6ZMI.jpeg",
+      "place_id": "11257599563537209510",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=11257599563537209510&q=gluten-free+restaurants",
+      "provider_id": "/g/126279kzj",
+      "gps_coordinates": {
+        "latitude": 45.520916,
+        "longitude": -122.68373
+      },
+      "title": "Petunia's Pies & Pastries",
+      "type": "Gluten Free",
+      "address": "610 SW 12th Ave",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.3,
+      "reviews": 250,
+      "reviews_original": "(250)",
+      "price": "$10–20",
+      "description": "\"Delicious soups and great options\"",
+      "lsig": "AB86z5ULAsMDb646Toscvr6DyeDU",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/ZwmRiiIKrFB17rYpiALgQ9z9XUxGDAe8XnUjcBmM7hc.jpeg",
+      "place_id": "5134493985291881833",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5134493985291881833&q=gluten-free+restaurants",
+      "provider_id": "/g/1thq0f4s",
+      "gps_coordinates": {
+        "latitude": 45.51869,
+        "longitude": -122.680824
+      },
+      "title": "Flying Elephants at Fox Tower",
+      "type": "Restaurant",
+      "address": "812 SW Park Ave"
+    },
+    {
+      "position": 7,
+      "rating": 3.6,
+      "reviews": 155,
+      "reviews_original": "(155)",
+      "description": "\"Full menu served from here.\"",
+      "lsig": "AB86z5UNniXVJfRrVf2cJf-ndIif",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/awA-SNDNGBoQeL9QFYRA1lKPOjo7Lrh3azigNoWvosA.jpeg",
+      "place_id": "9734256060418451374",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9734256060418451374&q=gluten-free+restaurants",
+      "provider_id": "/g/11hd57gnyk",
+      "gps_coordinates": {
+        "latitude": 45.51354,
+        "longitude": -122.677185
+      },
+      "title": "Terrane Italian Kitchen & Bar",
+      "type": "Italian",
+      "address": "1355 SW 2nd Ave"
+    },
+    {
+      "position": 8,
+      "rating": 4.2,
+      "reviews": 339,
+      "reviews_original": "(339)",
+      "price": "$30–50",
+      "description": "\"Amazing food, even for vegetarians.\"",
+      "lsig": "AB86z5UV0aq1ETTPPCB5mVDd74hm",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/X9gOEMSO0WMrdNmU_GmXzlQh5hb0HDim5X_flYcAHOc.jpeg",
+      "place_id": "407226519935361636",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=407226519935361636&q=gluten-free+restaurants",
+      "provider_id": "/g/11ggk1vmlf",
+      "gps_coordinates": {
+        "latitude": 45.520737,
+        "longitude": -122.67868
+      },
+      "title": "Il Solito",
+      "type": "Restaurant",
+      "address": "627 SW Washington St"
+    },
+    {
+      "position": 9,
+      "rating": 4.5,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$10–20",
+      "description": "\"Amazing that everything is gluten free, it felt like heaven for celiacs.\"",
+      "lsig": "AB86z5UvjKNERNEKSR4yqhxn0h23",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/5hw1N6A1V3lCC_UEOJVvZv7vguvJD-_UmUPNjeiYhIY.jpeg",
+      "place_id": "289460580850448681",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=289460580850448681&q=gluten-free+restaurants",
+      "provider_id": "/g/1vnnj2_6",
+      "gps_coordinates": {
+        "latitude": 45.50463,
+        "longitude": -122.640114
+      },
+      "title": "New Cascadia Traditional",
+      "type": "Gluten Free",
+      "address": "2502 SE Division St",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 3500,
+      "reviews_original": "(3.5K)",
+      "price": "$20–30",
+      "description": "\"Everyone finds food they like - great variety and dietary options.\"",
+      "lsig": "AB86z5U6K2Wl8UM18uUrSTAT4tO9",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerHA7BLKuFaceFnJp3zUdVKoKzH4olRp8B2IkPSyhvsi7ScPCDsV2PETFha0bfCKo9algMBqFdbeRI3oZyOFNHWRbZPJdbT3XoclJnNdgkPCpRqp5MqzUNEi1UGGp1KQcPR4_QDqA=w90-h90-n-k-no-l75",
+      "place_id": "17322022484779492288",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17322022484779492288&q=gluten-free+restaurants",
+      "provider_id": "/g/11xc6_5t9",
+      "gps_coordinates": {
+        "latitude": 45.521957,
+        "longitude": -122.68316
+      },
+      "title": "Cheryl's on 12th",
+      "type": "New American",
+      "address": "1135 SW Washington St"
+    },
+    {
+      "position": 11,
+      "rating": 4.4,
+      "reviews": 6700,
+      "reviews_original": "(6.7K)",
+      "price": "$20–30",
+      "description": "\"So many gluten-free options, which made it super easy to dine safely.\"",
+      "lsig": "AB86z5Xfo4-4SiGyS92hzCJQK9bi",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/PVjsIDRlzQNvf0HsDzHFfNWQ8OUWXcX-SDIsvmrhfw0.jpeg",
+      "place_id": "11849354532108914595",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=11849354532108914595&q=gluten-free+restaurants",
+      "provider_id": "/g/1thtcvh1",
+      "gps_coordinates": {
+        "latitude": 45.516796,
+        "longitude": -122.675354
+      },
+      "title": "Luc Lac Vietnamese Kitchen",
+      "type": "Vietnamese",
+      "address": "835 SW 2nd Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 12,
+      "rating": 4.3,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$20–30",
+      "description": "\"They have the best gluten free pasta I’ve ever had.\"",
+      "lsig": "AB86z5XIeywajXrdeeEbUo0j5uGz",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/VTxA8hgyK8zLuegZDl1MZB-0kLevaQrK-L7q1CnrVQ0.jpeg",
+      "place_id": "18304852546017661924",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=18304852546017661924&q=gluten-free+restaurants",
+      "provider_id": "/g/1wbf_38x",
+      "gps_coordinates": {
+        "latitude": 45.51944,
+        "longitude": -122.67392
+      },
+      "title": "Mama Mia Trattoria",
+      "type": "Italian",
+      "address": "439 SW 2nd Ave",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.6,
+      "reviews": 492,
+      "reviews_original": "(492)",
+      "price": "$20–30",
+      "description": "\"It’s unbelievable that the entire menu is gluten-free and soy free!!!\"",
+      "lsig": "AB86z5VW7IrG7VDXgWDTYlrS7VOq",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/_dpl1SpwRnXTUWTSyuODtapKnF0nQ6o7rWifTEYuQBg.jpeg",
+      "place_id": "16048689395630645055",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16048689395630645055&q=gluten-free+restaurants",
+      "provider_id": "/g/11h8k60l5r",
+      "gps_coordinates": {
+        "latitude": 45.504715,
+        "longitude": -122.63546
+      },
+      "title": "Mestizo",
+      "type": "Gluten Free",
+      "address": "2910 SE Division St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.7,
+      "reviews": 306,
+      "reviews_original": "(306)",
+      "price": "$20–30",
+      "description": "\"The only place in Portland to get reliably clean, healthy, gluten free food.\"",
+      "lsig": "AB86z5VkpMeaU8ZuRBZlJHu3S81S",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/jQ3i3YsDvoi8JqJDNR4E7_tSOKvHoEO08yZIZ82lP7k.jpeg",
+      "place_id": "15875802952945738216",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15875802952945738216&q=gluten-free+restaurants",
+      "provider_id": "/g/11rrpv871x",
+      "gps_coordinates": {
+        "latitude": 45.478313,
+        "longitude": -122.64907
+      },
+      "title": "Bastion PDX",
+      "type": "Health Food",
+      "address": "6116 SE Milwaukie Ave",
+      "hours": "Closed · Opens 9 AM Wed"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 907,
+      "reviews_original": "(907)",
+      "price": "$20–30",
+      "description": "\"100% celiac friendly, delicious food, great service, and fun atmosphere!\"",
+      "lsig": "AB86z5W1RCcHRKrMIhnFrox9bAoW",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/wFGVuf8c7-KEsdqqQ4olzjDUva1xYUWwbexzxBMSGvE.png",
+      "place_id": "1312402599300575287",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=1312402599300575287&q=gluten-free+restaurants",
+      "provider_id": "/g/1ydxc3g05",
+      "gps_coordinates": {
+        "latitude": 45.527294,
+        "longitude": -122.683075
+      },
+      "title": "Verde Cocina En La Perla",
+      "type": "Gluten Free",
+      "address": "1131 NW Hoyt St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.5,
+      "reviews": 427,
+      "reviews_original": "(427)",
+      "description": "\"Great gluten free beer, friendly and helpful staff, and amazing food!\"",
+      "lsig": "AB86z5V_UOtnlHnxe78eVARKkRcg",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/GfKTaazpnzeIXRkhfWhmJKy1ttyziC1d_U5S_S8-j7A.jpeg",
+      "place_id": "17675472373198707778",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17675472373198707778&q=gluten-free+restaurants",
+      "provider_id": "/g/1xgzbh5s",
+      "gps_coordinates": {
+        "latitude": 45.508087,
+        "longitude": -122.658485
+      },
+      "title": "Ground Breaker Brewing",
+      "type": "Brewery",
+      "address": "2030 SE 7th Ave",
+      "hours": "Closed · Opens 2 PM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews": 5400,
+      "reviews_original": "(5.4K)",
+      "price": "$20–30",
+      "description": "\"Came in for breakfast and their gluten free bread is bombbbb.\"",
+      "lsig": "AB86z5Vaf2QTNI5YoHLmUWsViziK",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/PluUKaFpYqc9MjNOjdGN0d3b7lfDY358s1S6GgCsQo4.jpeg",
+      "place_id": "9802941991473875057",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9802941991473875057&q=gluten-free+restaurants",
+      "provider_id": "/g/11h32yczfw",
+      "gps_coordinates": {
+        "latitude": 45.522186,
+        "longitude": -122.67382
+      },
+      "title": "Mother's Bistro & Bar",
+      "type": "Family-friendly",
+      "address": "121 SW 3rd Ave",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.3,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "price": "$20–30",
+      "description": "\"... gluten free spagetti and the sauces were already made gluten free!\"",
+      "lsig": "AB86z5Xorz6oE1iAMqeV9TR5ck2o",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/wCFiQHb9r1Ucp4sfLqdvKmkRG21pYUbj7FT-TbN1ZF8.jpeg",
+      "place_id": "2370779483037017835",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2370779483037017835&q=gluten-free+restaurants",
+      "provider_id": "/g/1tqckybl",
+      "gps_coordinates": {
+        "latitude": 45.518562,
+        "longitude": -122.68203
+      },
+      "title": "Pastini",
+      "type": "Italian",
+      "address": "911 SW Taylor St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.4,
+      "reviews": 813,
+      "reviews_original": "(813)",
+      "price": "$10–20",
+      "description": "\"I appreciate they have several options that are gluten free.\"",
+      "lsig": "AB86z5X4SJLOLsyenddr4OuxL0Dp",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/ttgGspirBNk8wFFDGyYEuDVf-SxtWrymuJ4bTkbL1b0.jpeg",
+      "place_id": "5615202274465459698",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5615202274465459698&q=gluten-free+restaurants",
+      "provider_id": "/g/1tdd4ztw",
+      "gps_coordinates": {
+        "latitude": 45.510403,
+        "longitude": -122.67393
+      },
+      "title": "Little River Cafe",
+      "type": "Restaurant",
+      "address": "315 S Montgomery St #310",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.4,
+      "reviews": 869,
+      "reviews_original": "(869)",
+      "price": "$10–20",
+      "description": "\"Generous portions and plenty of veg and GF options.\"",
+      "lsig": "AB86z5USSnpGYhlohwnHyMVuGsoK",
+      "thumbnail": "https://serpapi.com/searches/69d515482f5ea0163e109605/images/p44-IDTQg8HM8U1C5eJXe4SA-lBY0x53LRq8MoDdxVE.jpeg",
+      "place_id": "635525889611702272",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=635525889611702272&q=gluten-free+restaurants",
+      "provider_id": "/g/1tctx850",
+      "gps_coordinates": {
+        "latitude": 45.51539,
+        "longitude": -122.6657
+      },
+      "title": "Boke Bowl",
+      "type": "Asian",
+      "address": "1028 SE Water Ave",
+      "hours": "Closed · Opens 11 AM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=gluten-free+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=gluten-free+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=gluten-free+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=gluten-free+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=gluten-free+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=gluten-free+restaurants&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=gluten-free+restaurants&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=gluten-free+restaurants&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=gluten-free+restaurants&start=40&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=gluten-free+restaurants&start=60&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=gluten-free+restaurants&start=80&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

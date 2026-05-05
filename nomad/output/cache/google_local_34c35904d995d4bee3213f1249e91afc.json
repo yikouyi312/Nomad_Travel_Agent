@@ -1,0 +1,529 @@
+{
+  "search_metadata": {
+    "id": "69d5151503610a7dffbae74e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z-J3zm0IjR0Y13R0EfTTNg/69d5151503610a7dffbae74e.json",
+    "created_at": "2026-04-07 14:30:45 UTC",
+    "processed_at": "2026-04-07 14:30:45 UTC",
+    "google_local_url": "https://www.google.com/search?q=animals&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/Z-J3zm0IjR0Y13R0EfTTNg/69d5151503610a7dffbae74e.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "animals",
+    "location_requested": "San Diego",
+    "location_used": "San Diego County,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 33.063924198120645,
+      "longitude": -116.93847656250001
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.9,
+      "reviews": 401,
+      "reviews_original": "(401)",
+      "description": "\"A lot of animals to see and feed and a knowledgeable staff.\"",
+      "lsig": "AB86z5VNWwTf6ha1YJaWwf7HmkqS",
+      "links": {
+        "website": "http://alpineacressanctuaryfarm.org/",
+        "directions": "https://www.google.com/maps/dir//Alpine+Acres+Sanctuary+Farm%E2%84%A2,+Animal+Sanctuary+And+Farm,+5178+Japatul+Spur,+Alpine,+CA+91901/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d965c0d03cba71:0x2edb56b3cff86367?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "3376387675932615527",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3376387675932615527&q=animals",
+      "provider_id": "/g/11cjj14xh1",
+      "gps_coordinates": {
+        "latitude": 32.767548,
+        "longitude": -116.6812
+      },
+      "title": "Alpine Acres Sanctuary Farm™",
+      "type": "Farm",
+      "phone": "(619) 320-4942",
+      "address": "Alpine, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.7,
+      "reviews": 28000,
+      "reviews_original": "(28K)",
+      "description": "\"Diverse animals, plants and visuals were thoughtfully presented and shared.\"",
+      "lsig": "AB86z5X25PjU3AHn4G2XObzg8jQ-",
+      "links": {
+        "website": "https://sdzsafaripark.org/",
+        "directions": "https://www.google.com/maps/dir//San+Diego+Zoo+Safari+Park,+15500+San+Pasqual+Valley+Rd,+Escondido,+CA+92027/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dbf2055fa8affb:0xd216b5acbb5d2de8?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIJxAA&hl=en&gl=us"
+      },
+      "place_id": "15138486950934949352",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=15138486950934949352&q=animals",
+      "provider_id": "/m/096pq",
+      "gps_coordinates": {
+        "latitude": 33.099792,
+        "longitude": -116.992294
+      },
+      "title": "San Diego Zoo Safari Park",
+      "type": "Tourist attraction",
+      "phone": "(619) 231-1515",
+      "address": "Escondido, CA",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 208,
+      "reviews_original": "(208)",
+      "description": "\"Amazing people who genuinely care for the animals.\"",
+      "lsig": "AB86z5Vyxejdmh0AnNFSY3GYRxmh",
+      "links": {
+        "website": "https://www.theanimalpad.org/",
+        "directions": "https://www.google.com/maps/dir//The+Animal+Pad,+4620+Avocado+Blvd,+La+Mesa,+CA+91941/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d954ea0d1aaaab:0x2a894f9fb4277af1?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "3065068568743213809",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3065068568743213809&q=animals",
+      "provider_id": "/g/11f40rb8qb",
+      "gps_coordinates": {
+        "latitude": 32.763527,
+        "longitude": -116.96149
+      },
+      "title": "The Animal Pad",
+      "type": "Animal rescue service",
+      "years_in_business": "7+ years in business",
+      "address": "La Mesa, CA"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 239,
+      "reviews_original": "(239)",
+      "description": "\"Great advice and high quality supplies for your small animals.\"",
+      "lsig": "AB86z5WCERhDNByJi5W_WbPx-UNW",
+      "links": {
+        "website": "http://weecompanions.org/",
+        "directions": "https://www.google.com/maps/dir//Wee+Companions+Small+Animal+Rescue,+3368+Governor+Dr+F,+San+Diego,+CA+92122/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dc00ddd4933adb:0x3592c647fe7706ee?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQINBAA&hl=en&gl=us"
+      },
+      "place_id": "3860365843124127470",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3860365843124127470&q=animals",
+      "provider_id": "/g/11btt5c4w3",
+      "gps_coordinates": {
+        "latitude": 32.852135,
+        "longitude": -117.21481
+      },
+      "title": "Wee Companions Small Animal Rescue",
+      "type": "Animal rescue service",
+      "phone": "(619) 300-2912",
+      "years_in_business": "10+ years in business",
+      "address": "San Diego, CA",
+      "hours": "Closed · Opens 1 PM Wed"
+    },
+    {
+      "position": 5,
+      "rating": 5.0,
+      "reviews": 11,
+      "reviews_original": "(11)",
+      "description": "\"All animals here are treated with respect, dignity, and tons of love!\"",
+      "lsig": "AB86z5VY2ZeHzqtsnATi_hZnUC_5",
+      "links": {
+        "website": "http://www.sahh4life.org/",
+        "directions": "https://www.google.com/maps/dir//Saving+Animals+%26+Healing+Hearts+Inc,+3780+Carol+Ln,+Ramona,+CA+92065/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dbe5ec6ec95555:0x28e1fecb512ae14e?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIKxAA&hl=en&gl=us"
+      },
+      "place_id": "2945915780470595918",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=2945915780470595918&q=animals",
+      "provider_id": "/g/11hy9np3bs",
+      "gps_coordinates": {
+        "latitude": 33.00895,
+        "longitude": -116.91066
+      },
+      "title": "Saving Animals & Healing Hearts Inc",
+      "type": "Animal rescue service",
+      "phone": "(760) 961-5600",
+      "years_in_business": "7+ years in business",
+      "address": "Ramona, CA"
+    },
+    {
+      "position": 6,
+      "rating": 4.8,
+      "reviews": 54,
+      "reviews_original": "(54)",
+      "description": "\"Compassionate, dedicated people that care so much about animals\"",
+      "lsig": "AB86z5VviwsLiSfZUkPL5axOOTJi",
+      "links": {
+        "website": "https://www.sdhumane.org/programs/project-wildlife/ramona/",
+        "directions": "https://www.google.com/maps/dir//San+Diego+Humane+Society's+Ramona+Wildlife+Center,+18740+Highland+Valley+Rd,+Ramona,+CA+92065/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dbe5882dab58c7:0x598694da6f9cb205?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIMxAA&hl=en&gl=us"
+      },
+      "place_id": "6451007182151135749",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=6451007182151135749&q=animals",
+      "provider_id": "/g/1tlgy780",
+      "gps_coordinates": {
+        "latitude": 33.02281,
+        "longitude": -116.92442
+      },
+      "title": "San Diego Humane Society's Ramona Wildlife Center",
+      "type": "Animal rescue service",
+      "phone": "(619) 299-7012",
+      "address": "Ramona, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.9,
+      "reviews": 546,
+      "reviews_original": "(546)",
+      "description": "\"Getting to see these animals up close and was breathtaking.\"",
+      "lsig": "AB86z5WfDXQQ9DTlbwW8LTjIT645",
+      "links": {
+        "website": "https://www.lionstigersandbears.org/",
+        "directions": "https://www.google.com/maps/dir//Lions+Tigers+%26+Bears+The+San+Diego+Animal+Sanctuary%C2%AE,+24402+Martin+Way,+Alpine,+CA+91901/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d964c658ccdf6b:0xe3bbd1ff8bb6ac41?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIMhAA&hl=en&gl=us"
+      },
+      "place_id": "16409940562745404481",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=16409940562745404481&q=animals",
+      "provider_id": "/g/1pxq7z9d_",
+      "gps_coordinates": {
+        "latitude": 32.8136,
+        "longitude": -116.62258
+      },
+      "title": "Lions Tigers & Bears The San Diego Animal Sanctuary®",
+      "type": "Zoo",
+      "phone": "(619) 659-8078",
+      "address": "Alpine, CA",
+      "hours": "Closed · Opens 8:30 AM"
+    },
+    {
+      "position": 8,
+      "rating": 5.0,
+      "reviews": 73,
+      "reviews_original": "(73)",
+      "description": "\"The animals are well cared for and the animals themselves are magnificent.\"",
+      "lsig": "AB86z5WutWOs6xY6S269HqHt5u-Z",
+      "links": {
+        "website": "http://www.thehappyhearthaven.com/",
+        "directions": "https://www.google.com/maps/dir//The+Happy+Heart+Haven,+30398+V%C3%ADa+Valencia,+Valley+Center,+CA+92082/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80db8fea0c9885eb:0x6d36244e6dbbfe54?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIMRAA&hl=en&gl=us"
+      },
+      "place_id": "7869517318143606356",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7869517318143606356&q=animals",
+      "provider_id": "/g/11jg0jzq_j",
+      "gps_coordinates": {
+        "latitude": 33.251587,
+        "longitude": -117.018326
+      },
+      "title": "The Happy Heart Haven",
+      "type": "Zoo",
+      "phone": "(760) 651-2421",
+      "address": "Valley Center, CA"
+    },
+    {
+      "position": 9,
+      "rating": 4.2,
+      "reviews": 752,
+      "reviews_original": "(752)",
+      "description": "\"Animals were taken care of, fed well and organized for adoption.\"",
+      "lsig": "AB86z5X3PtvBMPQnf6ucFnMmqGF0",
+      "links": {
+        "website": "https://www.sddac.com/",
+        "directions": "https://www.google.com/maps/dir//County+of+San+Diego+Department+of+Animal+Services,+5821+Sweetwater+Rd,+Bonita,+CA+91902/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d9504453f08485:0x2f1f08f0783302f2?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQILBAA&hl=en&gl=us"
+      },
+      "place_id": "3395442472962425586",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3395442472962425586&q=animals",
+      "provider_id": "/g/1thd22gt",
+      "gps_coordinates": {
+        "latitude": 32.688698,
+        "longitude": -117.01809
+      },
+      "title": "County of San Diego Department of Animal Services",
+      "type": "Animal shelter",
+      "phone": "(619) 767-2675",
+      "address": "Bonita, CA",
+      "hours": "Closed · Opens 9:30 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.6,
+      "reviews": 183,
+      "reviews_original": "(183)",
+      "description": "\"Amazing, clean, well organized, animals well taken care of.\"",
+      "lsig": "AB86z5UhSkIIp5xNfzoigaxafnjW",
+      "links": {
+        "website": "http://www.fallbrookanimalsanctuary.org/",
+        "directions": "https://www.google.com/maps/dir//Fallbrook+Animal+Sanctuary,+230+W+Aviation+Rd,+Fallbrook,+CA+92028/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dc7ebb0b6bd8f7:0xa8f0abfe5aa216b7?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIMBAA&hl=en&gl=us"
+      },
+      "place_id": "12173418901713065655",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=12173418901713065655&q=animals",
+      "provider_id": "/g/12640pjf8",
+      "gps_coordinates": {
+        "latitude": 33.373703,
+        "longitude": -117.253265
+      },
+      "title": "Fallbrook Animal Sanctuary",
+      "type": "Animal shelter",
+      "phone": "(760) 685-3533",
+      "address": "Fallbrook, CA"
+    },
+    {
+      "position": 11,
+      "rating": 4.9,
+      "reviews": 19,
+      "reviews_original": "(19)",
+      "description": "\"We hugged cows & gave belly rubs to pigs, how could it get better?!\"",
+      "lsig": "AB86z5WcHysYlWLNz91n9P5PQqPc",
+      "links": {
+        "website": "https://www.farmanimalrefuge.org/",
+        "directions": "https://www.google.com/maps/dir//Farm+Animal+Refuge,+33233+Shockey+Truck+Trail,+Campo,+CA+91906/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d90b6489fa4bcd:0xcd165787e6edcff4?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQILhAA&hl=en&gl=us"
+      },
+      "place_id": "14778095468469407732",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=14778095468469407732&q=animals",
+      "provider_id": "/g/11vym4lp3_",
+      "gps_coordinates": {
+        "latitude": 32.629322,
+        "longitude": -116.43281
+      },
+      "title": "Farm Animal Refuge",
+      "type": "Non-profit organization",
+      "phone": "(619) 402-8337",
+      "address": "Campo, CA"
+    },
+    {
+      "position": 12,
+      "rating": 4.7,
+      "reviews": 61,
+      "reviews_original": "(61)",
+      "description": "\"The highlight of course was swimming with five adorable otters for an hour!\"",
+      "lsig": "AB86z5U2nToqxeU_LUeJNHRd80-g",
+      "links": {
+        "website": "http://www.nurturedbynature.org/",
+        "directions": "https://www.google.com/maps/dir//Nurtured+By+Nature,+15630+Rim+of+the+Valley,+Valley+Center,+CA+92082/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80db8e212bc2e117:0x665b688ef7b785ec?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIKRAA&hl=en&gl=us"
+      },
+      "place_id": "7375603777999963628",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7375603777999963628&q=animals",
+      "provider_id": "/g/11b6mr9hx2",
+      "gps_coordinates": {
+        "latitude": 33.2814,
+        "longitude": -116.98845
+      },
+      "title": "Nurtured By Nature",
+      "type": "Zoo",
+      "phone": "(760) 638-0880",
+      "address": "Valley Center, CA",
+      "hours": "Closed · Opens 10 AM Sat"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 125,
+      "reviews_original": "(125)",
+      "description": "\"Enclosure were clean and animals look to be well taken care of.\"",
+      "lsig": "AB86z5WaJ6XATRaoPeGjJ1b9MNBi",
+      "links": {
+        "website": "https://sandiegozoowildlifealliance.org/",
+        "directions": "https://www.google.com/maps/dir//San+Diego+Zoo+Wildlife+Alliance,+2920+Zoo+Dr,+San+Diego,+CA+92101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d9549592dc5fd9:0x62d7f4b9efeb41d0?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "7122430415141028304",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7122430415141028304&q=animals",
+      "provider_id": "/m/04f08j_",
+      "gps_coordinates": {
+        "latitude": 32.73611,
+        "longitude": -117.14939
+      },
+      "title": "San Diego Zoo Wildlife Alliance",
+      "type": "Non-profit organization",
+      "phone": "(619) 231-1515",
+      "address": "San Diego, CA",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.7,
+      "reviews": 303,
+      "reviews_original": "(303)",
+      "description": "\"They seem to really care about the animals they deal with.\"",
+      "lsig": "AB86z5XZN0ywMrZkGzRokY52KxJG",
+      "links": {
+        "website": "https://www.sdhumane.org/programs/project-wildlife/",
+        "directions": "https://www.google.com/maps/dir//San+Diego+Humane+Society's+Project+Wildlife,+5433+Gaines+St,+San+Diego,+CA+92110/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deaaea2afb6041:0x149d8580f69c32d1?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQILRAA&hl=en&gl=us"
+      },
+      "place_id": "1485490241041871569",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1485490241041871569&q=animals",
+      "provider_id": "/g/1td2bn2t",
+      "gps_coordinates": {
+        "latitude": 32.764877,
+        "longitude": -117.19391
+      },
+      "title": "San Diego Humane Society's Project Wildlife",
+      "type": "Wildlife rescue service",
+      "phone": "(619) 299-7012",
+      "address": "San Diego, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 15,
+      "rating": 5.0,
+      "reviews": 15,
+      "reviews_original": "(15)",
+      "description": "\"The compassion and dedication shown to each animal is incredibly moving.\"",
+      "lsig": "AB86z5XnypLDHCiWCc_7HOzttl27",
+      "links": {
+        "website": "http://www.saleranch.org/",
+        "directions": "https://www.google.com/maps/dir//Sale+Ranch+Animal+Sanctuary,+Wine+Country,+Temecula,+CA+92592/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80db774afbeb2d71:0x4c1f042581a8945?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "342819214393510213",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=342819214393510213&q=animals",
+      "provider_id": "/g/11hy9nnzvl",
+      "gps_coordinates": {
+        "latitude": 33.591194,
+        "longitude": -116.96422
+      },
+      "title": "Sale Ranch Animal Sanctuary",
+      "type": "Animal rescue service",
+      "phone": "(949) 235-8895",
+      "years_in_business": "10+ years in business",
+      "address": "Temecula, CA"
+    },
+    {
+      "position": 16,
+      "rating": 4.4,
+      "reviews": 87,
+      "reviews_original": "(87)",
+      "description": "\"This little gift shop is a dream for animal and/or knickknack lovers!\"",
+      "lsig": "AB86z5Xx5CKRXaBfrBPiZb4RoABn",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Safari+Animal+Collection,+865+W+Harbor+Dr,+San+Diego,+CA+92101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d953557598f397:0x4db2de0238d6767f?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "5598781387899827839",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=5598781387899827839&q=animals",
+      "provider_id": "/g/1tfzxsf4",
+      "gps_coordinates": {
+        "latitude": 32.70912,
+        "longitude": -117.17103
+      },
+      "title": "Safari Animal Collection",
+      "type": "Gift shop",
+      "phone": "(619) 885-1712",
+      "address": "San Diego, CA",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.8,
+      "reviews": 220,
+      "reviews_original": "(220)",
+      "description": "\"Plenty of space outside for walking and potty.\"",
+      "lsig": "AB86z5WS261tIhGEsrLwPzhFwX55",
+      "links": {
+        "website": "http://www.animaldermatology.com/",
+        "directions": "https://www.google.com/maps/dir//Animal+Dermatology+Clinic,+5610+Kearny+Mesa+Rd+suite+b-1,+San+Diego,+CA+92111/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dbffaf8a4a429b:0xd9042d194dd1da9f?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "15637673392840235679",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=15637673392840235679&q=animals",
+      "provider_id": "/g/1tg_gbm0",
+      "gps_coordinates": {
+        "latitude": 32.83646,
+        "longitude": -117.13925
+      },
+      "title": "Animal Dermatology Clinic",
+      "type": "Veterinarian",
+      "phone": "(858) 560-9393",
+      "years_in_business": "10+ years in business",
+      "address": "San Diego, CA",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 18,
+      "rating": 5.0,
+      "reviews": 26,
+      "reviews_original": "(26)",
+      "description": "\"You get to feed all the animals, it takes a few hours.\"",
+      "lsig": "AB86z5UwsI_UIsp3tGuJXZ35MdHV",
+      "links": {
+        "website": "https://www.2therescueanimalsanctuary.org/",
+        "directions": "https://www.google.com/maps/dir//2+The+Rescue+Animal+Sanctuary+Inc.,+1830+Olive+St,+Ramona,+CA+92065/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dbe8b546a71e1d:0xcf7d68b5ac8453a6?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQILxAA&hl=en&gl=us"
+      },
+      "place_id": "14951221467432637350",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=14951221467432637350&q=animals",
+      "provider_id": "/g/11fk0bmzzm",
+      "gps_coordinates": {
+        "latitude": 33.04832,
+        "longitude": -116.88999
+      },
+      "title": "2 The Rescue Animal Sanctuary Inc.",
+      "type": "Animal rescue service",
+      "phone": "(619) 518-4153",
+      "years_in_business": "7+ years in business",
+      "address": "Ramona, CA"
+    },
+    {
+      "position": 19,
+      "rating": 4.9,
+      "reviews": 75,
+      "reviews_original": "(75)",
+      "description": "\"Everyone at Animals Only is so incredibly kind, caring, and knowledgeable.\"",
+      "lsig": "AB86z5X9ShZabPPBYtjS1OYmt_qD",
+      "links": {
+        "website": "http://www.animalsonly.com/",
+        "directions": "https://www.google.com/maps/dir//Animals+Only,+5150+Murphy+Canyon+Rd+%23107,+San+Diego,+CA+92123/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2d1f8cf83e46d489:0xbd65b6202409a64a?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIKhAA&hl=en&gl=us"
+      },
+      "place_id": "13647514494975977034",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=13647514494975977034&q=animals",
+      "provider_id": "/g/11k3mswvr3",
+      "gps_coordinates": {
+        "latitude": 32.83136,
+        "longitude": -117.121056
+      },
+      "title": "Animals Only",
+      "type": "Veterinarian",
+      "phone": "(619) 800-0617",
+      "years_in_business": "3+ years in business",
+      "address": "San Diego, CA",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 20,
+      "rating": 5.0,
+      "reviews": 6,
+      "reviews_original": "(6)",
+      "description": "\"I loved volunteering at this sanctuary!\"",
+      "lsig": "AB86z5XoGGfmDtiPSJAa6O26iXf0",
+      "links": {
+        "website": "https://paradisedreamsanimalsanctuary.com/",
+        "directions": "https://www.google.com/maps/dir//Paradise+Dreams+Animal+Sanctuary,+20250+Elm+Ln,+Escondido,+CA+92029/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dbf5516fc19243:0xeabad7a4940e63fb?sa=X&ved=2ahUKEwiTq6aI-tuTAxW_lmoFHYBBAIAQ48ADegQIKBAA&hl=en&gl=us"
+      },
+      "place_id": "16914068452401898491",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=16914068452401898491&q=animals",
+      "provider_id": "/g/11q401b82k",
+      "gps_coordinates": {
+        "latitude": 33.08026,
+        "longitude": -117.119514
+      },
+      "title": "Paradise Dreams Animal Sanctuary",
+      "type": "Animal rescue service",
+      "phone": "(760) 419-8961",
+      "years_in_business": "3+ years in business",
+      "address": "Escondido, CA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=animals&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=animals&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=animals&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=animals&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=animals&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=animals&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=animals&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=animals&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=animals&start=40&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=animals&start=60&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=animals&start=80&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "search_metadata": {
+    "id": "69d52ca4974bbbce56dbdcba",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LF_PKD3kQYMytLuXMnII0g/69d52ca4974bbbce56dbdcba.json",
+    "created_at": "2026-04-07 16:11:16 UTC",
+    "processed_at": "2026-04-07 16:11:16 UTC",
+    "google_local_url": "https://www.google.com/search?q=Powell%27s+Books&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/LF_PKD3kQYMytLuXMnII0g/69d52ca4974bbbce56dbdcba.html",
+    "total_time_taken": 2.11
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Powell's Books",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.55012106480582,
+      "longitude": -122.70286560058592
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "lsig": "AB86z5XGbC5o5hr1lQ5wuOVuxy4H",
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "links": {
+        "website": "https://www.powells.com/locations/powells-city-of-books",
+        "directions": "https://www.google.com/maps/dir//Powell's+City+of+Books,+1005+W+Burnside+St,+Portland,+OR+97209/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54950a03b7b42a07:0x60d8820872cc912f?sa=X&ved=2ahUKEwjIzY7EkNyTAxW_I0QIHcDaNpIQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "6978470595407941935",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6978470595407941935&q=Powell%27s+Books",
+      "provider_id": "/g/1xpwjh1f",
+      "gps_coordinates": {
+        "latitude": 45.523064,
+        "longitude": -122.68133
+      },
+      "title": "Powell's City of Books",
+      "phone": "(800) 878-7323",
+      "address": "1005 W Burnside St",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 2,
+      "lsig": "AB86z5VPN1aQIlloK6vC39K1TetU",
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "links": {
+        "website": "https://www.powells.com/locations/powells-books-on-hawthorne",
+        "directions": "https://www.google.com/maps/dir//Powell's+Books+on+Hawthorne,+3723+SE+Hawthorne+Blvd,+Portland,+OR+97214/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5495a08d84e852e5:0x9696aebb3d5dbf0a?sa=X&ved=2ahUKEwjIzY7EkNyTAxW_I0QIHcDaNpIQ48ADegQIIBAA&hl=en&gl=us"
+      },
+      "place_id": "10851052471407460106",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=10851052471407460106&q=Powell%27s+Books",
+      "provider_id": "/g/1hc1gfcj4",
+      "gps_coordinates": {
+        "latitude": 45.51216,
+        "longitude": -122.62534
+      },
+      "title": "Powell's Books on Hawthorne",
+      "phone": "(503) 228-4651",
+      "address": "3723 SE Hawthorne Blvd",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 3,
+      "lsig": "AB86z5VRhxOpzFYEuxpRsWXPKqkJ",
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "links": {
+        "website": "https://www.powells.com/locations/powells-books-at-cedar-hills-crossing",
+        "directions": "https://www.google.com/maps/dir//Powell's+Books+at+Cedar+Hills+Crossing,+3415+SW+Cedar+Hills+Blvd,+Beaverton,+OR+97005/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5495af7000000001:0xd187b46859233ec?sa=X&ved=2ahUKEwjIzY7EkNyTAxW_I0QIHcDaNpIQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "943639664752997356",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=943639664752997356&q=Powell%27s+Books",
+      "provider_id": "/g/11h0b8chp",
+      "gps_coordinates": {
+        "latitude": 45.49556,
+        "longitude": -122.811455
+      },
+      "title": "Powell's Books at Cedar Hills Crossing",
+      "phone": "(503) 228-4651",
+      "address": "Beaverton, OR",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 4,
+      "lsig": "AB86z5UFESzmCywTK7dnuXkdtpYk",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "http://www.powells.com/",
+        "directions": "https://www.google.com/maps/dir//Powell's+Books+Warehouse,+2720+NW+29th+Ave,+Portland,+OR+97210/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549509dcc07316b9:0xde34caeee0aef09e?sa=X&ved=2ahUKEwjIzY7EkNyTAxW_I0QIHcDaNpIQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "16011645702529544350",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16011645702529544350&q=Powell%27s+Books",
+      "provider_id": "/g/11h0x_383",
+      "gps_coordinates": {
+        "latitude": 45.541676,
+        "longitude": -122.710625
+      },
+      "title": "Powell's Books Warehouse",
+      "phone": "(503) 228-4651",
+      "address": "2720 NW 29th Ave"
+    },
+    {
+      "position": 5,
+      "lsig": "AB86z5Vx0o4JN5e7Yt2O_kmVsJ7P",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "http://www.powells.com/",
+        "directions": "https://www.google.com/maps/dir//Powell's+Books+at+PDX,+South+Concourse,+7000+NE+Airport+Way+Suite+2250,+Portland,+OR+97218/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5495a42e4855969f:0x2966b6dc3a4e1554?sa=X&ved=2ahUKEwjIzY7EkNyTAxW_I0QIHcDaNpIQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "2983272860166788436",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2983272860166788436&q=Powell%27s+Books",
+      "provider_id": "/g/1tk_jf2d",
+      "gps_coordinates": {
+        "latitude": 45.58861,
+        "longitude": -122.59477
+      },
+      "title": "Powell's Books at PDX",
+      "phone": "(800) 878-7323",
+      "address": "South Concourse, 7000 NE Airport Way Suite 2250",
+      "hours": "Open · Closes 10 PM"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "search_metadata": {
+    "id": "69d51bd2054e5f0afd4f08a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FmBoAnzgvuOoLSOnSaznJQ/69d51bd2054e5f0afd4f08a9.json",
+    "created_at": "2026-04-07 14:59:30 UTC",
+    "processed_at": "2026-04-07 14:59:30 UTC",
+    "google_local_url": "https://www.google.com/search?q=Miami+Seaquarium&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/FmBoAnzgvuOoLSOnSaznJQ/69d51bd2054e5f0afd4f08a9.html",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Miami Seaquarium",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.734024898717692,
+      "longitude": -80.16526222229004
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 3.7,
+      "reviews": 15000,
+      "reviews_original": "(15K)",
+      "description": "Popular attraction for sealife & shows",
+      "lsig": "AB86z5UVz6c2by1wKnJd8pj5pzmU",
+      "thumbnail": "https://serpapi.com/searches/69d51bd2054e5f0afd4f08a9/images/Mq23E5Q7isc1eUvPObKbwHQETvsc9CCxSvsQceX5sFc.jpeg",
+      "place_id": "10933546234973442259",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10933546234973442259&q=Miami+Seaquarium",
+      "provider_id": "/m/0973y_",
+      "gps_coordinates": {
+        "latitude": 25.733894,
+        "longitude": -80.16527
+      },
+      "title": "Miami Seaquarium",
+      "type": "Aquarium",
+      "address": "4400, Rickenbacker Cswy",
+      "hours": "Temporarily closed"
+    }
+  ]
+}

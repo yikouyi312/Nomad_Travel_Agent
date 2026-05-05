@@ -1,0 +1,60 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01S5CtgfPoReTagefyhZ4Ujj",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01R2L7xYaXy8B1H5SYMVjoey",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "San Francisco",
+          "destination": "Seattle",
+          "start_date": "2026-08-08",
+          "end_date": "2026-08-10",
+          "duration_days": 2,
+          "budget_usd": 900,
+          "num_travelers": 2,
+          "dietary_needs": [
+            "vegetarian",
+            "lactose-intolerant"
+          ],
+          "interests": [
+            "pet-friendly",
+            "parking",
+            "Space Needle",
+            "Pike Place Market",
+            "ramen"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your weekend trip to Seattle for 2 travelers from August 8-10, 2026. I'll find flights from San Francisco, a pet-friendly hotel with parking, and activities including the Space Needle, Pike Place Market, and great ramen spots that accommodate your vegetarian and lactose-intolerant dietary needs—all within your $900 budget. Let me search for the best options for you!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2687,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 328,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

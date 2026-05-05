@@ -1,0 +1,419 @@
+{
+  "search_metadata": {
+    "id": "69d52d301dcfe2c0deff3462",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fGEMxY1Ojfe1liRblWc13A/69d52d301dcfe2c0deff3462.json",
+    "created_at": "2026-04-07 16:13:36 UTC",
+    "processed_at": "2026-04-07 16:13:36 UTC",
+    "google_local_url": "https://www.google.com/search?q=cenote+swimming&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/fGEMxY1Ojfe1liRblWc13A/69d52d301dcfe2c0deff3462.html",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "cenote swimming",
+    "location_requested": "Cancun",
+    "location_used": "Cancun,Quintana Roo,Mexico",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 20.750977144077833,
+      "longitude": -87.16278076171875
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 3.7,
+      "reviews": 67,
+      "reviews_original": "(67)",
+      "description": "\"The cenotes was interesting , got to swim underground.\"",
+      "lsig": "AB86z5XYtM93Kj_VSUznoghsuaUz",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/5YrYYKyIe6F6iiTcWq0kvmVepZycY14rbne0FU5gjMo.jpeg",
+      "place_id": "4357697088673023653",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=4357697088673023653&q=cenote+swimming",
+      "provider_id": "/g/11rkhlb68m",
+      "gps_coordinates": {
+        "latitude": 21.103367,
+        "longitude": -86.93342
+      },
+      "title": "Cenote subterráneo AVANTE",
+      "type": "Tourist attraction",
+      "address": "4338+8J"
+    },
+    {
+      "position": 2,
+      "rating": 4.4,
+      "reviews": 121,
+      "reviews_original": "(121)",
+      "description": "\"A swim in this cenote at the end of a horse ride at Bonanza.\"",
+      "lsig": "AB86z5XHuEyLZKn9yJxFMDeymK7b",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/9w_4D8z57a2B7HY63bNWGxqJlyHuGOGgORh8fvYvIKM.jpeg",
+      "place_id": "8800398395951983053",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=8800398395951983053&q=cenote+swimming",
+      "provider_id": "/g/11ll6b_j_c",
+      "gps_coordinates": {
+        "latitude": 20.792494,
+        "longitude": -86.944016
+      },
+      "title": "Cenote Tula",
+      "type": "Tourist attraction",
+      "address": "Playa del Carmen, Quintana Roo, Mexico"
+    },
+    {
+      "position": 3,
+      "rating": 4.5,
+      "reviews": 2400,
+      "reviews_original": "(2.4K)",
+      "description": "\"Loads of bats, turtles in the water great jumping area and only 150 pesos\"",
+      "lsig": "AB86z5XeFqb3zm-I5C5asUYfgwik",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/ZfjGL4px46wQUn385bVEtKUS2AHcBCHxdiOKaRAGix4.jpeg",
+      "place_id": "12016106755782254679",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=12016106755782254679&q=cenote+swimming",
+      "provider_id": "/g/11b6qbphc5",
+      "gps_coordinates": {
+        "latitude": 20.652317,
+        "longitude": -87.125656
+      },
+      "title": "Cenote Chaak Tun",
+      "type": "Tourist attraction",
+      "address": "Playa del Carmen, Quintana Roo, Mexico"
+    },
+    {
+      "position": 4,
+      "rating": 4.3,
+      "reviews": 8200,
+      "reviews_original": "(8.2K)",
+      "description": "\"Beautifull cenote, crystal clear water and turtles swiming aroud.\"",
+      "lsig": "AB86z5Wkp6V2A4k_IcioYuNLhfYs",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/Ey41oY0WPVp9cTEinQPOainYICbRxRsVWg3P89TFGOM.jpeg",
+      "place_id": "14911604367767232394",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=14911604367767232394&q=cenote+swimming",
+      "provider_id": "/g/1tf16ygh",
+      "gps_coordinates": {
+        "latitude": 20.246582,
+        "longitude": -87.4642
+      },
+      "title": "Gran Cenote",
+      "type": "Tourist attraction",
+      "address": "Quintana Roo, Mexico",
+      "hours": "Open now"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 55,
+      "reviews_original": "(55)",
+      "description": "\"The entrance fee is 250pesos per person.\"",
+      "lsig": "AB86z5WvSL1wfzkkBfFEHSiWpotk",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/N3QFAuVTyiFDeBKkq5uCe1ch4VvuS89jZ1phFvcDZGU.jpeg",
+      "place_id": "4162574928587638556",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=4162574928587638556&q=cenote+swimming",
+      "provider_id": "/g/11hzkpry7s",
+      "gps_coordinates": {
+        "latitude": 20.861528,
+        "longitude": -87.027664
+      },
+      "title": "Cenote Maravilla",
+      "type": "Diving center",
+      "address": "Puerto Morelos, Quintana Roo, Mexico"
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 13000,
+      "reviews_original": "(13K)",
+      "description": "\"... not crowded and enough space to relax and enjoy the cenote.\"",
+      "lsig": "AB86z5UlwSux1K-emFPpXuahWAnB",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/AbzRVBTJoaLMWtnftivVgEHGCVC1vDbvw7u5aaHEuJs.jpeg",
+      "place_id": "6834116354312594346",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=6834116354312594346&q=cenote+swimming",
+      "provider_id": "/g/1tfc7p3k",
+      "gps_coordinates": {
+        "latitude": 20.488169,
+        "longitude": -87.25102
+      },
+      "title": "Cenote Azul",
+      "type": "Tourist attraction",
+      "address": "Playa del Carmen, Quintana Roo, Mexico"
+    },
+    {
+      "position": 7,
+      "rating": 4.4,
+      "reviews": 86,
+      "reviews_original": "(86)",
+      "description": "\"Decorated by Momentos Magicos y Magic Moment event decorators\"",
+      "lsig": "AB86z5UhPfozuodYGqOrWxWgXkBM",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/PLSR7nu181krHOi59VPAcIJo9n1JNLCJLOBmB0i24TE.jpeg",
+      "place_id": "14050260870902760317",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=14050260870902760317&q=cenote+swimming",
+      "provider_id": "/g/11btwr8d57",
+      "gps_coordinates": {
+        "latitude": 21.181885,
+        "longitude": -86.86272
+      },
+      "title": "Cenote Azul Eventos infantiles Garden",
+      "type": "Event venue",
+      "address": "Cenote Azul 226",
+      "hours": "Closed · Opens 12 PM Sat"
+    },
+    {
+      "position": 8,
+      "rating": 4.0,
+      "reviews": 695,
+      "reviews_original": "(695)",
+      "description": "\"The water was refreshing, and the peaceful atmosphere was just perfect.\"",
+      "lsig": "AB86z5V4Mg5jT0toqSk1i_eH5cml",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/zHof8OxORFYdpgclL6Entq7MxfyiMlCb0w9F8ofMbqY.jpeg",
+      "place_id": "7139951177209086700",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=7139951177209086700&q=cenote+swimming",
+      "provider_id": "/g/11cjxwn0t9",
+      "gps_coordinates": {
+        "latitude": 20.857553,
+        "longitude": -86.961205
+      },
+      "title": "Cenote Sol y Luna",
+      "type": "Tourist attraction",
+      "address": "Puerto Morelos, Quintana Roo, Mexico"
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 244,
+      "reviews_original": "(244)",
+      "description": "\"Beautiful private setting- absolutely gorgeous and the swim was stunning!\"",
+      "lsig": "AB86z5XndMSH5m2hc78yNdFd7lG7",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/FLPchJe1k5NlhQq-itqApJFXDFGkLrqhDj7ybNnLX2s.jpeg",
+      "place_id": "11960268596480322624",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=11960268596480322624&q=cenote+swimming",
+      "provider_id": "/g/11jm44d535",
+      "gps_coordinates": {
+        "latitude": 20.890545,
+        "longitude": -87.09064
+      },
+      "title": "Cenote Elvira",
+      "type": "Tourist attraction",
+      "address": "Ruta de los Cenotes KM 20.8, Quintana Roo Puerto Morelos - Leona Vicario"
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 7800,
+      "reviews_original": "(7.8K)",
+      "description": "\"The Cenote it's self is beautiful the water was warm and crystal clear.\"",
+      "lsig": "AB86z5Xr0QY1cpL1UaRFhATOZTiF",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/PVFCRdS2YMFDdE1Sbl4mxkNKRndaNKasJkXw7GrPNlE.jpeg",
+      "place_id": "3532955119720421864",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=3532955119720421864&q=cenote+swimming",
+      "provider_id": "/m/0cj4x4",
+      "gps_coordinates": {
+        "latitude": 20.325006,
+        "longitude": -87.390816
+      },
+      "title": "Two Eyes Cenote",
+      "type": "Tourist attraction",
+      "address": "Quintana Roo, Mexico"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "description": "\"Amazing Cenote, with clear water, and plenty of fish and aquatic life.\"",
+      "lsig": "AB86z5Wgd6y0C_g9gw2RnCI1iGoh",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/AFfTdfFsmWeuoq7T6Ehg1H_3q_JkAK0eTbSka6qsTos.jpeg",
+      "place_id": "17462268096913442595",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=17462268096913442595&q=cenote+swimming",
+      "provider_id": "/g/11d_x3tqrz",
+      "gps_coordinates": {
+        "latitude": 20.488853,
+        "longitude": -87.25001
+      },
+      "title": "Cenote Jardín Del Eden",
+      "type": "Tourist attraction",
+      "address": "Quintana Roo, Mexico"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "description": "\"4 wheeling, zip lining, cenote swimming tour..well worth the pesos.\"",
+      "lsig": "AB86z5X6zdAl5G1GpCNhf-C2f5gI",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/S0RKa2SSQ05-ZmSPQWQGcBLFJYXlp42iqQB41oZq8yI.jpeg",
+      "place_id": "14545158943526237679",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=14545158943526237679&q=cenote+swimming",
+      "provider_id": "/g/11f03l9yf3",
+      "gps_coordinates": {
+        "latitude": 20.851229,
+        "longitude": -87.12794
+      },
+      "title": "Cenotes Kin Ha",
+      "type": "Tourist attraction",
+      "address": "Cenote Kin ha"
+    },
+    {
+      "position": 13,
+      "rating": 4.2,
+      "reviews": 19,
+      "reviews_original": "(19)",
+      "description": "\"We were guided into the cenote via a concrete ramp well maintained.\"",
+      "lsig": "AB86z5XxIENv3FbN8j-J6s26Bque",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/kRrIf7KamojgANcPZ2_LRhkcCXUv5fCdIhvr1KZHIlg.jpeg",
+      "place_id": "932544386370249542",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=932544386370249542&q=cenote+swimming",
+      "provider_id": "/g/11y46x3szs",
+      "gps_coordinates": {
+        "latitude": 20.899708,
+        "longitude": -87.10173
+      },
+      "title": "Cenote XKITAM",
+      "type": "Tourist attraction",
+      "address": "Vallarta, Quintana Roo, Mexico"
+    },
+    {
+      "position": 14,
+      "rating": 4.6,
+      "reviews": 682,
+      "reviews_original": "(682)",
+      "description": "\"The water was very clear and we saw a lot of fish and corals.\"",
+      "lsig": "AB86z5WTpl8UGXdTRz3YpiOpV5sn",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/hq2ngkbysIqyL_3MjMS3MnE3Wtn_24JvAzV5xRCmh4o.jpeg",
+      "place_id": "4319433483618086051",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=4319433483618086051&q=cenote+swimming",
+      "provider_id": "/g/11bysjrrnj",
+      "gps_coordinates": {
+        "latitude": 21.207478,
+        "longitude": -86.803986
+      },
+      "title": "Total Snorkel Cancun",
+      "type": "Tour agency",
+      "years_in_business": "10+ years in business",
+      "address": "Carr. a Punta Sam 05-Mz.2"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 351,
+      "reviews_original": "(351)",
+      "description": "\"Lots of different cenotes with the ability to swim underground to each one.\"",
+      "lsig": "AB86z5UdHFGaGTO3hDTKOHfeOrsC",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/ht4uIFaqBVO5tBi-97_U7FEjksl8K9eksuKDYcwyG1g.jpeg",
+      "place_id": "10307421613104457286",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=10307421613104457286&q=cenote+swimming",
+      "provider_id": "/g/11b6t2pxc8",
+      "gps_coordinates": {
+        "latitude": 20.876585,
+        "longitude": -87.04374
+      },
+      "title": "Cenote Siete Bocas",
+      "type": "Tourist attraction",
+      "address": "Boca 1",
+      "hours": "Open now"
+    },
+    {
+      "position": 16,
+      "rating": 4.8,
+      "reviews": 23,
+      "reviews_original": "(23)",
+      "lsig": "AB86z5X2ntrAaGRcr9rBu1Dmqbuh",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/sL_bDZLTcLGw83A92AwWvM0KfJXhs0uRXJd_spcMqM4.jpeg",
+      "service_options": {
+        "onsite_services": true
+      },
+      "place_id": "11706503880275189767",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=11706503880275189767&q=cenote+swimming",
+      "provider_id": "/g/11h3j94k2b",
+      "gps_coordinates": {
+        "latitude": 20.894775,
+        "longitude": -87.09681
+      },
+      "title": "Cenote La Orquídea",
+      "type": "Park",
+      "address": "Leona Vicario, Quintana Roo, Mexico",
+      "hours": "Closed · Opens 10 AM Sun"
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 518,
+      "reviews_original": "(518)",
+      "description": "\"2 cenotes, swimming pool and food\"",
+      "lsig": "AB86z5UsuyHneREayqhQPYQC8FPJ",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/QvFC7Ojm9ZKVjDiHxlzwlk4sU7KafhkguuuJNuG7Qcw.jpeg",
+      "place_id": "9447456618771539698",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=9447456618771539698&q=cenote+swimming",
+      "provider_id": "/g/11f2w50l2b",
+      "gps_coordinates": {
+        "latitude": 21.06708,
+        "longitude": -87.10354
+      },
+      "title": "El Retoño",
+      "type": "Tourist attraction",
+      "address": "Desviación A Zona Agrícola De, Privada Francisco May"
+    },
+    {
+      "position": 18,
+      "rating": 4.9,
+      "reviews": 365,
+      "reviews_original": "(365)",
+      "description": "\"Breath taking, water is 82 feet Deep\"",
+      "lsig": "AB86z5VM0DELkyovLEYwrbDNpBAj",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/4w-T6Z7UYYFaYvSPBkaCkUQcmIaOB25Qhuaxz9FxRMM.jpeg",
+      "place_id": "7537175127649069804",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=7537175127649069804&q=cenote+swimming",
+      "provider_id": "/g/11cmq49qm8",
+      "gps_coordinates": {
+        "latitude": 20.828487,
+        "longitude": -87.18985
+      },
+      "title": "Cenote Lu'um",
+      "type": "Park",
+      "address": "(20.828487,-87.189850)",
+      "hours": "Open now"
+    },
+    {
+      "position": 19,
+      "rating": 4.3,
+      "reviews": 57,
+      "reviews_original": "(57)",
+      "description": "\"Enjoy your experience, open your mind to the possibilities.\"",
+      "lsig": "AB86z5U-uT9Pzl5YTjF__iv8xMIC",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/2WtoJTTQxVnE3MXBpfX7k00hqfaCXo8aHNpb-Qe8mRo.jpeg",
+      "place_id": "16361930203361470375",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=16361930203361470375&q=cenote+swimming",
+      "provider_id": "/g/11f6kx311h",
+      "gps_coordinates": {
+        "latitude": 21.161192,
+        "longitude": -86.808685
+      },
+      "title": "Experiencias Xcaret",
+      "type": "Ecological park",
+      "address": "Cancún, Quintana Roo, Mexico"
+    },
+    {
+      "position": 20,
+      "rating": 4.7,
+      "reviews": 83,
+      "reviews_original": "(83)",
+      "description": "\"Cenote Diving provides all the snorkel equipment.\"",
+      "lsig": "AB86z5UkYacaFskojqG0IfXEP3ty",
+      "thumbnail": "https://serpapi.com/searches/69d52d301dcfe2c0deff3462/images/S-Mtvb52VJwO3p4J6FD2GcTI8VsyJX6DQfoJtNb08EU.jpeg",
+      "place_id": "10726475650997671227",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=10726475650997671227&q=cenote+swimming",
+      "provider_id": "/g/11b6_mf5r7",
+      "gps_coordinates": {
+        "latitude": 21.134813,
+        "longitude": -86.74594
+      },
+      "title": "Cenote Diving And Snorkeling Experiences",
+      "type": "Travel agency",
+      "years_in_business": "10+ years in business",
+      "address": "plaza caracol, Blvd. Kukulcan Km. 8.5"
+    }
+  ]
+}

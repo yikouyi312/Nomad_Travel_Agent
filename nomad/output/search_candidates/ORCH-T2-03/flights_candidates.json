@@ -1,0 +1,895 @@
+[
+  {
+    "task_id": "ORCH-T2-03",
+    "category": "flights",
+    "timestamp": "2026-04-07T10:58:19.257966",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "New York",
+      "destination": "Chicago",
+      "departure_date": "2026-09-15",
+      "return_date": "2026-09-17"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 07:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 09:14"
+              },
+              "duration": 164,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4464",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 164,
+          "carbon_emissions": {
+            "this_flight": 176000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 48
+          },
+          "price": 227,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1pCUVRRME5qUWFDd2lzc1FFUUFob0RWVk5FT0J4d3JMRUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkFBIiwiNDQ2NCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 11:00"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 12:40"
+              },
+              "duration": 160,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 788",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 108 kg"
+              ]
+            }
+          ],
+          "total_duration": 160,
+          "carbon_emissions": {
+            "this_flight": 108000,
+            "typical_for_this_route": 119000,
+            "difference_percent": -9
+          },
+          "price": 227,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1ZCUVRjNE9Cb0xDS3l4QVJBQ0dnTlZVMFE0SEhDc3NRRT0iLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkFBIiwiNzg4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 10:00"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 11:47"
+              },
+              "duration": 167,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 905",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 146 kg"
+              ]
+            }
+          ],
+          "total_duration": 167,
+          "carbon_emissions": {
+            "this_flight": 146000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 23
+          },
+          "price": 236,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1ZDTmprd05Sb0xDSnk0QVJBQ0dnTlZVMFE0SEhDY3VBRT0iLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkI2IiwiOTA1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 08:10"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 10:00"
+              },
+              "duration": 170,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5705",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 165 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 170,
+          "carbon_emissions": {
+            "this_flight": 166000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 39
+          },
+          "price": 247,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1pFVERVM01EVWFDd2o4d0FFUUFob0RWVk5FT0J4dy9NQUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTcwNSJdXV0="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 15:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 17:20"
+              },
+              "duration": 170,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4489",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 170,
+          "carbon_emissions": {
+            "this_flight": 176000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 48
+          },
+          "price": 247,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1pCUVRRME9Ea2FDd2o4d0FFUUFob0RWVk5FT0J4dy9NQUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkFBIiwiNDQ4OSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 15:40"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 17:41"
+              },
+              "duration": 181,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5783",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 165 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 181,
+          "carbon_emissions": {
+            "this_flight": 166000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 39
+          },
+          "price": 247,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1pFVERVM09ETWFDd2o4d0FFUUFob0RWVk5FT0J4dy9NQUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTc4MyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 06:30"
+              },
+              "arrival_airport": {
+                "name": "Ronald Reagan Washington National Airport",
+                "id": "DCA",
+                "time": "2026-09-15 07:58"
+              },
+              "duration": 88,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4671",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 79 kg"
+              ],
+              "often_delayed_by_over_30_min": true,
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            },
+            {
+              "departure_airport": {
+                "name": "Ronald Reagan Washington National Airport",
+                "id": "DCA",
+                "time": "2026-09-15 08:37"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 09:55"
+              },
+              "duration": 138,
+              "airplane": "Airbus A319",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 522",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 133 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 39,
+              "name": "Ronald Reagan Washington National Airport",
+              "id": "DCA"
+            }
+          ],
+          "total_duration": 265,
+          "carbon_emissions": {
+            "this_flight": 214000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 80
+          },
+          "price": 277,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ3hCUVRRMk56RjhRVUUxTWpJYUN3ajUxd0VRQWhvRFZWTkVPQnh3K2RjQiIsW1siSkZLIiwiMjAyNi0wOS0xNSIsIkRDQSIsbnVsbCwiQUEiLCI0NjcxIl0sWyJEQ0EiLCIyMDI2LTA5LTE1IiwiT1JEIixudWxsLCJBQSIsIjUyMiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 10:50"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 12:41"
+              },
+              "duration": 171,
+              "airplane": "Canadair RJ 900",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5119",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Carbon emissions estimate: 184 kg"
+              ],
+              "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+            }
+          ],
+          "total_duration": 171,
+          "carbon_emissions": {
+            "this_flight": 184000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 55
+          },
+          "price": 281,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1pFVERVeE1Ua2FDd2pFMndFUUFob0RWVk5FT0J4d3hOc0IiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTExOSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 19:35"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 21:36"
+              },
+              "duration": 181,
+              "airplane": "Canadair RJ 900",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5030",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 170 kg"
+              ],
+              "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+            }
+          ],
+          "total_duration": 181,
+          "carbon_emissions": {
+            "this_flight": 171000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 44
+          },
+          "price": 281,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZ1pFVERVd016QWFDd2pFMndFUUFob0RWVk5FT0J4d3hOc0IiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTAzMCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 07:15"
+              },
+              "arrival_airport": {
+                "name": "Detroit Metropolitan Wayne County Airport",
+                "id": "DTW",
+                "time": "2026-09-15 09:19"
+              },
+              "duration": 124,
+              "airplane": "Canadair RJ 900",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5080",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 121 kg"
+              ],
+              "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+            },
+            {
+              "departure_airport": {
+                "name": "Detroit Metropolitan Wayne County Airport",
+                "id": "DTW",
+                "time": "2026-09-15 10:00"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 10:24"
+              },
+              "duration": 84,
+              "airplane": "Boeing 717",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 1654",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Carbon emissions estimate: 78 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 41,
+              "name": "Detroit Metropolitan Wayne County Airport",
+              "id": "DTW"
+            }
+          ],
+          "total_duration": 249,
+          "carbon_emissions": {
+            "this_flight": 200000,
+            "typical_for_this_route": 119000,
+            "difference_percent": 68
+          },
+          "price": 305,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJVkVWWmJYZEJOV3N0U2xWQlJFOVdUbWRDUnkwdExTMHRMUzB0TFhaMFltWnFNMEZCUVVGQlIyNVdSelJ2VGw4NUxYVkJFZzFFVERVd09EQjhSRXd4TmpVMEdnc0kvTzBCRUFJYUExVlRSRGdjY1B6dEFRPT0iLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJEVFciLG51bGwsIkRMIiwiNTA4MCJdLFsiRFRXIiwiMjAyNi0wOS0xNSIsIk9SRCIsbnVsbCwiREwiLCIxNjU0Il1dXQ=="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-03",
+    "category": "flights",
+    "timestamp": "2026-05-04T02:44:13.547864",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "New York",
+      "destination": "Chicago",
+      "departure_date": "2026-09-15",
+      "return_date": "2026-09-18"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 08:10"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 10:00"
+              },
+              "duration": 170,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5705",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 165 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 170,
+          "carbon_emissions": {
+            "this_flight": 166000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 38
+          },
+          "price": 248,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1pFVERVM01EVWFDd2pNd1FFUUFob0RWVk5FT0J4d3pNRUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTcwNSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 15:40"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 17:41"
+              },
+              "duration": 181,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5783",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 165 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 181,
+          "carbon_emissions": {
+            "this_flight": 166000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 38
+          },
+          "price": 248,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1pFVERVM09ETWFDd2pNd1FFUUFob0RWVk5FT0J4d3pNRUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTc4MyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 10:00"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 11:47"
+              },
+              "duration": 167,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 905",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 146 kg"
+              ]
+            }
+          ],
+          "total_duration": 167,
+          "carbon_emissions": {
+            "this_flight": 146000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 22
+          },
+          "price": 272,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1ZDTmprd05Sb0xDS3pVQVJBQ0dnTlZVMFE0SEhDczFBRT0iLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkI2IiwiOTA1Il1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 19:35"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 21:36"
+              },
+              "duration": 181,
+              "airplane": "Canadair RJ 900",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5030",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "Carbon emissions estimate: 170 kg"
+              ],
+              "often_delayed_by_over_30_min": true,
+              "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+            }
+          ],
+          "total_duration": 181,
+          "carbon_emissions": {
+            "this_flight": 171000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 43
+          },
+          "price": 268,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1pFVERVd016QWFDd2liMFFFUUFob0RWVk5FT0J4d205RUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTAzMCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 07:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 09:14"
+              },
+              "duration": 164,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4464",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 164,
+          "carbon_emissions": {
+            "this_flight": 176000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 47
+          },
+          "price": 271,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1pCUVRRME5qUWFDd2pIMHdFUUFob0RWVk5FT0J4d3g5TUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkFBIiwiNDQ2NCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 11:00"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 12:40"
+              },
+              "duration": 160,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 788",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 108 kg"
+              ]
+            }
+          ],
+          "total_duration": 160,
+          "carbon_emissions": {
+            "this_flight": 108000,
+            "typical_for_this_route": 120000,
+            "difference_percent": -10
+          },
+          "price": 271,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1ZCUVRjNE9Cb0xDTWZUQVJBQ0dnTlZVMFE0SEhESDB3RT0iLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkFBIiwiNzg4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 15:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 17:20"
+              },
+              "duration": 170,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4489",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 170,
+          "carbon_emissions": {
+            "this_flight": 176000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 47
+          },
+          "price": 291,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1pCUVRRME9Ea2FDd2lYNHdFUUFob0RWVk5FT0J4d2wrTUIiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkFBIiwiNDQ4OSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-09-15 10:50"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-09-15 12:41"
+              },
+              "duration": 171,
+              "airplane": "Canadair RJ 900",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5119",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Carbon emissions estimate: 184 kg"
+              ],
+              "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+            }
+          ],
+          "total_duration": 171,
+          "carbon_emissions": {
+            "this_flight": 184000,
+            "typical_for_this_route": 120000,
+            "difference_percent": 53
+          },
+          "price": 299,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZUZCNWRFVjJTakF5YnpCQlRESlNhRkZDUnkwdExTMHRMUzB0Y0dwaVpuY3hOVUZCUVVGQlIyNDBVVVF3UzBGS1JHbEJFZ1pFVERVeE1Ua2FDd2k0NlFFUUFob0RWVk5FT0J4d3VPa0IiLFtbIkpGSyIsIjIwMjYtMDktMTUiLCJPUkQiLG51bGwsIkRMIiwiNTExOSJdXV0="
+        }
+      ]
+    }
+  }
+]

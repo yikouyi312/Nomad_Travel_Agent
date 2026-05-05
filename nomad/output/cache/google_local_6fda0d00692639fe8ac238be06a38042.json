@@ -1,0 +1,265 @@
+{
+  "search_metadata": {
+    "id": "69d51b916c4c0c53354dc489",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LCOgENF6KgVK9z9YA0epBg/69d51b916c4c0c53354dc489.json",
+    "created_at": "2026-04-07 14:58:25 UTC",
+    "processed_at": "2026-04-07 14:58:25 UTC",
+    "google_local_url": "https://www.google.com/search?q=Art+Institute&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/LCOgENF6KgVK9z9YA0epBg/69d51b916c4c0c53354dc489.html",
+    "total_time_taken": 5.04
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Art Institute",
+    "location_requested": "Chicago",
+    "location_used": "Chicago,Illinois,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 41.88924368223226,
+      "longitude": -87.65321731567383
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 38000,
+      "reviews_original": "(38K)",
+      "description": "Renowned art museum with global works",
+      "lsig": "AB86z5VjhLtkfaNiXDuGTMYXjFnb",
+      "links": {
+        "website": "https://www.artic.edu/",
+        "directions": "https://www.google.com/maps/dir//The+Art+Institute+of+Chicago,+111+S+Michigan+Ave,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca3e2d94695:0x4829f3cc9ca2d0de?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "5199955304902742238",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5199955304902742238&q=Art+Institute",
+      "provider_id": "/m/027hqc_",
+      "gps_coordinates": {
+        "latitude": 41.879604,
+        "longitude": -87.62235
+      },
+      "title": "The Art Institute of Chicago",
+      "type": "Museum",
+      "phone": "(312) 443-3600",
+      "address": "111 S Michigan Ave",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 324,
+      "reviews_original": "(324)",
+      "lsig": "AB86z5XMKN9rk2t3CbaN-Rkqf7b6",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "https://www.artic.edu/",
+        "directions": "https://www.google.com/maps/dir//Art+Institute+of+Chicago+Columbus+Drive+Entrance,+230+S+Columbus+Dr,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca129d7537b:0x38b80fdca35d02d0?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "4087034102146728656",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4087034102146728656&q=Art+Institute",
+      "provider_id": "/g/11ddwx2t0l",
+      "gps_coordinates": {
+        "latitude": 41.879597,
+        "longitude": -87.621254
+      },
+      "title": "Art Institute of Chicago Columbus Drive Entrance",
+      "type": "Art museum",
+      "phone": "(312) 443-3600",
+      "address": "230 S Columbus Dr",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 3,
+      "rating": 4.2,
+      "reviews": 106,
+      "reviews_original": "(106)",
+      "lsig": "AB86z5UfExaBB5W7QNb0PwwUUA9a",
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": true
+      },
+      "links": {
+        "website": "https://www.saic.edu/",
+        "directions": "https://www.google.com/maps/dir//School+of+the+Art+Institute+of+Chicago,+36+S+Wabash+Ave,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca48f429315:0x944e3fc9dc264fa6?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "10686549102011240358",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10686549102011240358&q=Art+Institute",
+      "provider_id": "/m/0bjqh",
+      "gps_coordinates": {
+        "latitude": 41.880978,
+        "longitude": -87.62662
+      },
+      "title": "School of the Art Institute of Chicago",
+      "type": "Art school",
+      "phone": "(800) 232-7242",
+      "years_in_business": "155+ years in business",
+      "address": "36 S Wabash Ave",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 4,
+      "rating": 5.0,
+      "reviews": 25,
+      "reviews_original": "(25)",
+      "lsig": "AB86z5Xoq41GyREbnq1cM31p_Bk6",
+      "links": {
+        "website": "http://www.artic.edu/",
+        "directions": "https://www.google.com/maps/dir//Art+Institute+of+Chicago+(Modern+Wing),+207+E+Monroe+St,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2d006e8c218b:0x4342f43e6334f8ab?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIJxAA&hl=en&gl=us"
+      },
+      "place_id": "4846704697793640619",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4846704697793640619&q=Art+Institute",
+      "provider_id": "/g/11wk59v6pv",
+      "gps_coordinates": {
+        "latitude": 41.88067,
+        "longitude": -87.62224
+      },
+      "title": "Art Institute of Chicago (Modern Wing)",
+      "type": "Museum",
+      "phone": "(312) 443-3600",
+      "address": "207 E Monroe St",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 5,
+      "rating": 4.3,
+      "reviews": 32,
+      "reviews_original": "(32)",
+      "lsig": "AB86z5UpitJA2vq9lQ7ix3_2Dv9n",
+      "links": {
+        "website": "http://www.saic.edu/",
+        "directions": "https://www.google.com/maps/dir//School+of+the+Art+Institute+of+Chicago,+280+S+Columbus+Dr+280+Building,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca121b6e39d:0xee335d5d0ce049a9?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIKRAA&hl=en&gl=us"
+      },
+      "place_id": "17164165259068459433",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17164165259068459433&q=Art+Institute",
+      "provider_id": "/g/11b8v9nrs4",
+      "gps_coordinates": {
+        "latitude": 41.878914,
+        "longitude": -87.62124
+      },
+      "title": "School of the Art Institute of Chicago",
+      "type": "Art school",
+      "phone": "(800) 232-7242",
+      "years_in_business": "160+ years in business",
+      "address": "280 S Columbus Dr 280 Building",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 6,
+      "rating": 5.0,
+      "reviews": 1,
+      "reviews_original": "(1)",
+      "lsig": "AB86z5XVii6UyblcRFMVtzYAuEI6",
+      "links": {
+        "website": "http://www.saic.edu/",
+        "directions": "https://www.google.com/maps/dir//School+of+the+Art+Institute+of+Chicago+Student+Residence+Hall,+7+W+Madison+St,+Chicago,+IL+60602/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca4c957478f:0xbd46b7ea686d2464?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "13638790738940339300",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13638790738940339300&q=Art+Institute",
+      "provider_id": "/g/11ckvknmfp",
+      "gps_coordinates": {
+        "latitude": 41.88191,
+        "longitude": -87.62819
+      },
+      "title": "School of the Art Institute of Chicago Student Residence Hall",
+      "type": "College",
+      "phone": "(800) 232-7242",
+      "address": "7 W Madison St",
+      "hours": "Open · Closes 4:30 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.3,
+      "reviews": 13,
+      "reviews_original": "(13)",
+      "lsig": "AB86z5UwBQmMDx_REr8CmTao6S0U",
+      "links": {
+        "website": "http://www.saic.edu/",
+        "directions": "https://www.google.com/maps/dir//School+of+the+Art+Institute+of+Chicago,+112+S+Michigan+Ave,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca3f582fb3f:0x15b0dce98ac882dd?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIKBAA&hl=en&gl=us"
+      },
+      "place_id": "1562991966311449309",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=1562991966311449309&q=Art+Institute",
+      "provider_id": "/g/1w0r0hd1",
+      "gps_coordinates": {
+        "latitude": 41.88039,
+        "longitude": -87.62464
+      },
+      "title": "School of the Art Institute of Chicago",
+      "type": "Art school",
+      "phone": "(800) 232-7242",
+      "years_in_business": "10+ years in business",
+      "address": "112 S Michigan Ave",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 12,
+      "reviews_original": "(12)",
+      "lsig": "AB86z5WVmli__5DUr14ceJOCZtwe",
+      "links": {
+        "website": "https://www.artic.edu/departments/PC-5/architecture-and-design",
+        "directions": "https://www.google.com/maps/dir//Architecture+%26+Design+at+the+Art+Institute+of+Chicago+(Gallery+285),+159+E+Monroe+St,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2d8568882309:0x4cd23e9d891bf4ea?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "5535555738322859242",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5535555738322859242&q=Art+Institute",
+      "provider_id": "/g/11trn2chm9",
+      "gps_coordinates": {
+        "latitude": 41.879948,
+        "longitude": -87.62232
+      },
+      "title": "Architecture & Design at the Art Institute of Chicago (Gallery 285)",
+      "type": "Museum",
+      "address": "159 E Monroe St"
+    },
+    {
+      "position": 9,
+      "lsig": "AB86z5XeIZN1jz_DTG9GUaOU-tgO",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//North+State+Residences+The+School+Of+Art+Institute+Chicago,+166+N+State+St,+Chicago,+IL+60601/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2ca5514c30af:0x8c6fc16b0d80d452?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIKhAA&hl=en&gl=us"
+      },
+      "place_id": "10119519553257002066",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10119519553257002066&q=Art+Institute",
+      "provider_id": "/g/11vzdv3pv0",
+      "gps_coordinates": {
+        "latitude": 41.884987,
+        "longitude": -87.62815
+      },
+      "title": "North State Residences The School Of Art Institute Chicago",
+      "reviews_original": "No reviews",
+      "type": "Educational institution",
+      "address": "166 N State St"
+    },
+    {
+      "position": 10,
+      "rating": 4.8,
+      "reviews": 127,
+      "reviews_original": "(127)",
+      "description": "Museum & cultural center",
+      "lsig": "AB86z5XqUn370R-VI5IDuoi2RXA-",
+      "links": {
+        "website": "http://www.uima-chicago.org/",
+        "directions": "https://www.google.com/maps/dir//Ukrainian+Institute+of+Modern+Art,+2320+W+Chicago+Ave,+Chicago,+IL+60622/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2d4cd6b1d4bd:0xd4f54385251f1e57?sa=X&ved=2ahUKEwjO3I-hgNyTAxW_if0HHZw6LIUQ48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "15345245544467340887",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15345245544467340887&q=Art+Institute",
+      "provider_id": "/m/0fn7h8",
+      "gps_coordinates": {
+        "latitude": 41.895977,
+        "longitude": -87.685
+      },
+      "title": "Ukrainian Institute of Modern Art",
+      "type": "Modern art museum",
+      "phone": "(773) 227-5522",
+      "address": "2320 W Chicago Ave",
+      "hours": "Closed · Opens 12 PM Wed"
+    }
+  ]
+}

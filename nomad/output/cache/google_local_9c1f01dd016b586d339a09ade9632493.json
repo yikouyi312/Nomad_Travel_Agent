@@ -1,0 +1,458 @@
+{
+  "search_metadata": {
+    "id": "69d52c9ebe918a4c952c59c7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sAclKPkjeF4YQrbxFbJeYQ/69d52c9ebe918a4c952c59c7.json",
+    "created_at": "2026-04-07 16:11:10 UTC",
+    "processed_at": "2026-04-07 16:11:10 UTC",
+    "google_local_url": "https://www.google.com/search?q=food+scene&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/sAclKPkjeF4YQrbxFbJeYQ/69d52c9ebe918a4c952c59c7.html",
+    "total_time_taken": 6.03
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "food scene",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.519157977197814,
+      "longitude": -122.66089439392091
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.4,
+      "reviews": 250,
+      "reviews_original": "(250)",
+      "price": "$10–20",
+      "description": "\"The pricing for food and drink items are skill solid.\"",
+      "lsig": "AB86z5WNegQJpXsjum194NpsHSCq",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/lpHQhqCzLCLS5X-F4zhkJV7zLatQyPdmFvUs6JZVzqk.jpeg",
+      "place_id": "15007985627893167216",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15007985627893167216&q=food+scene",
+      "provider_id": "/g/11c59wm2ll",
+      "gps_coordinates": {
+        "latitude": 45.516983,
+        "longitude": -122.67542
+      },
+      "title": "Portland Food Hall",
+      "type": "Food court",
+      "address": "827 SW 2nd Ave"
+    },
+    {
+      "position": 2,
+      "rating": 4.6,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$10–20",
+      "description": "\"Great variety of food options in a clean and cozy open space\"",
+      "lsig": "AB86z5U9cfgYI2AIpxlelYSkt1Cy",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/7wAD3K4dvXK-TOufUzUk_HTNrKPHF1lLpKvEB9WXByE.jpeg",
+      "place_id": "16164461960130883421",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16164461960130883421&q=food+scene",
+      "provider_id": "/g/11bwdymm5x",
+      "gps_coordinates": {
+        "latitude": 45.521324,
+        "longitude": -122.67234
+      },
+      "title": "Pine Street Market",
+      "type": "Food court",
+      "address": "126 SW 2nd Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.5,
+      "reviews": 205,
+      "reviews_original": "(205)",
+      "price": "$10–20",
+      "description": "\"Really surprised by the healthy options and how flavorful they were!\"",
+      "lsig": "AB86z5VHjOj9SUZbSUmzAT1thazy",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/V40wazfC2s8fW7CvGHCzdNw2WVCfUa6kESRWlCzbjy8.jpeg",
+      "place_id": "6137801721340447874",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6137801721340447874&q=food+scene",
+      "provider_id": "/g/11q573nf1t",
+      "gps_coordinates": {
+        "latitude": 45.513496,
+        "longitude": -122.66336
+      },
+      "title": "honeycuspe",
+      "type": "Breakfast",
+      "address": "Wonderlove Bar & Food Cart Pod, 262 SE Main St"
+    },
+    {
+      "position": 4,
+      "rating": 4.7,
+      "reviews": 566,
+      "reviews_original": "(566)",
+      "price": "$10–20",
+      "description": "\"Lots of great and unique food options, excellent vibes, good prices.\"",
+      "lsig": "AB86z5XV7qe0hUPiZdlkcfBEP1UM",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/KMrGrmUXTWmua21pgxA4Xo4IyR9MU4dYcHCgUvpqZ5w.jpeg",
+      "place_id": "7883451987674150739",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=7883451987674150739&q=food+scene",
+      "provider_id": "/g/11krqbsgm1",
+      "gps_coordinates": {
+        "latitude": 45.520996,
+        "longitude": -122.676155
+      },
+      "title": "Midtown Beer Garden by Expensify",
+      "type": "Food court",
+      "address": "431 SW Harvey Milk St"
+    },
+    {
+      "position": 5,
+      "rating": 4.1,
+      "reviews": 119,
+      "reviews_original": "(119)",
+      "price": "$20–30",
+      "description": "\"Delicious meal in a classy peaceful ambiance.\"",
+      "lsig": "AB86z5U6KUEgHlbtK_rCKeu0ax7k",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/z3ARQGC0MXxLwX0hnzacfM_QPm2DO7cnrVviXn2guz4.jpeg",
+      "place_id": "8590798271350338008",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8590798271350338008&q=food+scene",
+      "provider_id": "/g/11tc08vcj4",
+      "gps_coordinates": {
+        "latitude": 45.520126,
+        "longitude": -122.68007
+      },
+      "title": "Bistro Alder",
+      "type": "Restaurant",
+      "address": "750 SW Alder St"
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 7600,
+      "reviews_original": "(7.6K)",
+      "price": "$20–30",
+      "description": "\"The food, drinks & atmosphere is so unique & relaxing.\"",
+      "lsig": "AB86z5Vnh2vLkoX3O63aiDv_zlGf",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/jvMcOBaXVQLiwXt-dXQHDVboWnhyJBAAeE6sNiPvav8.jpeg",
+      "place_id": "9657599113001754934",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9657599113001754934&q=food+scene",
+      "provider_id": "/g/11cjp9qxp9",
+      "gps_coordinates": {
+        "latitude": 45.52302,
+        "longitude": -122.641624
+      },
+      "title": "Screen Door Eastside",
+      "type": "Southern",
+      "address": "2337 E Burnside St"
+    },
+    {
+      "position": 7,
+      "rating": 4.8,
+      "reviews": 235,
+      "reviews_original": "(235)",
+      "price": "$10–20",
+      "description": "\"Delicious food and drinks, great service and a cozy atmosphere.\"",
+      "lsig": "AB86z5WSg-GTLeqxydv1nVMLYziK",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/QnJgUnIKPLUfVwiGW9v1N5sZ6CvzDryhQYfw1Wjspd0.jpeg",
+      "place_id": "2534414085319033099",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2534414085319033099&q=food+scene",
+      "provider_id": "/g/11xcxsg7ph",
+      "gps_coordinates": {
+        "latitude": 45.5193,
+        "longitude": -122.67462
+      },
+      "title": "Eggs & Co.",
+      "type": "Breakfast",
+      "address": "510 SW 3rd Ave"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 2400,
+      "reviews_original": "(2.4K)",
+      "description": "\"The food, the drinks, the service, the ambiance are all top-notch.\"",
+      "lsig": "AB86z5UU06clK7bXE_fjWSgKjGgI",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/EX2xV3R6Y3UdKxtw16UIneIXF4NJqVCBkKdhlyKyI94.jpeg",
+      "place_id": "10107566994316026154",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=10107566994316026154&q=food+scene",
+      "provider_id": "/g/11bvv5jvhs",
+      "gps_coordinates": {
+        "latitude": 45.521263,
+        "longitude": -122.670746
+      },
+      "title": "Lechon",
+      "type": "South American",
+      "address": "113 SW Naito Pkwy",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 232,
+      "reviews_original": "(232)",
+      "price": "$20–30",
+      "description": "\"Pros: The portions for food were surprisingly large for the price.\"",
+      "lsig": "AB86z5Vhw-BHUgtXyN4f1JlYKxsE",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/JtlUSAAxaq4Ags420pUvLlBsc1GHSqmvABQaQcKIlnE.jpeg",
+      "place_id": "18111948701578674266",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=18111948701578674266&q=food+scene",
+      "provider_id": "/g/11m68498p4",
+      "gps_coordinates": {
+        "latitude": 45.518543,
+        "longitude": -122.676216
+      },
+      "title": "Side Hustle",
+      "type": "Restaurant",
+      "address": "327 SW Morrison St",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 113,
+      "reviews_original": "(113)",
+      "price": "$10–20",
+      "description": "\"Lots of vegan, gluten free, and vegetarian options.\"",
+      "lsig": "AB86z5X6YNqI-hUxM4kp6Xi64LR7",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/fQZ027a5PTghtxx8UaPq9hvep3YWF0edQutJ63xAwZA.jpeg",
+      "place_id": "247349837748846652",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=247349837748846652&q=food+scene",
+      "provider_id": "/g/11jcmnd91q",
+      "gps_coordinates": {
+        "latitude": 45.516144,
+        "longitude": -122.67513
+      },
+      "title": "Elephants at World Trade Center",
+      "type": "Restaurant",
+      "address": "127 SW Salmon St"
+    },
+    {
+      "position": 11,
+      "rating": 4.3,
+      "reviews": 250,
+      "reviews_original": "(250)",
+      "price": "$10–20",
+      "description": "\"Fantastic food, awesome friendly staff, convenient location.\"",
+      "lsig": "AB86z5ULAsMDb646Toscvr6DyeDU",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/cFfb-irH80SBNEBXdmkZpaEkwd8nmaLEArtQzyPoghU.jpeg",
+      "place_id": "5134493985291881833",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5134493985291881833&q=food+scene",
+      "provider_id": "/g/1thq0f4s",
+      "gps_coordinates": {
+        "latitude": 45.51869,
+        "longitude": -122.680824
+      },
+      "title": "Flying Elephants at Fox Tower",
+      "type": "Restaurant",
+      "address": "812 SW Park Ave"
+    },
+    {
+      "position": 12,
+      "rating": 4.3,
+      "reviews": 138,
+      "reviews_original": "(138)",
+      "price": "$10–20",
+      "description": "\"The food was excellent and the portion size for the price was reasonable.\"",
+      "lsig": "AB86z5ViGvlLZe7MMB9s_Kak-OjL",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/OwmsyVlZWWpizvqbrkQyuwZF0qhcRoC9hbTwLoz93Jc.jpeg",
+      "place_id": "4120083588952317201",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4120083588952317201&q=food+scene",
+      "provider_id": "/g/11ll_y8t9q",
+      "gps_coordinates": {
+        "latitude": 45.51468,
+        "longitude": -122.660934
+      },
+      "title": "Grand Ave Food Co",
+      "type": "Restaurant",
+      "address": "1135 SE Grand Ave",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 517,
+      "reviews_original": "(517)",
+      "price": "$10–20",
+      "description": "\"A delightfully chaotic food-cart pod built around a former bank vault.\"",
+      "lsig": "AB86z5Xy25z_kf66hbWvraDKw-pA",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/Odn_64y-0L2M5VAXgb1pyOs89--wYaXd9uwUDovSmso.jpeg",
+      "place_id": "12770522401148893962",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12770522401148893962&q=food+scene",
+      "provider_id": "/g/11t_yvw0jh",
+      "gps_coordinates": {
+        "latitude": 45.479553,
+        "longitude": -122.61384
+      },
+      "title": "The Heist Bar & Food Carts",
+      "type": "Restaurant",
+      "address": "4727 SE Woodstock Blvd"
+    },
+    {
+      "position": 14,
+      "rating": 4.8,
+      "reviews": 84,
+      "reviews_original": "(84)",
+      "price": "$10–20",
+      "description": "\"They have gluten free options which is great, and the owner is super kind!\"",
+      "lsig": "AB86z5WMrIt7SJjZSLNfUyUBWh6C",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/2aT8noL3dLwHil24irbDo-eI_ISpBFHDDM--e_lAKJU.jpeg",
+      "place_id": "236544371660743699",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=236544371660743699&q=food+scene",
+      "provider_id": "/g/11sytzpjrf",
+      "gps_coordinates": {
+        "latitude": 45.511948,
+        "longitude": -122.68582
+      },
+      "title": "Khao Niew Lao Food Cart",
+      "type": "Laotian",
+      "address": "979 SW Harrison St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.8,
+      "reviews": 544,
+      "reviews_original": "(544)",
+      "price": "$20–30",
+      "description": "\"beautiful ambiance & the most delicious food I’ve had in a while.\"",
+      "lsig": "AB86z5WzPIgiL6Dnl35r6pddX3Qk",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/E9XJ_senE7XjwzzDVslgvZCytB4410z_mRDJ-bteQWM.jpeg",
+      "place_id": "10460142581866878375",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=10460142581866878375&q=food+scene",
+      "provider_id": "/g/11rstd_vjp",
+      "gps_coordinates": {
+        "latitude": 45.52114,
+        "longitude": -122.6756
+      },
+      "title": "Queen Mama's Kitchen",
+      "type": "Mediterranean",
+      "address": "406 SW Oak St",
+      "hours": "Closed · Opens 4 PM Wed"
+    },
+    {
+      "position": 16,
+      "rating": 4.2,
+      "reviews": 241,
+      "reviews_original": "(241)",
+      "price": "$10–20",
+      "description": "\"Good food, great staff, prices are pretty typical for the waterfront.\"",
+      "lsig": "AB86z5Wx5mAcmfvOtqqK0JuJ09-e",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/tiTAubvNeXLpw6PvMAPrKm41DCGAx4ZhayEhSUHU0YY.jpeg",
+      "place_id": "4795572688717747063",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4795572688717747063&q=food+scene",
+      "provider_id": "/g/11bw3dl4j6",
+      "gps_coordinates": {
+        "latitude": 45.50297,
+        "longitude": -122.67127
+      },
+      "title": "Flying Elephants at South Waterfront",
+      "type": "Restaurant",
+      "address": "2730 S Moody Ave"
+    },
+    {
+      "position": 17,
+      "rating": 4.9,
+      "reviews": 98,
+      "reviews_original": "(98)",
+      "price": "$10–20",
+      "description": "\"This is a great addition to the portland food scene!\"",
+      "lsig": "AB86z5WacX95ncTHrFxKynoZ3kQc",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/q9Tz66EpL_TfLb7pxCeZuqCjSLdzcwLehiRgVkMbB6M.jpeg",
+      "place_id": "13036137329125069272",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=13036137329125069272&q=food+scene",
+      "provider_id": "/g/11ww03tb9_",
+      "gps_coordinates": {
+        "latitude": 45.516636,
+        "longitude": -122.65961
+      },
+      "title": "Cozy Congee",
+      "type": "Restaurant",
+      "address": "605 SE Belmont St"
+    },
+    {
+      "position": 18,
+      "rating": 4.9,
+      "reviews": 16,
+      "reviews_original": "(16)",
+      "price": "$20–30",
+      "lsig": "AB86z5WsziVbsER3o4NWGsIpPNCJ",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/lFChQxEBYvdHLVQt_2hNI47J6Pr36joaXbUZpqffNFM.jpeg",
+      "place_id": "13737235705522330398",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=13737235705522330398&q=food+scene",
+      "provider_id": "/g/11mlx_yv99",
+      "gps_coordinates": {
+        "latitude": 45.523304,
+        "longitude": -122.682945
+      },
+      "title": "Hearth & Vine",
+      "type": "American",
+      "address": "10 NW 12th Ave",
+      "hours": "Closed · Opens 11 AM Wed",
+      "extensions": [
+        "Recently opened"
+      ]
+    },
+    {
+      "position": 19,
+      "rating": 2.0,
+      "reviews": 28,
+      "reviews_original": "(28)",
+      "price": "$10–20",
+      "description": "\"... was great, & you can tell they cared when making the food!\"",
+      "lsig": "AB86z5UdCqM0wxe_Pi_uIIYInyEE",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/OoLYi9tVd502dDsJHY_BZAsjltdBIO0k7c8Hv4Cbnv4.jpeg",
+      "place_id": "5963428128985830819",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5963428128985830819&q=food+scene",
+      "provider_id": "/g/11jsbsqw_c",
+      "gps_coordinates": {
+        "latitude": 45.530975,
+        "longitude": -122.66094
+      },
+      "title": "The Meltdown",
+      "type": "Restaurant",
+      "address": "425 NE Hassalo St"
+    },
+    {
+      "position": 20,
+      "rating": 4.2,
+      "reviews": 5,
+      "reviews_original": "(5)",
+      "description": "\"Pretty cool experience, good food!\"",
+      "lsig": "AB86z5U_zNK0vaGgSabYPu0BLHQT",
+      "thumbnail": "https://serpapi.com/searches/69d52c9ebe918a4c952c59c7/images/nmKLDSk6CM-LcoiEbxRvSY-0IvFDgKixdT4shELDpcs.jpeg",
+      "place_id": "5231859582672600224",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5231859582672600224&q=food+scene",
+      "provider_id": "/g/11ryt3c80y",
+      "gps_coordinates": {
+        "latitude": 45.514614,
+        "longitude": -122.66106
+      },
+      "title": "Grand Ave Food Co Commercial Kitchens",
+      "type": "Shared-use commercial kitchen",
+      "address": "1125 SE Grand Ave"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=food+scene&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=food+scene&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=food+scene&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=food+scene&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=food+scene&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=food+scene&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=food+scene&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=food+scene&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=food+scene&start=40&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=food+scene&start=60&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=food+scene&start=80&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

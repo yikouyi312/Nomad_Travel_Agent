@@ -1,0 +1,3906 @@
+[
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:05:59.950574",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "hot tub",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.8,
+          "reviews": 280,
+          "reviews_original": "(280)",
+          "description": "\"His customer service skills and knowledge of hot tubs are unmatched.\"",
+          "lsig": "AB86z5UT5rcxgqkuJp41ojhuIJ6q",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/bh4pcd0z7qCf41bdz8ZKpDA6lAWX_20oeXHBtJH8CRQ.jpeg",
+          "place_id": "3186510560022595725",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3186510560022595725&q=hot+tub",
+          "provider_id": "/g/1tg50xxp",
+          "gps_coordinates": {
+            "latitude": 39.733074,
+            "longitude": -105.0166
+          },
+          "title": "International Hot Tub Company",
+          "type": "Hot tub store",
+          "phone": "(303) 755-4772",
+          "address": "1035 Zuni St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.9,
+          "reviews": 298,
+          "reviews_original": "(298)",
+          "description": "\"Beautiful tub, smooth delivery and excellent customer service.\"",
+          "lsig": "AB86z5WCtqwgl_2EUsei70gcaTS5",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/kBw93OJiZwJh8nqtRjyGD7hno-B5oQmSrBsfTfuBKgg.jpeg",
+          "place_id": "17764810574141320035",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17764810574141320035&q=hot+tub",
+          "provider_id": "/g/1tfbyz2z",
+          "gps_coordinates": {
+            "latitude": 39.731827,
+            "longitude": -105.01663
+          },
+          "title": "Spa Brokers",
+          "type": "Hot tub store",
+          "phone": "(303) 261-3366",
+          "address": "955 Zuni St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.7,
+          "reviews": 227,
+          "reviews_original": "(227)",
+          "description": "\"I bought my hot tub here and they have great customer service.\"",
+          "lsig": "AB86z5UGqA7bIw0fuWGFdUfhaUa1",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/BuSDTpwwcRDTOY8OuclYhWXLOL2B4KGxOMsPzvh-iL4.jpeg",
+          "place_id": "14574716967284123353",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14574716967284123353&q=hot+tub",
+          "provider_id": "/g/11c0vnvgh9",
+          "gps_coordinates": {
+            "latitude": 39.773083,
+            "longitude": -104.9439
+          },
+          "title": "Aqua Living Factory Outlets",
+          "type": "Hot tub store",
+          "phone": "(303) 285-9277",
+          "address": "3705 E 40th Ave",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 473,
+          "reviews_original": "(473)",
+          "description": "\"They moved my hot tub twice in the last 4 months and did a great job.\"",
+          "lsig": "AB86z5VRfizX92CVYOC9hVRgGDtZ",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/t6DCmkmJEQIz2yFl1ccnXmEgscEdYr7acvyOT9TX67s.jpeg",
+          "place_id": "12787049330374530076",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=12787049330374530076&q=hot+tub",
+          "provider_id": "/g/1vl9rzx9",
+          "gps_coordinates": {
+            "latitude": 39.81183,
+            "longitude": -104.9817
+          },
+          "title": "Colorado Custom Spas",
+          "type": "Hot tub store",
+          "phone": "(303) 468-8827",
+          "address": "601 E 64th Ave Building B Suite 200",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 180,
+          "reviews_original": "(180)",
+          "description": "\"Steve replaced a broken part on my hot tub quickly, thanks!\"",
+          "lsig": "AB86z5VEf_F7z03vF1kImVfT9im1",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/_xFLC97nL6pzhqiG3AcNdcfPT5MLDxowOaiApo5W388.jpeg",
+          "place_id": "7653564520891156426",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7653564520891156426&q=hot+tub",
+          "provider_id": "/g/1w97vwjp",
+          "gps_coordinates": {
+            "latitude": 39.880913,
+            "longitude": -105.09696
+          },
+          "title": "Spa Palace Hot Tubs and Saunas - Denver",
+          "type": "Hot tub store",
+          "phone": "(303) 432-8900",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.9,
+          "reviews": 252,
+          "reviews_original": "(252)",
+          "description": "\"They navigated the new hot tub around the property with precision.\"",
+          "lsig": "AB86z5XD_X1AebfZwBdTHwSOzXed",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/8rog7wSS04LPgnNJKTHNMpHZFvX1SixExhdZ4okhOhY.jpeg",
+          "place_id": "18383679995727685700",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18383679995727685700&q=hot+tub",
+          "provider_id": "/g/11fpt_fqlp",
+          "gps_coordinates": {
+            "latitude": 39.616577,
+            "longitude": -104.81639
+          },
+          "title": "Mile High Hot Tubs",
+          "type": "Hot tub store",
+          "phone": "(720) 500-2521",
+          "address": "Aurora, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.9,
+          "reviews": 40,
+          "reviews_original": "(40)",
+          "description": "\"Their selection of hot tub brands and products were amazing!!\"",
+          "lsig": "AB86z5U5UYHPuwHPqX1VpSDgjPSl",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/OQrdQR_ZYths-8USJOy7pKrcBZg64yYqHAoKrqMcqfw.jpeg",
+          "place_id": "4299731718830178178",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4299731718830178178&q=hot+tub",
+          "provider_id": "/g/11w1hp8j6y",
+          "gps_coordinates": {
+            "latitude": 39.855797,
+            "longitude": -105.05457
+          },
+          "title": "High Altitude Hot Tubs of Westminster, CO",
+          "type": "Hot tub store",
+          "phone": "(303) 502-5313",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 5.0,
+          "reviews": 246,
+          "reviews_original": "(246)",
+          "description": "\"It only took 3 weeks for our new hot tub to be custom built and delivered.\"",
+          "lsig": "AB86z5U5GhJqMDHTfZZOKFi-KRan",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/hPd2U9IPJRJ3FlFXwQib23FA4sv6n_xZNIQXd3joa1s.jpeg",
+          "place_id": "6050394909115670029",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6050394909115670029&q=hot+tub",
+          "provider_id": "/g/1tj920rp",
+          "gps_coordinates": {
+            "latitude": 39.663216,
+            "longitude": -104.995544
+          },
+          "title": "Wind River Spas",
+          "type": "Hot tub store",
+          "phone": "(303) 789-2656",
+          "address": "Englewood, CO",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.6,
+          "reviews": 203,
+          "reviews_original": "(203)",
+          "description": "\"Our hot tub and swim spa are always clean and ready to use.\"",
+          "lsig": "AB86z5V9haHoyL8oazjV7Uot0Hb9",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/oqXDbOXSy-MvszGLY1R0hP79TYwLcvqJFxGTLhAiziw.jpeg",
+          "place_id": "9313975891745681605",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9313975891745681605&q=hot+tub",
+          "provider_id": "/g/1tj2jcw6",
+          "gps_coordinates": {
+            "latitude": 39.774666,
+            "longitude": -104.98844
+          },
+          "title": "International Hot Tub Company",
+          "type": "Hot tub store",
+          "phone": "(303) 296-7727",
+          "address": "4275 N Broadway A",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 221,
+          "reviews_original": "(221)",
+          "description": "\"Nothing but happy with our hot tub and the ongoing service.\"",
+          "lsig": "AB86z5XX8wVH5CQVR1ulGnZRTkyK",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/ruD4admX3A5v3C0sInHhuv_gCUtRYnXhRHtg-UTHNHI.jpeg",
+          "place_id": "14651397489162997167",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14651397489162997167&q=hot+tub",
+          "provider_id": "/g/1tf4fjbp",
+          "gps_coordinates": {
+            "latitude": 39.757664,
+            "longitude": -104.77461
+          },
+          "title": "Spa Brokers Clearance Center",
+          "type": "Hot tub store",
+          "phone": "(303) 261-3324",
+          "address": "Aurora, CO",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.9,
+          "reviews": 224,
+          "reviews_original": "(224)",
+          "description": "\"He came and fixed our hot tub and got it back on-line!\"",
+          "lsig": "AB86z5WKwD-R8a-5R2Wm5Uf2Erg7",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/nZhSCH5ujdsMPZqfXVfxUbo-0aLAagkrlxoLZuuGC1U.jpeg",
+          "place_id": "15701606947087110005",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15701606947087110005&q=hot+tub",
+          "provider_id": "/g/11gj0w5cwd",
+          "gps_coordinates": {
+            "latitude": 39.784874,
+            "longitude": -105.11694
+          },
+          "title": "Arctic Spas Denver",
+          "type": "Hot tub store",
+          "phone": "(303) 403-8829",
+          "address": "Wheat Ridge, CO",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.6,
+          "reviews": 34,
+          "reviews_original": "(34)",
+          "description": "\"The hot tub is great and the delivery was smooth and easy.\"",
+          "lsig": "AB86z5UdHG0Q2Kwvy4i8a5p_8kzj",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/ABfMKva1tpHOuX0zHy2-IMbbq-U376z2v_gl2s2xUVc.jpeg",
+          "place_id": "7074836926350807112",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7074836926350807112&q=hot+tub",
+          "provider_id": "/g/11sdx_tzxx",
+          "gps_coordinates": {
+            "latitude": 39.74301,
+            "longitude": -104.93867
+          },
+          "title": "Hot Tub Helpers Denver",
+          "type": "Hot tub repair service",
+          "phone": "(720) 938-3883",
+          "years_in_business": "5+ years in business",
+          "address": "1670 Albion St",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 123,
+          "reviews_original": "(123)",
+          "description": "\"Very friendly and assisted with problem solving hot tub issues.\"",
+          "lsig": "AB86z5VdCTDs5l5nl5HQZa0y03wS",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/cU6_LJNvbQta5RJPpp-EMom2NYyTa39FXPnzbp_dB30.jpeg",
+          "place_id": "16067995684696983472",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16067995684696983472&q=hot+tub",
+          "provider_id": "/g/11b708l4cv",
+          "gps_coordinates": {
+            "latitude": 39.57522,
+            "longitude": -105.12974
+          },
+          "title": "Hot Tub Outlet",
+          "type": "Hot tub store",
+          "phone": "(720) 296-2518",
+          "address": "Littleton, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 14,
+          "rating": 4.9,
+          "reviews": 34,
+          "reviews_original": "(34)",
+          "description": "\"Hot Tub Bob was fun to work with and he gave us a great deal on a new tub.\"",
+          "lsig": "AB86z5V8C3jZgwE_MTw0lxp2TbdC",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/JEE2Qj-kO-7gQ-iv7I3J3mxVr8sAiUamD4bwLd9oux8.jpeg",
+          "place_id": "6309393855257453928",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6309393855257453928&q=hot+tub",
+          "provider_id": "/g/11pzsjltsk",
+          "gps_coordinates": {
+            "latitude": 39.867027,
+            "longitude": -105.08824
+          },
+          "title": "Patio Splash Hot Tubs & Spas Denver",
+          "type": "Hot tub store",
+          "phone": "(720) 475-1669",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 15,
+          "rating": 4.9,
+          "reviews": 73,
+          "reviews_original": "(73)",
+          "description": "\"... High delivery guys did an excellent job delivering my new hot tub.\"",
+          "lsig": "AB86z5XdgQrwWMBd1c1uv70ixPAX",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/_DHobJ0RTKM95Qj4BgIdv0WbphEpIJu__ucMgT5ZSX4.jpeg",
+          "place_id": "6637510558537556101",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6637510558537556101&q=hot+tub",
+          "provider_id": "/g/11j_29_cvj",
+          "gps_coordinates": {
+            "latitude": 39.888805,
+            "longitude": -105.069
+          },
+          "title": "Mile High Hot Tubs",
+          "type": "Hot tub store",
+          "phone": "(720) 500-2521",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 16,
+          "rating": 5.0,
+          "reviews": 502,
+          "reviews_original": "(502)",
+          "description": "\"Always professional and thorough hot tub service.\"",
+          "lsig": "AB86z5WlNmZ9ZMTA4rb4H7YC62Fi",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/xU3UrvdmF5MpRCFDCwK6qwwvCgK18G6wAjA4PoNHh7w.jpeg",
+          "place_id": "9177294023909298425",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9177294023909298425&q=hot+tub",
+          "provider_id": "/g/11cmcld0lw",
+          "gps_coordinates": {
+            "latitude": 39.756214,
+            "longitude": -104.98888
+          },
+          "title": "Alpine Hot Tub Moving & Hot Tub Repair Service",
+          "type": "Hot tub store",
+          "phone": "(720) 218-9960",
+          "years_in_business": "20+ years in business",
+          "address": "2315 Larimer St",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 17,
+          "rating": 4.8,
+          "reviews": 187,
+          "reviews_original": "(187)",
+          "description": "\"He was kind and professional and got our hot tub up and running!\"",
+          "lsig": "AB86z5V4CXxU_me4smFqo-hlPnh-",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/crY34ScSDrmTZRh9DgXNfmIRTk6DIzumw5MmsODYZo4.jpeg",
+          "place_id": "6148702364605590343",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6148702364605590343&q=hot+tub",
+          "provider_id": "/g/1tczfd28",
+          "gps_coordinates": {
+            "latitude": 39.56409,
+            "longitude": -104.88241
+          },
+          "title": "Spa Brokers",
+          "type": "Hot tub store",
+          "phone": "(303) 779-8645",
+          "address": "Lone Tree, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 235,
+          "reviews_original": "(235)",
+          "description": "\"Cortez came out and did a outstanding job fixing my hot tub.\"",
+          "lsig": "AB86z5UTYUXEuzbE6UeSNObuKYJA",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/iQF9gbTYm-0789otBqzlo2dAASLPlrfvdKL6pcWV4Xg.jpeg",
+          "place_id": "5280518910479912490",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5280518910479912490&q=hot+tub",
+          "provider_id": "/g/12m8ygbk5",
+          "gps_coordinates": {
+            "latitude": 39.652863,
+            "longitude": -104.990776
+          },
+          "title": "Everything Hot Tubz",
+          "type": "Hot tub store",
+          "phone": "(303) 806-9400",
+          "address": "Englewood, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 19,
+          "rating": 3.8,
+          "reviews": 12,
+          "reviews_original": "(12)",
+          "description": "\"Couldn’t find a better deal anywhere else in the city!!\"",
+          "lsig": "AB86z5WGZMsztIDpbqfQO3CNyUv7",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/RMokW3XGr9oewEMQoDoZ28g84Ennuik9M105KoiDx0o.jpeg",
+          "place_id": "16289475699625219465",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16289475699625219465&q=hot+tub",
+          "provider_id": "/g/11ddwvn8cn",
+          "gps_coordinates": {
+            "latitude": 39.731766,
+            "longitude": -105.01665
+          },
+          "title": "Cal Spas",
+          "type": "Hot tub store",
+          "address": "955 Zuni St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.3,
+          "reviews": 81,
+          "reviews_original": "(81)",
+          "description": "\"Dan came out to service our hot tub, which required a new pump and switch.\"",
+          "lsig": "AB86z5XUWrG7c3YhA_5lQUEYigxW",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/OUT0DpRzMyheLJIGNyKfgujmx6JuIbyW6mCXGt2FhPI.jpeg",
+          "place_id": "18165205659269023110",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18165205659269023110&q=hot+tub",
+          "provider_id": "/g/1wbf_x8w",
+          "gps_coordinates": {
+            "latitude": 39.62436,
+            "longitude": -105.028824
+          },
+          "title": "DND Spas Denver Hot Tub Repair",
+          "type": "Hot tub repair service",
+          "phone": "(303) 789-2980",
+          "years_in_business": "35+ years in business",
+          "address": "Englewood, CO",
+          "hours": "Open · Closes 6 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:06:02.387315",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "ski equipment rental",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.1,
+          "reviews": 882,
+          "reviews_original": "(882)",
+          "description": "\"Easy rental experience and amazing huge ski and snowboard store!\"",
+          "lsig": "AB86z5VjvXhwSwi7ZS9-M1MYlUD7",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo41540vPNICenOJ6UEGIm2x_k4U06bG4mytzG0QBoszW9DIBw71yA5exVGSVjXDhQWIL9OD47me0xXGBKVY6AHeoTe0zaLt7UQo-JPGyMsHF-_u5p6c-pFM4SZ2fmDkNkHiNc=w90-h90-n-k-no-l75",
+          "place_id": "4818641879422382526",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4818641879422382526&q=ski+equipment+rental",
+          "provider_id": "/g/1tk4rn9m",
+          "gps_coordinates": {
+            "latitude": 39.668392,
+            "longitude": -104.864655
+          },
+          "title": "Epic Mountain Gear",
+          "type": "Ski rental service",
+          "phone": "(303) 337-1734",
+          "address": "Aurora, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.5,
+          "reviews": 95,
+          "reviews_original": "(95)",
+          "description": "\"They put me in the perfect equipment for my needs and ski level.\"",
+          "lsig": "AB86z5Wg8qoIQvuOuFIBqGwLMRHm",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/csXRdD2ecfOvcq0iXY8hwtgwZoCrVVNX28pnYGRuqEM.jpeg",
+          "place_id": "29793473184896848",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=29793473184896848&q=ski+equipment+rental",
+          "provider_id": "/g/11j6jmhm5h",
+          "gps_coordinates": {
+            "latitude": 39.744854,
+            "longitude": -104.99063
+          },
+          "title": "Breckenridge Ski & Sport",
+          "type": "Ski rental service",
+          "phone": "(970) 368-4540",
+          "address": "1630 Welton St #730",
+          "hours": "Open now"
+        },
+        {
+          "position": 3,
+          "rating": 4.6,
+          "reviews": 824,
+          "reviews_original": "(824)",
+          "description": "\"Affordable, friendly place for ski equipment rental.\"",
+          "lsig": "AB86z5WkjMm-548DSYTCJr-U_rnk",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/MqIJ2YzCeT_9FQB39isZbDv661e_KeSUyXTrv6ObDBo.jpeg",
+          "place_id": "1055392855568844645",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1055392855568844645&q=ski+equipment+rental",
+          "provider_id": "/g/1trtvtcd",
+          "gps_coordinates": {
+            "latitude": 39.78212,
+            "longitude": -105.11004
+          },
+          "title": "Larson's Ski & Sport",
+          "type": "Ski shop",
+          "phone": "(303) 423-0654",
+          "address": "Wheat Ridge, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 4,
+          "rating": 4.8,
+          "reviews": 24,
+          "reviews_original": "(24)",
+          "description": "\"My skis had a couple nasty core shots and they made them look like new.\"",
+          "lsig": "AB86z5VcFHm-B0wRkXdLFwEl_qAQ",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/kdaEKTdOLKi-YBxbmpJgbvjVdm6yGEMJyJ0CGeRepSI.jpeg",
+          "place_id": "15376491108946701695",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15376491108946701695&q=ski+equipment+rental",
+          "provider_id": "/g/11gmwq38qs",
+          "gps_coordinates": {
+            "latitude": 39.913383,
+            "longitude": -105.07278
+          },
+          "title": "Ski & Snowboard Rental & Repair",
+          "type": "Sporting goods store",
+          "phone": "(303) 466-1975",
+          "address": "Broomfield, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 264,
+          "reviews_original": "(264)",
+          "description": "\"Seamless rental experience, super friendly staff, great rates\"",
+          "lsig": "AB86z5UTUz0wbF0zsNriDgwM15Q9",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/opWwhtfW__r653jepel9gA3coF4U4-macrNJ-86It9g.jpeg",
+          "place_id": "17637394143803342563",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17637394143803342563&q=ski+equipment+rental",
+          "provider_id": "/g/1tfv10v4",
+          "gps_coordinates": {
+            "latitude": 39.857483,
+            "longitude": -105.07262
+          },
+          "title": "Colorado Sports Rent",
+          "type": "Ski rental service",
+          "phone": "(303) 467-0200",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.6,
+          "reviews": 688,
+          "reviews_original": "(688)",
+          "description": "\"Renting skis from Christy Sports was efficient and affordable.\"",
+          "lsig": "AB86z5WfYes-FN6iwnHgmW1RCd_r",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/EuJ3FFBK2ky-9JX-jlur0bBGOhC1TEbcfe3EQvlhT5A.jpeg",
+          "place_id": "16186845863192159055",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16186845863192159055&q=ski+equipment+rental",
+          "provider_id": "/g/1tvq4m9s",
+          "gps_coordinates": {
+            "latitude": 39.72013,
+            "longitude": -104.95988
+          },
+          "title": "Christy Sports Cherry Creek",
+          "type": "Ski rental service",
+          "phone": "(303) 321-3885",
+          "address": "201 University Blvd #112",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 7,
+          "rating": 5.0,
+          "reviews": 139,
+          "reviews_original": "(139)",
+          "description": "\"... was very knowledgeable and informative about all their ski gear.\"",
+          "lsig": "AB86z5U_-rPTKzib35ImmH2YwL_E",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/hkAqx4kr-dClL3-X_r-5ODG_xix1-3n0V5JmgpVElts.jpeg",
+          "place_id": "14638332860736907447",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14638332860736907447&q=ski+equipment+rental",
+          "provider_id": "/g/11y9rr_kw5",
+          "gps_coordinates": {
+            "latitude": 39.69206,
+            "longitude": -104.9871
+          },
+          "title": "Denver Ski Company",
+          "type": "Ski rental service",
+          "phone": "(720) 749-6148",
+          "address": "1350 S Broadway",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.4,
+          "reviews": 562,
+          "reviews_original": "(562)",
+          "description": "\"They helped me get set up with a whole ski set up.\"",
+          "lsig": "AB86z5UNBh4ym8NLA3Jv6g0amZO8",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/HVDOza3mY9bHNsKRdkGmrfw8oUsPU6eEYdgv-Ka4ga4.jpeg",
+          "place_id": "2478667657186795623",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2478667657186795623&q=ski+equipment+rental",
+          "provider_id": "/g/1tj1m_qp",
+          "gps_coordinates": {
+            "latitude": 39.61676,
+            "longitude": -105.088234
+          },
+          "title": "Epic Mountain Gear",
+          "type": "Ski rental service",
+          "phone": "(303) 948-7550",
+          "address": "Littleton, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.9,
+          "reviews": 147,
+          "reviews_original": "(147)",
+          "description": "\"Great owners, great service, and really cool skis!\"",
+          "lsig": "AB86z5Wecl7hx8b3KeXGdctethaK",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/4pAKbg0Gf-xxCWfa-Uu5xyPHX8uqluOrGlUXZSKN12o.jpeg",
+          "place_id": "15688634029611560745",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15688634029611560745&q=ski+equipment+rental",
+          "provider_id": "/g/11b6bj4gl2",
+          "gps_coordinates": {
+            "latitude": 39.684395,
+            "longitude": -104.98796
+          },
+          "title": "Meier Skis",
+          "type": "Ski shop",
+          "phone": "(844) 966-3754",
+          "address": "1775 S Broadway",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.3,
+          "reviews": 197,
+          "reviews_original": "(197)",
+          "description": "\"Knowledgeable staff and reasonable prices on rentals.\"",
+          "lsig": "AB86z5WOEyDLfOMFhqug0lz-kkos",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/IQCL1pYcj299PlP-a1n_KzEwYxVe3OoxD_NStkiXG_Q.jpeg",
+          "place_id": "2674573678216261881",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2674573678216261881&q=ski+equipment+rental",
+          "provider_id": "/g/1tg5_3hv",
+          "gps_coordinates": {
+            "latitude": 39.726273,
+            "longitude": -105.12561
+          },
+          "title": "Breeze Ski Rentals",
+          "type": "Ski shop",
+          "phone": "(303) 232-2384",
+          "address": "Lakewood, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 391,
+          "reviews_original": "(391)",
+          "description": "\"Renting skis was a smooth process and very quick\"",
+          "lsig": "AB86z5VoJz7qVLKxtsl1QtZo_Es1",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/2367katyjhuo5fNDUAOGcFeF92cRtpBuhc1XHhXjUkw.png",
+          "place_id": "4960152123311460712",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4960152123311460712&q=ski+equipment+rental",
+          "provider_id": "/g/1vyxjxbk",
+          "gps_coordinates": {
+            "latitude": 39.615856,
+            "longitude": -105.09623
+          },
+          "title": "Christy Sports Littleton",
+          "type": "Ski rental service",
+          "phone": "(720) 981-1761",
+          "address": "Littleton, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 888,
+          "reviews_original": "(888)",
+          "description": "\"They were so helpful and patient with us when sizing all of us for skis.\"",
+          "lsig": "AB86z5VkAWmCKrRK3JJcApiHH9hi",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/XlPczXoxCrcKsGdqp5Xq2PsUCLju4g-AehK7aL0jPAo.jpeg",
+          "place_id": "17090269598053020550",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17090269598053020550&q=ski+equipment+rental",
+          "provider_id": "/g/1yg5784km",
+          "gps_coordinates": {
+            "latitude": 39.594563,
+            "longitude": -104.81697
+          },
+          "title": "Outabounds Ski and Board",
+          "type": "Ski rental service",
+          "phone": "(720) 440-9935",
+          "address": "Centennial, CO",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "description": "\"I had a great experience, renting skis, boots, poles, and a helmet today.\"",
+          "lsig": "AB86z5VbZ9TW3re690hQP_uoy0m_",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/aHtwQnslKOiKWQV4f43tZoUkjAqHiKs8LyrT1NlCFJM.jpeg",
+          "place_id": "4703489560469176971",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4703489560469176971&q=ski+equipment+rental",
+          "provider_id": "/g/1tg6w5k5",
+          "gps_coordinates": {
+            "latitude": 39.730263,
+            "longitude": -104.98712
+          },
+          "title": "evo Denver",
+          "type": "Ski rental service",
+          "phone": "(303) 831-7228",
+          "address": "860 N Broadway",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 14,
+          "rating": 4.6,
+          "reviews": 564,
+          "reviews_original": "(564)",
+          "description": "\"Friendly staff and fair pricing for alpine skiing equipment rental.\"",
+          "lsig": "AB86z5WQZVag8d3vR3cilnPCOa1Y",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/3tnRYAUO-vvkHjHiz5zuFzjh_TOXo4Ld-ZSq9VxOobs.jpeg",
+          "place_id": "6240890656961085965",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6240890656961085965&q=ski+equipment+rental",
+          "provider_id": "/g/1vvr6ps8",
+          "gps_coordinates": {
+            "latitude": 39.735912,
+            "longitude": -105.16222
+          },
+          "title": "Christy Sports Denver West",
+          "type": "Ski rental service",
+          "phone": "(303) 271-0155",
+          "address": "Lakewood, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 15,
+          "rating": 4.7,
+          "reviews": 560,
+          "reviews_original": "(560)",
+          "description": "\"Friendly employees, great ski rental service, good selection on ski apparel.\"",
+          "lsig": "AB86z5X0ttfm7jqV-d6OeJnaF-hU",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/rzRIOLnSjoDjBn5xfmkgPO_QFchjHJeBybfDKqr9kC8.jpeg",
+          "place_id": "8702548140263209575",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8702548140263209575&q=ski+equipment+rental",
+          "provider_id": "/g/1tdr3td7",
+          "gps_coordinates": {
+            "latitude": 39.566673,
+            "longitude": -104.876785
+          },
+          "title": "Christy Sports Park Meadows",
+          "type": "Ski rental service",
+          "phone": "(303) 708-8535",
+          "address": "Englewood, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 16,
+          "rating": 4.1,
+          "reviews": 613,
+          "reviews_original": "(613)",
+          "description": "\"Really good selection of gear and I received a lot of help from staff!\"",
+          "lsig": "AB86z5VVvvtKUjwMZoJBIORaq5xA",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/ycCq-q1ch8OMhp6Or8vhS_kxJfRQW7IOC9qf6J-oVGk.jpeg",
+          "place_id": "11302841345309756674",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11302841345309756674&q=ski+equipment+rental",
+          "provider_id": "/g/1hc7gvykn",
+          "gps_coordinates": {
+            "latitude": 39.862495,
+            "longitude": -105.081276
+          },
+          "title": "Epic Mountain Gear",
+          "type": "Ski rental service",
+          "phone": "(303) 421-4001",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 17,
+          "rating": 4.8,
+          "reviews": 234,
+          "reviews_original": "(234)",
+          "description": "\"Lovely local gear rental, with incredible helpful and kind staff.\"",
+          "lsig": "AB86z5WDEZ8Bp2TzU8P1MyrXPu20",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/mt3pW6AydDlzXSmHkX2MZBfhb3DnvtPlI7nDDevawTU.jpeg",
+          "place_id": "2379784907855954521",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2379784907855954521&q=ski+equipment+rental",
+          "provider_id": "/g/1tsjf3xq",
+          "gps_coordinates": {
+            "latitude": 39.566544,
+            "longitude": -104.924805
+          },
+          "title": "Eskimo Ski & Board Shop",
+          "type": "Ski rental service",
+          "phone": "(303) 761-1101",
+          "address": "Centennial, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 18,
+          "rating": 4.5,
+          "reviews": 2,
+          "reviews_original": "(2)",
+          "lsig": "AB86z5Wk5O-s03NXuEo554zPbHG9",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/vc5cv9s8nbxvf31k_9KW5A3bHf6WvCatq8wNLhSnbLM.jpeg",
+          "place_id": "14073669351077284175",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14073669351077284175&q=ski+equipment+rental",
+          "provider_id": "/g/1262c951p",
+          "gps_coordinates": {
+            "latitude": 39.75119,
+            "longitude": -104.986404
+          },
+          "title": "High Country Skiing Shuttle Co",
+          "type": "Ski rental service",
+          "phone": "(720) 215-9969",
+          "address": "2135 Stout St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 19,
+          "rating": 4.5,
+          "reviews": 306,
+          "reviews_original": "(306)",
+          "description": "\"I had never gone skiing and they were very informative and patient with me.\"",
+          "lsig": "AB86z5V7Wi5JBa-r4ZkK5xil2fAj",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/FkJQeGclxLcfjTiSLoSkwTSIx4IAKasNEEsAYiYzVrE.jpeg",
+          "place_id": "8187386688140055142",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8187386688140055142&q=ski+equipment+rental",
+          "provider_id": "/g/11gfmlql1k",
+          "gps_coordinates": {
+            "latitude": 39.835873,
+            "longitude": -105.0838
+          },
+          "title": "Christy Sports Arvada",
+          "type": "Ski rental service",
+          "phone": "(303) 421-0261",
+          "address": "Arvada, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.8,
+          "reviews": 359,
+          "reviews_original": "(359)",
+          "description": "\"Wonderful people, got an amazing pair of skis at a great price.\"",
+          "lsig": "AB86z5V2_crQN63z-18MKJXqL-WZ",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/FTtXkPtwCF81rZJ8NENer1P3G22S53iL9_FDRpLzXvw.jpeg",
+          "place_id": "7076873656776650684",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7076873656776650684&q=ski+equipment+rental",
+          "provider_id": "/g/1hhxn13ww",
+          "gps_coordinates": {
+            "latitude": 39.90134,
+            "longitude": -104.97813
+          },
+          "title": "2nd Time Sports",
+          "type": "Ski rental service",
+          "phone": "(720) 245-7295",
+          "address": "Northglenn, CO",
+          "hours": "Open · Closes 7 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:06:04.450431",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "après-ski restaurant",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.8,
+          "reviews": 217,
+          "reviews_original": "(217)",
+          "price": "$20–30",
+          "description": "\"Good daily specials, really good food great beer and reliable cocktails\"",
+          "lsig": "AB86z5X9j8JjxW6zzvM5Ql9y7WCL",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/H8gc13K0GiMFr7olKIuLGemWczB-GnjLcen8PvJ48NA.jpeg",
+          "place_id": "17438369268131675",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17438369268131675&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11xcxsgqg3",
+          "gps_coordinates": {
+            "latitude": 39.72709,
+            "longitude": -104.98213
+          },
+          "title": "Après Govnr's Park",
+          "type": "American",
+          "address": "400 E 7th Ave",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.4,
+          "reviews": 998,
+          "reviews_original": "(998)",
+          "price": "$20–30",
+          "description": "\"Fun ski apres atmosphere with beautiful sunset.\"",
+          "lsig": "AB86z5VxmPQJGJ2CB1HGy73nUR3p",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/toRpHIq43n9FhfpOE5EtH451NJwUpWv-K59iRmuoY1A.jpeg",
+          "place_id": "6360571575713867842",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6360571575713867842&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/1tf43fwy",
+          "gps_coordinates": {
+            "latitude": 39.875023,
+            "longitude": -105.77594
+          },
+          "title": "Sunspot Mountaintop Lodge",
+          "type": "American",
+          "address": "Winter Park, CO"
+        },
+        {
+          "position": 3,
+          "rating": 4.0,
+          "reviews": 605,
+          "reviews_original": "(605)",
+          "price": "$20–30",
+          "description": "\"Food is delicious, but service on the terrace is very slow\"",
+          "lsig": "AB86z5XQj2h55Etr262dyjmbjV2u",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/RuaSgLR71PIYjV-Dog_q-U8puW4JivBs0yBSIrmJ0vw.jpeg",
+          "place_id": "13463518116450740891",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13463518116450740891&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11b6_80q6z",
+          "gps_coordinates": {
+            "latitude": 39.480724,
+            "longitude": -106.06706
+          },
+          "title": "TBar",
+          "type": "Bar",
+          "address": "Breckenridge, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 16,
+          "reviews_original": "(16)",
+          "price": "$10–20",
+          "description": "\"Perfect place for lunch, après, dinner, or just a cocktail to end the night.\"",
+          "lsig": "AB86z5XYhsG88CUksHds8IzZUHQR",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/dwJa7clUZgeq_KHoJ0SdtH4UO2kL57_hLK2AHnKJXbM.jpeg",
+          "place_id": "430138714470354015",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=430138714470354015&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11yhwy0nd_",
+          "gps_coordinates": {
+            "latitude": 39.475525,
+            "longitude": -106.05041
+          },
+          "title": "The Carter - Lunch & Après-Ski Bar in Breckenridge",
+          "type": "Lunch",
+          "address": "Breckenridge, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 46,
+          "reviews_original": "(46)",
+          "price": "$20–30",
+          "description": "\"Unbeatable views and outstanding food and service.\"",
+          "lsig": "AB86z5XjP_KvU1X5BU6qPKkMinqg",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/NPsN-VNw0wkS7k2zvRBZRkc5m9z-TLMJgYa2UJdyik4.jpeg",
+          "place_id": "11990072844289767978",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11990072844289767978&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11tnwvmhc5",
+          "gps_coordinates": {
+            "latitude": 39.62503,
+            "longitude": -105.875175
+          },
+          "title": "Il Rifugio",
+          "type": "Bistro",
+          "address": "Keystone, CO",
+          "hours": "Closed · Opens 10:30 AM Sat"
+        },
+        {
+          "position": 6,
+          "rating": 4.2,
+          "reviews": 847,
+          "reviews_original": "(847)",
+          "price": "$20–30",
+          "description": "\"Delicious food and great outdoor seating with views of the slopes.\"",
+          "lsig": "AB86z5XvaAJm3eMnhzFSHOy29kkS",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/7ReMVS0mdjweTFlB_JYoLeXEuQdOeP79wZP1BloQZDg.jpeg",
+          "place_id": "17743669027619726370",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17743669027619726370&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11ddx6v3d6",
+          "gps_coordinates": {
+            "latitude": 39.481342,
+            "longitude": -106.068214
+          },
+          "title": "Robbie's Tavern",
+          "type": "American",
+          "address": "Breckenridge, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 7,
+          "rating": 4.4,
+          "reviews": 248,
+          "reviews_original": "(248)",
+          "price": "$10–20",
+          "description": "\"Surprisingly affordable, delicious food and one of the best views in Denver\"",
+          "lsig": "AB86z5ULKJfbpQtFl1Lg695AmmP4",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/Ls4NI8ciED7bGRE6rwDHWgF5lbYb7Qaq4D7P7sh-QFU.jpeg",
+          "place_id": "13274942789184078892",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13274942789184078892&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11qg5nym9w",
+          "gps_coordinates": {
+            "latitude": 39.752464,
+            "longitude": -104.94903
+          },
+          "title": "City Park Tavern",
+          "type": "American",
+          "address": "3181 E 23rd Ave"
+        },
+        {
+          "position": 8,
+          "rating": 4.8,
+          "reviews": 4100,
+          "reviews_original": "(4.1K)",
+          "price": "$20–30",
+          "description": "\"Nadja & Justina provided exceptional service for our lunch at Mount In Pass!\"",
+          "lsig": "AB86z5VWehkNnVQR7yQBWi_sMr9S",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/zqB5mgfWogt2-plknoqNbG3jHIFFEE0gDqDHiHy8jD0.jpeg",
+          "place_id": "14147005355696827782",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14147005355696827782&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11g_rmdtp5",
+          "gps_coordinates": {
+            "latitude": 39.817223,
+            "longitude": -104.75239
+          },
+          "title": "Mountain Pass Sports Bar",
+          "type": "Sports bar",
+          "address": "Aurora, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 9,
+          "rating": 4.4,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"The cocktails were well balanced and the food always hit the spot.\"",
+          "lsig": "AB86z5Xsd55CbF8o6OgHnh8d4it_",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/2eoLXNINjFy2bk-p6MU8Od1zs7dteM-_C8SZoXBkXKY.jpeg",
+          "place_id": "17877676850705957390",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17877676850705957390&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11g6rz0xfk",
+          "gps_coordinates": {
+            "latitude": 39.75321,
+            "longitude": -105.00221
+          },
+          "title": "Ajax Downtown",
+          "type": "American",
+          "address": "1899 16th St Mall"
+        },
+        {
+          "position": 10,
+          "rating": 4.3,
+          "reviews": 1400,
+          "reviews_original": "(1.4K)",
+          "price": "$10–20",
+          "description": "\"The food was great and the local beer and liquor were top notch.\"",
+          "lsig": "AB86z5XH38bk0KG6J7NshAE2dHB3",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/QfmFmVTeIo6_gkRylGcH7ITipMZ_GmPTss2LaMgykRc.jpeg",
+          "place_id": "17754393911031400977",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17754393911031400977&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/1pzq5bdlc",
+          "gps_coordinates": {
+            "latitude": 39.708504,
+            "longitude": -104.9274
+          },
+          "title": "Inga's Alpine Tavern",
+          "type": "Grill",
+          "address": "5151 Leetsdale Dr",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "price": "$20–30",
+          "description": "\"Great atmostphere and location, however the food is very mid and expensive.\"",
+          "lsig": "AB86z5UnGfZ6Q8DNlBlvhlb7fSwj",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/Cp-qYO280R2tw5D1FnsLDgmNdpkqfe1xAYU5wyYXECU.jpeg",
+          "place_id": "2756576882228897061",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2756576882228897061&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11s8zd1gfl",
+          "gps_coordinates": {
+            "latitude": 39.708042,
+            "longitude": -104.98721
+          },
+          "title": "BurnDown",
+          "type": "American",
+          "address": "476 S Broadway",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 12,
+          "rating": 4.7,
+          "reviews": 1300,
+          "reviews_original": "(1.3K)",
+          "price": "$20–30",
+          "description": "\"They have a lunch and dinner menu also, and an incredibly well-stocked bar.\"",
+          "lsig": "AB86z5Xyhf6EBZUsul5hmUi7gMgu",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/vlnKvTTbfxh1vfrUJdzAc1n5RR-8dngB8h-uFD_OhXk.jpeg",
+          "place_id": "18232856447555255999",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18232856447555255999&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11bvtf5351",
+          "gps_coordinates": {
+            "latitude": 39.86795,
+            "longitude": -105.08882
+          },
+          "title": "Aspen Lodge Bar & Grill",
+          "type": "Grill",
+          "address": "Westminster, CO",
+          "hours": "Closed · Opens 12 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:06:13.319587",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "craft beer",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 5.0,
+          "reviews": 130,
+          "reviews_original": "(130)",
+          "price": "$10–20",
+          "description": "\"Tasty beer, friendly service, big and comfortable space.\"",
+          "lsig": "AB86z5VUnVtU7T4uX0N2s9lcxl1v",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/3Z1jBoZOxDq0WonI-YRnQE437r5vMxvBGqyNDrRyV20.jpeg",
+          "place_id": "14466966722241756032",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14466966722241756032&q=craft+beer",
+          "provider_id": "/g/11x1_lxn5r",
+          "gps_coordinates": {
+            "latitude": 39.75225,
+            "longitude": -104.99147
+          },
+          "title": "Full Frame Beer & Coffee",
+          "type": "Brewpub",
+          "address": "1139 20th St"
+        },
+        {
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 408,
+          "reviews_original": "(408)",
+          "description": "\"Great beers, great service, awesome outdoor seating.\"",
+          "lsig": "AB86z5WueM6V-XvYxLE7pNSy0jr5",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/egftoU6k_ClG0kEuPDj2Y5Eawn3jxQyXsh_wPEHNIwA.jpeg",
+          "place_id": "13792506732895679603",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13792506732895679603&q=craft+beer",
+          "provider_id": "/g/1vd95lf8",
+          "gps_coordinates": {
+            "latitude": 39.73724,
+            "longitude": -105.01489
+          },
+          "title": "Strange Craft Beer Company",
+          "type": "Brewery",
+          "address": "1330 Zuni St Unit M",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.1,
+          "reviews": 249,
+          "reviews_original": "(249)",
+          "price": "$20–30",
+          "description": "\"Great drink menu, a variety of beers on tap, and delicious food.\"",
+          "lsig": "AB86z5UGfYaUS7JJx84_NMp1yDIT",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/p8fP3oigsGuJMx6rRwHtejG86iwtpAS3YiiZnkXIsSY.jpeg",
+          "place_id": "17514942387173704991",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17514942387173704991&q=craft+beer",
+          "provider_id": "/g/11mdgsqxbg",
+          "gps_coordinates": {
+            "latitude": 39.73425,
+            "longitude": -104.98923
+          },
+          "title": "Schoolyard Beer Garden",
+          "type": "Restaurant",
+          "address": "1115 Acoma St #116",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 4,
+          "rating": 4.8,
+          "reviews": 339,
+          "reviews_original": "(339)",
+          "description": "\"Staff is so friendly, beer is delicious, and the atmosphere is unbeatable.\"",
+          "lsig": "AB86z5XU82pQ8rQ2PcB2Sm2OKpeV",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/QID1aIEIjOpa-PHEVl147RnFAdv2gSGznz-8t949boM.jpeg",
+          "place_id": "14263997957124285379",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14263997957124285379&q=craft+beer",
+          "provider_id": "/g/11mvz97z00",
+          "gps_coordinates": {
+            "latitude": 39.769894,
+            "longitude": -104.95784
+          },
+          "title": "Cohesion Brewing",
+          "type": "Brewery",
+          "address": "3851 Steele St Unit 1388",
+          "hours": "Closed · Opens 2 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.9,
+          "reviews": 318,
+          "reviews_original": "(318)",
+          "description": "\"Delicious, flavorful beers and a cool friendly bartender.\"",
+          "lsig": "AB86z5Us0ZcepSwgvHfC3t_GF-eF",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/_IFm8h1cGrOD2mr5UHxzJk1pK2BaCcln7RKEjv_5XtQ.jpeg",
+          "place_id": "3191769947821021953",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3191769947821021953&q=craft+beer",
+          "provider_id": "/g/11rcbklt1n",
+          "gps_coordinates": {
+            "latitude": 39.743088,
+            "longitude": -104.96821
+          },
+          "title": "Reverence Brewing Company",
+          "type": "Brewery",
+          "address": "1604 E 17th Ave",
+          "hours": "Closed · Opens 4 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 133,
+          "reviews_original": "(133)",
+          "price": "$10–20",
+          "description": "\"Great rotating taps that highlight a variety of styles.\"",
+          "lsig": "AB86z5XOqawbGxLh1yawCCbQaAzO",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/Fed0b6ui_GAUNcGOz9BWELg-mbyYDGZZxjaiLUi4B3k.jpeg",
+          "place_id": "2980990253844087882",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2980990253844087882&q=craft+beer",
+          "provider_id": "/g/11s4s21w_p",
+          "gps_coordinates": {
+            "latitude": 39.752834,
+            "longitude": -104.99691
+          },
+          "title": "Westbound & Down Brewing Company",
+          "type": "Brewpub",
+          "address": "1801 Blake St",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.5,
+          "reviews": 61,
+          "reviews_original": "(61)",
+          "price": "$10–20",
+          "description": "\"The beers are delicious and the food is insanely good and portions are huge!\"",
+          "lsig": "AB86z5VhzPI8UhIfEf-rHQ-ZiWS9",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/aehGjfBLTCvKhWZQ1b2PiewecjWAJj5ivxFI7o9W7hk.jpeg",
+          "place_id": "1321420818251194896",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1321420818251194896&q=craft+beer",
+          "provider_id": "/g/11l2fq4vd4",
+          "gps_coordinates": {
+            "latitude": 39.72741,
+            "longitude": -104.98461
+          },
+          "title": "Out of the Barrel Taproom",
+          "type": "Bar",
+          "address": "205 E 7th Ave",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 353,
+          "reviews_original": "(353)",
+          "description": "\"Nice craft beer, loved the terp IPA, nice flavor, cool vibe 10/10\"",
+          "lsig": "AB86z5VkToOmh9Z05p2_LrzaQkT2",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/ypPEksVZQ4YtZRYXpCwie2xozYy-uOToNgRFAt_8l48.jpeg",
+          "place_id": "16939360478136558593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16939360478136558593&q=craft+beer",
+          "provider_id": "/g/1tk8p26d",
+          "gps_coordinates": {
+            "latitude": 39.73062,
+            "longitude": -104.999306
+          },
+          "title": "Renegade Brewing",
+          "type": "Brewery",
+          "address": "925 W 9th Ave",
+          "hours": "Closed · Opens 2 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.7,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Impeccable service and a super unique tap selection.\"",
+          "lsig": "AB86z5VlDYC6bAGQ98Ike3xDiivz",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/i9jVRCJVWLWA_o4Tf9WFCDc4tBiZADGzmnRI3KXM1nc.jpeg",
+          "place_id": "5992583103707764478",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5992583103707764478&q=craft+beer",
+          "provider_id": "/g/1ydpv9px1",
+          "gps_coordinates": {
+            "latitude": 39.72394,
+            "longitude": -104.99847
+          },
+          "title": "Black Sky Brewery",
+          "type": "Brewery",
+          "address": "490 Santa Fe Dr",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 10,
+          "rating": 4.6,
+          "reviews": 267,
+          "reviews_original": "(267)",
+          "description": "\"Fantastic beers, staff, ambiance, and ownership.\"",
+          "lsig": "AB86z5XxCCtmujIqjTThVzC6BvQl",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/0l9B0Sg02iTy-9mg_4iZE3BdfPk24t-dx3SDVydS1Zo.jpeg",
+          "place_id": "11890068193958653560",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11890068193958653560&q=craft+beer",
+          "provider_id": "/g/11g0zn6rk_",
+          "gps_coordinates": {
+            "latitude": 39.71849,
+            "longitude": -104.992294
+          },
+          "title": "Novel Strand Brewing Company",
+          "type": "Brewery",
+          "address": "305 W 1st Ave"
+        },
+        {
+          "position": 11,
+          "rating": 4.8,
+          "reviews": 199,
+          "reviews_original": "(199)",
+          "description": "\"Cozy taproom with great staff and unique and delicious brews!\"",
+          "lsig": "AB86z5XUkWqlqG7xO1n2UhLvM5aC",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/BSfrnLuE5cznGsiLUmKG_TNpbRjEiqigPlYXCkBBieQ.jpeg",
+          "place_id": "2433438630869964590",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2433438630869964590&q=craft+beer",
+          "provider_id": "/g/11b64hz40c",
+          "gps_coordinates": {
+            "latitude": 39.780815,
+            "longitude": -105.005005
+          },
+          "title": "Crooked Stave Brewing Company",
+          "type": "Brewery",
+          "address": "1441 W 46th Ave Unit 19",
+          "hours": "Closed · Opens 1 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 270,
+          "reviews_original": "(270)",
+          "description": "\"Fantastic beer, friendly service, and the food + coffee programs are legit.\"",
+          "lsig": "AB86z5WjNQeLOZGOkcqm7oO9jaL-",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/1R_086zgtElhyeKZW8zAlK2ke5OUWDdin3vKw-AkTQo.jpeg",
+          "place_id": "9367138772833957805",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9367138772833957805&q=craft+beer",
+          "provider_id": "/g/1hjgtvjt5",
+          "gps_coordinates": {
+            "latitude": 39.776062,
+            "longitude": -105.04351
+          },
+          "title": "Alley Brews Brewery & Coffee Shop",
+          "type": "Brewery",
+          "address": "4342 Tennyson St"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 173,
+          "reviews_original": "(173)",
+          "description": "\"Amazing beer, incredible service, and a super rad vibe.\"",
+          "lsig": "AB86z5Wa4VhPzqawKydgVey3oEy-",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/sOaxhCIA8Za5E_C_AyHjgJsLU-t66kJ_jKDD1Vvw86A.jpeg",
+          "place_id": "5184620685637430827",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5184620685637430827&q=craft+beer",
+          "provider_id": "/g/1hc1r8xx9",
+          "gps_coordinates": {
+            "latitude": 39.76734,
+            "longitude": -104.977104
+          },
+          "title": "River North Brewery - RiNo Taproom",
+          "type": "Brewery",
+          "address": "3400 Blake St",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 14,
+          "rating": 4.9,
+          "reviews": 146,
+          "reviews_original": "(146)",
+          "description": "\"Best spot for super fresh local and rotating out of town craft beers.\"",
+          "lsig": "AB86z5X67_MMkQEg1LP1uQegXEak",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/XRByO06z9T-snv-BX7LHqWK2Vl_h4-kWytGtXZRQvrM.jpeg",
+          "place_id": "8154042815421194714",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8154042815421194714&q=craft+beer",
+          "provider_id": "/g/11b5yrm9vg",
+          "gps_coordinates": {
+            "latitude": 39.76886,
+            "longitude": -105.011086
+          },
+          "title": "Cask and Craft",
+          "type": "Liquor store",
+          "address": "3744 Tejon St",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 15,
+          "rating": 4.3,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "description": "\"Great mix of craft beer, expertly crafted cocktails, and delicious food.\"",
+          "lsig": "AB86z5WUse7q-Gc3c_x8xDrn6qEV",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/3TIagDYStzwkPFYInGOYL-isKmLK27us_kWCycg7Uaw.jpeg",
+          "place_id": "2119405564011552726",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2119405564011552726&q=craft+beer",
+          "provider_id": "/m/07rdm8",
+          "gps_coordinates": {
+            "latitude": 39.753445,
+            "longitude": -104.9985
+          },
+          "title": "Wynkoop Brewing Company",
+          "type": "Brewpub",
+          "address": "1634 18th St",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 16,
+          "rating": 4.6,
+          "reviews": 950,
+          "reviews_original": "(950)",
+          "price": "$10–20",
+          "description": "\"Comfortable layout, good service and all around good craft beer.\"",
+          "lsig": "AB86z5VmoYgb2yNLJmFcDgoDl65W",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/UCmykGrT94Sxfmki8tQaCrey1ylxUdsrlOoTpFpfVdI.jpeg",
+          "place_id": "10588296308032417232",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=10588296308032417232&q=craft+beer",
+          "provider_id": "/g/1hd_dq_zx",
+          "gps_coordinates": {
+            "latitude": 39.769764,
+            "longitude": -104.97285
+          },
+          "title": "Black Shirt Brewing Co and Craft Pizza Kitchen",
+          "type": "Brewpub",
+          "address": "3719 Walnut St",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 17,
+          "rating": 4.6,
+          "reviews": 2000,
+          "reviews_original": "(2K)",
+          "price": "$20–30",
+          "description": "\"Good local beer selection, great location and ambiance, and friendly staff.\"",
+          "lsig": "AB86z5Xsgkwz-Wnhs20Px2CXPTIf",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/OHHFNUTKIQWFdMQpM27wdkDoSugAUDZY8MSy-fJm-y8.jpeg",
+          "place_id": "4751401329178580396",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4751401329178580396&q=craft+beer",
+          "provider_id": "/g/11clysyv61",
+          "gps_coordinates": {
+            "latitude": 39.751083,
+            "longitude": -105.02041
+          },
+          "title": "Briar Common Brewery + Eatery",
+          "type": "Brewpub",
+          "address": "2298 Clay St",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 18,
+          "rating": 4.8,
+          "reviews": 87,
+          "reviews_original": "(87)",
+          "description": "\"The service: attentive and friendly The beer: delicious\"",
+          "lsig": "AB86z5VRetEyhOZCw6yq05jXUveT",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/NBH5QZy0dff-6vj6ASJDWbtBGtpWSqeDb4IQ0XZMX64.jpeg",
+          "place_id": "2845444405144278577",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2845444405144278577&q=craft+beer",
+          "provider_id": "/g/11v9vrpw_d",
+          "gps_coordinates": {
+            "latitude": 39.773983,
+            "longitude": -104.93114
+          },
+          "title": "4 Noses Brewing Company",
+          "type": "Brewery",
+          "address": "4040 Dahlia St",
+          "hours": "Closed · Opens 2 PM"
+        },
+        {
+          "position": 19,
+          "rating": 4.7,
+          "reviews": 70,
+          "reviews_original": "(70)",
+          "description": "\"The friendliest staff, tastiest beers, and coolest space.\"",
+          "lsig": "AB86z5Xv8nLZozGYJqX6FdASm1t5",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/KcM0vfKh5ZTmFGjeQVP5v_SYftuPB-r8uTEr8xu8FKI.jpeg",
+          "place_id": "1646710565651851355",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1646710565651851355&q=craft+beer",
+          "provider_id": "/g/11wqpzb3mf",
+          "gps_coordinates": {
+            "latitude": 39.7631,
+            "longitude": -105.034966
+          },
+          "title": "Cerebral Brewing - West Highland",
+          "type": "Brewery",
+          "address": "3257 Lowell Blvd",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.8,
+          "reviews": 680,
+          "reviews_original": "(680)",
+          "description": "\"Friendly staff, great ambiance, and killer beers.\"",
+          "lsig": "AB86z5UuhzrL6xR20Z8Nm_zUCAGq",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/JZdq79lPuW-xGgVNHjv_7l1UjJr81zh-d615VqEoGYg.jpeg",
+          "place_id": "17512899492240093932",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17512899492240093932&q=craft+beer",
+          "provider_id": "/g/11c45vm4l_",
+          "gps_coordinates": {
+            "latitude": 39.750916,
+            "longitude": -104.98456
+          },
+          "title": "Woods Boss Brewing Company",
+          "type": "Brewery",
+          "address": "2210 California St",
+          "hours": "Closed · Opens 2 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:06:15.020953",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "shuttle service",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 238,
+          "reviews_original": "(238)",
+          "description": "\"Great service and communication, timely and skilled drivers.\"",
+          "lsig": "AB86z5V4Ugb6_AZHvwSK8_stjK6G",
+          "links": {
+            "website": "https://goldenwestairportshuttle.com/",
+            "directions": "https://www.google.com/maps/dir//Golden+West+Airport+Shuttle,+7475+W+5th+Ave+%23316,+Lakewood,+CO+80226/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c7de2fa901725:0x5ac399da9e82b782?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJhAA&hl=en&gl=us"
+          },
+          "place_id": "6540240248113379202",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6540240248113379202&q=shuttle+service",
+          "provider_id": "/g/1jglzfrmm",
+          "gps_coordinates": {
+            "latitude": 39.724216,
+            "longitude": -105.0798
+          },
+          "title": "Golden West Airport Shuttle",
+          "type": "Airport shuttle service",
+          "phone": "(303) 756-9399",
+          "address": "Lakewood, CO"
+        },
+        {
+          "position": 2,
+          "rating": 4.1,
+          "reviews": 150,
+          "reviews_original": "(150)",
+          "description": "\"I’ve had smooth and pleasant experiences at this airport.\"",
+          "lsig": "AB86z5U7gtGELEVChw4g3mcsgIe2",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Airport+Denver+Transportation+CO,+1675+Broadway,+Denver,+CO+80231/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c78d5d1f6697f:0xeb29476b7baa4a54?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJRAA&hl=en&gl=us"
+          },
+          "place_id": "16945153599920032340",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16945153599920032340&q=shuttle+service",
+          "provider_id": "/g/1hm3ylm_6",
+          "gps_coordinates": {
+            "latitude": 39.742664,
+            "longitude": -104.98796
+          },
+          "title": "Airport Denver Transportation CO",
+          "type": "Taxi service",
+          "years_in_business": "10+ years in business",
+          "address": "1675 Broadway"
+        },
+        {
+          "position": 3,
+          "rating": 4.9,
+          "reviews": 30,
+          "reviews_original": "(30)",
+          "description": "\"Great service, on time, comfortable ride, friendly driver.\"",
+          "lsig": "AB86z5XBXPACb2vJoTzz4PA7QClf",
+          "links": {
+            "website": "http://www.1stabctransportation.com/"
+          },
+          "place_id": "8691681491359761990",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8691681491359761990&q=shuttle+service",
+          "title": "1st ABC Transportation",
+          "type": "Airport shuttle service",
+          "phone": "(303) 761-1233"
+        },
+        {
+          "position": 4,
+          "rating": 5.0,
+          "reviews": 77,
+          "reviews_original": "(77)",
+          "description": "\"Our drivers arrived on time and ensured a smooth, stress-free ride each way.\"",
+          "lsig": "AB86z5U6nchEZFOejpwvuNpKPEbP",
+          "links": {
+            "website": "https://wildpathtransport.com/"
+          },
+          "place_id": "8002426120162011949",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8002426120162011949&q=shuttle+service",
+          "title": "Wildpath Transportation LLC.",
+          "type": "Transportation service",
+          "phone": "(720) 967-9956",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 29,
+          "reviews_original": "(29)",
+          "description": "\"Driver is professional, excellent customer service, safe driver, and polite.\"",
+          "lsig": "AB86z5UVYF1gk-39qQ6tIgddsuKA",
+          "links": {
+            "website": "https://imedenver.com/",
+            "directions": "https://www.google.com/maps/dir//InterMountain+Express,+1066+S+Dahlia+St,+Denver,+CO+80246/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c7dd0dd7373f1:0xb180aa6bc67b5a43?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJBAA&hl=en&gl=us"
+          },
+          "place_id": "12790410321600404035",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=12790410321600404035&q=shuttle+service",
+          "provider_id": "/g/1hhgm0y7h",
+          "gps_coordinates": {
+            "latitude": 39.69803,
+            "longitude": -104.93079
+          },
+          "title": "InterMountain Express",
+          "type": "Airport shuttle service",
+          "phone": "(720) 539-3209",
+          "address": "1066 S Dahlia St"
+        },
+        {
+          "position": 6,
+          "rating": 5.0,
+          "reviews": 521,
+          "reviews_original": "(521)",
+          "description": "\"We had an easy and streamlined transport thanks to Andrew and Xavier!!!\"",
+          "lsig": "AB86z5XjV6RDXnvngEJhQv06cZ-B",
+          "links": {
+            "website": "http://www.twobrotherstransportation.com/"
+          },
+          "place_id": "3580128934865231149",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3580128934865231149&q=shuttle+service",
+          "title": "Two Brothers Transportation",
+          "type": "Chauffeur service",
+          "phone": "(303) 505-5882",
+          "years_in_business": "10+ years in business"
+        },
+        {
+          "position": 7,
+          "rating": 5.0,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "lsig": "AB86z5WvqldYB3BUlPVzPqnzL8fk",
+          "links": {
+            "website": "https://www.englewoodshuttle.com/"
+          },
+          "place_id": "14192445184493001467",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14192445184493001467&q=shuttle+service",
+          "title": "Englewood Shuttle LLC",
+          "type": "Airport shuttle service",
+          "phone": "(303) 696-9559"
+        },
+        {
+          "position": 8,
+          "rating": 4.7,
+          "reviews": 69,
+          "reviews_original": "(69)",
+          "description": "\"Professional drivers, spotless cars and easy to work with.\"",
+          "lsig": "AB86z5Uj0IAW97dPneohV0ntcpdL",
+          "links": {
+            "website": "https://denverairport-transport.com/"
+          },
+          "place_id": "11800468431657611107",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11800468431657611107&q=shuttle+service",
+          "title": "Denver Airport Transport",
+          "type": "Transportation service",
+          "phone": "(720) 669-1600",
+          "years_in_business": "20+ years in business",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 9,
+          "rating": 4.8,
+          "reviews": 53,
+          "reviews_original": "(53)",
+          "description": "\"Dependable, always on time, clean vehicles, helpful drivers.\"",
+          "lsig": "AB86z5XeYU3mQkmwEduC-xO_8V8q",
+          "links": {
+            "website": "https://www.denversairporttransportation.com/",
+            "directions": "https://www.google.com/maps/dir//Denvers+Airport+Transportation,+10804+E+Wesley+Ave,+Aurora,+CO+80014/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c627d89e4a6bb:0x332dbfe9e050c405?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIIhAA&hl=en&gl=us"
+          },
+          "place_id": "3687814681097978885",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3687814681097978885&q=shuttle+service",
+          "provider_id": "/g/11b7g292c6",
+          "gps_coordinates": {
+            "latitude": 39.673164,
+            "longitude": -104.86182
+          },
+          "title": "Denvers Airport Transportation",
+          "type": "Airport shuttle service",
+          "phone": "(720) 579-6135",
+          "address": "Aurora, CO"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 16,
+          "reviews_original": "(16)",
+          "description": "\"Our driver was super friendly and punctual.\"",
+          "lsig": "AB86z5W5H7549nIeIbQZ8SK4w3wM",
+          "links": {
+            "website": "https://www.gosno.co/"
+          },
+          "place_id": "11216624572793038520",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11216624572793038520&q=shuttle+service",
+          "title": "GoSno Mountain Transportation",
+          "type": "Transportation service",
+          "phone": "(720) 369-6292",
+          "years_in_business": "10+ years in business",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 11,
+          "rating": 5.0,
+          "reviews": 351,
+          "reviews_original": "(351)",
+          "description": "\"From pickup to drop off, a killer service.\"",
+          "lsig": "AB86z5UKSALcnBJpFeh0rduxfTd6",
+          "links": {
+            "website": "http://www.partyatredrocks.com/"
+          },
+          "place_id": "15785677259321046344",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15785677259321046344&q=shuttle+service",
+          "title": "Party at Red Rocks llc",
+          "type": "Transportation service",
+          "phone": "(720) 369-6292",
+          "years_in_business": "10+ years in business",
+          "hours": "Open · Closes 11 PM"
+        },
+        {
+          "position": 12,
+          "rating": 5.0,
+          "reviews": 21,
+          "reviews_original": "(21)",
+          "description": "\"Our driver was on time, professional and very helpful in every way.\"",
+          "lsig": "AB86z5X39yj0qU0hMLWPNHa9vuet",
+          "links": {
+            "website": "https://getaride.limo/",
+            "directions": "https://www.google.com/maps/dir//Get-A-Ride,+110+16th+St+Mall+suite+1400,+Denver,+CO+80202/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c8d7727e0c2d9:0xdb41037c43ae7d9b?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJxAA&hl=en&gl=us"
+          },
+          "place_id": "15798912800038747547",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15798912800038747547&q=shuttle+service",
+          "provider_id": "/g/11j5b5xmh7",
+          "gps_coordinates": {
+            "latitude": 39.741432,
+            "longitude": -104.98781
+          },
+          "title": "Get-A-Ride",
+          "type": "Limousine service",
+          "phone": "(970) 438-2743",
+          "years_in_business": "5+ years in business",
+          "address": "110 16th St Mall suite 1400",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 13,
+          "rating": 5.0,
+          "reviews": 509,
+          "reviews_original": "(509)",
+          "description": "\"The service is reliable, comfortable, and incredibly convenient.\"",
+          "lsig": "AB86z5U-Du7fkcm6yTApKsNAWdgA",
+          "links": {
+            "website": "http://mayflowerlimo.com/",
+            "directions": "https://www.google.com/maps/dir//Mayflower+Limo+-+Denver+Luxury+Black+Car+Service+%26+Private+Airport+Shuttle,+1630+Welton+St,+Denver,+CO+80202/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x617f09c46451f067:0xc7d86ea066b80842?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIIxAA&hl=en&gl=us"
+          },
+          "place_id": "14400381443714320450",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14400381443714320450&q=shuttle+service",
+          "provider_id": "/g/11sft_7llb",
+          "gps_coordinates": {
+            "latitude": 39.74474,
+            "longitude": -104.99057
+          },
+          "title": "Mayflower Limo - Denver Luxury Black Car Service & Private Airport Shuttle",
+          "type": "Limousine service",
+          "phone": "(720) 694-7791",
+          "years_in_business": "25+ years in business",
+          "address": "1630 Welton St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 14,
+          "rating": 4.0,
+          "reviews": 2,
+          "reviews_original": "(2)",
+          "description": "\"Wonderful and amazing parade of light and my kid have fun to saw it\"",
+          "lsig": "AB86z5V7Pz85pXwOPl3yhe6-FEqX",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Parkway+Shuttle+Drop%2FPick+up,+1734+Curtis+Street,+Denver,+CO+80202/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c78da6f933bf1:0xfa1d5162ec758c3a?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIIRAA&hl=en&gl=us"
+          },
+          "place_id": "18022650769122364474",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18022650769122364474&q=shuttle+service",
+          "provider_id": "/g/1tj33mkg",
+          "gps_coordinates": {
+            "latitude": 39.748184,
+            "longitude": -104.99366
+          },
+          "title": "Parkway Shuttle Drop/Pick up",
+          "type": "Airport shuttle service",
+          "address": "1734 Curtis Street"
+        },
+        {
+          "position": 15,
+          "rating": 5.0,
+          "reviews": 13,
+          "reviews_original": "(13)",
+          "description": "\"The driver was on-time, helpful and courteous.\"",
+          "lsig": "AB86z5WH5JgsM1XcakEA9YFFSbu6",
+          "links": {
+            "website": "https://www.coloradoairportshuttles.com/"
+          },
+          "place_id": "11002182158985466505",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11002182158985466505&q=shuttle+service",
+          "title": "Colorado Airport Shuttles",
+          "type": "Airport shuttle service",
+          "phone": "(303) 696-9559"
+        },
+        {
+          "position": 16,
+          "rating": 4.7,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "description": "\"Our driver, Ed, was professional and welcoming.\"",
+          "lsig": "AB86z5XDQ-V9N17yBIYclwQfixou",
+          "links": {
+            "website": "http://www.mountainshuttledenver.com/"
+          },
+          "place_id": "17888577701202240059",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17888577701202240059&q=shuttle+service",
+          "title": "MTN Shuttle",
+          "type": "Transportation service",
+          "phone": "(970) 453-3010",
+          "years_in_business": "7+ years in business",
+          "hours": "Open · Closes 10 PM"
+        },
+        {
+          "position": 17,
+          "rating": 5.0,
+          "reviews": 7,
+          "reviews_original": "(7)",
+          "description": "\"Drivers with a professional experience for more than 18 years .\"",
+          "lsig": "AB86z5UWUkIqV_QqN2VMEgH9T3dt",
+          "links": {
+            "website": "https://303shuttle.com/",
+            "directions": "https://www.google.com/maps/dir//Golden+West+Shuttle+,+LLC,+4156+S+Argonne+St,+Aurora,+CO+80013/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c89b1e1288e0b:0x3593a61896f24bea?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIKBAA&hl=en&gl=us"
+          },
+          "place_id": "3860611930128534506",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3860611930128534506&q=shuttle+service",
+          "provider_id": "/g/11y5h424c7",
+          "gps_coordinates": {
+            "latitude": 39.64219,
+            "longitude": -104.77074
+          },
+          "title": "Golden West Shuttle , LLC",
+          "type": "Airport shuttle service",
+          "phone": "(813) 808-1077",
+          "address": "Aurora, CO"
+        },
+        {
+          "position": 18,
+          "rating": 5.0,
+          "reviews": 9,
+          "reviews_original": "(9)",
+          "description": "\"Excellent service and experienced driver.\"",
+          "lsig": "AB86z5UoXF-HwCdSiIM3-Kw0VHxe",
+          "links": {
+            "website": "https://vail-lux-limo.com/"
+          },
+          "place_id": "2159370869390399421",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2159370869390399421&q=shuttle+service",
+          "title": "Vail Lux Limo - Airport Limo Service | Private Transportation | Luxury SUV | Private Shuttle",
+          "type": "Transportation service",
+          "phone": "(970) 389-4313",
+          "years_in_business": "10+ years in business",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 19,
+          "rating": 5.0,
+          "reviews": 12,
+          "reviews_original": "(12)",
+          "description": "\"Got to our destination safely and quickly.\"",
+          "lsig": "AB86z5WuHc1MS9bkofMfn4TcdzwQ",
+          "links": {
+            "website": "https://expertairportrides.com/"
+          },
+          "place_id": "546702315283463720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=546702315283463720&q=shuttle+service",
+          "title": "Expert Airport Rides",
+          "type": "Airport shuttle service",
+          "phone": "(303) 214-4268"
+        },
+        {
+          "position": 20,
+          "rating": 2.3,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "lsig": "AB86z5XJzbnkmqMnnSgSCLilPvbP",
+          "links": {
+            "website": "https://roaringforkexpress.com/"
+          },
+          "place_id": "10339673760403123716",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=10339673760403123716&q=shuttle+service",
+          "title": "Roaring Fork Express",
+          "type": "Transportation service",
+          "phone": "(970) 728-6000",
+          "years_in_business": "3+ years in business",
+          "hours": "Open 24 hours"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:00.074652",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "hot tub",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.8,
+          "reviews": 280,
+          "reviews_original": "(280)",
+          "description": "\"His customer service skills and knowledge of hot tubs are unmatched.\"",
+          "lsig": "AB86z5UT5rcxgqkuJp41ojhuIJ6q",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/bh4pcd0z7qCf41bdz8ZKpDA6lAWX_20oeXHBtJH8CRQ.jpeg",
+          "place_id": "3186510560022595725",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3186510560022595725&q=hot+tub",
+          "provider_id": "/g/1tg50xxp",
+          "gps_coordinates": {
+            "latitude": 39.733074,
+            "longitude": -105.0166
+          },
+          "title": "International Hot Tub Company",
+          "type": "Hot tub store",
+          "phone": "(303) 755-4772",
+          "address": "1035 Zuni St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.9,
+          "reviews": 298,
+          "reviews_original": "(298)",
+          "description": "\"Beautiful tub, smooth delivery and excellent customer service.\"",
+          "lsig": "AB86z5WCtqwgl_2EUsei70gcaTS5",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/kBw93OJiZwJh8nqtRjyGD7hno-B5oQmSrBsfTfuBKgg.jpeg",
+          "place_id": "17764810574141320035",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17764810574141320035&q=hot+tub",
+          "provider_id": "/g/1tfbyz2z",
+          "gps_coordinates": {
+            "latitude": 39.731827,
+            "longitude": -105.01663
+          },
+          "title": "Spa Brokers",
+          "type": "Hot tub store",
+          "phone": "(303) 261-3366",
+          "address": "955 Zuni St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.7,
+          "reviews": 227,
+          "reviews_original": "(227)",
+          "description": "\"I bought my hot tub here and they have great customer service.\"",
+          "lsig": "AB86z5UGqA7bIw0fuWGFdUfhaUa1",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/BuSDTpwwcRDTOY8OuclYhWXLOL2B4KGxOMsPzvh-iL4.jpeg",
+          "place_id": "14574716967284123353",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14574716967284123353&q=hot+tub",
+          "provider_id": "/g/11c0vnvgh9",
+          "gps_coordinates": {
+            "latitude": 39.773083,
+            "longitude": -104.9439
+          },
+          "title": "Aqua Living Factory Outlets",
+          "type": "Hot tub store",
+          "phone": "(303) 285-9277",
+          "address": "3705 E 40th Ave",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 473,
+          "reviews_original": "(473)",
+          "description": "\"They moved my hot tub twice in the last 4 months and did a great job.\"",
+          "lsig": "AB86z5VRfizX92CVYOC9hVRgGDtZ",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/t6DCmkmJEQIz2yFl1ccnXmEgscEdYr7acvyOT9TX67s.jpeg",
+          "place_id": "12787049330374530076",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=12787049330374530076&q=hot+tub",
+          "provider_id": "/g/1vl9rzx9",
+          "gps_coordinates": {
+            "latitude": 39.81183,
+            "longitude": -104.9817
+          },
+          "title": "Colorado Custom Spas",
+          "type": "Hot tub store",
+          "phone": "(303) 468-8827",
+          "address": "601 E 64th Ave Building B Suite 200",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 180,
+          "reviews_original": "(180)",
+          "description": "\"Steve replaced a broken part on my hot tub quickly, thanks!\"",
+          "lsig": "AB86z5VEf_F7z03vF1kImVfT9im1",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/_xFLC97nL6pzhqiG3AcNdcfPT5MLDxowOaiApo5W388.jpeg",
+          "place_id": "7653564520891156426",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7653564520891156426&q=hot+tub",
+          "provider_id": "/g/1w97vwjp",
+          "gps_coordinates": {
+            "latitude": 39.880913,
+            "longitude": -105.09696
+          },
+          "title": "Spa Palace Hot Tubs and Saunas - Denver",
+          "type": "Hot tub store",
+          "phone": "(303) 432-8900",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.9,
+          "reviews": 252,
+          "reviews_original": "(252)",
+          "description": "\"They navigated the new hot tub around the property with precision.\"",
+          "lsig": "AB86z5XD_X1AebfZwBdTHwSOzXed",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/8rog7wSS04LPgnNJKTHNMpHZFvX1SixExhdZ4okhOhY.jpeg",
+          "place_id": "18383679995727685700",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18383679995727685700&q=hot+tub",
+          "provider_id": "/g/11fpt_fqlp",
+          "gps_coordinates": {
+            "latitude": 39.616577,
+            "longitude": -104.81639
+          },
+          "title": "Mile High Hot Tubs",
+          "type": "Hot tub store",
+          "phone": "(720) 500-2521",
+          "address": "Aurora, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.9,
+          "reviews": 40,
+          "reviews_original": "(40)",
+          "description": "\"Their selection of hot tub brands and products were amazing!!\"",
+          "lsig": "AB86z5U5UYHPuwHPqX1VpSDgjPSl",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/OQrdQR_ZYths-8USJOy7pKrcBZg64yYqHAoKrqMcqfw.jpeg",
+          "place_id": "4299731718830178178",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4299731718830178178&q=hot+tub",
+          "provider_id": "/g/11w1hp8j6y",
+          "gps_coordinates": {
+            "latitude": 39.855797,
+            "longitude": -105.05457
+          },
+          "title": "High Altitude Hot Tubs of Westminster, CO",
+          "type": "Hot tub store",
+          "phone": "(303) 502-5313",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 5.0,
+          "reviews": 246,
+          "reviews_original": "(246)",
+          "description": "\"It only took 3 weeks for our new hot tub to be custom built and delivered.\"",
+          "lsig": "AB86z5U5GhJqMDHTfZZOKFi-KRan",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/hPd2U9IPJRJ3FlFXwQib23FA4sv6n_xZNIQXd3joa1s.jpeg",
+          "place_id": "6050394909115670029",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6050394909115670029&q=hot+tub",
+          "provider_id": "/g/1tj920rp",
+          "gps_coordinates": {
+            "latitude": 39.663216,
+            "longitude": -104.995544
+          },
+          "title": "Wind River Spas",
+          "type": "Hot tub store",
+          "phone": "(303) 789-2656",
+          "address": "Englewood, CO",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.6,
+          "reviews": 203,
+          "reviews_original": "(203)",
+          "description": "\"Our hot tub and swim spa are always clean and ready to use.\"",
+          "lsig": "AB86z5V9haHoyL8oazjV7Uot0Hb9",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/oqXDbOXSy-MvszGLY1R0hP79TYwLcvqJFxGTLhAiziw.jpeg",
+          "place_id": "9313975891745681605",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9313975891745681605&q=hot+tub",
+          "provider_id": "/g/1tj2jcw6",
+          "gps_coordinates": {
+            "latitude": 39.774666,
+            "longitude": -104.98844
+          },
+          "title": "International Hot Tub Company",
+          "type": "Hot tub store",
+          "phone": "(303) 296-7727",
+          "address": "4275 N Broadway A",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 221,
+          "reviews_original": "(221)",
+          "description": "\"Nothing but happy with our hot tub and the ongoing service.\"",
+          "lsig": "AB86z5XX8wVH5CQVR1ulGnZRTkyK",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/ruD4admX3A5v3C0sInHhuv_gCUtRYnXhRHtg-UTHNHI.jpeg",
+          "place_id": "14651397489162997167",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14651397489162997167&q=hot+tub",
+          "provider_id": "/g/1tf4fjbp",
+          "gps_coordinates": {
+            "latitude": 39.757664,
+            "longitude": -104.77461
+          },
+          "title": "Spa Brokers Clearance Center",
+          "type": "Hot tub store",
+          "phone": "(303) 261-3324",
+          "address": "Aurora, CO",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.9,
+          "reviews": 224,
+          "reviews_original": "(224)",
+          "description": "\"He came and fixed our hot tub and got it back on-line!\"",
+          "lsig": "AB86z5WKwD-R8a-5R2Wm5Uf2Erg7",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/nZhSCH5ujdsMPZqfXVfxUbo-0aLAagkrlxoLZuuGC1U.jpeg",
+          "place_id": "15701606947087110005",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15701606947087110005&q=hot+tub",
+          "provider_id": "/g/11gj0w5cwd",
+          "gps_coordinates": {
+            "latitude": 39.784874,
+            "longitude": -105.11694
+          },
+          "title": "Arctic Spas Denver",
+          "type": "Hot tub store",
+          "phone": "(303) 403-8829",
+          "address": "Wheat Ridge, CO",
+          "hours": "Open · Closes 5:30 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.6,
+          "reviews": 34,
+          "reviews_original": "(34)",
+          "description": "\"The hot tub is great and the delivery was smooth and easy.\"",
+          "lsig": "AB86z5UdHG0Q2Kwvy4i8a5p_8kzj",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/ABfMKva1tpHOuX0zHy2-IMbbq-U376z2v_gl2s2xUVc.jpeg",
+          "place_id": "7074836926350807112",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7074836926350807112&q=hot+tub",
+          "provider_id": "/g/11sdx_tzxx",
+          "gps_coordinates": {
+            "latitude": 39.74301,
+            "longitude": -104.93867
+          },
+          "title": "Hot Tub Helpers Denver",
+          "type": "Hot tub repair service",
+          "phone": "(720) 938-3883",
+          "years_in_business": "5+ years in business",
+          "address": "1670 Albion St",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 123,
+          "reviews_original": "(123)",
+          "description": "\"Very friendly and assisted with problem solving hot tub issues.\"",
+          "lsig": "AB86z5VdCTDs5l5nl5HQZa0y03wS",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/cU6_LJNvbQta5RJPpp-EMom2NYyTa39FXPnzbp_dB30.jpeg",
+          "place_id": "16067995684696983472",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16067995684696983472&q=hot+tub",
+          "provider_id": "/g/11b708l4cv",
+          "gps_coordinates": {
+            "latitude": 39.57522,
+            "longitude": -105.12974
+          },
+          "title": "Hot Tub Outlet",
+          "type": "Hot tub store",
+          "phone": "(720) 296-2518",
+          "address": "Littleton, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 14,
+          "rating": 4.9,
+          "reviews": 34,
+          "reviews_original": "(34)",
+          "description": "\"Hot Tub Bob was fun to work with and he gave us a great deal on a new tub.\"",
+          "lsig": "AB86z5V8C3jZgwE_MTw0lxp2TbdC",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/JEE2Qj-kO-7gQ-iv7I3J3mxVr8sAiUamD4bwLd9oux8.jpeg",
+          "place_id": "6309393855257453928",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6309393855257453928&q=hot+tub",
+          "provider_id": "/g/11pzsjltsk",
+          "gps_coordinates": {
+            "latitude": 39.867027,
+            "longitude": -105.08824
+          },
+          "title": "Patio Splash Hot Tubs & Spas Denver",
+          "type": "Hot tub store",
+          "phone": "(720) 475-1669",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 15,
+          "rating": 4.9,
+          "reviews": 73,
+          "reviews_original": "(73)",
+          "description": "\"... High delivery guys did an excellent job delivering my new hot tub.\"",
+          "lsig": "AB86z5XdgQrwWMBd1c1uv70ixPAX",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/_DHobJ0RTKM95Qj4BgIdv0WbphEpIJu__ucMgT5ZSX4.jpeg",
+          "place_id": "6637510558537556101",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6637510558537556101&q=hot+tub",
+          "provider_id": "/g/11j_29_cvj",
+          "gps_coordinates": {
+            "latitude": 39.888805,
+            "longitude": -105.069
+          },
+          "title": "Mile High Hot Tubs",
+          "type": "Hot tub store",
+          "phone": "(720) 500-2521",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 16,
+          "rating": 5.0,
+          "reviews": 502,
+          "reviews_original": "(502)",
+          "description": "\"Always professional and thorough hot tub service.\"",
+          "lsig": "AB86z5WlNmZ9ZMTA4rb4H7YC62Fi",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/xU3UrvdmF5MpRCFDCwK6qwwvCgK18G6wAjA4PoNHh7w.jpeg",
+          "place_id": "9177294023909298425",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9177294023909298425&q=hot+tub",
+          "provider_id": "/g/11cmcld0lw",
+          "gps_coordinates": {
+            "latitude": 39.756214,
+            "longitude": -104.98888
+          },
+          "title": "Alpine Hot Tub Moving & Hot Tub Repair Service",
+          "type": "Hot tub store",
+          "phone": "(720) 218-9960",
+          "years_in_business": "20+ years in business",
+          "address": "2315 Larimer St",
+          "hours": "Open · Closes 5 PM"
+        },
+        {
+          "position": 17,
+          "rating": 4.8,
+          "reviews": 187,
+          "reviews_original": "(187)",
+          "description": "\"He was kind and professional and got our hot tub up and running!\"",
+          "lsig": "AB86z5V4CXxU_me4smFqo-hlPnh-",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/crY34ScSDrmTZRh9DgXNfmIRTk6DIzumw5MmsODYZo4.jpeg",
+          "place_id": "6148702364605590343",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6148702364605590343&q=hot+tub",
+          "provider_id": "/g/1tczfd28",
+          "gps_coordinates": {
+            "latitude": 39.56409,
+            "longitude": -104.88241
+          },
+          "title": "Spa Brokers",
+          "type": "Hot tub store",
+          "phone": "(303) 779-8645",
+          "address": "Lone Tree, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 235,
+          "reviews_original": "(235)",
+          "description": "\"Cortez came out and did a outstanding job fixing my hot tub.\"",
+          "lsig": "AB86z5UTYUXEuzbE6UeSNObuKYJA",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/iQF9gbTYm-0789otBqzlo2dAASLPlrfvdKL6pcWV4Xg.jpeg",
+          "place_id": "5280518910479912490",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5280518910479912490&q=hot+tub",
+          "provider_id": "/g/12m8ygbk5",
+          "gps_coordinates": {
+            "latitude": 39.652863,
+            "longitude": -104.990776
+          },
+          "title": "Everything Hot Tubz",
+          "type": "Hot tub store",
+          "phone": "(303) 806-9400",
+          "address": "Englewood, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 19,
+          "rating": 3.8,
+          "reviews": 12,
+          "reviews_original": "(12)",
+          "description": "\"Couldn’t find a better deal anywhere else in the city!!\"",
+          "lsig": "AB86z5WGZMsztIDpbqfQO3CNyUv7",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/RMokW3XGr9oewEMQoDoZ28g84Ennuik9M105KoiDx0o.jpeg",
+          "place_id": "16289475699625219465",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16289475699625219465&q=hot+tub",
+          "provider_id": "/g/11ddwvn8cn",
+          "gps_coordinates": {
+            "latitude": 39.731766,
+            "longitude": -105.01665
+          },
+          "title": "Cal Spas",
+          "type": "Hot tub store",
+          "address": "955 Zuni St",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.3,
+          "reviews": 81,
+          "reviews_original": "(81)",
+          "description": "\"Dan came out to service our hot tub, which required a new pump and switch.\"",
+          "lsig": "AB86z5XUWrG7c3YhA_5lQUEYigxW",
+          "thumbnail": "https://serpapi.com/searches/69d52b61b333eed1db02f79e/images/OUT0DpRzMyheLJIGNyKfgujmx6JuIbyW6mCXGt2FhPI.jpeg",
+          "place_id": "18165205659269023110",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18165205659269023110&q=hot+tub",
+          "provider_id": "/g/1wbf_x8w",
+          "gps_coordinates": {
+            "latitude": 39.62436,
+            "longitude": -105.028824
+          },
+          "title": "DND Spas Denver Hot Tub Repair",
+          "type": "Hot tub repair service",
+          "phone": "(303) 789-2980",
+          "years_in_business": "35+ years in business",
+          "address": "Englewood, CO",
+          "hours": "Open · Closes 6 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:00.107428",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "ski equipment rental",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.1,
+          "reviews": 882,
+          "reviews_original": "(882)",
+          "description": "\"Easy rental experience and amazing huge ski and snowboard store!\"",
+          "lsig": "AB86z5VjvXhwSwi7ZS9-M1MYlUD7",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo41540vPNICenOJ6UEGIm2x_k4U06bG4mytzG0QBoszW9DIBw71yA5exVGSVjXDhQWIL9OD47me0xXGBKVY6AHeoTe0zaLt7UQo-JPGyMsHF-_u5p6c-pFM4SZ2fmDkNkHiNc=w90-h90-n-k-no-l75",
+          "place_id": "4818641879422382526",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4818641879422382526&q=ski+equipment+rental",
+          "provider_id": "/g/1tk4rn9m",
+          "gps_coordinates": {
+            "latitude": 39.668392,
+            "longitude": -104.864655
+          },
+          "title": "Epic Mountain Gear",
+          "type": "Ski rental service",
+          "phone": "(303) 337-1734",
+          "address": "Aurora, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.5,
+          "reviews": 95,
+          "reviews_original": "(95)",
+          "description": "\"They put me in the perfect equipment for my needs and ski level.\"",
+          "lsig": "AB86z5Wg8qoIQvuOuFIBqGwLMRHm",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/csXRdD2ecfOvcq0iXY8hwtgwZoCrVVNX28pnYGRuqEM.jpeg",
+          "place_id": "29793473184896848",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=29793473184896848&q=ski+equipment+rental",
+          "provider_id": "/g/11j6jmhm5h",
+          "gps_coordinates": {
+            "latitude": 39.744854,
+            "longitude": -104.99063
+          },
+          "title": "Breckenridge Ski & Sport",
+          "type": "Ski rental service",
+          "phone": "(970) 368-4540",
+          "address": "1630 Welton St #730",
+          "hours": "Open now"
+        },
+        {
+          "position": 3,
+          "rating": 4.6,
+          "reviews": 824,
+          "reviews_original": "(824)",
+          "description": "\"Affordable, friendly place for ski equipment rental.\"",
+          "lsig": "AB86z5WkjMm-548DSYTCJr-U_rnk",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/MqIJ2YzCeT_9FQB39isZbDv661e_KeSUyXTrv6ObDBo.jpeg",
+          "place_id": "1055392855568844645",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1055392855568844645&q=ski+equipment+rental",
+          "provider_id": "/g/1trtvtcd",
+          "gps_coordinates": {
+            "latitude": 39.78212,
+            "longitude": -105.11004
+          },
+          "title": "Larson's Ski & Sport",
+          "type": "Ski shop",
+          "phone": "(303) 423-0654",
+          "address": "Wheat Ridge, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 4,
+          "rating": 4.8,
+          "reviews": 24,
+          "reviews_original": "(24)",
+          "description": "\"My skis had a couple nasty core shots and they made them look like new.\"",
+          "lsig": "AB86z5VcFHm-B0wRkXdLFwEl_qAQ",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/kdaEKTdOLKi-YBxbmpJgbvjVdm6yGEMJyJ0CGeRepSI.jpeg",
+          "place_id": "15376491108946701695",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15376491108946701695&q=ski+equipment+rental",
+          "provider_id": "/g/11gmwq38qs",
+          "gps_coordinates": {
+            "latitude": 39.913383,
+            "longitude": -105.07278
+          },
+          "title": "Ski & Snowboard Rental & Repair",
+          "type": "Sporting goods store",
+          "phone": "(303) 466-1975",
+          "address": "Broomfield, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 264,
+          "reviews_original": "(264)",
+          "description": "\"Seamless rental experience, super friendly staff, great rates\"",
+          "lsig": "AB86z5UTUz0wbF0zsNriDgwM15Q9",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/opWwhtfW__r653jepel9gA3coF4U4-macrNJ-86It9g.jpeg",
+          "place_id": "17637394143803342563",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17637394143803342563&q=ski+equipment+rental",
+          "provider_id": "/g/1tfv10v4",
+          "gps_coordinates": {
+            "latitude": 39.857483,
+            "longitude": -105.07262
+          },
+          "title": "Colorado Sports Rent",
+          "type": "Ski rental service",
+          "phone": "(303) 467-0200",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.6,
+          "reviews": 688,
+          "reviews_original": "(688)",
+          "description": "\"Renting skis from Christy Sports was efficient and affordable.\"",
+          "lsig": "AB86z5WfYes-FN6iwnHgmW1RCd_r",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/EuJ3FFBK2ky-9JX-jlur0bBGOhC1TEbcfe3EQvlhT5A.jpeg",
+          "place_id": "16186845863192159055",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16186845863192159055&q=ski+equipment+rental",
+          "provider_id": "/g/1tvq4m9s",
+          "gps_coordinates": {
+            "latitude": 39.72013,
+            "longitude": -104.95988
+          },
+          "title": "Christy Sports Cherry Creek",
+          "type": "Ski rental service",
+          "phone": "(303) 321-3885",
+          "address": "201 University Blvd #112",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 7,
+          "rating": 5.0,
+          "reviews": 139,
+          "reviews_original": "(139)",
+          "description": "\"... was very knowledgeable and informative about all their ski gear.\"",
+          "lsig": "AB86z5U_-rPTKzib35ImmH2YwL_E",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/hkAqx4kr-dClL3-X_r-5ODG_xix1-3n0V5JmgpVElts.jpeg",
+          "place_id": "14638332860736907447",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14638332860736907447&q=ski+equipment+rental",
+          "provider_id": "/g/11y9rr_kw5",
+          "gps_coordinates": {
+            "latitude": 39.69206,
+            "longitude": -104.9871
+          },
+          "title": "Denver Ski Company",
+          "type": "Ski rental service",
+          "phone": "(720) 749-6148",
+          "address": "1350 S Broadway",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.4,
+          "reviews": 562,
+          "reviews_original": "(562)",
+          "description": "\"They helped me get set up with a whole ski set up.\"",
+          "lsig": "AB86z5UNBh4ym8NLA3Jv6g0amZO8",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/HVDOza3mY9bHNsKRdkGmrfw8oUsPU6eEYdgv-Ka4ga4.jpeg",
+          "place_id": "2478667657186795623",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2478667657186795623&q=ski+equipment+rental",
+          "provider_id": "/g/1tj1m_qp",
+          "gps_coordinates": {
+            "latitude": 39.61676,
+            "longitude": -105.088234
+          },
+          "title": "Epic Mountain Gear",
+          "type": "Ski rental service",
+          "phone": "(303) 948-7550",
+          "address": "Littleton, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.9,
+          "reviews": 147,
+          "reviews_original": "(147)",
+          "description": "\"Great owners, great service, and really cool skis!\"",
+          "lsig": "AB86z5Wecl7hx8b3KeXGdctethaK",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/4pAKbg0Gf-xxCWfa-Uu5xyPHX8uqluOrGlUXZSKN12o.jpeg",
+          "place_id": "15688634029611560745",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15688634029611560745&q=ski+equipment+rental",
+          "provider_id": "/g/11b6bj4gl2",
+          "gps_coordinates": {
+            "latitude": 39.684395,
+            "longitude": -104.98796
+          },
+          "title": "Meier Skis",
+          "type": "Ski shop",
+          "phone": "(844) 966-3754",
+          "address": "1775 S Broadway",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.3,
+          "reviews": 197,
+          "reviews_original": "(197)",
+          "description": "\"Knowledgeable staff and reasonable prices on rentals.\"",
+          "lsig": "AB86z5WOEyDLfOMFhqug0lz-kkos",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/IQCL1pYcj299PlP-a1n_KzEwYxVe3OoxD_NStkiXG_Q.jpeg",
+          "place_id": "2674573678216261881",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2674573678216261881&q=ski+equipment+rental",
+          "provider_id": "/g/1tg5_3hv",
+          "gps_coordinates": {
+            "latitude": 39.726273,
+            "longitude": -105.12561
+          },
+          "title": "Breeze Ski Rentals",
+          "type": "Ski shop",
+          "phone": "(303) 232-2384",
+          "address": "Lakewood, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 391,
+          "reviews_original": "(391)",
+          "description": "\"Renting skis was a smooth process and very quick\"",
+          "lsig": "AB86z5VoJz7qVLKxtsl1QtZo_Es1",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/2367katyjhuo5fNDUAOGcFeF92cRtpBuhc1XHhXjUkw.png",
+          "place_id": "4960152123311460712",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4960152123311460712&q=ski+equipment+rental",
+          "provider_id": "/g/1vyxjxbk",
+          "gps_coordinates": {
+            "latitude": 39.615856,
+            "longitude": -105.09623
+          },
+          "title": "Christy Sports Littleton",
+          "type": "Ski rental service",
+          "phone": "(720) 981-1761",
+          "address": "Littleton, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 888,
+          "reviews_original": "(888)",
+          "description": "\"They were so helpful and patient with us when sizing all of us for skis.\"",
+          "lsig": "AB86z5VkAWmCKrRK3JJcApiHH9hi",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/XlPczXoxCrcKsGdqp5Xq2PsUCLju4g-AehK7aL0jPAo.jpeg",
+          "place_id": "17090269598053020550",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17090269598053020550&q=ski+equipment+rental",
+          "provider_id": "/g/1yg5784km",
+          "gps_coordinates": {
+            "latitude": 39.594563,
+            "longitude": -104.81697
+          },
+          "title": "Outabounds Ski and Board",
+          "type": "Ski rental service",
+          "phone": "(720) 440-9935",
+          "address": "Centennial, CO",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "description": "\"I had a great experience, renting skis, boots, poles, and a helmet today.\"",
+          "lsig": "AB86z5VbZ9TW3re690hQP_uoy0m_",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/aHtwQnslKOiKWQV4f43tZoUkjAqHiKs8LyrT1NlCFJM.jpeg",
+          "place_id": "4703489560469176971",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4703489560469176971&q=ski+equipment+rental",
+          "provider_id": "/g/1tg6w5k5",
+          "gps_coordinates": {
+            "latitude": 39.730263,
+            "longitude": -104.98712
+          },
+          "title": "evo Denver",
+          "type": "Ski rental service",
+          "phone": "(303) 831-7228",
+          "address": "860 N Broadway",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 14,
+          "rating": 4.6,
+          "reviews": 564,
+          "reviews_original": "(564)",
+          "description": "\"Friendly staff and fair pricing for alpine skiing equipment rental.\"",
+          "lsig": "AB86z5WQZVag8d3vR3cilnPCOa1Y",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/3tnRYAUO-vvkHjHiz5zuFzjh_TOXo4Ld-ZSq9VxOobs.jpeg",
+          "place_id": "6240890656961085965",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6240890656961085965&q=ski+equipment+rental",
+          "provider_id": "/g/1vvr6ps8",
+          "gps_coordinates": {
+            "latitude": 39.735912,
+            "longitude": -105.16222
+          },
+          "title": "Christy Sports Denver West",
+          "type": "Ski rental service",
+          "phone": "(303) 271-0155",
+          "address": "Lakewood, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 15,
+          "rating": 4.7,
+          "reviews": 560,
+          "reviews_original": "(560)",
+          "description": "\"Friendly employees, great ski rental service, good selection on ski apparel.\"",
+          "lsig": "AB86z5X0ttfm7jqV-d6OeJnaF-hU",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/rzRIOLnSjoDjBn5xfmkgPO_QFchjHJeBybfDKqr9kC8.jpeg",
+          "place_id": "8702548140263209575",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8702548140263209575&q=ski+equipment+rental",
+          "provider_id": "/g/1tdr3td7",
+          "gps_coordinates": {
+            "latitude": 39.566673,
+            "longitude": -104.876785
+          },
+          "title": "Christy Sports Park Meadows",
+          "type": "Ski rental service",
+          "phone": "(303) 708-8535",
+          "address": "Englewood, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 16,
+          "rating": 4.1,
+          "reviews": 613,
+          "reviews_original": "(613)",
+          "description": "\"Really good selection of gear and I received a lot of help from staff!\"",
+          "lsig": "AB86z5VVvvtKUjwMZoJBIORaq5xA",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/ycCq-q1ch8OMhp6Or8vhS_kxJfRQW7IOC9qf6J-oVGk.jpeg",
+          "place_id": "11302841345309756674",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11302841345309756674&q=ski+equipment+rental",
+          "provider_id": "/g/1hc7gvykn",
+          "gps_coordinates": {
+            "latitude": 39.862495,
+            "longitude": -105.081276
+          },
+          "title": "Epic Mountain Gear",
+          "type": "Ski rental service",
+          "phone": "(303) 421-4001",
+          "address": "Westminster, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 17,
+          "rating": 4.8,
+          "reviews": 234,
+          "reviews_original": "(234)",
+          "description": "\"Lovely local gear rental, with incredible helpful and kind staff.\"",
+          "lsig": "AB86z5WDEZ8Bp2TzU8P1MyrXPu20",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/mt3pW6AydDlzXSmHkX2MZBfhb3DnvtPlI7nDDevawTU.jpeg",
+          "place_id": "2379784907855954521",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2379784907855954521&q=ski+equipment+rental",
+          "provider_id": "/g/1tsjf3xq",
+          "gps_coordinates": {
+            "latitude": 39.566544,
+            "longitude": -104.924805
+          },
+          "title": "Eskimo Ski & Board Shop",
+          "type": "Ski rental service",
+          "phone": "(303) 761-1101",
+          "address": "Centennial, CO",
+          "hours": "Open · Closes 6 PM"
+        },
+        {
+          "position": 18,
+          "rating": 4.5,
+          "reviews": 2,
+          "reviews_original": "(2)",
+          "lsig": "AB86z5Wk5O-s03NXuEo554zPbHG9",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/vc5cv9s8nbxvf31k_9KW5A3bHf6WvCatq8wNLhSnbLM.jpeg",
+          "place_id": "14073669351077284175",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14073669351077284175&q=ski+equipment+rental",
+          "provider_id": "/g/1262c951p",
+          "gps_coordinates": {
+            "latitude": 39.75119,
+            "longitude": -104.986404
+          },
+          "title": "High Country Skiing Shuttle Co",
+          "type": "Ski rental service",
+          "phone": "(720) 215-9969",
+          "address": "2135 Stout St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 19,
+          "rating": 4.5,
+          "reviews": 306,
+          "reviews_original": "(306)",
+          "description": "\"I had never gone skiing and they were very informative and patient with me.\"",
+          "lsig": "AB86z5V7Wi5JBa-r4ZkK5xil2fAj",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/FkJQeGclxLcfjTiSLoSkwTSIx4IAKasNEEsAYiYzVrE.jpeg",
+          "place_id": "8187386688140055142",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8187386688140055142&q=ski+equipment+rental",
+          "provider_id": "/g/11gfmlql1k",
+          "gps_coordinates": {
+            "latitude": 39.835873,
+            "longitude": -105.0838
+          },
+          "title": "Christy Sports Arvada",
+          "type": "Ski rental service",
+          "phone": "(303) 421-0261",
+          "address": "Arvada, CO",
+          "hours": "Open · Closes 7 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.8,
+          "reviews": 359,
+          "reviews_original": "(359)",
+          "description": "\"Wonderful people, got an amazing pair of skis at a great price.\"",
+          "lsig": "AB86z5V2_crQN63z-18MKJXqL-WZ",
+          "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/FTtXkPtwCF81rZJ8NENer1P3G22S53iL9_FDRpLzXvw.jpeg",
+          "place_id": "7076873656776650684",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7076873656776650684&q=ski+equipment+rental",
+          "provider_id": "/g/1hhxn13ww",
+          "gps_coordinates": {
+            "latitude": 39.90134,
+            "longitude": -104.97813
+          },
+          "title": "2nd Time Sports",
+          "type": "Ski rental service",
+          "phone": "(720) 245-7295",
+          "address": "Northglenn, CO",
+          "hours": "Open · Closes 7 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:00.124434",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "après-ski restaurant",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.8,
+          "reviews": 217,
+          "reviews_original": "(217)",
+          "price": "$20–30",
+          "description": "\"Good daily specials, really good food great beer and reliable cocktails\"",
+          "lsig": "AB86z5X9j8JjxW6zzvM5Ql9y7WCL",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/H8gc13K0GiMFr7olKIuLGemWczB-GnjLcen8PvJ48NA.jpeg",
+          "place_id": "17438369268131675",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17438369268131675&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11xcxsgqg3",
+          "gps_coordinates": {
+            "latitude": 39.72709,
+            "longitude": -104.98213
+          },
+          "title": "Après Govnr's Park",
+          "type": "American",
+          "address": "400 E 7th Ave",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 2,
+          "rating": 4.4,
+          "reviews": 998,
+          "reviews_original": "(998)",
+          "price": "$20–30",
+          "description": "\"Fun ski apres atmosphere with beautiful sunset.\"",
+          "lsig": "AB86z5VxmPQJGJ2CB1HGy73nUR3p",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/toRpHIq43n9FhfpOE5EtH451NJwUpWv-K59iRmuoY1A.jpeg",
+          "place_id": "6360571575713867842",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6360571575713867842&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/1tf43fwy",
+          "gps_coordinates": {
+            "latitude": 39.875023,
+            "longitude": -105.77594
+          },
+          "title": "Sunspot Mountaintop Lodge",
+          "type": "American",
+          "address": "Winter Park, CO"
+        },
+        {
+          "position": 3,
+          "rating": 4.0,
+          "reviews": 605,
+          "reviews_original": "(605)",
+          "price": "$20–30",
+          "description": "\"Food is delicious, but service on the terrace is very slow\"",
+          "lsig": "AB86z5XQj2h55Etr262dyjmbjV2u",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/RuaSgLR71PIYjV-Dog_q-U8puW4JivBs0yBSIrmJ0vw.jpeg",
+          "place_id": "13463518116450740891",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13463518116450740891&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11b6_80q6z",
+          "gps_coordinates": {
+            "latitude": 39.480724,
+            "longitude": -106.06706
+          },
+          "title": "TBar",
+          "type": "Bar",
+          "address": "Breckenridge, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 4,
+          "rating": 4.9,
+          "reviews": 16,
+          "reviews_original": "(16)",
+          "price": "$10–20",
+          "description": "\"Perfect place for lunch, après, dinner, or just a cocktail to end the night.\"",
+          "lsig": "AB86z5XYhsG88CUksHds8IzZUHQR",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/dwJa7clUZgeq_KHoJ0SdtH4UO2kL57_hLK2AHnKJXbM.jpeg",
+          "place_id": "430138714470354015",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=430138714470354015&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11yhwy0nd_",
+          "gps_coordinates": {
+            "latitude": 39.475525,
+            "longitude": -106.05041
+          },
+          "title": "The Carter - Lunch & Après-Ski Bar in Breckenridge",
+          "type": "Lunch",
+          "address": "Breckenridge, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 46,
+          "reviews_original": "(46)",
+          "price": "$20–30",
+          "description": "\"Unbeatable views and outstanding food and service.\"",
+          "lsig": "AB86z5XjP_KvU1X5BU6qPKkMinqg",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/NPsN-VNw0wkS7k2zvRBZRkc5m9z-TLMJgYa2UJdyik4.jpeg",
+          "place_id": "11990072844289767978",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11990072844289767978&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11tnwvmhc5",
+          "gps_coordinates": {
+            "latitude": 39.62503,
+            "longitude": -105.875175
+          },
+          "title": "Il Rifugio",
+          "type": "Bistro",
+          "address": "Keystone, CO",
+          "hours": "Closed · Opens 10:30 AM Sat"
+        },
+        {
+          "position": 6,
+          "rating": 4.2,
+          "reviews": 847,
+          "reviews_original": "(847)",
+          "price": "$20–30",
+          "description": "\"Delicious food and great outdoor seating with views of the slopes.\"",
+          "lsig": "AB86z5XvaAJm3eMnhzFSHOy29kkS",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/7ReMVS0mdjweTFlB_JYoLeXEuQdOeP79wZP1BloQZDg.jpeg",
+          "place_id": "17743669027619726370",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17743669027619726370&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11ddx6v3d6",
+          "gps_coordinates": {
+            "latitude": 39.481342,
+            "longitude": -106.068214
+          },
+          "title": "Robbie's Tavern",
+          "type": "American",
+          "address": "Breckenridge, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 7,
+          "rating": 4.4,
+          "reviews": 248,
+          "reviews_original": "(248)",
+          "price": "$10–20",
+          "description": "\"Surprisingly affordable, delicious food and one of the best views in Denver\"",
+          "lsig": "AB86z5ULKJfbpQtFl1Lg695AmmP4",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/Ls4NI8ciED7bGRE6rwDHWgF5lbYb7Qaq4D7P7sh-QFU.jpeg",
+          "place_id": "13274942789184078892",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13274942789184078892&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11qg5nym9w",
+          "gps_coordinates": {
+            "latitude": 39.752464,
+            "longitude": -104.94903
+          },
+          "title": "City Park Tavern",
+          "type": "American",
+          "address": "3181 E 23rd Ave"
+        },
+        {
+          "position": 8,
+          "rating": 4.8,
+          "reviews": 4100,
+          "reviews_original": "(4.1K)",
+          "price": "$20–30",
+          "description": "\"Nadja & Justina provided exceptional service for our lunch at Mount In Pass!\"",
+          "lsig": "AB86z5VWehkNnVQR7yQBWi_sMr9S",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/zqB5mgfWogt2-plknoqNbG3jHIFFEE0gDqDHiHy8jD0.jpeg",
+          "place_id": "14147005355696827782",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14147005355696827782&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11g_rmdtp5",
+          "gps_coordinates": {
+            "latitude": 39.817223,
+            "longitude": -104.75239
+          },
+          "title": "Mountain Pass Sports Bar",
+          "type": "Sports bar",
+          "address": "Aurora, CO",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 9,
+          "rating": 4.4,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"The cocktails were well balanced and the food always hit the spot.\"",
+          "lsig": "AB86z5Xsd55CbF8o6OgHnh8d4it_",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/2eoLXNINjFy2bk-p6MU8Od1zs7dteM-_C8SZoXBkXKY.jpeg",
+          "place_id": "17877676850705957390",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17877676850705957390&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11g6rz0xfk",
+          "gps_coordinates": {
+            "latitude": 39.75321,
+            "longitude": -105.00221
+          },
+          "title": "Ajax Downtown",
+          "type": "American",
+          "address": "1899 16th St Mall"
+        },
+        {
+          "position": 10,
+          "rating": 4.3,
+          "reviews": 1400,
+          "reviews_original": "(1.4K)",
+          "price": "$10–20",
+          "description": "\"The food was great and the local beer and liquor were top notch.\"",
+          "lsig": "AB86z5XH38bk0KG6J7NshAE2dHB3",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/QfmFmVTeIo6_gkRylGcH7ITipMZ_GmPTss2LaMgykRc.jpeg",
+          "place_id": "17754393911031400977",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17754393911031400977&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/1pzq5bdlc",
+          "gps_coordinates": {
+            "latitude": 39.708504,
+            "longitude": -104.9274
+          },
+          "title": "Inga's Alpine Tavern",
+          "type": "Grill",
+          "address": "5151 Leetsdale Dr",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "price": "$20–30",
+          "description": "\"Great atmostphere and location, however the food is very mid and expensive.\"",
+          "lsig": "AB86z5UnGfZ6Q8DNlBlvhlb7fSwj",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/Cp-qYO280R2tw5D1FnsLDgmNdpkqfe1xAYU5wyYXECU.jpeg",
+          "place_id": "2756576882228897061",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2756576882228897061&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11s8zd1gfl",
+          "gps_coordinates": {
+            "latitude": 39.708042,
+            "longitude": -104.98721
+          },
+          "title": "BurnDown",
+          "type": "American",
+          "address": "476 S Broadway",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 12,
+          "rating": 4.7,
+          "reviews": 1300,
+          "reviews_original": "(1.3K)",
+          "price": "$20–30",
+          "description": "\"They have a lunch and dinner menu also, and an incredibly well-stocked bar.\"",
+          "lsig": "AB86z5Xyhf6EBZUsul5hmUi7gMgu",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ab7942ff9880119ac/images/vlnKvTTbfxh1vfrUJdzAc1n5RR-8dngB8h-uFD_OhXk.jpeg",
+          "place_id": "18232856447555255999",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18232856447555255999&q=apr%C3%A8s-ski+restaurant",
+          "provider_id": "/g/11bvtf5351",
+          "gps_coordinates": {
+            "latitude": 39.86795,
+            "longitude": -105.08882
+          },
+          "title": "Aspen Lodge Bar & Grill",
+          "type": "Grill",
+          "address": "Westminster, CO",
+          "hours": "Closed · Opens 12 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:00.148984",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "craft beer",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 5.0,
+          "reviews": 130,
+          "reviews_original": "(130)",
+          "price": "$10–20",
+          "description": "\"Tasty beer, friendly service, big and comfortable space.\"",
+          "lsig": "AB86z5VUnVtU7T4uX0N2s9lcxl1v",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/3Z1jBoZOxDq0WonI-YRnQE437r5vMxvBGqyNDrRyV20.jpeg",
+          "place_id": "14466966722241756032",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14466966722241756032&q=craft+beer",
+          "provider_id": "/g/11x1_lxn5r",
+          "gps_coordinates": {
+            "latitude": 39.75225,
+            "longitude": -104.99147
+          },
+          "title": "Full Frame Beer & Coffee",
+          "type": "Brewpub",
+          "address": "1139 20th St"
+        },
+        {
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 408,
+          "reviews_original": "(408)",
+          "description": "\"Great beers, great service, awesome outdoor seating.\"",
+          "lsig": "AB86z5WueM6V-XvYxLE7pNSy0jr5",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/egftoU6k_ClG0kEuPDj2Y5Eawn3jxQyXsh_wPEHNIwA.jpeg",
+          "place_id": "13792506732895679603",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13792506732895679603&q=craft+beer",
+          "provider_id": "/g/1vd95lf8",
+          "gps_coordinates": {
+            "latitude": 39.73724,
+            "longitude": -105.01489
+          },
+          "title": "Strange Craft Beer Company",
+          "type": "Brewery",
+          "address": "1330 Zuni St Unit M",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.1,
+          "reviews": 249,
+          "reviews_original": "(249)",
+          "price": "$20–30",
+          "description": "\"Great drink menu, a variety of beers on tap, and delicious food.\"",
+          "lsig": "AB86z5UGfYaUS7JJx84_NMp1yDIT",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/p8fP3oigsGuJMx6rRwHtejG86iwtpAS3YiiZnkXIsSY.jpeg",
+          "place_id": "17514942387173704991",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17514942387173704991&q=craft+beer",
+          "provider_id": "/g/11mdgsqxbg",
+          "gps_coordinates": {
+            "latitude": 39.73425,
+            "longitude": -104.98923
+          },
+          "title": "Schoolyard Beer Garden",
+          "type": "Restaurant",
+          "address": "1115 Acoma St #116",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 4,
+          "rating": 4.8,
+          "reviews": 339,
+          "reviews_original": "(339)",
+          "description": "\"Staff is so friendly, beer is delicious, and the atmosphere is unbeatable.\"",
+          "lsig": "AB86z5XU82pQ8rQ2PcB2Sm2OKpeV",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/QID1aIEIjOpa-PHEVl147RnFAdv2gSGznz-8t949boM.jpeg",
+          "place_id": "14263997957124285379",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14263997957124285379&q=craft+beer",
+          "provider_id": "/g/11mvz97z00",
+          "gps_coordinates": {
+            "latitude": 39.769894,
+            "longitude": -104.95784
+          },
+          "title": "Cohesion Brewing",
+          "type": "Brewery",
+          "address": "3851 Steele St Unit 1388",
+          "hours": "Closed · Opens 2 PM"
+        },
+        {
+          "position": 5,
+          "rating": 4.9,
+          "reviews": 318,
+          "reviews_original": "(318)",
+          "description": "\"Delicious, flavorful beers and a cool friendly bartender.\"",
+          "lsig": "AB86z5Us0ZcepSwgvHfC3t_GF-eF",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/_IFm8h1cGrOD2mr5UHxzJk1pK2BaCcln7RKEjv_5XtQ.jpeg",
+          "place_id": "3191769947821021953",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3191769947821021953&q=craft+beer",
+          "provider_id": "/g/11rcbklt1n",
+          "gps_coordinates": {
+            "latitude": 39.743088,
+            "longitude": -104.96821
+          },
+          "title": "Reverence Brewing Company",
+          "type": "Brewery",
+          "address": "1604 E 17th Ave",
+          "hours": "Closed · Opens 4 PM"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 133,
+          "reviews_original": "(133)",
+          "price": "$10–20",
+          "description": "\"Great rotating taps that highlight a variety of styles.\"",
+          "lsig": "AB86z5XOqawbGxLh1yawCCbQaAzO",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/Fed0b6ui_GAUNcGOz9BWELg-mbyYDGZZxjaiLUi4B3k.jpeg",
+          "place_id": "2980990253844087882",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2980990253844087882&q=craft+beer",
+          "provider_id": "/g/11s4s21w_p",
+          "gps_coordinates": {
+            "latitude": 39.752834,
+            "longitude": -104.99691
+          },
+          "title": "Westbound & Down Brewing Company",
+          "type": "Brewpub",
+          "address": "1801 Blake St",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 7,
+          "rating": 4.5,
+          "reviews": 61,
+          "reviews_original": "(61)",
+          "price": "$10–20",
+          "description": "\"The beers are delicious and the food is insanely good and portions are huge!\"",
+          "lsig": "AB86z5VhzPI8UhIfEf-rHQ-ZiWS9",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/aehGjfBLTCvKhWZQ1b2PiewecjWAJj5ivxFI7o9W7hk.jpeg",
+          "place_id": "1321420818251194896",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1321420818251194896&q=craft+beer",
+          "provider_id": "/g/11l2fq4vd4",
+          "gps_coordinates": {
+            "latitude": 39.72741,
+            "longitude": -104.98461
+          },
+          "title": "Out of the Barrel Taproom",
+          "type": "Bar",
+          "address": "205 E 7th Ave",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 353,
+          "reviews_original": "(353)",
+          "description": "\"Nice craft beer, loved the terp IPA, nice flavor, cool vibe 10/10\"",
+          "lsig": "AB86z5VkToOmh9Z05p2_LrzaQkT2",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/ypPEksVZQ4YtZRYXpCwie2xozYy-uOToNgRFAt_8l48.jpeg",
+          "place_id": "16939360478136558593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16939360478136558593&q=craft+beer",
+          "provider_id": "/g/1tk8p26d",
+          "gps_coordinates": {
+            "latitude": 39.73062,
+            "longitude": -104.999306
+          },
+          "title": "Renegade Brewing",
+          "type": "Brewery",
+          "address": "925 W 9th Ave",
+          "hours": "Closed · Opens 2 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.7,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Impeccable service and a super unique tap selection.\"",
+          "lsig": "AB86z5VlDYC6bAGQ98Ike3xDiivz",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/i9jVRCJVWLWA_o4Tf9WFCDc4tBiZADGzmnRI3KXM1nc.jpeg",
+          "place_id": "5992583103707764478",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5992583103707764478&q=craft+beer",
+          "provider_id": "/g/1ydpv9px1",
+          "gps_coordinates": {
+            "latitude": 39.72394,
+            "longitude": -104.99847
+          },
+          "title": "Black Sky Brewery",
+          "type": "Brewery",
+          "address": "490 Santa Fe Dr",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 10,
+          "rating": 4.6,
+          "reviews": 267,
+          "reviews_original": "(267)",
+          "description": "\"Fantastic beers, staff, ambiance, and ownership.\"",
+          "lsig": "AB86z5XxCCtmujIqjTThVzC6BvQl",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/0l9B0Sg02iTy-9mg_4iZE3BdfPk24t-dx3SDVydS1Zo.jpeg",
+          "place_id": "11890068193958653560",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11890068193958653560&q=craft+beer",
+          "provider_id": "/g/11g0zn6rk_",
+          "gps_coordinates": {
+            "latitude": 39.71849,
+            "longitude": -104.992294
+          },
+          "title": "Novel Strand Brewing Company",
+          "type": "Brewery",
+          "address": "305 W 1st Ave"
+        },
+        {
+          "position": 11,
+          "rating": 4.8,
+          "reviews": 199,
+          "reviews_original": "(199)",
+          "description": "\"Cozy taproom with great staff and unique and delicious brews!\"",
+          "lsig": "AB86z5XUkWqlqG7xO1n2UhLvM5aC",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/BSfrnLuE5cznGsiLUmKG_TNpbRjEiqigPlYXCkBBieQ.jpeg",
+          "place_id": "2433438630869964590",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2433438630869964590&q=craft+beer",
+          "provider_id": "/g/11b64hz40c",
+          "gps_coordinates": {
+            "latitude": 39.780815,
+            "longitude": -105.005005
+          },
+          "title": "Crooked Stave Brewing Company",
+          "type": "Brewery",
+          "address": "1441 W 46th Ave Unit 19",
+          "hours": "Closed · Opens 1 PM"
+        },
+        {
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 270,
+          "reviews_original": "(270)",
+          "description": "\"Fantastic beer, friendly service, and the food + coffee programs are legit.\"",
+          "lsig": "AB86z5WjNQeLOZGOkcqm7oO9jaL-",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/1R_086zgtElhyeKZW8zAlK2ke5OUWDdin3vKw-AkTQo.jpeg",
+          "place_id": "9367138772833957805",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9367138772833957805&q=craft+beer",
+          "provider_id": "/g/1hjgtvjt5",
+          "gps_coordinates": {
+            "latitude": 39.776062,
+            "longitude": -105.04351
+          },
+          "title": "Alley Brews Brewery & Coffee Shop",
+          "type": "Brewery",
+          "address": "4342 Tennyson St"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 173,
+          "reviews_original": "(173)",
+          "description": "\"Amazing beer, incredible service, and a super rad vibe.\"",
+          "lsig": "AB86z5Wa4VhPzqawKydgVey3oEy-",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/sOaxhCIA8Za5E_C_AyHjgJsLU-t66kJ_jKDD1Vvw86A.jpeg",
+          "place_id": "5184620685637430827",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5184620685637430827&q=craft+beer",
+          "provider_id": "/g/1hc1r8xx9",
+          "gps_coordinates": {
+            "latitude": 39.76734,
+            "longitude": -104.977104
+          },
+          "title": "River North Brewery - RiNo Taproom",
+          "type": "Brewery",
+          "address": "3400 Blake St",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 14,
+          "rating": 4.9,
+          "reviews": 146,
+          "reviews_original": "(146)",
+          "description": "\"Best spot for super fresh local and rotating out of town craft beers.\"",
+          "lsig": "AB86z5X67_MMkQEg1LP1uQegXEak",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/XRByO06z9T-snv-BX7LHqWK2Vl_h4-kWytGtXZRQvrM.jpeg",
+          "place_id": "8154042815421194714",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8154042815421194714&q=craft+beer",
+          "provider_id": "/g/11b5yrm9vg",
+          "gps_coordinates": {
+            "latitude": 39.76886,
+            "longitude": -105.011086
+          },
+          "title": "Cask and Craft",
+          "type": "Liquor store",
+          "address": "3744 Tejon St",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 15,
+          "rating": 4.3,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "description": "\"Great mix of craft beer, expertly crafted cocktails, and delicious food.\"",
+          "lsig": "AB86z5WUse7q-Gc3c_x8xDrn6qEV",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/3TIagDYStzwkPFYInGOYL-isKmLK27us_kWCycg7Uaw.jpeg",
+          "place_id": "2119405564011552726",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2119405564011552726&q=craft+beer",
+          "provider_id": "/m/07rdm8",
+          "gps_coordinates": {
+            "latitude": 39.753445,
+            "longitude": -104.9985
+          },
+          "title": "Wynkoop Brewing Company",
+          "type": "Brewpub",
+          "address": "1634 18th St",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 16,
+          "rating": 4.6,
+          "reviews": 950,
+          "reviews_original": "(950)",
+          "price": "$10–20",
+          "description": "\"Comfortable layout, good service and all around good craft beer.\"",
+          "lsig": "AB86z5VmoYgb2yNLJmFcDgoDl65W",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/UCmykGrT94Sxfmki8tQaCrey1ylxUdsrlOoTpFpfVdI.jpeg",
+          "place_id": "10588296308032417232",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=10588296308032417232&q=craft+beer",
+          "provider_id": "/g/1hd_dq_zx",
+          "gps_coordinates": {
+            "latitude": 39.769764,
+            "longitude": -104.97285
+          },
+          "title": "Black Shirt Brewing Co and Craft Pizza Kitchen",
+          "type": "Brewpub",
+          "address": "3719 Walnut St",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 17,
+          "rating": 4.6,
+          "reviews": 2000,
+          "reviews_original": "(2K)",
+          "price": "$20–30",
+          "description": "\"Good local beer selection, great location and ambiance, and friendly staff.\"",
+          "lsig": "AB86z5Xsgkwz-Wnhs20Px2CXPTIf",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/OHHFNUTKIQWFdMQpM27wdkDoSugAUDZY8MSy-fJm-y8.jpeg",
+          "place_id": "4751401329178580396",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4751401329178580396&q=craft+beer",
+          "provider_id": "/g/11clysyv61",
+          "gps_coordinates": {
+            "latitude": 39.751083,
+            "longitude": -105.02041
+          },
+          "title": "Briar Common Brewery + Eatery",
+          "type": "Brewpub",
+          "address": "2298 Clay St",
+          "hours": "Closed · Opens 11 AM"
+        },
+        {
+          "position": 18,
+          "rating": 4.8,
+          "reviews": 87,
+          "reviews_original": "(87)",
+          "description": "\"The service: attentive and friendly The beer: delicious\"",
+          "lsig": "AB86z5VRetEyhOZCw6yq05jXUveT",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/NBH5QZy0dff-6vj6ASJDWbtBGtpWSqeDb4IQ0XZMX64.jpeg",
+          "place_id": "2845444405144278577",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2845444405144278577&q=craft+beer",
+          "provider_id": "/g/11v9vrpw_d",
+          "gps_coordinates": {
+            "latitude": 39.773983,
+            "longitude": -104.93114
+          },
+          "title": "4 Noses Brewing Company",
+          "type": "Brewery",
+          "address": "4040 Dahlia St",
+          "hours": "Closed · Opens 2 PM"
+        },
+        {
+          "position": 19,
+          "rating": 4.7,
+          "reviews": 70,
+          "reviews_original": "(70)",
+          "description": "\"The friendliest staff, tastiest beers, and coolest space.\"",
+          "lsig": "AB86z5Xv8nLZozGYJqX6FdASm1t5",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/KcM0vfKh5ZTmFGjeQVP5v_SYftuPB-r8uTEr8xu8FKI.jpeg",
+          "place_id": "1646710565651851355",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1646710565651851355&q=craft+beer",
+          "provider_id": "/g/11wqpzb3mf",
+          "gps_coordinates": {
+            "latitude": 39.7631,
+            "longitude": -105.034966
+          },
+          "title": "Cerebral Brewing - West Highland",
+          "type": "Brewery",
+          "address": "3257 Lowell Blvd",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.8,
+          "reviews": 680,
+          "reviews_original": "(680)",
+          "description": "\"Friendly staff, great ambiance, and killer beers.\"",
+          "lsig": "AB86z5UuhzrL6xR20Z8Nm_zUCAGq",
+          "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/JZdq79lPuW-xGgVNHjv_7l1UjJr81zh-d615VqEoGYg.jpeg",
+          "place_id": "17512899492240093932",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17512899492240093932&q=craft+beer",
+          "provider_id": "/g/11c45vm4l_",
+          "gps_coordinates": {
+            "latitude": 39.750916,
+            "longitude": -104.98456
+          },
+          "title": "Woods Boss Brewing Company",
+          "type": "Brewery",
+          "address": "2210 California St",
+          "hours": "Closed · Opens 2 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:47:00.175099",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "shuttle service",
+      "location": "Denver"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 238,
+          "reviews_original": "(238)",
+          "description": "\"Great service and communication, timely and skilled drivers.\"",
+          "lsig": "AB86z5V4Ugb6_AZHvwSK8_stjK6G",
+          "links": {
+            "website": "https://goldenwestairportshuttle.com/",
+            "directions": "https://www.google.com/maps/dir//Golden+West+Airport+Shuttle,+7475+W+5th+Ave+%23316,+Lakewood,+CO+80226/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c7de2fa901725:0x5ac399da9e82b782?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJhAA&hl=en&gl=us"
+          },
+          "place_id": "6540240248113379202",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6540240248113379202&q=shuttle+service",
+          "provider_id": "/g/1jglzfrmm",
+          "gps_coordinates": {
+            "latitude": 39.724216,
+            "longitude": -105.0798
+          },
+          "title": "Golden West Airport Shuttle",
+          "type": "Airport shuttle service",
+          "phone": "(303) 756-9399",
+          "address": "Lakewood, CO"
+        },
+        {
+          "position": 2,
+          "rating": 4.1,
+          "reviews": 150,
+          "reviews_original": "(150)",
+          "description": "\"I’ve had smooth and pleasant experiences at this airport.\"",
+          "lsig": "AB86z5U7gtGELEVChw4g3mcsgIe2",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Airport+Denver+Transportation+CO,+1675+Broadway,+Denver,+CO+80231/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c78d5d1f6697f:0xeb29476b7baa4a54?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJRAA&hl=en&gl=us"
+          },
+          "place_id": "16945153599920032340",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16945153599920032340&q=shuttle+service",
+          "provider_id": "/g/1hm3ylm_6",
+          "gps_coordinates": {
+            "latitude": 39.742664,
+            "longitude": -104.98796
+          },
+          "title": "Airport Denver Transportation CO",
+          "type": "Taxi service",
+          "years_in_business": "10+ years in business",
+          "address": "1675 Broadway"
+        },
+        {
+          "position": 3,
+          "rating": 4.9,
+          "reviews": 30,
+          "reviews_original": "(30)",
+          "description": "\"Great service, on time, comfortable ride, friendly driver.\"",
+          "lsig": "AB86z5XBXPACb2vJoTzz4PA7QClf",
+          "links": {
+            "website": "http://www.1stabctransportation.com/"
+          },
+          "place_id": "8691681491359761990",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8691681491359761990&q=shuttle+service",
+          "title": "1st ABC Transportation",
+          "type": "Airport shuttle service",
+          "phone": "(303) 761-1233"
+        },
+        {
+          "position": 4,
+          "rating": 5.0,
+          "reviews": 77,
+          "reviews_original": "(77)",
+          "description": "\"Our drivers arrived on time and ensured a smooth, stress-free ride each way.\"",
+          "lsig": "AB86z5U6nchEZFOejpwvuNpKPEbP",
+          "links": {
+            "website": "https://wildpathtransport.com/"
+          },
+          "place_id": "8002426120162011949",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8002426120162011949&q=shuttle+service",
+          "title": "Wildpath Transportation LLC.",
+          "type": "Transportation service",
+          "phone": "(720) 967-9956",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 29,
+          "reviews_original": "(29)",
+          "description": "\"Driver is professional, excellent customer service, safe driver, and polite.\"",
+          "lsig": "AB86z5UVYF1gk-39qQ6tIgddsuKA",
+          "links": {
+            "website": "https://imedenver.com/",
+            "directions": "https://www.google.com/maps/dir//InterMountain+Express,+1066+S+Dahlia+St,+Denver,+CO+80246/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c7dd0dd7373f1:0xb180aa6bc67b5a43?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJBAA&hl=en&gl=us"
+          },
+          "place_id": "12790410321600404035",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=12790410321600404035&q=shuttle+service",
+          "provider_id": "/g/1hhgm0y7h",
+          "gps_coordinates": {
+            "latitude": 39.69803,
+            "longitude": -104.93079
+          },
+          "title": "InterMountain Express",
+          "type": "Airport shuttle service",
+          "phone": "(720) 539-3209",
+          "address": "1066 S Dahlia St"
+        },
+        {
+          "position": 6,
+          "rating": 5.0,
+          "reviews": 521,
+          "reviews_original": "(521)",
+          "description": "\"We had an easy and streamlined transport thanks to Andrew and Xavier!!!\"",
+          "lsig": "AB86z5XjV6RDXnvngEJhQv06cZ-B",
+          "links": {
+            "website": "http://www.twobrotherstransportation.com/"
+          },
+          "place_id": "3580128934865231149",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3580128934865231149&q=shuttle+service",
+          "title": "Two Brothers Transportation",
+          "type": "Chauffeur service",
+          "phone": "(303) 505-5882",
+          "years_in_business": "10+ years in business"
+        },
+        {
+          "position": 7,
+          "rating": 5.0,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "lsig": "AB86z5WvqldYB3BUlPVzPqnzL8fk",
+          "links": {
+            "website": "https://www.englewoodshuttle.com/"
+          },
+          "place_id": "14192445184493001467",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14192445184493001467&q=shuttle+service",
+          "title": "Englewood Shuttle LLC",
+          "type": "Airport shuttle service",
+          "phone": "(303) 696-9559"
+        },
+        {
+          "position": 8,
+          "rating": 4.7,
+          "reviews": 69,
+          "reviews_original": "(69)",
+          "description": "\"Professional drivers, spotless cars and easy to work with.\"",
+          "lsig": "AB86z5Uj0IAW97dPneohV0ntcpdL",
+          "links": {
+            "website": "https://denverairport-transport.com/"
+          },
+          "place_id": "11800468431657611107",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11800468431657611107&q=shuttle+service",
+          "title": "Denver Airport Transport",
+          "type": "Transportation service",
+          "phone": "(720) 669-1600",
+          "years_in_business": "20+ years in business",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 9,
+          "rating": 4.8,
+          "reviews": 53,
+          "reviews_original": "(53)",
+          "description": "\"Dependable, always on time, clean vehicles, helpful drivers.\"",
+          "lsig": "AB86z5XeYU3mQkmwEduC-xO_8V8q",
+          "links": {
+            "website": "https://www.denversairporttransportation.com/",
+            "directions": "https://www.google.com/maps/dir//Denvers+Airport+Transportation,+10804+E+Wesley+Ave,+Aurora,+CO+80014/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c627d89e4a6bb:0x332dbfe9e050c405?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIIhAA&hl=en&gl=us"
+          },
+          "place_id": "3687814681097978885",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3687814681097978885&q=shuttle+service",
+          "provider_id": "/g/11b7g292c6",
+          "gps_coordinates": {
+            "latitude": 39.673164,
+            "longitude": -104.86182
+          },
+          "title": "Denvers Airport Transportation",
+          "type": "Airport shuttle service",
+          "phone": "(720) 579-6135",
+          "address": "Aurora, CO"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 16,
+          "reviews_original": "(16)",
+          "description": "\"Our driver was super friendly and punctual.\"",
+          "lsig": "AB86z5W5H7549nIeIbQZ8SK4w3wM",
+          "links": {
+            "website": "https://www.gosno.co/"
+          },
+          "place_id": "11216624572793038520",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11216624572793038520&q=shuttle+service",
+          "title": "GoSno Mountain Transportation",
+          "type": "Transportation service",
+          "phone": "(720) 369-6292",
+          "years_in_business": "10+ years in business",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 11,
+          "rating": 5.0,
+          "reviews": 351,
+          "reviews_original": "(351)",
+          "description": "\"From pickup to drop off, a killer service.\"",
+          "lsig": "AB86z5UKSALcnBJpFeh0rduxfTd6",
+          "links": {
+            "website": "http://www.partyatredrocks.com/"
+          },
+          "place_id": "15785677259321046344",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15785677259321046344&q=shuttle+service",
+          "title": "Party at Red Rocks llc",
+          "type": "Transportation service",
+          "phone": "(720) 369-6292",
+          "years_in_business": "10+ years in business",
+          "hours": "Open · Closes 11 PM"
+        },
+        {
+          "position": 12,
+          "rating": 5.0,
+          "reviews": 21,
+          "reviews_original": "(21)",
+          "description": "\"Our driver was on time, professional and very helpful in every way.\"",
+          "lsig": "AB86z5X39yj0qU0hMLWPNHa9vuet",
+          "links": {
+            "website": "https://getaride.limo/",
+            "directions": "https://www.google.com/maps/dir//Get-A-Ride,+110+16th+St+Mall+suite+1400,+Denver,+CO+80202/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c8d7727e0c2d9:0xdb41037c43ae7d9b?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIJxAA&hl=en&gl=us"
+          },
+          "place_id": "15798912800038747547",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15798912800038747547&q=shuttle+service",
+          "provider_id": "/g/11j5b5xmh7",
+          "gps_coordinates": {
+            "latitude": 39.741432,
+            "longitude": -104.98781
+          },
+          "title": "Get-A-Ride",
+          "type": "Limousine service",
+          "phone": "(970) 438-2743",
+          "years_in_business": "5+ years in business",
+          "address": "110 16th St Mall suite 1400",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 13,
+          "rating": 5.0,
+          "reviews": 509,
+          "reviews_original": "(509)",
+          "description": "\"The service is reliable, comfortable, and incredibly convenient.\"",
+          "lsig": "AB86z5U-Du7fkcm6yTApKsNAWdgA",
+          "links": {
+            "website": "http://mayflowerlimo.com/",
+            "directions": "https://www.google.com/maps/dir//Mayflower+Limo+-+Denver+Luxury+Black+Car+Service+%26+Private+Airport+Shuttle,+1630+Welton+St,+Denver,+CO+80202/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x617f09c46451f067:0xc7d86ea066b80842?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIIxAA&hl=en&gl=us"
+          },
+          "place_id": "14400381443714320450",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14400381443714320450&q=shuttle+service",
+          "provider_id": "/g/11sft_7llb",
+          "gps_coordinates": {
+            "latitude": 39.74474,
+            "longitude": -104.99057
+          },
+          "title": "Mayflower Limo - Denver Luxury Black Car Service & Private Airport Shuttle",
+          "type": "Limousine service",
+          "phone": "(720) 694-7791",
+          "years_in_business": "25+ years in business",
+          "address": "1630 Welton St",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 14,
+          "rating": 4.0,
+          "reviews": 2,
+          "reviews_original": "(2)",
+          "description": "\"Wonderful and amazing parade of light and my kid have fun to saw it\"",
+          "lsig": "AB86z5V7Pz85pXwOPl3yhe6-FEqX",
+          "links": {
+            "directions": "https://www.google.com/maps/dir//Parkway+Shuttle+Drop%2FPick+up,+1734+Curtis+Street,+Denver,+CO+80202/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c78da6f933bf1:0xfa1d5162ec758c3a?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIIRAA&hl=en&gl=us"
+          },
+          "place_id": "18022650769122364474",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=18022650769122364474&q=shuttle+service",
+          "provider_id": "/g/1tj33mkg",
+          "gps_coordinates": {
+            "latitude": 39.748184,
+            "longitude": -104.99366
+          },
+          "title": "Parkway Shuttle Drop/Pick up",
+          "type": "Airport shuttle service",
+          "address": "1734 Curtis Street"
+        },
+        {
+          "position": 15,
+          "rating": 5.0,
+          "reviews": 13,
+          "reviews_original": "(13)",
+          "description": "\"The driver was on-time, helpful and courteous.\"",
+          "lsig": "AB86z5WH5JgsM1XcakEA9YFFSbu6",
+          "links": {
+            "website": "https://www.coloradoairportshuttles.com/"
+          },
+          "place_id": "11002182158985466505",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11002182158985466505&q=shuttle+service",
+          "title": "Colorado Airport Shuttles",
+          "type": "Airport shuttle service",
+          "phone": "(303) 696-9559"
+        },
+        {
+          "position": 16,
+          "rating": 4.7,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "description": "\"Our driver, Ed, was professional and welcoming.\"",
+          "lsig": "AB86z5XDQ-V9N17yBIYclwQfixou",
+          "links": {
+            "website": "http://www.mountainshuttledenver.com/"
+          },
+          "place_id": "17888577701202240059",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17888577701202240059&q=shuttle+service",
+          "title": "MTN Shuttle",
+          "type": "Transportation service",
+          "phone": "(970) 453-3010",
+          "years_in_business": "7+ years in business",
+          "hours": "Open · Closes 10 PM"
+        },
+        {
+          "position": 17,
+          "rating": 5.0,
+          "reviews": 7,
+          "reviews_original": "(7)",
+          "description": "\"Drivers with a professional experience for more than 18 years .\"",
+          "lsig": "AB86z5UWUkIqV_QqN2VMEgH9T3dt",
+          "links": {
+            "website": "https://303shuttle.com/",
+            "directions": "https://www.google.com/maps/dir//Golden+West+Shuttle+,+LLC,+4156+S+Argonne+St,+Aurora,+CO+80013/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c89b1e1288e0b:0x3593a61896f24bea?sa=X&ved=2ahUKEwjA9sKzj9yTAxVYhIkEHYdYMNQQ48ADegQIKBAA&hl=en&gl=us"
+          },
+          "place_id": "3860611930128534506",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3860611930128534506&q=shuttle+service",
+          "provider_id": "/g/11y5h424c7",
+          "gps_coordinates": {
+            "latitude": 39.64219,
+            "longitude": -104.77074
+          },
+          "title": "Golden West Shuttle , LLC",
+          "type": "Airport shuttle service",
+          "phone": "(813) 808-1077",
+          "address": "Aurora, CO"
+        },
+        {
+          "position": 18,
+          "rating": 5.0,
+          "reviews": 9,
+          "reviews_original": "(9)",
+          "description": "\"Excellent service and experienced driver.\"",
+          "lsig": "AB86z5UoXF-HwCdSiIM3-Kw0VHxe",
+          "links": {
+            "website": "https://vail-lux-limo.com/"
+          },
+          "place_id": "2159370869390399421",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2159370869390399421&q=shuttle+service",
+          "title": "Vail Lux Limo - Airport Limo Service | Private Transportation | Luxury SUV | Private Shuttle",
+          "type": "Transportation service",
+          "phone": "(970) 389-4313",
+          "years_in_business": "10+ years in business",
+          "hours": "Open 24 hours"
+        },
+        {
+          "position": 19,
+          "rating": 5.0,
+          "reviews": 12,
+          "reviews_original": "(12)",
+          "description": "\"Got to our destination safely and quickly.\"",
+          "lsig": "AB86z5WuHc1MS9bkofMfn4TcdzwQ",
+          "links": {
+            "website": "https://expertairportrides.com/"
+          },
+          "place_id": "546702315283463720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=546702315283463720&q=shuttle+service",
+          "title": "Expert Airport Rides",
+          "type": "Airport shuttle service",
+          "phone": "(303) 214-4268"
+        },
+        {
+          "position": 20,
+          "rating": 2.3,
+          "reviews": 3,
+          "reviews_original": "(3)",
+          "lsig": "AB86z5XJzbnkmqMnnSgSCLilPvbP",
+          "links": {
+            "website": "https://roaringforkexpress.com/"
+          },
+          "place_id": "10339673760403123716",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=10339673760403123716&q=shuttle+service",
+          "title": "Roaring Fork Express",
+          "type": "Transportation service",
+          "phone": "(970) 728-6000",
+          "years_in_business": "3+ years in business",
+          "hours": "Open 24 hours"
+        }
+      ]
+    }
+  }
+]

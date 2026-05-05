@@ -1,0 +1,2542 @@
+[
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:08:33.839600",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "Italian restaurant",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 2900,
+          "reviews_original": "(2.9K)",
+          "description": "\"The pasta is beautifully prepared, and the attention to detail stands out.\"",
+          "lsig": "AB86z5W8vBn8baZTqm9uZPkV14fl",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/y6AwLO8TlIkLGHTwfheiHUzElmVZvvfpt1zVxZFMh74.jpeg",
+          "place_id": "12787779098574241270",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12787779098574241270&q=Italian+restaurant",
+          "provider_id": "/g/11kj896nq7",
+          "gps_coordinates": {
+            "latitude": 40.718647,
+            "longitude": -73.997925
+          },
+          "title": "Osteria Barocca",
+          "type": "Italian",
+          "address": "133 Mulberry St"
+        },
+        {
+          "position": 2,
+          "rating": 4.6,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "\"The ravioli was cooked perfectly with fresh ingredients and amazing flavor.\"",
+          "lsig": "AB86z5WUMmNjBY-8NU6IKr_WrP1d",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/1cGgNgPRSd1m_h0fJ3rm4IF17Gkf5uibBEfox5-TZ2c.jpeg",
+          "place_id": "17592187765502933062",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17592187765502933062&q=Italian+restaurant",
+          "provider_id": "/g/11grc8gtn5",
+          "gps_coordinates": {
+            "latitude": 40.71871,
+            "longitude": -73.99757
+          },
+          "title": "Zia Maria Little Italy",
+          "type": "Italian",
+          "address": "138 Mulberry St"
+        },
+        {
+          "position": 3,
+          "rating": 4.4,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "price": "$30–50",
+          "description": "\"The food was incredible, the pasta, pizza and the dessert were amazing.\"",
+          "lsig": "AB86z5WF2opDgq_8vNm-Ck-gsjsZ",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/mXNwzPh97CEM_7R5sDfs1H95ILWPHTmS9MKjTrJgl18.jpeg",
+          "place_id": "111023806773972114",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=111023806773972114&q=Italian+restaurant",
+          "provider_id": "/g/11fxqhb3fj",
+          "gps_coordinates": {
+            "latitude": 40.7155,
+            "longitude": -74.00895
+          },
+          "title": "Serafina Tribeca",
+          "type": "Italian",
+          "address": "95 W Broadway"
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"The lamb in our pasta dish melted in our mouths it was so tender.\"",
+          "lsig": "AB86z5WBMZ6xDddeArgVLq6MXH1h",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/JV3XGjWWwqMYph_opDN-uT5LHNiFaMckwRi1xPaeIHc.jpeg",
+          "place_id": "18427940028635067304",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18427940028635067304&q=Italian+restaurant",
+          "provider_id": "/g/1hdzmcjs9",
+          "gps_coordinates": {
+            "latitude": 40.70785,
+            "longitude": -74.00705
+          },
+          "title": "Felice 15 Gold",
+          "type": "Italian",
+          "address": "15 Gold St"
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 5800,
+          "reviews_original": "(5.8K)",
+          "description": "\"The service was awesome and food reminded me of my countless trips in Italy.\"",
+          "lsig": "AB86z5Xr6exAI2--4QUuTiCoBCHT",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/9WML64lKeQnEi4BRFO3SCMlW7iyWC6ncF9pF86WuTFA.jpeg",
+          "place_id": "18099147441938130374",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18099147441938130374&q=Italian+restaurant",
+          "provider_id": "/g/1thd7lnm",
+          "gps_coordinates": {
+            "latitude": 40.718807,
+            "longitude": -73.99723
+          },
+          "title": "Casa D'angelo New York",
+          "type": "Italian",
+          "address": "Between Hester &, 146 Mulberry Street, Grand St"
+        },
+        {
+          "position": 6,
+          "rating": 4.2,
+          "reviews": 6300,
+          "reviews_original": "(6.3K)",
+          "description": "\"My pasta was perfectly al dente, and the flavors were absolutely exquisite.\"",
+          "lsig": "AB86z5VtMEKDj05Wn-Cd0CVdUSSB",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/LxQ6C36c2J-OJN2teivPFflH6FiC0lbYUhazJkb8cEU.png",
+          "place_id": "1416786665941882505",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1416786665941882505&q=Italian+restaurant",
+          "provider_id": "/g/11c0vkc8dn",
+          "gps_coordinates": {
+            "latitude": 40.710392,
+            "longitude": -74.011665
+          },
+          "title": "Eataly",
+          "type": "Italian",
+          "address": "101 Liberty St"
+        },
+        {
+          "position": 7,
+          "rating": 4.4,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "price": "$30–50",
+          "description": "\"The pasta was especially impressive, perfectly cooked and full of depth.\"",
+          "lsig": "AB86z5VbVRxFmXuNZdSJTGD5_34T",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/PMXSMKwT7fSr1udwV7AXY6OY3FNSZcgHEHQ0sAcJPKY.jpeg",
+          "place_id": "10339652401300874962",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10339652401300874962&q=Italian+restaurant",
+          "provider_id": "/g/1hc1z5lck",
+          "gps_coordinates": {
+            "latitude": 40.70745,
+            "longitude": -74.00264
+          },
+          "title": "Il Brigante",
+          "type": "Italian",
+          "address": "214 Front St"
+        },
+        {
+          "position": 8,
+          "rating": 4.5,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"The pasta was perfectly cooked, and the tiramisu was heavenly!\"",
+          "lsig": "AB86z5X30m6FAv_1WakFjyNe2j-v",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/uvjHBN5dB9JjlVH5elhsOqCE0rkQHAgbRnYCq6vuttU.jpeg",
+          "place_id": "10426176329784344593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10426176329784344593&q=Italian+restaurant",
+          "provider_id": "/g/1vhlz2zr",
+          "gps_coordinates": {
+            "latitude": 40.71775,
+            "longitude": -73.997955
+          },
+          "title": "Buona Notte",
+          "type": "Italian",
+          "address": "120 Mulberry St #2"
+        },
+        {
+          "position": 9,
+          "rating": 4.4,
+          "reviews": 414,
+          "reviews_original": "(414)",
+          "price": "$30–50",
+          "description": "\"We capped the dinner with a light and beautifully presented Italian dessert.\"",
+          "lsig": "AB86z5Vf9x9rafqfjg61hPyD4PtQ",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/Ul9TWbIBzzVT4d0ZS1UOhwhrpUq8flAtRqnzSaXU4F0.jpeg",
+          "place_id": "17538139120847069866",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17538139120847069866&q=Italian+restaurant",
+          "provider_id": "/g/11r9bq00b3",
+          "gps_coordinates": {
+            "latitude": 40.707375,
+            "longitude": -74.0027
+          },
+          "title": "Osteria Del Porto",
+          "type": "Italian",
+          "address": "212 Front St"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 5700,
+          "reviews_original": "(5.7K)",
+          "description": "\"I got the vodka rigatoni which was flavorful and had the perfect texture.\"",
+          "lsig": "AB86z5WjpU7-rYfH2b0MP23g0-bh",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/W2JbSr3UCSj8qLIxozVLB1IcC4ibz26GBF9Z--EGmjQ.jpeg",
+          "place_id": "1658283866188046846",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1658283866188046846&q=Italian+restaurant",
+          "provider_id": "/g/11kz93xntz",
+          "gps_coordinates": {
+            "latitude": 40.72346,
+            "longitude": -73.996315
+          },
+          "title": "La Pecora Bianca SoHo",
+          "type": "Italian",
+          "address": "54 Prince St"
+        },
+        {
+          "position": 11,
+          "rating": 4.3,
+          "reviews": 4300,
+          "reviews_original": "(4.3K)",
+          "price": "$20–30",
+          "description": "\"The pasta literally melts in your mouth, and the sauces are just exquisite.\"",
+          "lsig": "AB86z5XBhqiwjxt9xgwiTrLI2inY",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/upXt-68VLKyww0cD-xfsPgaGh_9B-uwzl7L79UjTM68.jpeg",
+          "place_id": "9154892619958313220",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9154892619958313220&q=Italian+restaurant",
+          "provider_id": "/g/1thx4znq",
+          "gps_coordinates": {
+            "latitude": 40.71968,
+            "longitude": -73.99707
+          },
+          "title": "Da Nico",
+          "type": "Italian",
+          "address": "164 Mulberry St"
+        },
+        {
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 708,
+          "reviews_original": "(708)",
+          "price": "$100+",
+          "description": "\"It is genuinely some of the best pasta I’ve ever had in my entire life.\"",
+          "lsig": "AB86z5XiISWPO3wcI8Vk4ScPWzdz",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/AzQwZ95O01PCsOECNrcF3oZJnVx4PwkYhmS1UaEXaoI.jpeg",
+          "place_id": "157295937752220308",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=157295937752220308&q=Italian+restaurant",
+          "provider_id": "/g/11twqbq2k3",
+          "gps_coordinates": {
+            "latitude": 40.719578,
+            "longitude": -74.007034
+          },
+          "title": "Osteria Carlina Tribeca",
+          "type": "Northern Italian",
+          "address": "11 Varick St"
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 2500,
+          "reviews_original": "(2.5K)",
+          "description": "\"The food is so remarkable that it rivals the flavors found in Italy itself!\"",
+          "lsig": "AB86z5Ut9N1Ee2nR051Nn1twi49A",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/gKdxDTDsXJtVM1RJNolAyLT-Di85xhjlu9TpdW-Sa2k.jpeg",
+          "place_id": "5472139628830047106",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5472139628830047106&q=Italian+restaurant",
+          "provider_id": "/g/1hm6fq399",
+          "gps_coordinates": {
+            "latitude": 40.72503,
+            "longitude": -74.00328
+          },
+          "title": "Piccola Cucina Osteria Siciliana",
+          "type": "Italian",
+          "address": "196 Spring St"
+        },
+        {
+          "position": 14,
+          "rating": 4.4,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "\"The food... absolutely beautiful, giving us the feels of Italy.\"",
+          "lsig": "AB86z5X0Rlh8IjQdF-t_6SjGBczY",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/AKbu1aeSTxP8dTraXNsSzH8zvaQ6wBny2mrg4EH6gUo.jpeg",
+          "place_id": "314110685266613295",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=314110685266613295&q=Italian+restaurant",
+          "provider_id": "/g/1v1vf2zv",
+          "gps_coordinates": {
+            "latitude": 40.71836,
+            "longitude": -73.997955
+          },
+          "title": "Da Gennaro",
+          "type": "Italian",
+          "address": "129 Mulberry St"
+        },
+        {
+          "position": 15,
+          "rating": 4.5,
+          "reviews": 933,
+          "reviews_original": "(933)",
+          "description": "\"Great atmosphere, good wine and delicious homemade pasta.\"",
+          "lsig": "AB86z5WYQ4AfoxUv7Dsq9WDdUQTe",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/KvIgIEQrBgOwA6ptVormRgBKcxpFA6n0imEU31tgdKY.jpeg",
+          "place_id": "13895450445085357160",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13895450445085357160&q=Italian+restaurant",
+          "provider_id": "/g/11b5yt1grc",
+          "gps_coordinates": {
+            "latitude": 40.710835,
+            "longitude": -74.007614
+          },
+          "title": "Da Claudio NYC Ristorante",
+          "type": "Italian",
+          "address": "21 Ann St"
+        },
+        {
+          "position": 16,
+          "rating": 4.4,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "price": "$100+",
+          "description": "\"The pasta was al dente and the sauce was mouthwatering.\"",
+          "lsig": "AB86z5UykAw1ziMwucGKwou9TXvO",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/NoxRfvbgiut0l6YLmPDogqn6cOJLQKY5TLncuDRoYuY.jpeg",
+          "place_id": "6624067140689918027",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6624067140689918027&q=Italian+restaurant",
+          "provider_id": "/m/0bd65h9",
+          "gps_coordinates": {
+            "latitude": 40.71984,
+            "longitude": -74.00993
+          },
+          "title": "Locanda Verde Tribeca",
+          "type": "Italian",
+          "address": "377 Greenwich St"
+        },
+        {
+          "position": 17,
+          "rating": 4.5,
+          "reviews": 2400,
+          "reviews_original": "(2.4K)",
+          "description": "\"Loungy, intimate, soft lit dining room serving quality Italian fare.\"",
+          "lsig": "AB86z5VScFr4GtUfNvyW--sIzrsf",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/XrAlcqfmCjDI3TigOeOje0UTNMRvE8hEp36pPYoE0rA.jpeg",
+          "place_id": "7306341737550859982",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=7306341737550859982&q=Italian+restaurant",
+          "provider_id": "/g/1hc4yp9j0",
+          "gps_coordinates": {
+            "latitude": 40.730667,
+            "longitude": -74.00005
+          },
+          "title": "La Lanterna di Vittorio",
+          "type": "Italian",
+          "address": "129 MacDougal St"
+        },
+        {
+          "position": 18,
+          "rating": 4.2,
+          "reviews": 1300,
+          "reviews_original": "(1.3K)",
+          "price": "$20–30",
+          "description": "\"Amazing Italian food with great flavor and quality.\"",
+          "lsig": "AB86z5Wmzy3RbGP_BuFEP60Tflyb",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/Pkp4uWCGrAcVTYHzV7XwBD20A9fbacDdOAIxi3_yreE.jpeg",
+          "place_id": "8806659004913722947",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8806659004913722947&q=Italian+restaurant",
+          "provider_id": "/g/1vpfkg0f",
+          "gps_coordinates": {
+            "latitude": 40.707626,
+            "longitude": -74.00687
+          },
+          "title": "Harry's Italian",
+          "type": "Italian",
+          "address": "2 Gold St"
+        },
+        {
+          "position": 19,
+          "rating": 4.6,
+          "reviews": 3100,
+          "reviews_original": "(3.1K)",
+          "price": "$20–30",
+          "description": "\"Delicious food, great service, feels like you’re in Italy.\"",
+          "lsig": "AB86z5VlMcCaSn273eb321R4pFpn",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/x9e0oChmhc7DGBtQPdHfAt7i3R2GUQzCR-sW3NVJv7o.jpeg",
+          "place_id": "11384251812688644213",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11384251812688644213&q=Italian+restaurant",
+          "provider_id": "/g/11pyv4p74f",
+          "gps_coordinates": {
+            "latitude": 40.72004,
+            "longitude": -73.99726
+          },
+          "title": "L’Amore Restaurant",
+          "type": "Italian",
+          "address": "171 Mulberry St"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "price": "$20–30",
+          "description": "\"This food was so amazing it felt like I was in Italy.\"",
+          "lsig": "AB86z5War0NLvxJZprUD1sJ43k48",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/wQq583WKGJwHYdtqGEx0RHZE4-jh_GMVWZUQHI1vFXI.jpeg",
+          "place_id": "16935897339943061647",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16935897339943061647&q=Italian+restaurant",
+          "provider_id": "/g/11jb0xphv6",
+          "gps_coordinates": {
+            "latitude": 40.71887,
+            "longitude": -73.99772
+          },
+          "title": "Sofia's of Little Italy",
+          "type": "Italian",
+          "address": "143 Mulberry St"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:08:36.002232",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "Little Italy",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.3,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "lsig": "AB86z5Unz8HQEwniqdHUCYgEgllQ",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/ZL8kKGfDZL72oVJJbiGMINDRV8FpCQEf35cga2tNLx0.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_contact_delivery": true
+          },
+          "place_id": "17898085436872455458",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17898085436872455458&q=Little+Italy",
+          "provider_id": "/g/11clzr5x2x",
+          "gps_coordinates": {
+            "latitude": 40.708195,
+            "longitude": -74.0048
+          },
+          "title": "Little Italy Pizzeria and Deli",
+          "type": "Italian",
+          "address": "50 Fulton St"
+        },
+        {
+          "position": 2,
+          "rating": 4.5,
+          "reviews": 815,
+          "reviews_original": "(815)",
+          "lsig": "AB86z5WV83fB8gUNXm0N2VQxQS4g",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/1la_VNYPA0ypcOOAn8I9YQ9ReSanRmqk4tddYCd_zlA.jpeg",
+          "service_options": {
+            "onsite_services": true
+          },
+          "place_id": "2010456002789153033",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2010456002789153033&q=Little+Italy",
+          "provider_id": "/g/11b5wl2xc2",
+          "gps_coordinates": {
+            "latitude": 40.719234,
+            "longitude": -73.99749
+          },
+          "title": "Little Italy",
+          "type": "Restaurant",
+          "address": "189 Grand St"
+        },
+        {
+          "position": 3,
+          "rating": 4.8,
+          "reviews": 65,
+          "reviews_original": "(65)",
+          "lsig": "AB86z5U9sAs0mRMKZNdVPwJ4cZOy",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/t_vDXIWfPwE6kakCWuiMR70lRnL2BOamRix9GF0p_4k.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_delivery": true
+          },
+          "place_id": "16293312791889188766",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16293312791889188766&q=Little+Italy",
+          "provider_id": "/g/11n9mq7xzv",
+          "gps_coordinates": {
+            "latitude": 40.719067,
+            "longitude": -73.99699
+          },
+          "title": "L’industrie Pizzeria - Little Italy",
+          "type": "Pizza",
+          "address": "197 Grand St"
+        },
+        {
+          "position": 4,
+          "rating": 4.0,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "price": "$10–20",
+          "description": "Late-night nook for hefty slices & grub",
+          "lsig": "AB86z5X2FJY_Ar9vZfoHkxpNscDh",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/YpVpDaw4ZOZ0Dw6QJDrwDxpiv2XdL0TJEr4s_b-rVAo.jpeg",
+          "place_id": "4220952323027039852",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4220952323027039852&q=Little+Italy",
+          "provider_id": "/g/1tfbtt0w",
+          "gps_coordinates": {
+            "latitude": 40.715145,
+            "longitude": -74.00797
+          },
+          "title": "Little Italy Pizza",
+          "type": "Pizza",
+          "address": "154 Church St"
+        },
+        {
+          "position": 5,
+          "rating": 4.2,
+          "reviews": 562,
+          "reviews_original": "(562)",
+          "price": "$1–10",
+          "description": "Counter for slices of pizza & calzones",
+          "lsig": "AB86z5WOWIKuYpvV-sKs216bCaKN",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/LBxkP_Nm9YFa-Jrgablh-I720JJPUqK5mgurKNN6EUE.jpeg",
+          "place_id": "3171214220453940517",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3171214220453940517&q=Little+Italy",
+          "provider_id": "/g/1tp308__",
+          "gps_coordinates": {
+            "latitude": 40.713043,
+            "longitude": -74.00833
+          },
+          "title": "Little Italy Pizza - Park Place",
+          "type": "Italian",
+          "address": "11 Park Pl"
+        },
+        {
+          "position": 6,
+          "rating": 4.6,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "Low-key destination serving Italian fare",
+          "lsig": "AB86z5WUMmNjBY-8NU6IKr_WrP1d",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/0EI5YgNn735MgGz0DN9UHrT8SwJ75jDLzLph4SwUB1U.jpeg",
+          "place_id": "17592187765502933062",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17592187765502933062&q=Little+Italy",
+          "provider_id": "/g/11grc8gtn5",
+          "gps_coordinates": {
+            "latitude": 40.71871,
+            "longitude": -73.99757
+          },
+          "title": "Zia Maria Little Italy",
+          "type": "Italian",
+          "address": "138 Mulberry St"
+        },
+        {
+          "position": 7,
+          "rating": 4.6,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "price": "$20–30",
+          "lsig": "AB86z5UIBMlJ9xdDD8SeWBWONcds",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/n3d5WEhhIMPOJDCn-1qxt7fC1gW_Xioi1-cfVvmKKwo.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_contact_delivery": true
+          },
+          "place_id": "679269727088840293",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=679269727088840293&q=Little+Italy",
+          "provider_id": "/g/11sfsfgxn4",
+          "gps_coordinates": {
+            "latitude": 40.717693,
+            "longitude": -73.998405
+          },
+          "title": "Jose Luis Little Italy",
+          "type": "Italian",
+          "address": "115 Mulberry St"
+        },
+        {
+          "position": 8,
+          "lsig": "AB86z5UoyOuax7mKWW9WS_QJWQvA",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/eg6bMi1dlSJ9E313FGiIQXvWCu2xI0ljRr8MjMsndHo.jpeg",
+          "place_id": "11443395511910642820",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11443395511910642820&q=Little+Italy",
+          "provider_id": "/m/01nbpn",
+          "gps_coordinates": {
+            "latitude": 40.719143,
+            "longitude": -73.99733
+          },
+          "title": "Little Italy",
+          "address": "New York, NY"
+        },
+        {
+          "position": 9,
+          "rating": 4.6,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "price": "$20–30",
+          "lsig": "AB86z5War0NLvxJZprUD1sJ43k48",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/Zfc5fD-xJJ2ZZPjIdHT27HvnVTSdtwRrC2_gRPqaSdY.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "place_id": "16935897339943061647",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16935897339943061647&q=Little+Italy",
+          "provider_id": "/g/11jb0xphv6",
+          "gps_coordinates": {
+            "latitude": 40.71887,
+            "longitude": -73.99772
+          },
+          "title": "Sofia's of Little Italy",
+          "type": "Italian",
+          "address": "143 Mulberry St"
+        },
+        {
+          "position": 10,
+          "rating": 4.6,
+          "reviews": 2900,
+          "reviews_original": "(2.9K)",
+          "lsig": "AB86z5W8vBn8baZTqm9uZPkV14fl",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/mX_fLFe0EteqD_TYCore0bdHZs1EKnLzTJk4CKUuacQ.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "curbside_pickup": true,
+            "delivery": true
+          },
+          "place_id": "12787779098574241270",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12787779098574241270&q=Little+Italy",
+          "provider_id": "/g/11kj896nq7",
+          "gps_coordinates": {
+            "latitude": 40.718647,
+            "longitude": -73.997925
+          },
+          "title": "Osteria Barocca",
+          "type": "Italian",
+          "address": "133 Mulberry St"
+        },
+        {
+          "position": 11,
+          "rating": 4.2,
+          "reviews": 4300,
+          "reviews_original": "(4.3K)",
+          "price": "$10–20",
+          "description": "New York-style pizzeria",
+          "lsig": "AB86z5VpDUzKODvgNxm2l3XjRxbM",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/tIMmP20PRMmy6yv7I0uaV55N72bGw7_XBODu4MhEp2s.jpeg",
+          "place_id": "12178872282548738491",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12178872282548738491&q=Little+Italy",
+          "provider_id": "/g/1tcx7ycp",
+          "gps_coordinates": {
+            "latitude": 40.74761,
+            "longitude": -73.984886
+          },
+          "title": "Little Italy Pizza",
+          "type": "Italian",
+          "address": "2 E 33rd St"
+        },
+        {
+          "position": 12,
+          "rating": 4.2,
+          "reviews": 792,
+          "reviews_original": "(792)",
+          "price": "$1–10",
+          "description": "Standard slices & specialty pies",
+          "lsig": "AB86z5WBwYSvGimZne4L8Z7JHRG6",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/jojEvoxyoQD3WREGAsCTqhDICMXASIaHI4mI9EtCMi8.jpeg",
+          "place_id": "14631156496762869152",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14631156496762869152&q=Little+Italy",
+          "provider_id": "/g/1tfrsvg0",
+          "gps_coordinates": {
+            "latitude": 40.734756,
+            "longitude": -73.9923
+          },
+          "title": "Little Italy Pizza III",
+          "type": "Italian",
+          "address": "122 University Pl"
+        },
+        {
+          "position": 13,
+          "rating": 4.4,
+          "reviews": 627,
+          "reviews_original": "(627)",
+          "lsig": "AB86z5XGmEqyg__AKjXFIVN4cVRE",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/5KMpOXebygnuFUovZc1MDFBQTNOOZR6mfSqMkHR28Lg.jpeg",
+          "service_options": {
+            "onsite_services": true
+          },
+          "place_id": "14075349808424177708",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14075349808424177708&q=Little+Italy",
+          "provider_id": "/g/11g6_0ny_y",
+          "gps_coordinates": {
+            "latitude": 40.718227,
+            "longitude": -73.99787
+          },
+          "title": "Little Italy Sign",
+          "type": "Tourist attraction",
+          "address": "177 Hester St"
+        },
+        {
+          "position": 14,
+          "rating": 4.4,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "price": "$10–20",
+          "description": "Slice joint with wide variety",
+          "lsig": "AB86z5VBQmy36GrdsYJyfTTeSebj",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/LkW3lbjlbXx5R5CuO19Mdoi8uo1rfOFrdm4Qn3dU7A0.jpeg",
+          "place_id": "4515448181439626767",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4515448181439626767&q=Little+Italy",
+          "provider_id": "/g/1tf3291r",
+          "gps_coordinates": {
+            "latitude": 40.75641,
+            "longitude": -73.981544
+          },
+          "title": "Little Italy Pizza",
+          "type": "Italian",
+          "address": "55 W 45th St"
+        },
+        {
+          "position": 15,
+          "rating": 4.4,
+          "reviews": 1900,
+          "reviews_original": "(1.9K)",
+          "price": "$1–10",
+          "description": "Pies and slices in casual digs",
+          "lsig": "AB86z5WSHeeJSxhcz7QVmpOz6MzA",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcWBPquILxFDlGFIfczxj3H_mEAcxYMTqqgf7D3sfWJK06puk2F88n_sl-Cpcuavl48hY3br0ZvWY9kVYdsxLFh6s85PsQ5LQo2QoZccoStudWsTivsR98yXeiKxOkdQS4B_i7=w90-h90-n-k-no-l75",
+          "place_id": "4671332717857073092",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4671332717857073092&q=Little+Italy",
+          "provider_id": "/g/11kxkcl_ph",
+          "gps_coordinates": {
+            "latitude": 40.75979,
+            "longitude": -73.98375
+          },
+          "title": "Little Italy Pizza",
+          "type": "Italian",
+          "address": "167 W 48th St"
+        },
+        {
+          "position": 16,
+          "rating": 4.4,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "description": "Retro Italian restaurant",
+          "lsig": "AB86z5UDYNjX-uS92UwvqJgWHGo3",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/gwCCG_0nJY7gaA90pjCMJQ4QXRQ4oLzEacXBvLfgwYM.jpeg",
+          "place_id": "8810040272551183991",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8810040272551183991&q=Little+Italy",
+          "provider_id": "/g/1v5_bbnt",
+          "gps_coordinates": {
+            "latitude": 40.717983,
+            "longitude": -73.99823
+          },
+          "title": "Il Cortile",
+          "type": "Italian",
+          "address": "125 Mulberry St",
+          "hours": "Closed · Opens 5 PM Wed"
+        },
+        {
+          "position": 17,
+          "rating": 4.5,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "Homey Italian trattoria with a patio",
+          "lsig": "AB86z5X30m6FAv_1WakFjyNe2j-v",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/cUN0ODvaHgyxE0PA2gYHLwyQsAWbamT1-I0h2QwTjAM.jpeg",
+          "place_id": "10426176329784344593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10426176329784344593&q=Little+Italy",
+          "provider_id": "/g/1vhlz2zr",
+          "gps_coordinates": {
+            "latitude": 40.71775,
+            "longitude": -73.997955
+          },
+          "title": "Buona Notte",
+          "type": "Italian",
+          "address": "120 Mulberry St #2"
+        },
+        {
+          "position": 18,
+          "rating": 4.6,
+          "reviews": 5800,
+          "reviews_original": "(5.8K)",
+          "description": "Old-school Italian dining & service",
+          "lsig": "AB86z5Xr6exAI2--4QUuTiCoBCHT",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/0lUqIncL2AjLrPAXi0zTSby1fuN2sKhB6sxq7yM3emI.jpeg",
+          "place_id": "18099147441938130374",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18099147441938130374&q=Little+Italy",
+          "provider_id": "/g/1thd7lnm",
+          "gps_coordinates": {
+            "latitude": 40.718807,
+            "longitude": -73.99723
+          },
+          "title": "Casa D'angelo New York",
+          "type": "Italian",
+          "address": "Between Hester &, 146 Mulberry Street, Grand St"
+        },
+        {
+          "position": 19,
+          "rating": 4.4,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "Year-round shop for holiday decorations",
+          "lsig": "AB86z5WIw5NjRPC0OnpLsB5ByC5B",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/8Q85LYgM2qc9Gmt0Ins4-IxM3FUEQ0juut6bxudtDLM.jpeg",
+          "place_id": "892895527938266483",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=892895527938266483&q=Little+Italy",
+          "provider_id": "/g/1vhlz329",
+          "gps_coordinates": {
+            "latitude": 40.718815,
+            "longitude": -73.997444
+          },
+          "title": "Christmas in New York - Little Italy",
+          "type": "Christmas store",
+          "address": "142 Mulberry St"
+        },
+        {
+          "position": 20,
+          "rating": 4.5,
+          "reviews": 385,
+          "reviews_original": "(385)",
+          "price": "$1–10",
+          "description": "Pizza counter with sandwiches & more",
+          "lsig": "AB86z5XmyiSOaxaT-Iqrr7iPcgXR",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/OBo6_UTpo0PjnPQrYv1yH0xWscU70fKOEwEJTcnk7GM.jpeg",
+          "place_id": "12175031842992206086",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12175031842992206086&q=Little+Italy",
+          "provider_id": "/g/1td9fp0_",
+          "gps_coordinates": {
+            "latitude": 40.751255,
+            "longitude": -73.98193
+          },
+          "title": "The Original Little Italy",
+          "type": "Italian",
+          "address": "2 East 39th Street, 5th Ave Off"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:08:38.415850",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "vegetarian restaurants",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 996,
+          "reviews_original": "(996)",
+          "price": "$20–30",
+          "lsig": "AB86z5Vd53Nh7BhH-pQrCN8Pl8kF",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/kdla7PEM7uofnfaMgW5aa5OtsUai9P748msNzzupHtY.jpeg",
+          "place_id": "16120363484904863897",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16120363484904863897&q=vegetarian+restaurants",
+          "provider_id": "/g/11gbl3wvs0",
+          "gps_coordinates": {
+            "latitude": 40.720493,
+            "longitude": -74.00023
+          },
+          "title": "Le Botaniste",
+          "type": "Vegan",
+          "address": "127 Grand St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 2,
+          "rating": 4.0,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "lsig": "AB86z5VB7HSgWXoO5oJZQBvYqgF5",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/g1MqgwJKngJGA5GcVeV5PsdgthzyWb0bZ6AXgU1WDG0.jpeg",
+          "place_id": "3911981252534241010",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3911981252534241010&q=vegetarian+restaurants",
+          "provider_id": "/g/11xz2xs3h",
+          "gps_coordinates": {
+            "latitude": 40.720673,
+            "longitude": -73.994705
+          },
+          "title": "The Butcher's Daughter",
+          "type": "Vegetarian",
+          "address": "19 Kenmare St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 3,
+          "rating": 4.5,
+          "reviews": 3000,
+          "reviews_original": "(3K)",
+          "lsig": "AB86z5XCHUsUZUN_1hzD3wh3jY0R",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/w8iu_G5pjaEHv1xwVeQ7caM71ti4-ayldeSTWU_Bbuk.jpeg",
+          "place_id": "8738392629485778085",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8738392629485778085&q=vegetarian+restaurants",
+          "provider_id": "/g/11ft0k14vc",
+          "gps_coordinates": {
+            "latitude": 40.744453,
+            "longitude": -73.98831
+          },
+          "title": "PLANTA New York",
+          "type": "Vegan",
+          "address": "15 W 27th St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 4,
+          "rating": 4.8,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "lsig": "AB86z5Uv5xoedslvJrzOD8wvDz7I",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/9Y9sxlbbcA0ZcKevFP8AaPUkTYTv53B-vBKZkIE1Pak.jpeg",
+          "place_id": "8152931150725731179",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8152931150725731179&q=vegetarian+restaurants",
+          "provider_id": "/g/11sbhvvsnp",
+          "gps_coordinates": {
+            "latitude": 40.69121,
+            "longitude": -73.99071
+          },
+          "title": "NSV Kitchen by Next Stop Vegan",
+          "type": "Vegan",
+          "address": "Brooklyn, NY",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 768,
+          "reviews_original": "(768)",
+          "price": "$20–30",
+          "lsig": "AB86z5Xi7v90FqjToJIMGo07wN6L",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/jlYGm5i93iv_u0Udb8Cnviel8KamX8SZ5mkhRsVUaYY.jpeg",
+          "place_id": "13445203345349453072",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13445203345349453072&q=vegetarian+restaurants",
+          "provider_id": "/g/11cs6nljhx",
+          "gps_coordinates": {
+            "latitude": 40.72377,
+            "longitude": -73.98849
+          },
+          "title": "divya's kitchen",
+          "type": "Vegetarian",
+          "address": "25 1st Ave",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "lsig": "AB86z5XIm3dhx3GsH3JkbXwuRiYv",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/ojg1tZxnWTZxS1yO1_qmeJ2VkdTj75BWdbUZqtKZ7C4.jpeg",
+          "place_id": "964311156010106640",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=964311156010106640&q=vegetarian+restaurants",
+          "provider_id": "/g/11rcrhsd_8",
+          "gps_coordinates": {
+            "latitude": 40.755764,
+            "longitude": -73.980835
+          },
+          "title": "Vegan On The Fly",
+          "type": "Vegan",
+          "address": "24 W 45th St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 7,
+          "rating": 4.4,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "price": "$10–20",
+          "lsig": "AB86z5UmRvJThIoQHVyLqEm-tBqN",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/e2VLPVW7M2gDM0Onlt0fowAnmMbxBB0ea6JJ4hSh00Q.jpeg",
+          "place_id": "2829769631153028736",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2829769631153028736&q=vegetarian+restaurants",
+          "provider_id": "/g/1hg508_fs",
+          "gps_coordinates": {
+            "latitude": 40.715622,
+            "longitude": -74.00765
+          },
+          "title": "Nish Nush",
+          "type": "Vegetarian",
+          "address": "88 Reade St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 1900,
+          "reviews_original": "(1.9K)",
+          "price": "$20–30",
+          "lsig": "AB86z5Va8ARtpIBeMkG5VUZGN5jZ",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/0iNfecvZ5tt2El8sBOjUCk1R8P3XwhlEURojSF_BDX8.jpeg",
+          "place_id": "5236834666570805349",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5236834666570805349&q=vegetarian+restaurants",
+          "provider_id": "/g/1hc29n2zq",
+          "gps_coordinates": {
+            "latitude": 40.745197,
+            "longitude": -73.99767
+          },
+          "title": "Urban Vegan Kitchen",
+          "type": "Restaurant",
+          "address": "265 W 23rd St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 9,
+          "rating": 4.7,
+          "reviews": 579,
+          "reviews_original": "(579)",
+          "price": "$20–30",
+          "lsig": "AB86z5VfRkl3bkY1hoEdnFItmssM",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/h1dqix8sWQC04fAdLieocrt62V7IdvWqueJwVeIXHMw.jpeg",
+          "place_id": "8713572892060129978",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8713572892060129978&q=vegetarian+restaurants",
+          "provider_id": "/g/11w4m484dw",
+          "gps_coordinates": {
+            "latitude": 40.72921,
+            "longitude": -74.00104
+          },
+          "title": "CHLOE'S",
+          "type": "Vegan",
+          "address": "185 Bleecker St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 10,
+          "rating": 4.7,
+          "reviews": 548,
+          "reviews_original": "(548)",
+          "price": "$10–20",
+          "lsig": "AB86z5UMpbvAFPk-YDKshh44BBlj",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/c4qbA_9kqSGFCXzE1Olxtq-DVTPRZijO_YXFXYz76zg.jpeg",
+          "place_id": "1667405667147199597",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1667405667147199597&q=vegetarian+restaurants",
+          "provider_id": "/g/11h77kp35c",
+          "gps_coordinates": {
+            "latitude": 40.71789,
+            "longitude": -74.00024
+          },
+          "title": "Spring Cafe",
+          "type": "Vegan",
+          "address": "153d Centre St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 11,
+          "rating": 4.8,
+          "reviews": 635,
+          "reviews_original": "(635)",
+          "lsig": "AB86z5Vi2IybBrU_PN5sfwJDG349",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/vwJ-U6huz0SXv9oU3ulHrm4jdtDBbLqlbtyrt8XmpGI.jpeg",
+          "place_id": "8883701505890967117",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8883701505890967117&q=vegetarian+restaurants",
+          "provider_id": "/g/11tjlb7yjt",
+          "gps_coordinates": {
+            "latitude": 40.741478,
+            "longitude": -73.99938
+          },
+          "title": "White Maize +",
+          "type": "Vegetarian",
+          "address": "228 W 18th St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 12,
+          "rating": 4.5,
+          "reviews": 660,
+          "reviews_original": "(660)",
+          "price": "$20–30",
+          "lsig": "AB86z5WZd2HdJY8gH-GK_dafa0Nj",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/7Wwr-3nFs8clZXEliHsxb6IiEI44XKaW-xt87zGdZE8.png",
+          "place_id": "14110587497170385241",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14110587497170385241&q=vegetarian+restaurants",
+          "provider_id": "/g/1wfvnknk",
+          "gps_coordinates": {
+            "latitude": 40.72049,
+            "longitude": -73.99649
+          },
+          "title": "LuAnne's Wild Ginger",
+          "type": "Vegan",
+          "address": "380 Broome St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "lsig": "AB86z5Wk6l71auqR7Q_IaHfTC74P",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/DnMhN0LXZ4B5bgFT8PEOb2qfBeJKpKIvGrwXsz88JVI.jpeg",
+          "place_id": "6309689066793917650",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6309689066793917650&q=vegetarian+restaurants",
+          "provider_id": "/g/11c75yt6pb",
+          "gps_coordinates": {
+            "latitude": 40.71423,
+            "longitude": -73.99037
+          },
+          "title": "Jajaja Mexicana",
+          "type": "Vegan",
+          "address": "162 E Broadway",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 14,
+          "rating": 4.8,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "price": "$20–30",
+          "description": "\"Great atmosphere, and very great food with lots of vegetarian options.\"",
+          "lsig": "AB86z5Vu5j7mx9K4bXzPvignNBlZ",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/szT4rlTSLv7sbYCk5xnB7Y18a-e7csYXl7Wq6rZabuo.jpeg",
+          "place_id": "11394132025405733997",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11394132025405733997&q=vegetarian+restaurants",
+          "provider_id": "/g/11t2v5gtzk",
+          "gps_coordinates": {
+            "latitude": 40.70736,
+            "longitude": -74.00521
+          },
+          "title": "Hey Thai",
+          "type": "Thai",
+          "address": "127 John St"
+        },
+        {
+          "position": 15,
+          "rating": 4.3,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "price": "$20–30",
+          "lsig": "AB86z5VwHP1nRsdERQas19qjey9A",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/Pywl55QuSp2hT4RJh5KpfaQBrmQUiByGquB6g7UNAVI.jpeg",
+          "place_id": "2854891754582777370",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2854891754582777370&q=vegetarian+restaurants",
+          "provider_id": "/g/1tggpk88",
+          "gps_coordinates": {
+            "latitude": 40.713886,
+            "longitude": -73.99881
+          },
+          "title": "The Original Buddha Bodai Kosher Vegetarian Restaurant 佛菩提",
+          "type": "Vegetarian",
+          "address": "5 Mott St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 16,
+          "rating": 4.6,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "lsig": "AB86z5Vv_oxb442eZeWljNj1SbrY",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/ZkRJs1fwCEXzpOYlg2SqSxmaAuxe-xGK8oXCiuGTUJw.jpeg",
+          "place_id": "12419954217864797302",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12419954217864797302&q=vegetarian+restaurants",
+          "provider_id": "/g/11b7b_qyn2",
+          "gps_coordinates": {
+            "latitude": 40.71635,
+            "longitude": -73.999176
+          },
+          "title": "Bodhi Kosher Vegetarian Restaurant",
+          "type": "Vegetarian",
+          "address": "77 Mulberry St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 17,
+          "rating": 4.5,
+          "reviews": 650,
+          "reviews_original": "(650)",
+          "price": "$20–30",
+          "lsig": "AB86z5XRc8j3Q4m-Il9yJ4AUf-Tv",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/6L-73QoL43IHF-wYiEGviFRj__FGDN06DQU-w8PncmM.jpeg",
+          "place_id": "10293011129732595257",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10293011129732595257&q=vegetarian+restaurants",
+          "provider_id": "/g/11tp719n71",
+          "gps_coordinates": {
+            "latitude": 40.723415,
+            "longitude": -73.992485
+          },
+          "title": "Spicy Moon Bowery",
+          "type": "Vegan",
+          "address": "265 Bowery",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 18,
+          "rating": 4.6,
+          "reviews": 416,
+          "reviews_original": "(416)",
+          "price": "$10–20",
+          "lsig": "AB86z5W5afuB6ush6SSMdggkl2So",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/sqxEkFJkvdWhZHZhbW3GN7H3I-mfQGisaXyHpxLi5KI.jpeg",
+          "place_id": "9632328417237528714",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9632328417237528714&q=vegetarian+restaurants",
+          "provider_id": "/g/11sn_6jvyb",
+          "gps_coordinates": {
+            "latitude": 40.727936,
+            "longitude": -73.98667
+          },
+          "title": "Vegan Grill",
+          "type": "Vegan",
+          "address": "58 St Marks Pl",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 19,
+          "rating": 4.4,
+          "reviews": 612,
+          "reviews_original": "(612)",
+          "price": "$10–20",
+          "description": "\"... the chef is a great chef, they understand how to cook vegan food.\"",
+          "lsig": "AB86z5UMq0UPLcHNxnnOAsc31oCw",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/RDML1hZicaG3zZ0QT5dWO57qcs6LmzYIQrmnA9J-5Ko.jpeg",
+          "place_id": "11557984558217069878",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11557984558217069878&q=vegetarian+restaurants",
+          "provider_id": "/g/11ghl2d0ym",
+          "gps_coordinates": {
+            "latitude": 40.720978,
+            "longitude": -73.99563
+          },
+          "title": "noodlelove",
+          "type": "Asian Fusion",
+          "address": "192 Mott St"
+        },
+        {
+          "position": 20,
+          "rating": 4.7,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "price": "$20–30",
+          "description": "\"Best vegan food ever and service was amazing, plus patio back room.\"",
+          "lsig": "AB86z5VBT1z8VHvyHJ-7tmTuBJ1t",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/i9qk77cjM1_NJRRXTw67irFWpJsy4lmR4egSlSK3r1M.jpeg",
+          "place_id": "14892776074129831765",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14892776074129831765&q=vegetarian+restaurants",
+          "provider_id": "/g/11hbnyx0cc",
+          "gps_coordinates": {
+            "latitude": 40.761826,
+            "longitude": -73.99039
+          },
+          "title": "UT47 Kitchen & Bar",
+          "type": "Brunch",
+          "address": "683 9th Ave"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:48:26.360684",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "Italian restaurant",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 2900,
+          "reviews_original": "(2.9K)",
+          "description": "\"The pasta is beautifully prepared, and the attention to detail stands out.\"",
+          "lsig": "AB86z5W8vBn8baZTqm9uZPkV14fl",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/y6AwLO8TlIkLGHTwfheiHUzElmVZvvfpt1zVxZFMh74.jpeg",
+          "place_id": "12787779098574241270",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12787779098574241270&q=Italian+restaurant",
+          "provider_id": "/g/11kj896nq7",
+          "gps_coordinates": {
+            "latitude": 40.718647,
+            "longitude": -73.997925
+          },
+          "title": "Osteria Barocca",
+          "type": "Italian",
+          "address": "133 Mulberry St"
+        },
+        {
+          "position": 2,
+          "rating": 4.6,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "\"The ravioli was cooked perfectly with fresh ingredients and amazing flavor.\"",
+          "lsig": "AB86z5WUMmNjBY-8NU6IKr_WrP1d",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/1cGgNgPRSd1m_h0fJ3rm4IF17Gkf5uibBEfox5-TZ2c.jpeg",
+          "place_id": "17592187765502933062",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17592187765502933062&q=Italian+restaurant",
+          "provider_id": "/g/11grc8gtn5",
+          "gps_coordinates": {
+            "latitude": 40.71871,
+            "longitude": -73.99757
+          },
+          "title": "Zia Maria Little Italy",
+          "type": "Italian",
+          "address": "138 Mulberry St"
+        },
+        {
+          "position": 3,
+          "rating": 4.4,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "price": "$30–50",
+          "description": "\"The food was incredible, the pasta, pizza and the dessert were amazing.\"",
+          "lsig": "AB86z5WF2opDgq_8vNm-Ck-gsjsZ",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/mXNwzPh97CEM_7R5sDfs1H95ILWPHTmS9MKjTrJgl18.jpeg",
+          "place_id": "111023806773972114",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=111023806773972114&q=Italian+restaurant",
+          "provider_id": "/g/11fxqhb3fj",
+          "gps_coordinates": {
+            "latitude": 40.7155,
+            "longitude": -74.00895
+          },
+          "title": "Serafina Tribeca",
+          "type": "Italian",
+          "address": "95 W Broadway"
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"The lamb in our pasta dish melted in our mouths it was so tender.\"",
+          "lsig": "AB86z5WBMZ6xDddeArgVLq6MXH1h",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/JV3XGjWWwqMYph_opDN-uT5LHNiFaMckwRi1xPaeIHc.jpeg",
+          "place_id": "18427940028635067304",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18427940028635067304&q=Italian+restaurant",
+          "provider_id": "/g/1hdzmcjs9",
+          "gps_coordinates": {
+            "latitude": 40.70785,
+            "longitude": -74.00705
+          },
+          "title": "Felice 15 Gold",
+          "type": "Italian",
+          "address": "15 Gold St"
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 5800,
+          "reviews_original": "(5.8K)",
+          "description": "\"The service was awesome and food reminded me of my countless trips in Italy.\"",
+          "lsig": "AB86z5Xr6exAI2--4QUuTiCoBCHT",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/9WML64lKeQnEi4BRFO3SCMlW7iyWC6ncF9pF86WuTFA.jpeg",
+          "place_id": "18099147441938130374",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18099147441938130374&q=Italian+restaurant",
+          "provider_id": "/g/1thd7lnm",
+          "gps_coordinates": {
+            "latitude": 40.718807,
+            "longitude": -73.99723
+          },
+          "title": "Casa D'angelo New York",
+          "type": "Italian",
+          "address": "Between Hester &, 146 Mulberry Street, Grand St"
+        },
+        {
+          "position": 6,
+          "rating": 4.2,
+          "reviews": 6300,
+          "reviews_original": "(6.3K)",
+          "description": "\"My pasta was perfectly al dente, and the flavors were absolutely exquisite.\"",
+          "lsig": "AB86z5VtMEKDj05Wn-Cd0CVdUSSB",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/LxQ6C36c2J-OJN2teivPFflH6FiC0lbYUhazJkb8cEU.png",
+          "place_id": "1416786665941882505",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1416786665941882505&q=Italian+restaurant",
+          "provider_id": "/g/11c0vkc8dn",
+          "gps_coordinates": {
+            "latitude": 40.710392,
+            "longitude": -74.011665
+          },
+          "title": "Eataly",
+          "type": "Italian",
+          "address": "101 Liberty St"
+        },
+        {
+          "position": 7,
+          "rating": 4.4,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "price": "$30–50",
+          "description": "\"The pasta was especially impressive, perfectly cooked and full of depth.\"",
+          "lsig": "AB86z5VbVRxFmXuNZdSJTGD5_34T",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/PMXSMKwT7fSr1udwV7AXY6OY3FNSZcgHEHQ0sAcJPKY.jpeg",
+          "place_id": "10339652401300874962",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10339652401300874962&q=Italian+restaurant",
+          "provider_id": "/g/1hc1z5lck",
+          "gps_coordinates": {
+            "latitude": 40.70745,
+            "longitude": -74.00264
+          },
+          "title": "Il Brigante",
+          "type": "Italian",
+          "address": "214 Front St"
+        },
+        {
+          "position": 8,
+          "rating": 4.5,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"The pasta was perfectly cooked, and the tiramisu was heavenly!\"",
+          "lsig": "AB86z5X30m6FAv_1WakFjyNe2j-v",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/uvjHBN5dB9JjlVH5elhsOqCE0rkQHAgbRnYCq6vuttU.jpeg",
+          "place_id": "10426176329784344593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10426176329784344593&q=Italian+restaurant",
+          "provider_id": "/g/1vhlz2zr",
+          "gps_coordinates": {
+            "latitude": 40.71775,
+            "longitude": -73.997955
+          },
+          "title": "Buona Notte",
+          "type": "Italian",
+          "address": "120 Mulberry St #2"
+        },
+        {
+          "position": 9,
+          "rating": 4.4,
+          "reviews": 414,
+          "reviews_original": "(414)",
+          "price": "$30–50",
+          "description": "\"We capped the dinner with a light and beautifully presented Italian dessert.\"",
+          "lsig": "AB86z5Vf9x9rafqfjg61hPyD4PtQ",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/Ul9TWbIBzzVT4d0ZS1UOhwhrpUq8flAtRqnzSaXU4F0.jpeg",
+          "place_id": "17538139120847069866",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17538139120847069866&q=Italian+restaurant",
+          "provider_id": "/g/11r9bq00b3",
+          "gps_coordinates": {
+            "latitude": 40.707375,
+            "longitude": -74.0027
+          },
+          "title": "Osteria Del Porto",
+          "type": "Italian",
+          "address": "212 Front St"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 5700,
+          "reviews_original": "(5.7K)",
+          "description": "\"I got the vodka rigatoni which was flavorful and had the perfect texture.\"",
+          "lsig": "AB86z5WjpU7-rYfH2b0MP23g0-bh",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/W2JbSr3UCSj8qLIxozVLB1IcC4ibz26GBF9Z--EGmjQ.jpeg",
+          "place_id": "1658283866188046846",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1658283866188046846&q=Italian+restaurant",
+          "provider_id": "/g/11kz93xntz",
+          "gps_coordinates": {
+            "latitude": 40.72346,
+            "longitude": -73.996315
+          },
+          "title": "La Pecora Bianca SoHo",
+          "type": "Italian",
+          "address": "54 Prince St"
+        },
+        {
+          "position": 11,
+          "rating": 4.3,
+          "reviews": 4300,
+          "reviews_original": "(4.3K)",
+          "price": "$20–30",
+          "description": "\"The pasta literally melts in your mouth, and the sauces are just exquisite.\"",
+          "lsig": "AB86z5XBhqiwjxt9xgwiTrLI2inY",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/upXt-68VLKyww0cD-xfsPgaGh_9B-uwzl7L79UjTM68.jpeg",
+          "place_id": "9154892619958313220",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9154892619958313220&q=Italian+restaurant",
+          "provider_id": "/g/1thx4znq",
+          "gps_coordinates": {
+            "latitude": 40.71968,
+            "longitude": -73.99707
+          },
+          "title": "Da Nico",
+          "type": "Italian",
+          "address": "164 Mulberry St"
+        },
+        {
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 708,
+          "reviews_original": "(708)",
+          "price": "$100+",
+          "description": "\"It is genuinely some of the best pasta I’ve ever had in my entire life.\"",
+          "lsig": "AB86z5XiISWPO3wcI8Vk4ScPWzdz",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/AzQwZ95O01PCsOECNrcF3oZJnVx4PwkYhmS1UaEXaoI.jpeg",
+          "place_id": "157295937752220308",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=157295937752220308&q=Italian+restaurant",
+          "provider_id": "/g/11twqbq2k3",
+          "gps_coordinates": {
+            "latitude": 40.719578,
+            "longitude": -74.007034
+          },
+          "title": "Osteria Carlina Tribeca",
+          "type": "Northern Italian",
+          "address": "11 Varick St"
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 2500,
+          "reviews_original": "(2.5K)",
+          "description": "\"The food is so remarkable that it rivals the flavors found in Italy itself!\"",
+          "lsig": "AB86z5Ut9N1Ee2nR051Nn1twi49A",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/gKdxDTDsXJtVM1RJNolAyLT-Di85xhjlu9TpdW-Sa2k.jpeg",
+          "place_id": "5472139628830047106",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5472139628830047106&q=Italian+restaurant",
+          "provider_id": "/g/1hm6fq399",
+          "gps_coordinates": {
+            "latitude": 40.72503,
+            "longitude": -74.00328
+          },
+          "title": "Piccola Cucina Osteria Siciliana",
+          "type": "Italian",
+          "address": "196 Spring St"
+        },
+        {
+          "position": 14,
+          "rating": 4.4,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "\"The food... absolutely beautiful, giving us the feels of Italy.\"",
+          "lsig": "AB86z5X0Rlh8IjQdF-t_6SjGBczY",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/AKbu1aeSTxP8dTraXNsSzH8zvaQ6wBny2mrg4EH6gUo.jpeg",
+          "place_id": "314110685266613295",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=314110685266613295&q=Italian+restaurant",
+          "provider_id": "/g/1v1vf2zv",
+          "gps_coordinates": {
+            "latitude": 40.71836,
+            "longitude": -73.997955
+          },
+          "title": "Da Gennaro",
+          "type": "Italian",
+          "address": "129 Mulberry St"
+        },
+        {
+          "position": 15,
+          "rating": 4.5,
+          "reviews": 933,
+          "reviews_original": "(933)",
+          "description": "\"Great atmosphere, good wine and delicious homemade pasta.\"",
+          "lsig": "AB86z5WYQ4AfoxUv7Dsq9WDdUQTe",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/KvIgIEQrBgOwA6ptVormRgBKcxpFA6n0imEU31tgdKY.jpeg",
+          "place_id": "13895450445085357160",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13895450445085357160&q=Italian+restaurant",
+          "provider_id": "/g/11b5yt1grc",
+          "gps_coordinates": {
+            "latitude": 40.710835,
+            "longitude": -74.007614
+          },
+          "title": "Da Claudio NYC Ristorante",
+          "type": "Italian",
+          "address": "21 Ann St"
+        },
+        {
+          "position": 16,
+          "rating": 4.4,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "price": "$100+",
+          "description": "\"The pasta was al dente and the sauce was mouthwatering.\"",
+          "lsig": "AB86z5UykAw1ziMwucGKwou9TXvO",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/NoxRfvbgiut0l6YLmPDogqn6cOJLQKY5TLncuDRoYuY.jpeg",
+          "place_id": "6624067140689918027",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6624067140689918027&q=Italian+restaurant",
+          "provider_id": "/m/0bd65h9",
+          "gps_coordinates": {
+            "latitude": 40.71984,
+            "longitude": -74.00993
+          },
+          "title": "Locanda Verde Tribeca",
+          "type": "Italian",
+          "address": "377 Greenwich St"
+        },
+        {
+          "position": 17,
+          "rating": 4.5,
+          "reviews": 2400,
+          "reviews_original": "(2.4K)",
+          "description": "\"Loungy, intimate, soft lit dining room serving quality Italian fare.\"",
+          "lsig": "AB86z5VScFr4GtUfNvyW--sIzrsf",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/XrAlcqfmCjDI3TigOeOje0UTNMRvE8hEp36pPYoE0rA.jpeg",
+          "place_id": "7306341737550859982",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=7306341737550859982&q=Italian+restaurant",
+          "provider_id": "/g/1hc4yp9j0",
+          "gps_coordinates": {
+            "latitude": 40.730667,
+            "longitude": -74.00005
+          },
+          "title": "La Lanterna di Vittorio",
+          "type": "Italian",
+          "address": "129 MacDougal St"
+        },
+        {
+          "position": 18,
+          "rating": 4.2,
+          "reviews": 1300,
+          "reviews_original": "(1.3K)",
+          "price": "$20–30",
+          "description": "\"Amazing Italian food with great flavor and quality.\"",
+          "lsig": "AB86z5Wmzy3RbGP_BuFEP60Tflyb",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/Pkp4uWCGrAcVTYHzV7XwBD20A9fbacDdOAIxi3_yreE.jpeg",
+          "place_id": "8806659004913722947",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8806659004913722947&q=Italian+restaurant",
+          "provider_id": "/g/1vpfkg0f",
+          "gps_coordinates": {
+            "latitude": 40.707626,
+            "longitude": -74.00687
+          },
+          "title": "Harry's Italian",
+          "type": "Italian",
+          "address": "2 Gold St"
+        },
+        {
+          "position": 19,
+          "rating": 4.6,
+          "reviews": 3100,
+          "reviews_original": "(3.1K)",
+          "price": "$20–30",
+          "description": "\"Delicious food, great service, feels like you’re in Italy.\"",
+          "lsig": "AB86z5VlMcCaSn273eb321R4pFpn",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/x9e0oChmhc7DGBtQPdHfAt7i3R2GUQzCR-sW3NVJv7o.jpeg",
+          "place_id": "11384251812688644213",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11384251812688644213&q=Italian+restaurant",
+          "provider_id": "/g/11pyv4p74f",
+          "gps_coordinates": {
+            "latitude": 40.72004,
+            "longitude": -73.99726
+          },
+          "title": "L’Amore Restaurant",
+          "type": "Italian",
+          "address": "171 Mulberry St"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "price": "$20–30",
+          "description": "\"This food was so amazing it felt like I was in Italy.\"",
+          "lsig": "AB86z5War0NLvxJZprUD1sJ43k48",
+          "thumbnail": "https://serpapi.com/searches/69d52c003882c535ccda385f/images/wQq583WKGJwHYdtqGEx0RHZE4-jh_GMVWZUQHI1vFXI.jpeg",
+          "place_id": "16935897339943061647",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16935897339943061647&q=Italian+restaurant",
+          "provider_id": "/g/11jb0xphv6",
+          "gps_coordinates": {
+            "latitude": 40.71887,
+            "longitude": -73.99772
+          },
+          "title": "Sofia's of Little Italy",
+          "type": "Italian",
+          "address": "143 Mulberry St"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:48:26.400114",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "Little Italy",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.3,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "lsig": "AB86z5Unz8HQEwniqdHUCYgEgllQ",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/ZL8kKGfDZL72oVJJbiGMINDRV8FpCQEf35cga2tNLx0.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_contact_delivery": true
+          },
+          "place_id": "17898085436872455458",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17898085436872455458&q=Little+Italy",
+          "provider_id": "/g/11clzr5x2x",
+          "gps_coordinates": {
+            "latitude": 40.708195,
+            "longitude": -74.0048
+          },
+          "title": "Little Italy Pizzeria and Deli",
+          "type": "Italian",
+          "address": "50 Fulton St"
+        },
+        {
+          "position": 2,
+          "rating": 4.5,
+          "reviews": 815,
+          "reviews_original": "(815)",
+          "lsig": "AB86z5WV83fB8gUNXm0N2VQxQS4g",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/1la_VNYPA0ypcOOAn8I9YQ9ReSanRmqk4tddYCd_zlA.jpeg",
+          "service_options": {
+            "onsite_services": true
+          },
+          "place_id": "2010456002789153033",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2010456002789153033&q=Little+Italy",
+          "provider_id": "/g/11b5wl2xc2",
+          "gps_coordinates": {
+            "latitude": 40.719234,
+            "longitude": -73.99749
+          },
+          "title": "Little Italy",
+          "type": "Restaurant",
+          "address": "189 Grand St"
+        },
+        {
+          "position": 3,
+          "rating": 4.8,
+          "reviews": 65,
+          "reviews_original": "(65)",
+          "lsig": "AB86z5U9sAs0mRMKZNdVPwJ4cZOy",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/t_vDXIWfPwE6kakCWuiMR70lRnL2BOamRix9GF0p_4k.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_delivery": true
+          },
+          "place_id": "16293312791889188766",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16293312791889188766&q=Little+Italy",
+          "provider_id": "/g/11n9mq7xzv",
+          "gps_coordinates": {
+            "latitude": 40.719067,
+            "longitude": -73.99699
+          },
+          "title": "L’industrie Pizzeria - Little Italy",
+          "type": "Pizza",
+          "address": "197 Grand St"
+        },
+        {
+          "position": 4,
+          "rating": 4.0,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "price": "$10–20",
+          "description": "Late-night nook for hefty slices & grub",
+          "lsig": "AB86z5X2FJY_Ar9vZfoHkxpNscDh",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/YpVpDaw4ZOZ0Dw6QJDrwDxpiv2XdL0TJEr4s_b-rVAo.jpeg",
+          "place_id": "4220952323027039852",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4220952323027039852&q=Little+Italy",
+          "provider_id": "/g/1tfbtt0w",
+          "gps_coordinates": {
+            "latitude": 40.715145,
+            "longitude": -74.00797
+          },
+          "title": "Little Italy Pizza",
+          "type": "Pizza",
+          "address": "154 Church St"
+        },
+        {
+          "position": 5,
+          "rating": 4.2,
+          "reviews": 562,
+          "reviews_original": "(562)",
+          "price": "$1–10",
+          "description": "Counter for slices of pizza & calzones",
+          "lsig": "AB86z5WOWIKuYpvV-sKs216bCaKN",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/LBxkP_Nm9YFa-Jrgablh-I720JJPUqK5mgurKNN6EUE.jpeg",
+          "place_id": "3171214220453940517",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3171214220453940517&q=Little+Italy",
+          "provider_id": "/g/1tp308__",
+          "gps_coordinates": {
+            "latitude": 40.713043,
+            "longitude": -74.00833
+          },
+          "title": "Little Italy Pizza - Park Place",
+          "type": "Italian",
+          "address": "11 Park Pl"
+        },
+        {
+          "position": 6,
+          "rating": 4.6,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "Low-key destination serving Italian fare",
+          "lsig": "AB86z5WUMmNjBY-8NU6IKr_WrP1d",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/0EI5YgNn735MgGz0DN9UHrT8SwJ75jDLzLph4SwUB1U.jpeg",
+          "place_id": "17592187765502933062",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17592187765502933062&q=Little+Italy",
+          "provider_id": "/g/11grc8gtn5",
+          "gps_coordinates": {
+            "latitude": 40.71871,
+            "longitude": -73.99757
+          },
+          "title": "Zia Maria Little Italy",
+          "type": "Italian",
+          "address": "138 Mulberry St"
+        },
+        {
+          "position": 7,
+          "rating": 4.6,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "price": "$20–30",
+          "lsig": "AB86z5UIBMlJ9xdDD8SeWBWONcds",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/n3d5WEhhIMPOJDCn-1qxt7fC1gW_Xioi1-cfVvmKKwo.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_contact_delivery": true
+          },
+          "place_id": "679269727088840293",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=679269727088840293&q=Little+Italy",
+          "provider_id": "/g/11sfsfgxn4",
+          "gps_coordinates": {
+            "latitude": 40.717693,
+            "longitude": -73.998405
+          },
+          "title": "Jose Luis Little Italy",
+          "type": "Italian",
+          "address": "115 Mulberry St"
+        },
+        {
+          "position": 8,
+          "lsig": "AB86z5UoyOuax7mKWW9WS_QJWQvA",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/eg6bMi1dlSJ9E313FGiIQXvWCu2xI0ljRr8MjMsndHo.jpeg",
+          "place_id": "11443395511910642820",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11443395511910642820&q=Little+Italy",
+          "provider_id": "/m/01nbpn",
+          "gps_coordinates": {
+            "latitude": 40.719143,
+            "longitude": -73.99733
+          },
+          "title": "Little Italy",
+          "address": "New York, NY"
+        },
+        {
+          "position": 9,
+          "rating": 4.6,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "price": "$20–30",
+          "lsig": "AB86z5War0NLvxJZprUD1sJ43k48",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/Zfc5fD-xJJ2ZZPjIdHT27HvnVTSdtwRrC2_gRPqaSdY.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "place_id": "16935897339943061647",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16935897339943061647&q=Little+Italy",
+          "provider_id": "/g/11jb0xphv6",
+          "gps_coordinates": {
+            "latitude": 40.71887,
+            "longitude": -73.99772
+          },
+          "title": "Sofia's of Little Italy",
+          "type": "Italian",
+          "address": "143 Mulberry St"
+        },
+        {
+          "position": 10,
+          "rating": 4.6,
+          "reviews": 2900,
+          "reviews_original": "(2.9K)",
+          "lsig": "AB86z5W8vBn8baZTqm9uZPkV14fl",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/mX_fLFe0EteqD_TYCore0bdHZs1EKnLzTJk4CKUuacQ.jpeg",
+          "service_options": {
+            "dine_in": true,
+            "curbside_pickup": true,
+            "delivery": true
+          },
+          "place_id": "12787779098574241270",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12787779098574241270&q=Little+Italy",
+          "provider_id": "/g/11kj896nq7",
+          "gps_coordinates": {
+            "latitude": 40.718647,
+            "longitude": -73.997925
+          },
+          "title": "Osteria Barocca",
+          "type": "Italian",
+          "address": "133 Mulberry St"
+        },
+        {
+          "position": 11,
+          "rating": 4.2,
+          "reviews": 4300,
+          "reviews_original": "(4.3K)",
+          "price": "$10–20",
+          "description": "New York-style pizzeria",
+          "lsig": "AB86z5VpDUzKODvgNxm2l3XjRxbM",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/tIMmP20PRMmy6yv7I0uaV55N72bGw7_XBODu4MhEp2s.jpeg",
+          "place_id": "12178872282548738491",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12178872282548738491&q=Little+Italy",
+          "provider_id": "/g/1tcx7ycp",
+          "gps_coordinates": {
+            "latitude": 40.74761,
+            "longitude": -73.984886
+          },
+          "title": "Little Italy Pizza",
+          "type": "Italian",
+          "address": "2 E 33rd St"
+        },
+        {
+          "position": 12,
+          "rating": 4.2,
+          "reviews": 792,
+          "reviews_original": "(792)",
+          "price": "$1–10",
+          "description": "Standard slices & specialty pies",
+          "lsig": "AB86z5WBwYSvGimZne4L8Z7JHRG6",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/jojEvoxyoQD3WREGAsCTqhDICMXASIaHI4mI9EtCMi8.jpeg",
+          "place_id": "14631156496762869152",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14631156496762869152&q=Little+Italy",
+          "provider_id": "/g/1tfrsvg0",
+          "gps_coordinates": {
+            "latitude": 40.734756,
+            "longitude": -73.9923
+          },
+          "title": "Little Italy Pizza III",
+          "type": "Italian",
+          "address": "122 University Pl"
+        },
+        {
+          "position": 13,
+          "rating": 4.4,
+          "reviews": 627,
+          "reviews_original": "(627)",
+          "lsig": "AB86z5XGmEqyg__AKjXFIVN4cVRE",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/5KMpOXebygnuFUovZc1MDFBQTNOOZR6mfSqMkHR28Lg.jpeg",
+          "service_options": {
+            "onsite_services": true
+          },
+          "place_id": "14075349808424177708",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14075349808424177708&q=Little+Italy",
+          "provider_id": "/g/11g6_0ny_y",
+          "gps_coordinates": {
+            "latitude": 40.718227,
+            "longitude": -73.99787
+          },
+          "title": "Little Italy Sign",
+          "type": "Tourist attraction",
+          "address": "177 Hester St"
+        },
+        {
+          "position": 14,
+          "rating": 4.4,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "price": "$10–20",
+          "description": "Slice joint with wide variety",
+          "lsig": "AB86z5VBQmy36GrdsYJyfTTeSebj",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/LkW3lbjlbXx5R5CuO19Mdoi8uo1rfOFrdm4Qn3dU7A0.jpeg",
+          "place_id": "4515448181439626767",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4515448181439626767&q=Little+Italy",
+          "provider_id": "/g/1tf3291r",
+          "gps_coordinates": {
+            "latitude": 40.75641,
+            "longitude": -73.981544
+          },
+          "title": "Little Italy Pizza",
+          "type": "Italian",
+          "address": "55 W 45th St"
+        },
+        {
+          "position": 15,
+          "rating": 4.4,
+          "reviews": 1900,
+          "reviews_original": "(1.9K)",
+          "price": "$1–10",
+          "description": "Pies and slices in casual digs",
+          "lsig": "AB86z5WSHeeJSxhcz7QVmpOz6MzA",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcWBPquILxFDlGFIfczxj3H_mEAcxYMTqqgf7D3sfWJK06puk2F88n_sl-Cpcuavl48hY3br0ZvWY9kVYdsxLFh6s85PsQ5LQo2QoZccoStudWsTivsR98yXeiKxOkdQS4B_i7=w90-h90-n-k-no-l75",
+          "place_id": "4671332717857073092",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=4671332717857073092&q=Little+Italy",
+          "provider_id": "/g/11kxkcl_ph",
+          "gps_coordinates": {
+            "latitude": 40.75979,
+            "longitude": -73.98375
+          },
+          "title": "Little Italy Pizza",
+          "type": "Italian",
+          "address": "167 W 48th St"
+        },
+        {
+          "position": 16,
+          "rating": 4.4,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "description": "Retro Italian restaurant",
+          "lsig": "AB86z5UDYNjX-uS92UwvqJgWHGo3",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/gwCCG_0nJY7gaA90pjCMJQ4QXRQ4oLzEacXBvLfgwYM.jpeg",
+          "place_id": "8810040272551183991",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8810040272551183991&q=Little+Italy",
+          "provider_id": "/g/1v5_bbnt",
+          "gps_coordinates": {
+            "latitude": 40.717983,
+            "longitude": -73.99823
+          },
+          "title": "Il Cortile",
+          "type": "Italian",
+          "address": "125 Mulberry St",
+          "hours": "Closed · Opens 5 PM Wed"
+        },
+        {
+          "position": 17,
+          "rating": 4.5,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "Homey Italian trattoria with a patio",
+          "lsig": "AB86z5X30m6FAv_1WakFjyNe2j-v",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/cUN0ODvaHgyxE0PA2gYHLwyQsAWbamT1-I0h2QwTjAM.jpeg",
+          "place_id": "10426176329784344593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10426176329784344593&q=Little+Italy",
+          "provider_id": "/g/1vhlz2zr",
+          "gps_coordinates": {
+            "latitude": 40.71775,
+            "longitude": -73.997955
+          },
+          "title": "Buona Notte",
+          "type": "Italian",
+          "address": "120 Mulberry St #2"
+        },
+        {
+          "position": 18,
+          "rating": 4.6,
+          "reviews": 5800,
+          "reviews_original": "(5.8K)",
+          "description": "Old-school Italian dining & service",
+          "lsig": "AB86z5Xr6exAI2--4QUuTiCoBCHT",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/0lUqIncL2AjLrPAXi0zTSby1fuN2sKhB6sxq7yM3emI.jpeg",
+          "place_id": "18099147441938130374",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18099147441938130374&q=Little+Italy",
+          "provider_id": "/g/1thd7lnm",
+          "gps_coordinates": {
+            "latitude": 40.718807,
+            "longitude": -73.99723
+          },
+          "title": "Casa D'angelo New York",
+          "type": "Italian",
+          "address": "Between Hester &, 146 Mulberry Street, Grand St"
+        },
+        {
+          "position": 19,
+          "rating": 4.4,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "Year-round shop for holiday decorations",
+          "lsig": "AB86z5WIw5NjRPC0OnpLsB5ByC5B",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/8Q85LYgM2qc9Gmt0Ins4-IxM3FUEQ0juut6bxudtDLM.jpeg",
+          "place_id": "892895527938266483",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=892895527938266483&q=Little+Italy",
+          "provider_id": "/g/1vhlz329",
+          "gps_coordinates": {
+            "latitude": 40.718815,
+            "longitude": -73.997444
+          },
+          "title": "Christmas in New York - Little Italy",
+          "type": "Christmas store",
+          "address": "142 Mulberry St"
+        },
+        {
+          "position": 20,
+          "rating": 4.5,
+          "reviews": 385,
+          "reviews_original": "(385)",
+          "price": "$1–10",
+          "description": "Pizza counter with sandwiches & more",
+          "lsig": "AB86z5XmyiSOaxaT-Iqrr7iPcgXR",
+          "thumbnail": "https://serpapi.com/searches/69d52c014fa3ba1559ed5daa/images/OBo6_UTpo0PjnPQrYv1yH0xWscU70fKOEwEJTcnk7GM.jpeg",
+          "place_id": "12175031842992206086",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12175031842992206086&q=Little+Italy",
+          "provider_id": "/g/1td9fp0_",
+          "gps_coordinates": {
+            "latitude": 40.751255,
+            "longitude": -73.98193
+          },
+          "title": "The Original Little Italy",
+          "type": "Italian",
+          "address": "2 East 39th Street, 5th Ave Off"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:48:26.420143",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "vegetarian restaurants",
+      "location": "New York"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 996,
+          "reviews_original": "(996)",
+          "price": "$20–30",
+          "lsig": "AB86z5Vd53Nh7BhH-pQrCN8Pl8kF",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/kdla7PEM7uofnfaMgW5aa5OtsUai9P748msNzzupHtY.jpeg",
+          "place_id": "16120363484904863897",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16120363484904863897&q=vegetarian+restaurants",
+          "provider_id": "/g/11gbl3wvs0",
+          "gps_coordinates": {
+            "latitude": 40.720493,
+            "longitude": -74.00023
+          },
+          "title": "Le Botaniste",
+          "type": "Vegan",
+          "address": "127 Grand St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 2,
+          "rating": 4.0,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "lsig": "AB86z5VB7HSgWXoO5oJZQBvYqgF5",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/g1MqgwJKngJGA5GcVeV5PsdgthzyWb0bZ6AXgU1WDG0.jpeg",
+          "place_id": "3911981252534241010",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3911981252534241010&q=vegetarian+restaurants",
+          "provider_id": "/g/11xz2xs3h",
+          "gps_coordinates": {
+            "latitude": 40.720673,
+            "longitude": -73.994705
+          },
+          "title": "The Butcher's Daughter",
+          "type": "Vegetarian",
+          "address": "19 Kenmare St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 3,
+          "rating": 4.5,
+          "reviews": 3000,
+          "reviews_original": "(3K)",
+          "lsig": "AB86z5XCHUsUZUN_1hzD3wh3jY0R",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/w8iu_G5pjaEHv1xwVeQ7caM71ti4-ayldeSTWU_Bbuk.jpeg",
+          "place_id": "8738392629485778085",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8738392629485778085&q=vegetarian+restaurants",
+          "provider_id": "/g/11ft0k14vc",
+          "gps_coordinates": {
+            "latitude": 40.744453,
+            "longitude": -73.98831
+          },
+          "title": "PLANTA New York",
+          "type": "Vegan",
+          "address": "15 W 27th St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 4,
+          "rating": 4.8,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "lsig": "AB86z5Uv5xoedslvJrzOD8wvDz7I",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/9Y9sxlbbcA0ZcKevFP8AaPUkTYTv53B-vBKZkIE1Pak.jpeg",
+          "place_id": "8152931150725731179",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8152931150725731179&q=vegetarian+restaurants",
+          "provider_id": "/g/11sbhvvsnp",
+          "gps_coordinates": {
+            "latitude": 40.69121,
+            "longitude": -73.99071
+          },
+          "title": "NSV Kitchen by Next Stop Vegan",
+          "type": "Vegan",
+          "address": "Brooklyn, NY",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 768,
+          "reviews_original": "(768)",
+          "price": "$20–30",
+          "lsig": "AB86z5Xi7v90FqjToJIMGo07wN6L",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/jlYGm5i93iv_u0Udb8Cnviel8KamX8SZ5mkhRsVUaYY.jpeg",
+          "place_id": "13445203345349453072",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13445203345349453072&q=vegetarian+restaurants",
+          "provider_id": "/g/11cs6nljhx",
+          "gps_coordinates": {
+            "latitude": 40.72377,
+            "longitude": -73.98849
+          },
+          "title": "divya's kitchen",
+          "type": "Vegetarian",
+          "address": "25 1st Ave",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 1500,
+          "reviews_original": "(1.5K)",
+          "lsig": "AB86z5XIm3dhx3GsH3JkbXwuRiYv",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/ojg1tZxnWTZxS1yO1_qmeJ2VkdTj75BWdbUZqtKZ7C4.jpeg",
+          "place_id": "964311156010106640",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=964311156010106640&q=vegetarian+restaurants",
+          "provider_id": "/g/11rcrhsd_8",
+          "gps_coordinates": {
+            "latitude": 40.755764,
+            "longitude": -73.980835
+          },
+          "title": "Vegan On The Fly",
+          "type": "Vegan",
+          "address": "24 W 45th St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 7,
+          "rating": 4.4,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "price": "$10–20",
+          "lsig": "AB86z5UmRvJThIoQHVyLqEm-tBqN",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/e2VLPVW7M2gDM0Onlt0fowAnmMbxBB0ea6JJ4hSh00Q.jpeg",
+          "place_id": "2829769631153028736",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2829769631153028736&q=vegetarian+restaurants",
+          "provider_id": "/g/1hg508_fs",
+          "gps_coordinates": {
+            "latitude": 40.715622,
+            "longitude": -74.00765
+          },
+          "title": "Nish Nush",
+          "type": "Vegetarian",
+          "address": "88 Reade St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 1900,
+          "reviews_original": "(1.9K)",
+          "price": "$20–30",
+          "lsig": "AB86z5Va8ARtpIBeMkG5VUZGN5jZ",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/0iNfecvZ5tt2El8sBOjUCk1R8P3XwhlEURojSF_BDX8.jpeg",
+          "place_id": "5236834666570805349",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=5236834666570805349&q=vegetarian+restaurants",
+          "provider_id": "/g/1hc29n2zq",
+          "gps_coordinates": {
+            "latitude": 40.745197,
+            "longitude": -73.99767
+          },
+          "title": "Urban Vegan Kitchen",
+          "type": "Restaurant",
+          "address": "265 W 23rd St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 9,
+          "rating": 4.7,
+          "reviews": 579,
+          "reviews_original": "(579)",
+          "price": "$20–30",
+          "lsig": "AB86z5VfRkl3bkY1hoEdnFItmssM",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/h1dqix8sWQC04fAdLieocrt62V7IdvWqueJwVeIXHMw.jpeg",
+          "place_id": "8713572892060129978",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8713572892060129978&q=vegetarian+restaurants",
+          "provider_id": "/g/11w4m484dw",
+          "gps_coordinates": {
+            "latitude": 40.72921,
+            "longitude": -74.00104
+          },
+          "title": "CHLOE'S",
+          "type": "Vegan",
+          "address": "185 Bleecker St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 10,
+          "rating": 4.7,
+          "reviews": 548,
+          "reviews_original": "(548)",
+          "price": "$10–20",
+          "lsig": "AB86z5UMpbvAFPk-YDKshh44BBlj",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/c4qbA_9kqSGFCXzE1Olxtq-DVTPRZijO_YXFXYz76zg.jpeg",
+          "place_id": "1667405667147199597",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1667405667147199597&q=vegetarian+restaurants",
+          "provider_id": "/g/11h77kp35c",
+          "gps_coordinates": {
+            "latitude": 40.71789,
+            "longitude": -74.00024
+          },
+          "title": "Spring Cafe",
+          "type": "Vegan",
+          "address": "153d Centre St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 11,
+          "rating": 4.8,
+          "reviews": 635,
+          "reviews_original": "(635)",
+          "lsig": "AB86z5Vi2IybBrU_PN5sfwJDG349",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/vwJ-U6huz0SXv9oU3ulHrm4jdtDBbLqlbtyrt8XmpGI.jpeg",
+          "place_id": "8883701505890967117",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8883701505890967117&q=vegetarian+restaurants",
+          "provider_id": "/g/11tjlb7yjt",
+          "gps_coordinates": {
+            "latitude": 40.741478,
+            "longitude": -73.99938
+          },
+          "title": "White Maize +",
+          "type": "Vegetarian",
+          "address": "228 W 18th St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 12,
+          "rating": 4.5,
+          "reviews": 660,
+          "reviews_original": "(660)",
+          "price": "$20–30",
+          "lsig": "AB86z5WZd2HdJY8gH-GK_dafa0Nj",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/7Wwr-3nFs8clZXEliHsxb6IiEI44XKaW-xt87zGdZE8.png",
+          "place_id": "14110587497170385241",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14110587497170385241&q=vegetarian+restaurants",
+          "provider_id": "/g/1wfvnknk",
+          "gps_coordinates": {
+            "latitude": 40.72049,
+            "longitude": -73.99649
+          },
+          "title": "LuAnne's Wild Ginger",
+          "type": "Vegan",
+          "address": "380 Broome St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "lsig": "AB86z5Wk6l71auqR7Q_IaHfTC74P",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/DnMhN0LXZ4B5bgFT8PEOb2qfBeJKpKIvGrwXsz88JVI.jpeg",
+          "place_id": "6309689066793917650",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6309689066793917650&q=vegetarian+restaurants",
+          "provider_id": "/g/11c75yt6pb",
+          "gps_coordinates": {
+            "latitude": 40.71423,
+            "longitude": -73.99037
+          },
+          "title": "Jajaja Mexicana",
+          "type": "Vegan",
+          "address": "162 E Broadway",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 14,
+          "rating": 4.8,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "price": "$20–30",
+          "description": "\"Great atmosphere, and very great food with lots of vegetarian options.\"",
+          "lsig": "AB86z5Vu5j7mx9K4bXzPvignNBlZ",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/szT4rlTSLv7sbYCk5xnB7Y18a-e7csYXl7Wq6rZabuo.jpeg",
+          "place_id": "11394132025405733997",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11394132025405733997&q=vegetarian+restaurants",
+          "provider_id": "/g/11t2v5gtzk",
+          "gps_coordinates": {
+            "latitude": 40.70736,
+            "longitude": -74.00521
+          },
+          "title": "Hey Thai",
+          "type": "Thai",
+          "address": "127 John St"
+        },
+        {
+          "position": 15,
+          "rating": 4.3,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "price": "$20–30",
+          "lsig": "AB86z5VwHP1nRsdERQas19qjey9A",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/Pywl55QuSp2hT4RJh5KpfaQBrmQUiByGquB6g7UNAVI.jpeg",
+          "place_id": "2854891754582777370",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2854891754582777370&q=vegetarian+restaurants",
+          "provider_id": "/g/1tggpk88",
+          "gps_coordinates": {
+            "latitude": 40.713886,
+            "longitude": -73.99881
+          },
+          "title": "The Original Buddha Bodai Kosher Vegetarian Restaurant 佛菩提",
+          "type": "Vegetarian",
+          "address": "5 Mott St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 16,
+          "rating": 4.6,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "price": "$20–30",
+          "lsig": "AB86z5Vv_oxb442eZeWljNj1SbrY",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/ZkRJs1fwCEXzpOYlg2SqSxmaAuxe-xGK8oXCiuGTUJw.jpeg",
+          "place_id": "12419954217864797302",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=12419954217864797302&q=vegetarian+restaurants",
+          "provider_id": "/g/11b7b_qyn2",
+          "gps_coordinates": {
+            "latitude": 40.71635,
+            "longitude": -73.999176
+          },
+          "title": "Bodhi Kosher Vegetarian Restaurant",
+          "type": "Vegetarian",
+          "address": "77 Mulberry St",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 17,
+          "rating": 4.5,
+          "reviews": 650,
+          "reviews_original": "(650)",
+          "price": "$20–30",
+          "lsig": "AB86z5XRc8j3Q4m-Il9yJ4AUf-Tv",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/6L-73QoL43IHF-wYiEGviFRj__FGDN06DQU-w8PncmM.jpeg",
+          "place_id": "10293011129732595257",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=10293011129732595257&q=vegetarian+restaurants",
+          "provider_id": "/g/11tp719n71",
+          "gps_coordinates": {
+            "latitude": 40.723415,
+            "longitude": -73.992485
+          },
+          "title": "Spicy Moon Bowery",
+          "type": "Vegan",
+          "address": "265 Bowery",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 18,
+          "rating": 4.6,
+          "reviews": 416,
+          "reviews_original": "(416)",
+          "price": "$10–20",
+          "lsig": "AB86z5W5afuB6ush6SSMdggkl2So",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/sqxEkFJkvdWhZHZhbW3GN7H3I-mfQGisaXyHpxLi5KI.jpeg",
+          "place_id": "9632328417237528714",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9632328417237528714&q=vegetarian+restaurants",
+          "provider_id": "/g/11sn_6jvyb",
+          "gps_coordinates": {
+            "latitude": 40.727936,
+            "longitude": -73.98667
+          },
+          "title": "Vegan Grill",
+          "type": "Vegan",
+          "address": "58 St Marks Pl",
+          "extensions": [
+            "Serves vegetarian dishes"
+          ]
+        },
+        {
+          "position": 19,
+          "rating": 4.4,
+          "reviews": 612,
+          "reviews_original": "(612)",
+          "price": "$10–20",
+          "description": "\"... the chef is a great chef, they understand how to cook vegan food.\"",
+          "lsig": "AB86z5UMq0UPLcHNxnnOAsc31oCw",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/RDML1hZicaG3zZ0QT5dWO57qcs6LmzYIQrmnA9J-5Ko.jpeg",
+          "place_id": "11557984558217069878",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11557984558217069878&q=vegetarian+restaurants",
+          "provider_id": "/g/11ghl2d0ym",
+          "gps_coordinates": {
+            "latitude": 40.720978,
+            "longitude": -73.99563
+          },
+          "title": "noodlelove",
+          "type": "Asian Fusion",
+          "address": "192 Mott St"
+        },
+        {
+          "position": 20,
+          "rating": 4.7,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "price": "$20–30",
+          "description": "\"Best vegan food ever and service was amazing, plus patio back room.\"",
+          "lsig": "AB86z5VBT1z8VHvyHJ-7tmTuBJ1t",
+          "thumbnail": "https://serpapi.com/searches/69d52c0414537b98fc5a4cea/images/i9qk77cjM1_NJRRXTw67irFWpJsy4lmR4egSlSK3r1M.jpeg",
+          "place_id": "14892776074129831765",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=14892776074129831765&q=vegetarian+restaurants",
+          "provider_id": "/g/11hbnyx0cc",
+          "gps_coordinates": {
+            "latitude": 40.761826,
+            "longitude": -73.99039
+          },
+          "title": "UT47 Kitchen & Bar",
+          "type": "Brunch",
+          "address": "683 9th Ave"
+        }
+      ]
+    }
+  }
+]

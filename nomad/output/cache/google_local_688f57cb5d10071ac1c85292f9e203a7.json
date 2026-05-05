@@ -1,0 +1,449 @@
+{
+  "search_metadata": {
+    "id": "69d52c769b762da0ba861700",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cHlKENmYzRfwAxAAzC7-jg/69d52c769b762da0ba861700.json",
+    "created_at": "2026-04-07 16:10:30 UTC",
+    "processed_at": "2026-04-07 16:10:30 UTC",
+    "google_local_url": "https://www.google.com/search?q=halal+restaurants+South+Beach&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/cHlKENmYzRfwAxAAzC7-jg/69d52c769b762da0ba861700.html",
+    "total_time_taken": 2.42
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "halal restaurants South Beach",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.79247254505204,
+      "longitude": -80.19950866699219
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.4,
+      "reviews": 2400,
+      "reviews_original": "(2.4K)",
+      "price": "$10–20",
+      "description": "\"The service and the food are amazing- best halal food ever!!!\"",
+      "lsig": "AB86z5VSw12n3ZdIGfOsq6pu-aF6",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/zqfjlLJwo-fWXvlpDOROON0mcrdp9BMAVeGQkbkOojQ.jpeg",
+      "place_id": "11757735944089904680",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11757735944089904680&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11b809hrx0",
+      "gps_coordinates": {
+        "latitude": 25.788269,
+        "longitude": -80.13159
+      },
+      "title": "Al Basha Grill",
+      "type": "Mediterranean",
+      "address": "1533 Washington Ave"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 58,
+      "reviews_original": "(58)",
+      "price": "$10–20",
+      "description": "\"Everything was fresh, tasty, and 100% halal.\"",
+      "lsig": "AB86z5XKyqKfif-GpHDmu2f_vuHG",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/aeThkIMcARbSpezUBZAVWaJT7arztXaW8ivrlZW-oM0.jpeg",
+      "place_id": "11221585295150468345",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11221585295150468345&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11lzhq47cl",
+      "gps_coordinates": {
+        "latitude": 25.787668,
+        "longitude": -80.13226
+      },
+      "title": "Halal Food Restaurant",
+      "type": "Restaurant",
+      "address": "407 15th St"
+    },
+    {
+      "position": 3,
+      "rating": 4.5,
+      "reviews": 2900,
+      "reviews_original": "(2.9K)",
+      "price": "$20–30",
+      "description": "\"Really good spot with fresh halal food and the service is super cool.\"",
+      "lsig": "AB86z5WKMYQsNPcp6f4ApSQBMbqq",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/JegjKMOC4BKpcZuMLJkUDMiitiH_9FbRISlBrUvKguA.jpeg",
+      "place_id": "9421157315765668154",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9421157315765668154&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11cjg91c5y",
+      "gps_coordinates": {
+        "latitude": 25.78143,
+        "longitude": -80.13248
+      },
+      "title": "Safron Grill",
+      "type": "Turkish",
+      "address": "1049 Washington Ave"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "description": "\"Great atmosphere and authentic Turkish food which is also Halal!\"",
+      "lsig": "AB86z5WfizsOAvyLjoLHWL4OFogS",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/VXWm2m7tTwRSqpfbw_Y9L21ZaTH4btLjfBoLeU3hxzA.jpeg",
+      "place_id": "9667727864291067304",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9667727864291067304&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11v9c4prm1",
+      "gps_coordinates": {
+        "latitude": 25.779299,
+        "longitude": -80.13295
+      },
+      "title": "Turkuaz Mediterranean Restaurant",
+      "type": "Turkish",
+      "address": "855 Washington Ave"
+    },
+    {
+      "position": 5,
+      "rating": 4.8,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$30–50",
+      "description": "\"The dishes are delicious and the meat (halal) is so tender.\"",
+      "lsig": "AB86z5VrRX-HhdP2wGel2XNhu5dq",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/ZqDkhELmSjaF590EOZo87nY7AA9uRVCJbXs9aPXH6tc.jpeg",
+      "place_id": "8500357877494860590",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8500357877494860590&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11l5r6qvlv",
+      "gps_coordinates": {
+        "latitude": 25.855627,
+        "longitude": -80.12812
+      },
+      "title": "Sumak Restaurant",
+      "type": "Mediterranean",
+      "address": "908 71st St",
+      "hours": "Opens soon · 12:30 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.9,
+      "reviews": 193,
+      "reviews_original": "(193)",
+      "price": "$10–20",
+      "description": "\"Halal Shack is clean, food is great, my go to every day when they are open.\"",
+      "lsig": "AB86z5WvMTiglnMLsT_W4HGT5rjz",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/nJZHG5lugevhZf6M8KSY8nL-bv0Qsq-Xf7wnEFOn990.jpeg",
+      "place_id": "9072647900815049855",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9072647900815049855&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11krtx6xth",
+      "gps_coordinates": {
+        "latitude": 25.71976,
+        "longitude": -80.27804
+      },
+      "title": "The Halal Shack",
+      "type": "Halal",
+      "address": "Coral Gables, FL"
+    },
+    {
+      "position": 7,
+      "rating": 4.9,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$10–20",
+      "description": "\"Really delicious food and halal, highly recommended.\"",
+      "lsig": "AB86z5XkRnI7o8VSedqOyWMZylei",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/Ti24JnGl2JDjeS7fUv6Opi9cJfEylousFAqvJTC3ct8.jpeg",
+      "place_id": "17819056478211311612",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17819056478211311612&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11sslnyms8",
+      "gps_coordinates": {
+        "latitude": 25.855637,
+        "longitude": -80.12069
+      },
+      "title": "The Wrapper Miami",
+      "type": "Lebanese",
+      "address": "6974 Collins Ave"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 123,
+      "reviews_original": "(123)",
+      "price": "$10–20",
+      "description": "\"Great tasting halal food with friendly staff.\"",
+      "lsig": "AB86z5UhkaRIr0dIWMpniFB6JGj5",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/o6RnzMFrCkYz-YX1lqw9wGl39-ASa4tLf7ZTxqIptyI.jpeg",
+      "place_id": "16642640815059341972",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16642640815059341972&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11j_2ftf6z",
+      "gps_coordinates": {
+        "latitude": 25.85095,
+        "longitude": -80.142654
+      },
+      "title": "Makla halal",
+      "type": "Takeout Restaurant",
+      "address": "2050 71st St"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"The falafel is hearty and some of the best I've had - probably in the top 5.\"",
+      "lsig": "AB86z5UOPB_bJuXMNp3d6XWzKTiG",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/UFl3OMVQKWbqHvCnBgXKozAo28DvqcqwDml1XtC8OCo.jpeg",
+      "place_id": "11684577785430646481",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11684577785430646481&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11n0snmn9g",
+      "gps_coordinates": {
+        "latitude": 25.768866,
+        "longitude": -80.136604
+      },
+      "title": "Abbalé Modern Mediterranean Kitchen - South Beach",
+      "type": "Mediterranean",
+      "address": "864 Commerce St"
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$10–20",
+      "description": "\"great service and delicious halal food.\"",
+      "lsig": "AB86z5Vpf2aYt9b0WbFerIw-F1s1",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/Olh5D3j5M3O30a3Mhiv0bkQu5cgsLbsigwMBTDduKBw.jpeg",
+      "place_id": "5137149715887114681",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5137149715887114681&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11ckvgdbs4",
+      "gps_coordinates": {
+        "latitude": 25.787733,
+        "longitude": -80.13219
+      },
+      "title": "Spitfire-Turkish Halal Food",
+      "type": "Mediterranean",
+      "address": "405 15th St"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 744,
+      "reviews_original": "(744)",
+      "price": "$10–20",
+      "description": "\"I really liked the shawarma hummus - delicious and a large portion.\"",
+      "lsig": "AB86z5WsHzEvWRVcpD66azO698IY",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/MfGGnJZeDH7MKQh0EjDEJvWxq1KjobIona0PaOJi-j4.jpeg",
+      "place_id": "6423540692950395203",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6423540692950395203&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11tf430cys",
+      "gps_coordinates": {
+        "latitude": 25.788576,
+        "longitude": -80.14133
+      },
+      "title": "Sufrat Mediterranean Grill",
+      "type": "Mediterranean",
+      "address": "1570 Alton Rd C C"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$20–30",
+      "description": "\"Their lamb, beef and chicken menu are halal.\"",
+      "lsig": "AB86z5WEhHgHjJA0i1ohiWuybTFs",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/FjFLOJz1zF9dUAI7GtKbZnurKfZXlO0vmWd6yY9YfOk.jpeg",
+      "place_id": "7609112598617855951",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=7609112598617855951&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11b6hn6mq5",
+      "gps_coordinates": {
+        "latitude": 25.782381,
+        "longitude": -80.13108
+      },
+      "title": "Rakija Lounge",
+      "type": "American",
+      "address": "1131 Collins Ave"
+    },
+    {
+      "position": 13,
+      "rating": 4.8,
+      "reviews": 7900,
+      "reviews_original": "(7.9K)",
+      "description": "\"The portions were more than generous and the food was absolutely delicious.\"",
+      "lsig": "AB86z5VxW85b00aiA-tVRqLKlv5G",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/sCbi2qHTp3V1xrKm58N7H3gVQk_7ZfjpxvdtHX6WWoQ.jpeg",
+      "place_id": "14333210469039498897",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14333210469039498897&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11h6db2m8v",
+      "gps_coordinates": {
+        "latitude": 25.780733,
+        "longitude": -80.13179
+      },
+      "title": "Sola Miami Beach",
+      "type": "New American",
+      "address": "1000 Collins Ave"
+    },
+    {
+      "position": 14,
+      "rating": 4.3,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$10–20",
+      "description": "\"Meats was very good and flavorful, hummus on point, Kibbeb was my favorite.\"",
+      "lsig": "AB86z5WP8PWD8K3WGQTZnrCe2cYM",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/wqO-_x9EL9q2YABvbVuWpCH6HvQO-0f3PFUYLx2xoZo.jpeg",
+      "place_id": "9686841073058154372",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9686841073058154372&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11b7xyq8r2",
+      "gps_coordinates": {
+        "latitude": 25.927835,
+        "longitude": -80.199455
+      },
+      "title": "Aladdin Mediterranean Restaurant and Supermarket,halal food",
+      "type": "Halal",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 426,
+      "reviews_original": "(426)",
+      "price": "$20–30",
+      "description": "\"The kebabs were juicy and full of flavor, and the sides were amazing.\"",
+      "lsig": "AB86z5WxPMI23j7XEG9jy-VJWZgJ",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/DwpUjyiOfE-l0f7d5J-rx-mFvo_jLubNaDOgkz4dZEI.jpeg",
+      "place_id": "16649692360165230104",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16649692360165230104&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11kr89160t",
+      "gps_coordinates": {
+        "latitude": 25.77444,
+        "longitude": -80.1891
+      },
+      "title": "Shishkabob Mediterranean Cuisine",
+      "type": "Persian",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 2500,
+      "reviews_original": "(2.5K)",
+      "description": "\"The lamb chops are a must, and the hummus with peppers is amazing!\"",
+      "lsig": "AB86z5X1NgxQrQzUq5FnV602WhCh",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/5d_9MY-umwsKvaujc32ZBNErJ207Y-7JemAVesaMLeU.jpeg",
+      "place_id": "8572607482297044857",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8572607482297044857&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11b5plthzy",
+      "gps_coordinates": {
+        "latitude": 25.77563,
+        "longitude": -80.13425
+      },
+      "title": "Athena Mediterranean Kitchen & Bar",
+      "type": "Mediterranean",
+      "address": "560 Washington Ave",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 17,
+      "rating": 4.7,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "price": "$10–20",
+      "description": "\"Very yummy halal spot, food came out very fast;\"",
+      "lsig": "AB86z5X56l29UDgES6-YSpvK8tqD",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/iIYqHrZ-m7zX2p3qZibd0NAHSyS1pg6Y6-gmR-Erb6A.jpeg",
+      "place_id": "5700445812085843438",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5700445812085843438&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11j8zfttzh",
+      "gps_coordinates": {
+        "latitude": 25.800186,
+        "longitude": -80.19982
+      },
+      "title": "ICON Mediterranean",
+      "type": "Mediterranean",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 18,
+      "rating": 4.3,
+      "reviews": 863,
+      "reviews_original": "(863)",
+      "price": "$10–20",
+      "description": "\"Excellent food with large portion, very good value for the money\"",
+      "lsig": "AB86z5XUdzqtF0v-7aGBDHbQe47m",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/J7lBTeWc9stYJ_PZslVHAStGrcAsD26iIBmOULPi1Hk.jpeg",
+      "place_id": "3392909091515834854",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3392909091515834854&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/1td77crl",
+      "gps_coordinates": {
+        "latitude": 25.78443,
+        "longitude": -80.14125
+      },
+      "title": "Rice Mediterranean Kitchen",
+      "type": "Mediterranean",
+      "address": "1318 Alton Rd"
+    },
+    {
+      "position": 19,
+      "rating": 4.0,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$10–20",
+      "description": "\"Hummus, falafel, chicken kabab and their hot sauce and yogurt was wonderful.\"",
+      "lsig": "AB86z5XFWjPHBnR0JYXlrw9jipPr",
+      "thumbnail": "https://serpapi.com/searches/69d52c769b762da0ba861700/images/CglbdvJscQOH4NL9PL5RqSzzNQ1XWq6kUoUKHM-w4AU.jpeg",
+      "place_id": "16694389912574410079",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16694389912574410079&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/1vm_ypkn",
+      "gps_coordinates": {
+        "latitude": 25.795145,
+        "longitude": -80.12919
+      },
+      "title": "Sultan Mediterranean",
+      "type": "Mediterranean",
+      "address": "1903 Collins Ave",
+      "hours": "Temporarily closed"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 16,
+      "reviews_original": "(16)",
+      "lsig": "AB86z5VB6nfjej26CBQBjcbPrpc-",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo906yAhXiSO3-emSrw5z7nJ9NezES-E0sREVxU1i4nEOWDtQoVQNIXA415QTsASSmAUcjrt74w1ESxEwoTcEhxfebNeLRfOPf9ps33MJi1PxwvykYXU8J-_Z3Jld_SefXqhAiI=w90-h90-n-k-no-l75",
+      "place_id": "15862712433265619603",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15862712433265619603&q=halal+restaurants+South+Beach",
+      "provider_id": "/g/11lfcxg0g7",
+      "gps_coordinates": {
+        "latitude": 25.785,
+        "longitude": -80.13058
+      },
+      "title": "Naan Indian Eats",
+      "type": "Indian",
+      "address": "1351 Collins Ave",
+      "hours": "Temporarily closed"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=halal+restaurants+South+Beach&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=halal+restaurants+South+Beach&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=halal+restaurants+South+Beach&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=halal+restaurants+South+Beach&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=halal+restaurants+South+Beach&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants+South+Beach&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants+South+Beach&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants+South+Beach&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants+South+Beach&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants+South+Beach&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=halal+restaurants+South+Beach&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

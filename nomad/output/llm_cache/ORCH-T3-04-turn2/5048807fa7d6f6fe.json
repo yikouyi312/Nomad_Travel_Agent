@@ -1,0 +1,44 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01229NXjwaMxq14W72VZNcZa",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01RdtAV4EbNvLxbc4F6X6Gjy",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "destination": "Cancun",
+          "budget_usd": 3500
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": false
+        },
+        "response_to_user": "Got it! I've updated your destination to Cancun, Mexico and increased your budget to $3,500. Note: You previously had Miami as your destination from November 1-6, 2026. I've now changed this to Cancun. Would you like me to keep the same dates (November 1-6) and search for flights and hotels to Cancun, or would you like to adjust the dates as well?"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2560,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 226,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

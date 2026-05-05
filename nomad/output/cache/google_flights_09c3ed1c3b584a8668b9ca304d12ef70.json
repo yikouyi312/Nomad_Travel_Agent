@@ -1,0 +1,921 @@
+{
+  "search_metadata": {
+    "id": "69d52ce5277143189cbbd634",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LSsZi5Ocs1_2Vzac9UzWCw/69d52ce5277143189cbbd634.json",
+    "created_at": "2026-04-07 16:12:21 UTC",
+    "processed_at": "2026-04-07 16:12:21 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTAxagcIARIDQk9TcgcIARIDTUlBGh4SCjIwMjYtMTEtMDZqBwgBEgNNSUFyBwgBEgNCT1NAAUgBcAGYAQE&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/LSsZi5Ocs1_2Vzac9UzWCw/69d52ce5277143189cbbd634.html",
+    "prettify_html_file": "https://serpapi.com/searches/LSsZi5Ocs1_2Vzac9UzWCw/69d52ce5277143189cbbd634.prettify",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "BOS",
+    "arrival_id": "MIA",
+    "outbound_date": "2026-11-01",
+    "return_date": "2026-11-06",
+    "currency": "USD"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 06:44"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 10:29"
+          },
+          "duration": 225,
+          "airplane": "Airbus A321neo",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2980",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 145 kg"
+          ]
+        }
+      ],
+      "total_duration": 225,
+      "carbon_emissions": {
+        "this_flight": 146000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -34
+      },
+      "price": 287,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pCUVRJNU9EQWFDd2lINEFFUUFob0RWVk5FT0J4d2grQUIiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMjk4MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 12:25"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 16:02"
+          },
+          "duration": 217,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2199",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 169 kg"
+          ]
+        }
+      ],
+      "total_duration": 217,
+      "carbon_emissions": {
+        "this_flight": 169000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -23
+      },
+      "price": 287,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pCUVRJeE9Ua2FDd2lINEFFUUFob0RWVk5FT0J4d2grQUIiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMjE5OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 14:58"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 18:40"
+          },
+          "duration": 222,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1225",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 169 kg"
+          ]
+        }
+      ],
+      "total_duration": 222,
+      "carbon_emissions": {
+        "this_flight": 169000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -23
+      },
+      "price": 287,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pCUVRFeU1qVWFDd2lINEFFUUFob0RWVk5FT0J4d2grQUIiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMTIyNSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 08:01"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 11:49"
+          },
+          "duration": 228,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1259",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 169 kg"
+          ]
+        }
+      ],
+      "total_duration": 228,
+      "carbon_emissions": {
+        "this_flight": 169000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -23
+      },
+      "price": 292,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pCUVRFeU5Ua2FDd2o3NHdFUUFob0RWVk5FT0J4dysrTUIiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMTI1OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 07:00"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 10:43"
+          },
+          "duration": 223,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1399",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 190 kg"
+          ]
+        }
+      ],
+      "total_duration": 223,
+      "carbon_emissions": {
+        "this_flight": 191000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -13
+      },
+      "price": 302,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pFVERFek9Ua2FDd2prNndFUUFob0RWVk5FT0J4dzVPc0IiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkRMIiwiMTM5OSJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 18:09"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 21:58"
+          },
+          "duration": 229,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1284",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 169 kg"
+          ]
+        }
+      ],
+      "total_duration": 229,
+      "carbon_emissions": {
+        "this_flight": 169000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -23
+      },
+      "price": 287,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pCUVRFeU9EUWFDd2lINEFFUUFob0RWVk5FT0J4d2grQUIiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMTI4NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 13:10"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-11-01 14:41"
+          },
+          "duration": 91,
+          "airplane": "Embraer 175",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 5808",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 78 kg"
+          ],
+          "plane_and_crew_by": "Republic Airways Delta Connection"
+        },
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-11-01 17:45"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 21:01"
+          },
+          "duration": 196,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2123",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 152 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 184,
+          "name": "John F. Kennedy International Airport",
+          "id": "JFK"
+        }
+      ],
+      "total_duration": 471,
+      "carbon_emissions": {
+        "this_flight": 231000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 5
+      },
+      "price": 297,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZzFFVERVNE1EaDhSRXd5TVRJekdnc0kzT2NCRUFJYUExVlRSRGdjY056bkFRPT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJKRksiLG51bGwsIkRMIiwiNTgwOCJdLFsiSkZLIiwiMjAyNi0xMS0wMSIsIk1JQSIsbnVsbCwiREwiLCIyMTIzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 05:36"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 09:20"
+          },
+          "duration": 224,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2591",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 169 kg"
+          ]
+        }
+      ],
+      "total_duration": 224,
+      "carbon_emissions": {
+        "this_flight": 169000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -23
+      },
+      "price": 317,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1pCUVRJMU9URWFDd2krOXdFUUFob0RWVk5FT0J4d3Z2Y0IiLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkFBIiwiMjU5MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 15:00"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 18:41"
+          },
+          "duration": 221,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 776",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 190 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 221,
+      "carbon_emissions": {
+        "this_flight": 191000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -13
+      },
+      "price": 332,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ1ZFVERjM05ob0xDSnlEQWhBQ0dnTlZVMFE0SEhDY2d3ST0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIkRMIiwiNzc2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 07:30"
+          },
+          "arrival_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2026-11-01 08:50"
+          },
+          "duration": 80,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 570",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 76 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2026-11-01 19:00"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 22:16"
+          },
+          "duration": 196,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 791",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 130 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 610,
+          "name": "Newark Liberty International Airport",
+          "id": "EWR"
+        }
+      ],
+      "total_duration": 886,
+      "carbon_emissions": {
+        "this_flight": 207000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -6
+      },
+      "price": 448,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZ3RWUVRVM01IeFZRVGM1TVJvTENPWGRBaEFDR2dOVlUwUTRISERsM1FJPSIsW1siQk9TIiwiMjAyNi0xMS0wMSIsIkVXUiIsbnVsbCwiVUEiLCI1NzAiXSxbIkVXUiIsIjIwMjYtMTEtMDEiLCJNSUEiLG51bGwsIlVBIiwiNzkxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2026-11-01 06:00"
+          },
+          "arrival_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2026-11-01 07:34"
+          },
+          "duration": 94,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1734",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 77 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2026-11-01 08:20"
+          },
+          "arrival_airport": {
+            "name": "Miami International Airport",
+            "id": "MIA",
+            "time": "2026-11-01 11:11"
+          },
+          "duration": 171,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1073",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 146 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 46,
+          "name": "Dulles International Airport",
+          "id": "IAD"
+        }
+      ],
+      "total_duration": 311,
+      "carbon_emissions": {
+        "this_flight": 224000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 2
+      },
+      "price": 656,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWTNvdFIwSXhlazFXUkRCQlEybHJkWGRDUnkwdExTMHRMUzB0TFhCbVltY3hORUZCUVVGQlIyNVdURTlWU2kwNGN6QkJFZzFWUVRFM016UjhWVUV4TURjekdnc0l1NEFFRUFJYUExVlRSRGdjY0x1QUJBPT0iLFtbIkJPUyIsIjIwMjYtMTEtMDEiLCJJQUQiLG51bGwsIlVBIiwiMTczNCJdLFsiSUFEIiwiMjAyNi0xMS0wMSIsIk1JQSIsbnVsbCwiVUEiLCIxMDczIl1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 287,
+    "price_level": "typical",
+    "typical_price_range": [
+      135,
+      320
+    ],
+    "price_history": [
+      [
+        1770354000,
+        212
+      ],
+      [
+        1770440400,
+        212
+      ],
+      [
+        1770526800,
+        212
+      ],
+      [
+        1770613200,
+        212
+      ],
+      [
+        1770699600,
+        222
+      ],
+      [
+        1770786000,
+        222
+      ],
+      [
+        1770872400,
+        222
+      ],
+      [
+        1770958800,
+        222
+      ],
+      [
+        1771045200,
+        222
+      ],
+      [
+        1771131600,
+        219
+      ],
+      [
+        1771218000,
+        219
+      ],
+      [
+        1771304400,
+        222
+      ],
+      [
+        1771390800,
+        222
+      ],
+      [
+        1771477200,
+        222
+      ],
+      [
+        1771563600,
+        222
+      ],
+      [
+        1771650000,
+        222
+      ],
+      [
+        1771736400,
+        222
+      ],
+      [
+        1771822800,
+        222
+      ],
+      [
+        1771909200,
+        222
+      ],
+      [
+        1771995600,
+        227
+      ],
+      [
+        1772082000,
+        227
+      ],
+      [
+        1772168400,
+        207
+      ],
+      [
+        1772254800,
+        207
+      ],
+      [
+        1772341200,
+        227
+      ],
+      [
+        1772427600,
+        227
+      ],
+      [
+        1772514000,
+        227
+      ],
+      [
+        1772600400,
+        227
+      ],
+      [
+        1772686800,
+        227
+      ],
+      [
+        1772773200,
+        227
+      ],
+      [
+        1772859600,
+        242
+      ],
+      [
+        1772946000,
+        242
+      ],
+      [
+        1773028800,
+        242
+      ],
+      [
+        1773115200,
+        247
+      ],
+      [
+        1773201600,
+        262
+      ],
+      [
+        1773288000,
+        262
+      ],
+      [
+        1773374400,
+        267
+      ],
+      [
+        1773460800,
+        267
+      ],
+      [
+        1773547200,
+        267
+      ],
+      [
+        1773633600,
+        267
+      ],
+      [
+        1773720000,
+        267
+      ],
+      [
+        1773806400,
+        277
+      ],
+      [
+        1773892800,
+        267
+      ],
+      [
+        1773979200,
+        267
+      ],
+      [
+        1774065600,
+        277
+      ],
+      [
+        1774152000,
+        277
+      ],
+      [
+        1774238400,
+        277
+      ],
+      [
+        1774324800,
+        277
+      ],
+      [
+        1774411200,
+        277
+      ],
+      [
+        1774497600,
+        277
+      ],
+      [
+        1774584000,
+        277
+      ],
+      [
+        1774670400,
+        277
+      ],
+      [
+        1774756800,
+        277
+      ],
+      [
+        1774843200,
+        277
+      ],
+      [
+        1774929600,
+        277
+      ],
+      [
+        1775016000,
+        277
+      ],
+      [
+        1775102400,
+        277
+      ],
+      [
+        1775188800,
+        277
+      ],
+      [
+        1775275200,
+        277
+      ],
+      [
+        1775361600,
+        277
+      ],
+      [
+        1775448000,
+        277
+      ],
+      [
+        1775534400,
+        287
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "BOS",
+            "name": "Boston Logan International Airport"
+          },
+          "city": "Boston",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsThI_7VKLWvxDOugOLpVHze3RQP7rvr-KLjOZJ0PEf2xI8bEhumBB3ZjXe4HF-8srxAhSOe22Cjuc1g",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmyfqYldUKPJdrEh9tMEkjc-XwVb6VUgvvAhx1n4EUeXRSkCPp1-NQAofPisLnWMTcastf8G7m1fVavxIZ4tviHRyoXXRpqKgvkC8ja3w"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "MIA",
+            "name": "Miami International Airport"
+          },
+          "city": "Miami",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjsG6ybk9C2oSVnPZUal-6l7EimKLf5gtMAhOumgD16nXBwB4X0lHH3nh-178HKbonabZtnDMdZKfDEQ",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRScvUK_JtYRXmQWoXHiT98Ajl1KTuUVO40d0Q678OpK1xyyWI8VIkHqzXE9BHfY5R35UpgbeEdcf1IhMDncXwDo29wOABY9MIUzCFLkwU"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "MIA",
+            "name": "Miami International Airport"
+          },
+          "city": "Miami",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjsG6ybk9C2oSVnPZUal-6l7EimKLf5gtMAhOumgD16nXBwB4X0lHH3nh-178HKbonabZtnDMdZKfDEQ",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRScvUK_JtYRXmQWoXHiT98Ajl1KTuUVO40d0Q678OpK1xyyWI8VIkHqzXE9BHfY5R35UpgbeEdcf1IhMDncXwDo29wOABY9MIUzCFLkwU"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "BOS",
+            "name": "Boston Logan International Airport"
+          },
+          "city": "Boston",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsThI_7VKLWvxDOugOLpVHze3RQP7rvr-KLjOZJ0PEf2xI8bEhumBB3ZjXe4HF-8srxAhSOe22Cjuc1g",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmyfqYldUKPJdrEh9tMEkjc-XwVb6VUgvvAhx1n4EUeXRSkCPp1-NQAofPisLnWMTcastf8G7m1fVavxIZ4tviHRyoXXRpqKgvkC8ja3w"
+        }
+      ]
+    }
+  ]
+}

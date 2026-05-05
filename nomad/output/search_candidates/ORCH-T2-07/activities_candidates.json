@@ -1,0 +1,2450 @@
+[
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-04-07T11:02:11.920034",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "breakfast included",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "lsig": "AB86z5UClVaxea1hUZRoFDxu4ljc",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/RaZuixyGL9a1XcxeGZN2jqVWN593LvjCo-WHt9io_L4.jpeg",
+          "place_id": "15404973770745631663",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15404973770745631663&q=breakfast+included",
+          "provider_id": "/g/11z21bk85q",
+          "gps_coordinates": {
+            "latitude": 53.8123,
+            "longitude": -3.04806
+          },
+          "title": "PONDEROSA BB with free onsite parking and breakfast included - Deluxe Double Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 2,
+          "lsig": "AB86z5XiapWZGgtiu9Pf6hJvSIne",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/kSjoy34weEhDE0muWTnUiUs21lovJ-uFmg3rTjdH0M0.jpeg",
+          "place_id": "18278625947538961414",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18278625947538961414&q=breakfast+included",
+          "provider_id": "/g/11z21bdcbz",
+          "gps_coordinates": {
+            "latitude": 52.37323,
+            "longitude": -2.71351
+          },
+          "title": "Henwick house accommodation, Continental breakfast included - Deluxe Double or Twin Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 3,
+          "lsig": "AB86z5VPrS3khwhhIsXp5NVnYVgQ",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/KK2igSyGJ7UfvNf2GVr33bwVY9oSm20TDKhmJn_ZuHg.jpeg",
+          "place_id": "17228435810038671350",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17228435810038671350&q=breakfast+included",
+          "provider_id": "/g/11zksyltc8",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Deluxe Twin Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 4,
+          "lsig": "AB86z5XFgzgEDbKsOO0j9RzR-9Mi",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/8tX1M5wazrmwyNCONuOmseNeZdZUHZGIBJRFl3IuJcI.jpeg",
+          "place_id": "6678550715172504228",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=6678550715172504228&q=breakfast+included",
+          "provider_id": "/g/11z14398fl",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Comfort Triple Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 5,
+          "lsig": "AB86z5WXQC-jadpSiXLhx8IQahZt",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/1T8VUQPEFi-X5bnFTUw8kUny82rHn49uthEGw_JQ7lg.jpeg",
+          "place_id": "4516382050517711735",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4516382050517711735&q=breakfast+included",
+          "provider_id": "/g/11n9c9gvm4",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Single Room with Shared Bathroom",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 631,
+          "reviews_original": "(631)",
+          "price": "£20–30",
+          "description": "\"Breakfasts are huge and excellent quality.\"",
+          "lsig": "AB86z5XZNW0xeN9RVVcx_zEHXCsh",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/vscWoxPB8oTmxSM7uUmLY-fPTfRlTH1hLO9tHXWBZBk.jpeg",
+          "place_id": "7184959262707728364",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7184959262707728364&q=breakfast+included",
+          "provider_id": "/g/1tf2rrxh",
+          "gps_coordinates": {
+            "latitude": 52.82538,
+            "longitude": -2.2994502
+          },
+          "title": "The Cock Inn",
+          "type": "Pub",
+          "address": "Stafford, United Kingdom"
+        },
+        {
+          "position": 7,
+          "rating": 4.3,
+          "reviews": 462,
+          "reviews_original": "(462)",
+          "lsig": "AB86z5VSl6N0pSZurVwLiWbJLvrc",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/0eh_YJNzite16b6KDiKkQoZIQWq4QSibeRnidkINXb4.jpeg",
+          "place_id": "16994778199456617565",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16994778199456617565&q=breakfast+included",
+          "provider_id": "/g/1tj7_hq5",
+          "gps_coordinates": {
+            "latitude": 52.884594,
+            "longitude": -2.4727263
+          },
+          "title": "The Four Alls Inn",
+          "type": "Pub",
+          "address": "Market Drayton, United Kingdom",
+          "extensions": [
+            "Menu highlight: breakfast included"
+          ]
+        },
+        {
+          "position": 8,
+          "lsig": "AB86z5XZWlTIvY_HYM4w3AXHFz5W",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/mEE-o_TB1xMLQNh6AtD6dC7OfHgmuyDtRmFxVAW90cg.jpeg",
+          "place_id": "11047441939711796028",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11047441939711796028&q=breakfast+included",
+          "provider_id": "/g/11n9c92qyl",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Triple Room with Private Bathroom",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 9,
+          "rating": 4.0,
+          "reviews": 59,
+          "reviews_original": "(59)",
+          "description": "\"The food was excellent and reasonably priced.\"",
+          "lsig": "AB86z5VS0os8DnbSdG2onyEyCkrj",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/oyPfGGur3IVA_0vytMZoXehoqfDfXyAlJqKzok4btIo.jpeg",
+          "place_id": "5073631903497603791",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5073631903497603791&q=breakfast+included",
+          "provider_id": "/g/11sy71d_zs",
+          "gps_coordinates": {
+            "latitude": 52.94116,
+            "longitude": -2.1022134
+          },
+          "title": "The Oak House Restaurant and Balcony Bar (located at Moddershall Oaks)",
+          "type": "Restaurant",
+          "address": "Stone, United Kingdom"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 661,
+          "reviews_original": "(661)",
+          "description": "\"Great price, clean and tidy with a great breakfast included.\"",
+          "lsig": "AB86z5UKF1yGk_U9bmQboP_nAD7L",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8xExPH6dHiB2G7zVYaQSAE4k84pGMoYJpDlzR1Ld_Bgm0wsPQ-JVHKke85MQv63mN7lGXXavL5-XD-jSU4cKTXRwoA43EAoRKq6WZwoRf5_V0TnsZKwlTi1TKAfSSRJ4do6MA9g=w90-h90-n-k-no-l75",
+          "place_id": "5642813689266681082",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5642813689266681082&q=breakfast+included",
+          "provider_id": "/g/1v16pv7f",
+          "gps_coordinates": {
+            "latitude": 52.98636,
+            "longitude": -2.3657565
+          },
+          "title": "The Wheatsheaf Inn, Onneley",
+          "type": "Restaurant",
+          "address": "Crewe, United Kingdom"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 599,
+          "reviews_original": "(599)",
+          "description": "\"(Georgia, kay and leora) full English breakfast included very good quality.\"",
+          "lsig": "AB86z5X2O1A98veRn9N_M9_8StJX",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/9UHYWdiRzB0k-QoteGJCjDZ73Qm0Z01dvAG7a07J0dY.jpeg",
+          "place_id": "18227072324007448915",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18227072324007448915&q=breakfast+included",
+          "provider_id": "/g/1wf218wh",
+          "gps_coordinates": {
+            "latitude": 52.583282,
+            "longitude": -1.9775226
+          },
+          "title": "Lyndon House - Walsall",
+          "type": "Restaurant",
+          "address": "Walsall, United Kingdom"
+        },
+        {
+          "position": 12,
+          "rating": 4.6,
+          "reviews": 452,
+          "reviews_original": "(452)",
+          "price": "£10–20",
+          "description": "\"Amazing \"Big Breakfast \" hot tasty and filling.\"",
+          "lsig": "AB86z5W5DkZm5pFvb7Uy-aj3rpMH",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/-KDIe3fVXHppaPyuzmi8aGNwYBgeve6cMKla_u732YA.jpeg",
+          "place_id": "8133590567881488682",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=8133590567881488682&q=breakfast+included",
+          "provider_id": "/g/11kpt62kkc",
+          "gps_coordinates": {
+            "latitude": 52.633358,
+            "longitude": -2.4936647
+          },
+          "title": "Embers Cafe",
+          "type": "Cafe",
+          "address": "Telford, United Kingdom",
+          "hours": "Closed · Opens 9 AM Wed"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 373,
+          "reviews_original": "(373)",
+          "price": "£10–20",
+          "description": "\"Great breakfast, good choice, huge portion, great price in fab surroundings\"",
+          "lsig": "AB86z5UqqoF-Kta3oXOSsJfc0eeR",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/P3M1Cc4Wz1YzkZUMMOIEgLffhmEiSiORQajGCd7CqdU.jpeg",
+          "place_id": "16932280417016303154",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16932280417016303154&q=breakfast+included",
+          "provider_id": "/g/11pz8_1rrt",
+          "gps_coordinates": {
+            "latitude": 52.993607,
+            "longitude": -1.9694978
+          },
+          "title": "The Grosvenor at Hales Hall",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom"
+        },
+        {
+          "position": 14,
+          "rating": 4.2,
+          "reviews": 692,
+          "reviews_original": "(692)",
+          "description": "\"Breakfast was lovely and the service was exceptionally polite and friendly.\"",
+          "lsig": "AB86z5UhSgk_cqaAWwVyGz5xlsfI",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/aOUrii9gETlw7tx9GdfsFAByzCfWwEGW4HeahDYzEfQ.jpeg",
+          "place_id": "12438970921166185901",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12438970921166185901&q=breakfast+included",
+          "provider_id": "/g/11wtm82967",
+          "gps_coordinates": {
+            "latitude": 52.72559,
+            "longitude": -2.4288394
+          },
+          "title": "The Sutherland",
+          "type": "Restaurant",
+          "address": "Telford, United Kingdom"
+        },
+        {
+          "position": 15,
+          "rating": 4.2,
+          "reviews": 814,
+          "reviews_original": "(814)",
+          "description": "\"Breakfast which is included in the room rate was traditional and tasty.\"",
+          "lsig": "AB86z5UBHE7PeCzFSou2mHmR2Unu",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/fLqGuN6Szv2BYc9O7cq2R-wTHsUIZT1dBxSsez5crVc.jpeg",
+          "place_id": "16663050242373014720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16663050242373014720&q=breakfast+included",
+          "provider_id": "/g/1tffj9ck",
+          "gps_coordinates": {
+            "latitude": 52.788364,
+            "longitude": -2.3659363
+          },
+          "title": "Swan Hotel Forton",
+          "type": "Pub",
+          "address": "Newport, United Kingdom"
+        },
+        {
+          "position": 16,
+          "rating": 4.3,
+          "reviews": 866,
+          "reviews_original": "(866)",
+          "description": "\"Lovely breakfast included in the cost of the room.\"",
+          "lsig": "AB86z5Ue9wusBQBhcg9IyiAfc1i1",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/B1KdpVBOPpR9KFZ0SPHXU9RRHLBhiZWp54bj5-Ha928.jpeg",
+          "place_id": "11510886127509905511",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11510886127509905511&q=breakfast+included",
+          "provider_id": "/g/1td3l0gr",
+          "gps_coordinates": {
+            "latitude": 52.631855,
+            "longitude": -2.5026865
+          },
+          "title": "The Water Rat Inn",
+          "type": "Restaurant",
+          "address": "Telford, United Kingdom"
+        },
+        {
+          "position": 17,
+          "rating": 4.2,
+          "reviews": 4200,
+          "reviews_original": "(4.2K)",
+          "price": "£10–20",
+          "description": "\"Nice breakfast for a fair price in a great location.\"",
+          "lsig": "AB86z5WoEF1aS8CxUd5xNbcegGEk",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/R1ay7REPjRonhDLjwYa6ZrKfkPmWb7zoQNgBQ1jRGC4.jpeg",
+          "place_id": "10088467788360501544",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10088467788360501544&q=breakfast+included",
+          "provider_id": "/g/1wk4chlb",
+          "gps_coordinates": {
+            "latitude": 52.56559,
+            "longitude": -1.8791322
+          },
+          "title": "Toby Carvery Streetly",
+          "type": "Carvery",
+          "address": "Sutton Coldfield, United Kingdom"
+        },
+        {
+          "position": 18,
+          "rating": 4.5,
+          "reviews": 649,
+          "reviews_original": "(649)",
+          "price": "£10–20",
+          "description": "\"Perfect setting, very good tasty 'homely' food, great value, great service.\"",
+          "lsig": "AB86z5UhDJCTNXS5_OBfKTgW7sWK",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/7UxeP_5LVNnpbKcrXbDWlRow46sOM-zVlKBLMLIrGok.jpeg",
+          "place_id": "13527619552317490816",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=13527619552317490816&q=breakfast+included",
+          "provider_id": "/g/1ttdxzv_",
+          "gps_coordinates": {
+            "latitude": 52.802933,
+            "longitude": -2.3082917
+          },
+          "title": "Junction Inn",
+          "type": "Pub",
+          "address": "Stafford, United Kingdom",
+          "hours": "Closed · Opens 12 PM Wed"
+        },
+        {
+          "position": 19,
+          "rating": 4.5,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "description": "\"We booked two nights it showed the price with breakfast included.\"",
+          "lsig": "AB86z5UJuY-reBs1ZfDdILZIAwVs",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/y1EEeNhlOGbXPL-7gsBtZanjRa2lKAP3CtKcuPFztvY.jpeg",
+          "place_id": "519876976854173543",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=519876976854173543&q=breakfast+included",
+          "provider_id": "/g/1pxyd8knw",
+          "gps_coordinates": {
+            "latitude": 52.84057,
+            "longitude": -2.0515354
+          },
+          "title": "Weston Hall - Stafford",
+          "type": "Hotel",
+          "address": "Stafford, United Kingdom"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 440,
+          "reviews_original": "(440)",
+          "description": "\"Breakfast is fantastic, everything is fresh and cooked just as you like it.\"",
+          "lsig": "AB86z5XysE0aZ2nygs2N3T07Fdzd",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/ar4q_VWVNJGhlloch4NYj1fFq-UyjcuDyz5hYE4d6-g.jpeg",
+          "place_id": "3159478649332149395",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=3159478649332149395&q=breakfast+included",
+          "provider_id": "/g/1tfwphh0",
+          "gps_coordinates": {
+            "latitude": 52.85909,
+            "longitude": -2.251101
+          },
+          "title": "The Kings Arms Hotel",
+          "type": "Pub",
+          "address": "Stafford, United Kingdom"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-04-07T11:02:15.929903",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "British Museum",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 171000,
+          "reviews_original": "(171K)",
+          "description": "Museum housing many famous antiquities",
+          "lsig": "AB86z5XYTdzs7cPNKxEcaY9VMWXn",
+          "thumbnail": "https://serpapi.com/searches/69d51c73c2bb99858cf2b207/images/YLL0Nz7UwLJBTBQU-fm_-BK9nsxdUSvVIdn24x8RFAk.jpeg",
+          "place_id": "3436696222068785831",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=3436696222068785831&q=British+Museum",
+          "provider_id": "/m/01hb3",
+          "gps_coordinates": {
+            "latitude": 51.519413,
+            "longitude": -0.1269566
+          },
+          "title": "The British Museum",
+          "type": "Museum",
+          "address": "Great Russell St",
+          "hours": "Closes soon · 5 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-04-07T11:02:28.174323",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "West End theatre",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 13,
+          "reviews_original": "(13)",
+          "description": "\"The most AMAZING show ever 🤩🤩🤩\"",
+          "lsig": "AB86z5WvwlOVD1vGn-0zLLs85Khd",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/zxJktPc1lZYbZ9PA_Q23D-bshUfAuXmzHJQrG8Gr9Vs.jpeg",
+          "place_id": "10232418181990330798",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10232418181990330798&q=West+End+theatre",
+          "provider_id": "/g/11y1v8y3dn",
+          "gps_coordinates": {
+            "latitude": 51.511024,
+            "longitude": -0.1298733
+          },
+          "title": "London West End Theatre® | Official Tickets Box Office",
+          "type": "Theater company",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 21,
+          "reviews_original": "(21)",
+          "description": "\"The opportunity to perform on a West Emd stage was awesome!\"",
+          "lsig": "AB86z5WAq6mRX0nqvsj3sSqb9JDS",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/up29fDFa1ZaaYuUwwDGHVnLVPs0nDQtzgJilCx9eP5w.jpeg",
+          "place_id": "12660051059725143764",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12660051059725143764&q=West+End+theatre",
+          "provider_id": "/g/1thq05nx",
+          "gps_coordinates": {
+            "latitude": 51.510273,
+            "longitude": -0.1224977
+          },
+          "title": "West End Stage - Theatre Summer School",
+          "type": "Drama school",
+          "years_in_business": "10+ years in business",
+          "address": "London, United Kingdom",
+          "hours": "Closes soon · 5 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.7,
+          "reviews": 8400,
+          "reviews_original": "(8.4K)",
+          "description": "\"The theatre is beautiful and it was beautifully decorated for the show.\"",
+          "lsig": "AB86z5WsB6zsNO6BfqKzKW5sA_i2",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/SDG5jcD-Fp8krYUQKn8Wyn2iB_sVqp8eWlxcXTWL8Ak.jpeg",
+          "place_id": "11623212331205742116",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11623212331205742116&q=West+End+theatre",
+          "provider_id": "/m/090zlj",
+          "gps_coordinates": {
+            "latitude": 51.510952,
+            "longitude": -0.135575
+          },
+          "title": "Piccadilly Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 4,
+          "rating": 4.6,
+          "reviews": 10000,
+          "reviews_original": "(10K)",
+          "description": "\"The theatre was beautiful with a gorgeous bar on the bottom floor.\"",
+          "lsig": "AB86z5WHtfkknyPI0nuik7xizrmX",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/ziKP2Ntf3ozXaNoY9gJC3LCLi6P66EVscN5SrXHvlbU.jpeg",
+          "place_id": "17599751865166877512",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17599751865166877512&q=West+End+theatre",
+          "provider_id": "/m/01hhmh",
+          "gps_coordinates": {
+            "latitude": 51.513187,
+            "longitude": -0.1294538
+          },
+          "title": "Palace Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 5,
+          "rating": 4.3,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Loved the intimate feel of this theatre with a great view from most seats.\"",
+          "lsig": "AB86z5Wc-CQheMJTMNbNs119iSMA",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/yfaHdpx4ZhSF38JmB5ESXZ3bb9xXwabEB0VZg3hCAeM.jpeg",
+          "place_id": "7280427994520234410",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7280427994520234410&q=West+End+theatre",
+          "provider_id": "/m/02tvmy",
+          "gps_coordinates": {
+            "latitude": 51.51299,
+            "longitude": -0.1279042
+          },
+          "title": "The Ambassadors Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 12000,
+          "reviews_original": "(12K)",
+          "description": "\"Beautiful interior, big stage and great acoustics and sound system.\"",
+          "lsig": "AB86z5UIbtTGmj4BrfoEG4kOh6VH",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/ffMVLvJQl3_9RAfIYXSPt4X01QJw2nc0MI7SjwcfGr4.jpeg",
+          "place_id": "2212213714039657086",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2212213714039657086&q=West+End+theatre",
+          "provider_id": "/m/056fk5",
+          "gps_coordinates": {
+            "latitude": 51.51351,
+            "longitude": -0.1307417
+          },
+          "title": "Prince Edward Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 7,
+          "rating": 4.7,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"Great views of the stage and innovative use of the space.\"",
+          "lsig": "AB86z5V37-tTbKUNzaaVLiWuQ_6w",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/Fge0BJdf0G2G2KKU7ZDn4fjzHuYfgfor6M-BsHwD4NQ.jpeg",
+          "place_id": "4889394835029772622",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4889394835029772622&q=West+End+theatre",
+          "provider_id": "/g/11t9dnww7r",
+          "gps_coordinates": {
+            "latitude": 51.515705,
+            "longitude": -0.1306083
+          },
+          "title": "@sohoplace",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 3700,
+          "reviews_original": "(3.7K)",
+          "description": "\"Small and intimate venue, quick service, friendly staff, clean facilities.\"",
+          "lsig": "AB86z5XLnPC9UDSrpuyAcGBFBQVS",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/5ayMXXRLgxOGTiRVi1fL4hEU7T0PngYMFSGSb0UqRNI.jpeg",
+          "place_id": "13561963651423110650",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=13561963651423110650&q=West+End+theatre",
+          "provider_id": "/m/056ffy",
+          "gps_coordinates": {
+            "latitude": 51.509727,
+            "longitude": -0.1342695
+          },
+          "title": "The Criterion Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 9,
+          "rating": 3.8,
+          "reviews": 11,
+          "reviews_original": "(11)",
+          "lsig": "AB86z5UuhFI56yTzxhgJAiu2oMoE",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/hd1Pc6yHbPeRwvaEED9Bwpuu9RNKJge_jjuJgDY1rdE.jpeg",
+          "place_id": "1331552381260690238",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1331552381260690238&q=West+End+theatre",
+          "provider_id": "/g/12cp2z4kj",
+          "gps_coordinates": {
+            "latitude": 51.522938,
+            "longitude": -0.1956532
+          },
+          "title": "The West End Shows",
+          "type": "Event ticket seller",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 10,
+          "rating": 4.7,
+          "reviews": 9200,
+          "reviews_original": "(9.2K)",
+          "description": "\"The acoustics and the sound was wonderful...\"",
+          "lsig": "AB86z5WQ9PFsa46c67D7qEb_SVUv",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/fHnMGYvj8badYqtXLKduvtl-bXFjgQWr5fV1i7AsoJg.jpeg",
+          "place_id": "9910713226031282168",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=9910713226031282168&q=West+End+theatre",
+          "provider_id": "/m/05c6x8",
+          "gps_coordinates": {
+            "latitude": 51.510235,
+            "longitude": -0.13209
+          },
+          "title": "Prince of Wales Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 11,
+          "rating": 4.7,
+          "reviews": 4600,
+          "reviews_original": "(4.6K)",
+          "description": "\"Friendly staff, beautiful building and a small, intimate theatre experience.\"",
+          "lsig": "AB86z5VdD0ODsjVHNRc2xeuuc8IW",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/3PB7W5GbzcNlXm-z6s1tJOinxBiAwlk7VBkiCc4dLHs.jpeg",
+          "place_id": "4845128432449491005",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4845128432449491005&q=West+End+theatre",
+          "provider_id": "/m/02tvr8",
+          "gps_coordinates": {
+            "latitude": 51.51167,
+            "longitude": -0.1331014
+          },
+          "title": "Gielgud Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 12,
+          "rating": 4.7,
+          "reviews": 10000,
+          "reviews_original": "(10K)",
+          "description": "\"The smaller theater, sound, lighting, and performance was out of this world!\"",
+          "lsig": "AB86z5V6IDh7bUYa3VlKtAvWwz8t",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/_X3UX_Xdt2pxJVc9ER9vZvA8cTTf08rF4pQqFmsI7rs.jpeg",
+          "place_id": "10927169225100619391",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10927169225100619391&q=West+End+theatre",
+          "provider_id": "/m/03dzfk",
+          "gps_coordinates": {
+            "latitude": 51.51188,
+            "longitude": -0.1325785
+          },
+          "title": "Sondheim Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 8900,
+          "reviews_original": "(8.9K)",
+          "description": "\"Quite an intimate West end theatre with good views of the stage.\"",
+          "lsig": "AB86z5XkslBVwNgxkDYaCOzbafO_",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/7SS5CQTRnlnpBxMJbL4DGcvhpankQr63kz4l1ErE-to.jpeg",
+          "place_id": "14909691366856369790",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=14909691366856369790&q=West+End+theatre",
+          "provider_id": "/m/05hyjq",
+          "gps_coordinates": {
+            "latitude": 51.512997,
+            "longitude": -0.1185571
+          },
+          "title": "Aldwych Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 16000,
+          "reviews_original": "(16K)",
+          "description": "\"The theater is beautiful, the bartenders were kind and drinks were great.\"",
+          "lsig": "AB86z5VUKARUcn6xhryNkkGH7zt5",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/2kydB2h7VGekhD_Fqpkq1bysMouyRg7vEw3pNADifhE.jpeg",
+          "place_id": "2641541697210462127",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2641541697210462127&q=West+End+theatre",
+          "provider_id": "/m/043536",
+          "gps_coordinates": {
+            "latitude": 51.508244,
+            "longitude": -0.131863
+          },
+          "title": "His Majesty's Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 15,
+          "rating": 4.6,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "description": "\"It's a intimate space so the views and sound is awesome.\"",
+          "lsig": "AB86z5WJTZ6v3rcDX0m1wlpA6L5d",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/EMkxX5tcg2jBxqKtp_R20ygaEmRJ-TlyWhGms4IKul4.jpeg",
+          "place_id": "7487530069165462137",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7487530069165462137&q=West+End+theatre",
+          "provider_id": "/m/05cqq9",
+          "gps_coordinates": {
+            "latitude": 51.51026,
+            "longitude": -0.1223685
+          },
+          "title": "Vaudeville Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 16,
+          "rating": 4.7,
+          "reviews": 5800,
+          "reviews_original": "(5.8K)",
+          "description": "\"Beautiful theater, great bar service, friendly staff.\"",
+          "lsig": "AB86z5W103AaVzPrPego52Pf-2x4",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/4ieJ-svEsoifcp4gxJxGd-VUlSV4pB25JKJr5b7xGu4.jpeg",
+          "place_id": "18337095373849513102",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18337095373849513102&q=West+End+theatre",
+          "provider_id": "/m/080phm",
+          "gps_coordinates": {
+            "latitude": 51.496662,
+            "longitude": -0.1425907
+          },
+          "title": "Victoria Palace Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 17,
+          "rating": 4.6,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "\"Comfortable seating, an enjoyable performance, and a lovely evening overall.\"",
+          "lsig": "AB86z5VYfRkht8CqSIor7qKnka9G",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/HGg8xZgcPufHk9HrXZ2aWm4EqIG9pad6Oe7HH5QYuys.jpeg",
+          "place_id": "17647890677118172177",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17647890677118172177&q=West+End+theatre",
+          "provider_id": "/m/02vrgf",
+          "gps_coordinates": {
+            "latitude": 51.50853,
+            "longitude": -0.1315475
+          },
+          "title": "Theatre Royal Haymarket",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 18,
+          "rating": 4.6,
+          "reviews": 3800,
+          "reviews_original": "(3.8K)",
+          "description": "\"Choose a seat in the front rows for a more intimate feeling and immersion.\"",
+          "lsig": "AB86z5VizJj6Kx4dhGXAGCjnEwBu",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/y1zKoxMMi6-iG84tZSQKPwXmeO5rkwtLTQ17BKL6fe8.jpeg",
+          "place_id": "8620146241358515955",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=8620146241358515955&q=West+End+theatre",
+          "provider_id": "/m/0dfmnc",
+          "gps_coordinates": {
+            "latitude": 51.511143,
+            "longitude": -0.1272381
+          },
+          "title": "Noël Coward Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 19,
+          "rating": 4.5,
+          "reviews": 7400,
+          "reviews_original": "(7.4K)",
+          "description": "Veteran playhouse for mainstream shows",
+          "lsig": "AB86z5VOgLytjoP4zgU5UDiPUUiQ",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/KrctWqHihFSheY45Q7qwivjEredtr_92CrlatYT5mQY.jpeg",
+          "place_id": "9354368858077264123",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=9354368858077264123&q=West+End+theatre",
+          "provider_id": "/m/0dr4yh",
+          "gps_coordinates": {
+            "latitude": 51.51122,
+            "longitude": -0.1337817
+          },
+          "title": "Lyric Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 3500,
+          "reviews_original": "(3.5K)",
+          "description": "\"Seats are well-elevated allowing clear viewing even at the very back.\"",
+          "lsig": "AB86z5VPZIYEnjqFPp3AfFOSWkl4",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/Gh4tTRM6P5c7N-hYg91-thWcdt2V-M-mrMiSRPo3OZ4.jpeg",
+          "place_id": "4160297709120822748",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4160297709120822748&q=West+End+theatre",
+          "provider_id": "/m/07dhb5",
+          "gps_coordinates": {
+            "latitude": 51.511124,
+            "longitude": -0.1282324
+          },
+          "title": "Wyndham's Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-04-07T11:02:35.011947",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "afternoon tea",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 3.9,
+          "reviews": 353,
+          "reviews_original": "(353)",
+          "description": "\"Always a joy to enjoy hot drinks and delicious cakes/biscuits from here.\"",
+          "lsig": "AB86z5XEOpBwE2maMG2qg7NiYtrG",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/s0oKAKVps-Oq0EPoQVOqYXrQfdtgUVjyssahCjud4fc.jpeg",
+          "place_id": "16437368137797433268",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16437368137797433268&q=afternoon+tea",
+          "provider_id": "/g/1pp2x54yf",
+          "gps_coordinates": {
+            "latitude": 52.962612,
+            "longitude": -2.203702
+          },
+          "title": "Totally Delicious - Trentham Gardens (Tea Room)",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom"
+        },
+        {
+          "position": 2,
+          "rating": 4.9,
+          "reviews": 747,
+          "reviews_original": "(747)",
+          "description": "\"Afternoon tea was delicious, decor is amazing, staff are very helpful\"",
+          "lsig": "AB86z5W8Tt6vSYbNbxUjswv0SFMj",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/S9mnmRn11H858hwOJgB3jhhWxviHl7L9hlGzuTCgS8M.jpeg",
+          "place_id": "2172760165194436610",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2172760165194436610&q=afternoon+tea",
+          "provider_id": "/g/11g07flb20",
+          "gps_coordinates": {
+            "latitude": 53.003685,
+            "longitude": -2.1827347
+          },
+          "title": "The Rabbit Hole Tea Room",
+          "type": "Tea house",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closed · Opens 11:30 AM Thu"
+        },
+        {
+          "position": 3,
+          "rating": 4.5,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "description": "\"Beautiful setting, lovely food, great service and atmosphere.\"",
+          "lsig": "AB86z5WNVXgqSXsHdH7qkCDZ4Y5_",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/1kXtOiwZ7cAd3pinhHPVl58VhTcdn41Uer75ijItyP4.jpeg",
+          "place_id": "12544583344277738009",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12544583344277738009&q=afternoon+tea",
+          "provider_id": "/g/1tkf0hmn",
+          "gps_coordinates": {
+            "latitude": 52.885433,
+            "longitude": -2.1225936
+          },
+          "title": "Aston Marina",
+          "type": "Restaurant",
+          "address": "Stone, United Kingdom"
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "description": "\"The quality of the afternoon tea was really good quality and plentiful.\"",
+          "lsig": "AB86z5UJuY-reBs1ZfDdILZIAwVs",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/zF9YZYdIZ0OoCyniZjEuPk0Kq56_sDggzL7TJtse0Yk.jpeg",
+          "place_id": "519876976854173543",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=519876976854173543&q=afternoon+tea",
+          "provider_id": "/g/1pxyd8knw",
+          "gps_coordinates": {
+            "latitude": 52.84057,
+            "longitude": -2.0515354
+          },
+          "title": "Weston Hall - Stafford",
+          "type": "Restaurant",
+          "address": "Stafford, United Kingdom"
+        },
+        {
+          "position": 5,
+          "rating": 4.5,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"Fantastic afternoon tea and lovely staff and service\"",
+          "lsig": "AB86z5Wm-8ST2AxaeCneAkriLdJE",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/D29HjfspzCKEeYl6d1E4NKGQs6CrNk4UQYDXL9DIPSM.jpeg",
+          "place_id": "12117312474251093924",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12117312474251093924&q=afternoon+tea",
+          "provider_id": "/g/1tqpysg_",
+          "gps_coordinates": {
+            "latitude": 52.941948,
+            "longitude": -2.1008217
+          },
+          "title": "Moddershall Oaks Country Spa Retreat",
+          "type": "Restaurant",
+          "address": "Stone, United Kingdom"
+        },
+        {
+          "position": 6,
+          "rating": 4.8,
+          "reviews": 570,
+          "reviews_original": "(570)",
+          "description": "\"Lovely staff, fresh made food and a quirky decor Loved it ❤️\"",
+          "lsig": "AB86z5XMSaQn-SlQvF9iZ18hSD9i",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/X73qPLlcqJ79nn06YsaWvCF4vhysqPjjKK_aVKtExkE.jpeg",
+          "place_id": "613466236258949643",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=613466236258949643&q=afternoon+tea",
+          "provider_id": "/g/11bwyyn5mm",
+          "gps_coordinates": {
+            "latitude": 53.009827,
+            "longitude": -2.2258441
+          },
+          "title": "Bygones Tearoom",
+          "type": "Tea house",
+          "address": "Newcastle, United Kingdom",
+          "hours": "Closed · Opens 8:45 AM Wed"
+        },
+        {
+          "position": 7,
+          "rating": 4.5,
+          "reviews": 236,
+          "reviews_original": "(236)",
+          "description": "\"Fab afternoon tea in a lovely setting and fantastic staff.\"",
+          "lsig": "AB86z5VJJQ2icf8Low3ICZ0ToKa-",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/SKkM9-8AVXBpb3nu-iXY3kbbGnjQNxcov5sF1j2sgU8.jpeg",
+          "place_id": "16543057937043660221",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16543057937043660221&q=afternoon+tea",
+          "provider_id": "/g/11j0tlq94l",
+          "gps_coordinates": {
+            "latitude": 52.954792,
+            "longitude": -2.1703806
+          },
+          "title": "Wedgwood Tea Room",
+          "type": "Tea house",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closes soon · 5 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 341,
+          "reviews_original": "(341)",
+          "description": "\"Wonderful little tea room ,great food ,lovely staff well worth the visit .\"",
+          "lsig": "AB86z5XyfHiDhCQpuAyeRn8L7jGd",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/-FkeFPsPQmw3SQpoHH8cwqe2tFtEc_WwX6eWcO73vs4.jpeg",
+          "place_id": "1183085978569892686",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1183085978569892686&q=afternoon+tea",
+          "provider_id": "/g/11clyh78p8",
+          "gps_coordinates": {
+            "latitude": 52.692654,
+            "longitude": -2.1245809
+          },
+          "title": "Cyril's Tearoom",
+          "type": "Tea house",
+          "address": "United Kingdom",
+          "hours": "Closed · Opens 9:30 AM Wed"
+        },
+        {
+          "position": 9,
+          "rating": 4.7,
+          "reviews": 660,
+          "reviews_original": "(660)",
+          "description": "\"Amazing 🤩 afternoon tea very good food organising and great service\"",
+          "lsig": "AB86z5VzeBQhTteELne5t_cCu7Zc",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/Ck1gM-mTfeECPOO2VV2JQyBavtw5SqEQ7Z_5Ze_WZOM.jpeg",
+          "place_id": "15545601195855180775",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15545601195855180775&q=afternoon+tea",
+          "provider_id": "/g/11bxw8_mj_",
+          "gps_coordinates": {
+            "latitude": 52.9658,
+            "longitude": -2.2844262
+          },
+          "title": "Whitmore Tea Rooms",
+          "type": "Tea house",
+          "address": "Newcastle, United Kingdom",
+          "hours": "Closed · Opens 10:30 AM Thu"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 883,
+          "reviews_original": "(883)",
+          "price": "£10–20",
+          "description": "\"The food was amazing and the scones were out of this world.\"",
+          "lsig": "AB86z5WgvCOL8WXxYCyTMUiZSssB",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/Wi36FlXzr4PFE1Aewo70g7o9qh7czGW9Rejy04vqjEo.jpeg",
+          "place_id": "5147591672478707574",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5147591672478707574&q=afternoon+tea",
+          "provider_id": "/g/11g7nrn6_j",
+          "gps_coordinates": {
+            "latitude": 53.02643,
+            "longitude": -1.9616034
+          },
+          "title": "Hetty's Tea Shop",
+          "type": "Coffee shop",
+          "address": "United Kingdom",
+          "hours": "Closed · Opens 10 AM Thu"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 925,
+          "reviews_original": "(925)",
+          "price": "£20–30",
+          "description": "\"Fabulous food, excellent staff, gorgeous atmosphere and decor.\"",
+          "lsig": "AB86z5UWFbQsF2C3LqYcPHfU3ZnH",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/8WufXPX5I3mDA1YKRSHB3fzBoGrGN3WutLqhBLBDwoQ.png",
+          "place_id": "15970866957105833643",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15970866957105833643&q=afternoon+tea",
+          "provider_id": "/g/11hm_96c4m",
+          "gps_coordinates": {
+            "latitude": 53.005512,
+            "longitude": -2.1853023
+          },
+          "title": "the QUARTER at Potbank",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closed · Opens 10 AM Wed"
+        },
+        {
+          "position": 12,
+          "rating": 4.9,
+          "reviews": 84,
+          "reviews_original": "(84)",
+          "lsig": "AB86z5UfBJx0CfYLzPgrceaZJk03",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/qsqrNQebsmMW1J6K1pdwz34jZkZCjwhx8ilgQ3KqcLg.jpeg",
+          "place_id": "11236033953104145487",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11236033953104145487&q=afternoon+tea",
+          "provider_id": "/g/12nq93mym",
+          "gps_coordinates": {
+            "latitude": 52.89439,
+            "longitude": -2.0777576
+          },
+          "title": "Oak Tree Farm Rural Project",
+          "type": "Tea house",
+          "address": "Stone, United Kingdom",
+          "hours": "Closed · Opens 10 AM Wed",
+          "extensions": [
+            "Menu highlight: afternoon tea"
+          ]
+        },
+        {
+          "position": 13,
+          "rating": 4.4,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "description": "\"The setting is beautiful, the staff were fab and the food was delicious!\"",
+          "lsig": "AB86z5XSBu-xIUi67KhtMuuCUwVK",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/H9nn_Z5ltNkEnAGWpd-e2Gg8Z-rvnuT5YmUionVbJrY.jpeg",
+          "place_id": "114432325280368338",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=114432325280368338&q=afternoon+tea",
+          "provider_id": "/g/11f3n25k8y",
+          "gps_coordinates": {
+            "latitude": 52.679638,
+            "longitude": -2.679568
+          },
+          "title": "The Mytton & Mermaid",
+          "type": "Pub",
+          "address": "Shrewsbury, United Kingdom"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 784,
+          "reviews_original": "(784)",
+          "lsig": "AB86z5VUS_8gUUUPysECArcAmX59",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/_6buF46SAFBUcdMaersettYQTurF3IzTvIZV2OGFOXs.jpeg",
+          "place_id": "11096384088301656667",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11096384088301656667&q=afternoon+tea",
+          "provider_id": "/g/1v2kwzkw",
+          "gps_coordinates": {
+            "latitude": 52.97427,
+            "longitude": -2.062409
+          },
+          "title": "Heath House Farm",
+          "type": "Tea house",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closes soon · 4:30 PM",
+          "extensions": [
+            "Menu highlight: afternoon tea"
+          ]
+        },
+        {
+          "position": 15,
+          "rating": 4.4,
+          "reviews": 732,
+          "reviews_original": "(732)",
+          "price": "£10–20",
+          "description": "\"Delicious afternoon tea with great service - really enjoyed our visit!\"",
+          "lsig": "AB86z5XjcWIp0LqyUWXXOOdImFYk",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/CG7dRzo7I_wrzLnYinbJwPlaMztivJBlY9n2G-lf7wo.jpeg",
+          "place_id": "1983027531285871252",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1983027531285871252&q=afternoon+tea",
+          "provider_id": "/g/1v62h2sk",
+          "gps_coordinates": {
+            "latitude": 52.598324,
+            "longitude": -2.1678298
+          },
+          "title": "Gluttons for Nourishment",
+          "type": "Coffee shop",
+          "address": "Wolverhampton, United Kingdom",
+          "hours": "Closed · Opens 9 AM Wed"
+        },
+        {
+          "position": 16,
+          "rating": 4.5,
+          "reviews": 759,
+          "reviews_original": "(759)",
+          "price": "£10–20",
+          "description": "\"Delicious food and drinks and even cream teas all with friendly service.\"",
+          "lsig": "AB86z5X68_2HoOhRGg1dr-IMornR",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/y2EG8yPXW69p-c_VGjdJ3A1sSkKScWcranlt9Rm1mjQ.jpeg",
+          "place_id": "12722073340909604814",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12722073340909604814&q=afternoon+tea",
+          "provider_id": "/g/1hc4fccnp",
+          "gps_coordinates": {
+            "latitude": 52.74591,
+            "longitude": -2.0330637
+          },
+          "title": "Springslade Lodge",
+          "type": "Cafe",
+          "address": "Camp Rd",
+          "hours": "Closed · Opens 10:30 AM Wed"
+        },
+        {
+          "position": 17,
+          "rating": 4.7,
+          "reviews": 432,
+          "reviews_original": "(432)",
+          "price": "£1–10",
+          "description": "\"Super tasty afternoon tea, delightful atmosphere.\"",
+          "lsig": "AB86z5UxPTEsc3KTQRG2cdFoONmf",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/P_zYUtaduVtqZWNHctvjIiI7mwRUvvILtI71i9-B9W8.jpeg",
+          "place_id": "15933948406055747108",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15933948406055747108&q=afternoon+tea",
+          "provider_id": "/g/11c1wsy3fx",
+          "gps_coordinates": {
+            "latitude": 52.808147,
+            "longitude": -2.1161318
+          },
+          "title": "Cup a Cha",
+          "type": "Cafe",
+          "address": "Stafford, United Kingdom",
+          "hours": "Closed · Opens 9 AM Wed"
+        },
+        {
+          "position": 18,
+          "rating": 4.8,
+          "reviews": 143,
+          "reviews_original": "(143)",
+          "description": "\"The service, the cleanliness, the food, all is second to none.\"",
+          "lsig": "AB86z5X-esbP6Pc8a7-b07LAI07p",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/s14RygpRrbAmUaU4AeR3vSo3nU8fv-kTdJWGTOsl3zI.jpeg",
+          "place_id": "2629838047334495523",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2629838047334495523&q=afternoon+tea",
+          "provider_id": "/g/11d_wnl6r5",
+          "gps_coordinates": {
+            "latitude": 52.901783,
+            "longitude": -2.1469734
+          },
+          "title": "The Secret Tea Room",
+          "type": "Tea house",
+          "address": "Stone, United Kingdom",
+          "hours": "Closed · Opens 10 AM Wed"
+        },
+        {
+          "position": 19,
+          "rating": 4.6,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"Lovely setting afternoon tea was delicious.\"",
+          "lsig": "AB86z5XgjfX6e2LV-slGTJSTJiU6",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/ibFV9KQH0lZ2LZ4JMBi-KZJ-rCYOCOW3EfaCa6qKdOM.jpeg",
+          "place_id": "16766892904527474291",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16766892904527474291&q=afternoon+tea",
+          "provider_id": "/g/1tc_dsyy",
+          "gps_coordinates": {
+            "latitude": 52.939396,
+            "longitude": -2.1578698
+          },
+          "title": "The Upper House",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom"
+        },
+        {
+          "position": 20,
+          "rating": 4.7,
+          "reviews": 347,
+          "reviews_original": "(347)",
+          "description": "\"Went here for afternoon tea, lovely food - filled me to the brim!\"",
+          "lsig": "AB86z5WMMPwMQQ7jFVnSBYYrvsdV",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/WysEVOE7kV4juQy6aieVW9RtnwvW-Qis23W_H7k3VlE.jpeg",
+          "place_id": "16028952285301263123",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16028952285301263123&q=afternoon+tea",
+          "provider_id": "/g/1tj45fgk",
+          "gps_coordinates": {
+            "latitude": 52.85241,
+            "longitude": -2.436207
+          },
+          "title": "Goldstone Hall Hotel",
+          "type": "Restaurant",
+          "address": "Market Drayton, United Kingdom"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:46:24.033739",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "breakfast included",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "lsig": "AB86z5UClVaxea1hUZRoFDxu4ljc",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/RaZuixyGL9a1XcxeGZN2jqVWN593LvjCo-WHt9io_L4.jpeg",
+          "place_id": "15404973770745631663",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15404973770745631663&q=breakfast+included",
+          "provider_id": "/g/11z21bk85q",
+          "gps_coordinates": {
+            "latitude": 53.8123,
+            "longitude": -3.04806
+          },
+          "title": "PONDEROSA BB with free onsite parking and breakfast included - Deluxe Double Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 2,
+          "lsig": "AB86z5XiapWZGgtiu9Pf6hJvSIne",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/kSjoy34weEhDE0muWTnUiUs21lovJ-uFmg3rTjdH0M0.jpeg",
+          "place_id": "18278625947538961414",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18278625947538961414&q=breakfast+included",
+          "provider_id": "/g/11z21bdcbz",
+          "gps_coordinates": {
+            "latitude": 52.37323,
+            "longitude": -2.71351
+          },
+          "title": "Henwick house accommodation, Continental breakfast included - Deluxe Double or Twin Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 3,
+          "lsig": "AB86z5VPrS3khwhhIsXp5NVnYVgQ",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/KK2igSyGJ7UfvNf2GVr33bwVY9oSm20TDKhmJn_ZuHg.jpeg",
+          "place_id": "17228435810038671350",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17228435810038671350&q=breakfast+included",
+          "provider_id": "/g/11zksyltc8",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Deluxe Twin Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 4,
+          "lsig": "AB86z5XFgzgEDbKsOO0j9RzR-9Mi",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/8tX1M5wazrmwyNCONuOmseNeZdZUHZGIBJRFl3IuJcI.jpeg",
+          "place_id": "6678550715172504228",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=6678550715172504228&q=breakfast+included",
+          "provider_id": "/g/11z14398fl",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Comfort Triple Room",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 5,
+          "lsig": "AB86z5WXQC-jadpSiXLhx8IQahZt",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/1T8VUQPEFi-X5bnFTUw8kUny82rHn49uthEGw_JQ7lg.jpeg",
+          "place_id": "4516382050517711735",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4516382050517711735&q=breakfast+included",
+          "provider_id": "/g/11n9c9gvm4",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Single Room with Shared Bathroom",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 631,
+          "reviews_original": "(631)",
+          "price": "£20–30",
+          "description": "\"Breakfasts are huge and excellent quality.\"",
+          "lsig": "AB86z5XZNW0xeN9RVVcx_zEHXCsh",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/vscWoxPB8oTmxSM7uUmLY-fPTfRlTH1hLO9tHXWBZBk.jpeg",
+          "place_id": "7184959262707728364",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7184959262707728364&q=breakfast+included",
+          "provider_id": "/g/1tf2rrxh",
+          "gps_coordinates": {
+            "latitude": 52.82538,
+            "longitude": -2.2994502
+          },
+          "title": "The Cock Inn",
+          "type": "Pub",
+          "address": "Stafford, United Kingdom"
+        },
+        {
+          "position": 7,
+          "rating": 4.3,
+          "reviews": 462,
+          "reviews_original": "(462)",
+          "lsig": "AB86z5VSl6N0pSZurVwLiWbJLvrc",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/0eh_YJNzite16b6KDiKkQoZIQWq4QSibeRnidkINXb4.jpeg",
+          "place_id": "16994778199456617565",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16994778199456617565&q=breakfast+included",
+          "provider_id": "/g/1tj7_hq5",
+          "gps_coordinates": {
+            "latitude": 52.884594,
+            "longitude": -2.4727263
+          },
+          "title": "The Four Alls Inn",
+          "type": "Pub",
+          "address": "Market Drayton, United Kingdom",
+          "extensions": [
+            "Menu highlight: breakfast included"
+          ]
+        },
+        {
+          "position": 8,
+          "lsig": "AB86z5XZWlTIvY_HYM4w3AXHFz5W",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/mEE-o_TB1xMLQNh6AtD6dC7OfHgmuyDtRmFxVAW90cg.jpeg",
+          "place_id": "11047441939711796028",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11047441939711796028&q=breakfast+included",
+          "provider_id": "/g/11n9c92qyl",
+          "gps_coordinates": {
+            "latitude": 51.81525,
+            "longitude": -0.79864
+          },
+          "title": "The Townhouse B and B free continental breakfast included - Triple Room with Private Bathroom",
+          "reviews_original": "No reviews",
+          "type": "Vacation rental"
+        },
+        {
+          "position": 9,
+          "rating": 4.0,
+          "reviews": 59,
+          "reviews_original": "(59)",
+          "description": "\"The food was excellent and reasonably priced.\"",
+          "lsig": "AB86z5VS0os8DnbSdG2onyEyCkrj",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/oyPfGGur3IVA_0vytMZoXehoqfDfXyAlJqKzok4btIo.jpeg",
+          "place_id": "5073631903497603791",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5073631903497603791&q=breakfast+included",
+          "provider_id": "/g/11sy71d_zs",
+          "gps_coordinates": {
+            "latitude": 52.94116,
+            "longitude": -2.1022134
+          },
+          "title": "The Oak House Restaurant and Balcony Bar (located at Moddershall Oaks)",
+          "type": "Restaurant",
+          "address": "Stone, United Kingdom"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 661,
+          "reviews_original": "(661)",
+          "description": "\"Great price, clean and tidy with a great breakfast included.\"",
+          "lsig": "AB86z5UKF1yGk_U9bmQboP_nAD7L",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8xExPH6dHiB2G7zVYaQSAE4k84pGMoYJpDlzR1Ld_Bgm0wsPQ-JVHKke85MQv63mN7lGXXavL5-XD-jSU4cKTXRwoA43EAoRKq6WZwoRf5_V0TnsZKwlTi1TKAfSSRJ4do6MA9g=w90-h90-n-k-no-l75",
+          "place_id": "5642813689266681082",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5642813689266681082&q=breakfast+included",
+          "provider_id": "/g/1v16pv7f",
+          "gps_coordinates": {
+            "latitude": 52.98636,
+            "longitude": -2.3657565
+          },
+          "title": "The Wheatsheaf Inn, Onneley",
+          "type": "Restaurant",
+          "address": "Crewe, United Kingdom"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 599,
+          "reviews_original": "(599)",
+          "description": "\"(Georgia, kay and leora) full English breakfast included very good quality.\"",
+          "lsig": "AB86z5X2O1A98veRn9N_M9_8StJX",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/9UHYWdiRzB0k-QoteGJCjDZ73Qm0Z01dvAG7a07J0dY.jpeg",
+          "place_id": "18227072324007448915",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18227072324007448915&q=breakfast+included",
+          "provider_id": "/g/1wf218wh",
+          "gps_coordinates": {
+            "latitude": 52.583282,
+            "longitude": -1.9775226
+          },
+          "title": "Lyndon House - Walsall",
+          "type": "Restaurant",
+          "address": "Walsall, United Kingdom"
+        },
+        {
+          "position": 12,
+          "rating": 4.6,
+          "reviews": 452,
+          "reviews_original": "(452)",
+          "price": "£10–20",
+          "description": "\"Amazing \"Big Breakfast \" hot tasty and filling.\"",
+          "lsig": "AB86z5W5DkZm5pFvb7Uy-aj3rpMH",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/-KDIe3fVXHppaPyuzmi8aGNwYBgeve6cMKla_u732YA.jpeg",
+          "place_id": "8133590567881488682",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=8133590567881488682&q=breakfast+included",
+          "provider_id": "/g/11kpt62kkc",
+          "gps_coordinates": {
+            "latitude": 52.633358,
+            "longitude": -2.4936647
+          },
+          "title": "Embers Cafe",
+          "type": "Cafe",
+          "address": "Telford, United Kingdom",
+          "hours": "Closed · Opens 9 AM Wed"
+        },
+        {
+          "position": 13,
+          "rating": 4.7,
+          "reviews": 373,
+          "reviews_original": "(373)",
+          "price": "£10–20",
+          "description": "\"Great breakfast, good choice, huge portion, great price in fab surroundings\"",
+          "lsig": "AB86z5UqqoF-Kta3oXOSsJfc0eeR",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/P3M1Cc4Wz1YzkZUMMOIEgLffhmEiSiORQajGCd7CqdU.jpeg",
+          "place_id": "16932280417016303154",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16932280417016303154&q=breakfast+included",
+          "provider_id": "/g/11pz8_1rrt",
+          "gps_coordinates": {
+            "latitude": 52.993607,
+            "longitude": -1.9694978
+          },
+          "title": "The Grosvenor at Hales Hall",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom"
+        },
+        {
+          "position": 14,
+          "rating": 4.2,
+          "reviews": 692,
+          "reviews_original": "(692)",
+          "description": "\"Breakfast was lovely and the service was exceptionally polite and friendly.\"",
+          "lsig": "AB86z5UhSgk_cqaAWwVyGz5xlsfI",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/aOUrii9gETlw7tx9GdfsFAByzCfWwEGW4HeahDYzEfQ.jpeg",
+          "place_id": "12438970921166185901",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12438970921166185901&q=breakfast+included",
+          "provider_id": "/g/11wtm82967",
+          "gps_coordinates": {
+            "latitude": 52.72559,
+            "longitude": -2.4288394
+          },
+          "title": "The Sutherland",
+          "type": "Restaurant",
+          "address": "Telford, United Kingdom"
+        },
+        {
+          "position": 15,
+          "rating": 4.2,
+          "reviews": 814,
+          "reviews_original": "(814)",
+          "description": "\"Breakfast which is included in the room rate was traditional and tasty.\"",
+          "lsig": "AB86z5UBHE7PeCzFSou2mHmR2Unu",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/fLqGuN6Szv2BYc9O7cq2R-wTHsUIZT1dBxSsez5crVc.jpeg",
+          "place_id": "16663050242373014720",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16663050242373014720&q=breakfast+included",
+          "provider_id": "/g/1tffj9ck",
+          "gps_coordinates": {
+            "latitude": 52.788364,
+            "longitude": -2.3659363
+          },
+          "title": "Swan Hotel Forton",
+          "type": "Pub",
+          "address": "Newport, United Kingdom"
+        },
+        {
+          "position": 16,
+          "rating": 4.3,
+          "reviews": 866,
+          "reviews_original": "(866)",
+          "description": "\"Lovely breakfast included in the cost of the room.\"",
+          "lsig": "AB86z5Ue9wusBQBhcg9IyiAfc1i1",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/B1KdpVBOPpR9KFZ0SPHXU9RRHLBhiZWp54bj5-Ha928.jpeg",
+          "place_id": "11510886127509905511",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11510886127509905511&q=breakfast+included",
+          "provider_id": "/g/1td3l0gr",
+          "gps_coordinates": {
+            "latitude": 52.631855,
+            "longitude": -2.5026865
+          },
+          "title": "The Water Rat Inn",
+          "type": "Restaurant",
+          "address": "Telford, United Kingdom"
+        },
+        {
+          "position": 17,
+          "rating": 4.2,
+          "reviews": 4200,
+          "reviews_original": "(4.2K)",
+          "price": "£10–20",
+          "description": "\"Nice breakfast for a fair price in a great location.\"",
+          "lsig": "AB86z5WoEF1aS8CxUd5xNbcegGEk",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/R1ay7REPjRonhDLjwYa6ZrKfkPmWb7zoQNgBQ1jRGC4.jpeg",
+          "place_id": "10088467788360501544",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10088467788360501544&q=breakfast+included",
+          "provider_id": "/g/1wk4chlb",
+          "gps_coordinates": {
+            "latitude": 52.56559,
+            "longitude": -1.8791322
+          },
+          "title": "Toby Carvery Streetly",
+          "type": "Carvery",
+          "address": "Sutton Coldfield, United Kingdom"
+        },
+        {
+          "position": 18,
+          "rating": 4.5,
+          "reviews": 649,
+          "reviews_original": "(649)",
+          "price": "£10–20",
+          "description": "\"Perfect setting, very good tasty 'homely' food, great value, great service.\"",
+          "lsig": "AB86z5UhDJCTNXS5_OBfKTgW7sWK",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/7UxeP_5LVNnpbKcrXbDWlRow46sOM-zVlKBLMLIrGok.jpeg",
+          "place_id": "13527619552317490816",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=13527619552317490816&q=breakfast+included",
+          "provider_id": "/g/1ttdxzv_",
+          "gps_coordinates": {
+            "latitude": 52.802933,
+            "longitude": -2.3082917
+          },
+          "title": "Junction Inn",
+          "type": "Pub",
+          "address": "Stafford, United Kingdom",
+          "hours": "Closed · Opens 12 PM Wed"
+        },
+        {
+          "position": 19,
+          "rating": 4.5,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "description": "\"We booked two nights it showed the price with breakfast included.\"",
+          "lsig": "AB86z5UJuY-reBs1ZfDdILZIAwVs",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/y1EEeNhlOGbXPL-7gsBtZanjRa2lKAP3CtKcuPFztvY.jpeg",
+          "place_id": "519876976854173543",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=519876976854173543&q=breakfast+included",
+          "provider_id": "/g/1pxyd8knw",
+          "gps_coordinates": {
+            "latitude": 52.84057,
+            "longitude": -2.0515354
+          },
+          "title": "Weston Hall - Stafford",
+          "type": "Hotel",
+          "address": "Stafford, United Kingdom"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 440,
+          "reviews_original": "(440)",
+          "description": "\"Breakfast is fantastic, everything is fresh and cooked just as you like it.\"",
+          "lsig": "AB86z5XysE0aZ2nygs2N3T07Fdzd",
+          "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/ar4q_VWVNJGhlloch4NYj1fFq-UyjcuDyz5hYE4d6-g.jpeg",
+          "place_id": "3159478649332149395",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=3159478649332149395&q=breakfast+included",
+          "provider_id": "/g/1tfwphh0",
+          "gps_coordinates": {
+            "latitude": 52.85909,
+            "longitude": -2.251101
+          },
+          "title": "The Kings Arms Hotel",
+          "type": "Pub",
+          "address": "Stafford, United Kingdom"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:46:24.052521",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "British Museum",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 171000,
+          "reviews_original": "(171K)",
+          "description": "Museum housing many famous antiquities",
+          "lsig": "AB86z5XYTdzs7cPNKxEcaY9VMWXn",
+          "thumbnail": "https://serpapi.com/searches/69d51c73c2bb99858cf2b207/images/YLL0Nz7UwLJBTBQU-fm_-BK9nsxdUSvVIdn24x8RFAk.jpeg",
+          "place_id": "3436696222068785831",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=3436696222068785831&q=British+Museum",
+          "provider_id": "/m/01hb3",
+          "gps_coordinates": {
+            "latitude": 51.519413,
+            "longitude": -0.1269566
+          },
+          "title": "The British Museum",
+          "type": "Museum",
+          "address": "Great Russell St",
+          "hours": "Closes soon · 5 PM"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:46:24.071499",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "West End theatre",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews": 13,
+          "reviews_original": "(13)",
+          "description": "\"The most AMAZING show ever 🤩🤩🤩\"",
+          "lsig": "AB86z5WvwlOVD1vGn-0zLLs85Khd",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/zxJktPc1lZYbZ9PA_Q23D-bshUfAuXmzHJQrG8Gr9Vs.jpeg",
+          "place_id": "10232418181990330798",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10232418181990330798&q=West+End+theatre",
+          "provider_id": "/g/11y1v8y3dn",
+          "gps_coordinates": {
+            "latitude": 51.511024,
+            "longitude": -0.1298733
+          },
+          "title": "London West End Theatre® | Official Tickets Box Office",
+          "type": "Theater company",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 21,
+          "reviews_original": "(21)",
+          "description": "\"The opportunity to perform on a West Emd stage was awesome!\"",
+          "lsig": "AB86z5WAq6mRX0nqvsj3sSqb9JDS",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/up29fDFa1ZaaYuUwwDGHVnLVPs0nDQtzgJilCx9eP5w.jpeg",
+          "place_id": "12660051059725143764",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12660051059725143764&q=West+End+theatre",
+          "provider_id": "/g/1thq05nx",
+          "gps_coordinates": {
+            "latitude": 51.510273,
+            "longitude": -0.1224977
+          },
+          "title": "West End Stage - Theatre Summer School",
+          "type": "Drama school",
+          "years_in_business": "10+ years in business",
+          "address": "London, United Kingdom",
+          "hours": "Closes soon · 5 PM"
+        },
+        {
+          "position": 3,
+          "rating": 4.7,
+          "reviews": 8400,
+          "reviews_original": "(8.4K)",
+          "description": "\"The theatre is beautiful and it was beautifully decorated for the show.\"",
+          "lsig": "AB86z5WsB6zsNO6BfqKzKW5sA_i2",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/SDG5jcD-Fp8krYUQKn8Wyn2iB_sVqp8eWlxcXTWL8Ak.jpeg",
+          "place_id": "11623212331205742116",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11623212331205742116&q=West+End+theatre",
+          "provider_id": "/m/090zlj",
+          "gps_coordinates": {
+            "latitude": 51.510952,
+            "longitude": -0.135575
+          },
+          "title": "Piccadilly Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 4,
+          "rating": 4.6,
+          "reviews": 10000,
+          "reviews_original": "(10K)",
+          "description": "\"The theatre was beautiful with a gorgeous bar on the bottom floor.\"",
+          "lsig": "AB86z5WHtfkknyPI0nuik7xizrmX",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/ziKP2Ntf3ozXaNoY9gJC3LCLi6P66EVscN5SrXHvlbU.jpeg",
+          "place_id": "17599751865166877512",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17599751865166877512&q=West+End+theatre",
+          "provider_id": "/m/01hhmh",
+          "gps_coordinates": {
+            "latitude": 51.513187,
+            "longitude": -0.1294538
+          },
+          "title": "Palace Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 5,
+          "rating": 4.3,
+          "reviews": 1200,
+          "reviews_original": "(1.2K)",
+          "description": "\"Loved the intimate feel of this theatre with a great view from most seats.\"",
+          "lsig": "AB86z5Wc-CQheMJTMNbNs119iSMA",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/yfaHdpx4ZhSF38JmB5ESXZ3bb9xXwabEB0VZg3hCAeM.jpeg",
+          "place_id": "7280427994520234410",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7280427994520234410&q=West+End+theatre",
+          "provider_id": "/m/02tvmy",
+          "gps_coordinates": {
+            "latitude": 51.51299,
+            "longitude": -0.1279042
+          },
+          "title": "The Ambassadors Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 12000,
+          "reviews_original": "(12K)",
+          "description": "\"Beautiful interior, big stage and great acoustics and sound system.\"",
+          "lsig": "AB86z5UIbtTGmj4BrfoEG4kOh6VH",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/ffMVLvJQl3_9RAfIYXSPt4X01QJw2nc0MI7SjwcfGr4.jpeg",
+          "place_id": "2212213714039657086",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2212213714039657086&q=West+End+theatre",
+          "provider_id": "/m/056fk5",
+          "gps_coordinates": {
+            "latitude": 51.51351,
+            "longitude": -0.1307417
+          },
+          "title": "Prince Edward Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 7,
+          "rating": 4.7,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"Great views of the stage and innovative use of the space.\"",
+          "lsig": "AB86z5V37-tTbKUNzaaVLiWuQ_6w",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/Fge0BJdf0G2G2KKU7ZDn4fjzHuYfgfor6M-BsHwD4NQ.jpeg",
+          "place_id": "4889394835029772622",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4889394835029772622&q=West+End+theatre",
+          "provider_id": "/g/11t9dnww7r",
+          "gps_coordinates": {
+            "latitude": 51.515705,
+            "longitude": -0.1306083
+          },
+          "title": "@sohoplace",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 3700,
+          "reviews_original": "(3.7K)",
+          "description": "\"Small and intimate venue, quick service, friendly staff, clean facilities.\"",
+          "lsig": "AB86z5XLnPC9UDSrpuyAcGBFBQVS",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/5ayMXXRLgxOGTiRVi1fL4hEU7T0PngYMFSGSb0UqRNI.jpeg",
+          "place_id": "13561963651423110650",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=13561963651423110650&q=West+End+theatre",
+          "provider_id": "/m/056ffy",
+          "gps_coordinates": {
+            "latitude": 51.509727,
+            "longitude": -0.1342695
+          },
+          "title": "The Criterion Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 9,
+          "rating": 3.8,
+          "reviews": 11,
+          "reviews_original": "(11)",
+          "lsig": "AB86z5UuhFI56yTzxhgJAiu2oMoE",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/hd1Pc6yHbPeRwvaEED9Bwpuu9RNKJge_jjuJgDY1rdE.jpeg",
+          "place_id": "1331552381260690238",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1331552381260690238&q=West+End+theatre",
+          "provider_id": "/g/12cp2z4kj",
+          "gps_coordinates": {
+            "latitude": 51.522938,
+            "longitude": -0.1956532
+          },
+          "title": "The West End Shows",
+          "type": "Event ticket seller",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 10,
+          "rating": 4.7,
+          "reviews": 9200,
+          "reviews_original": "(9.2K)",
+          "description": "\"The acoustics and the sound was wonderful...\"",
+          "lsig": "AB86z5WQ9PFsa46c67D7qEb_SVUv",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/fHnMGYvj8badYqtXLKduvtl-bXFjgQWr5fV1i7AsoJg.jpeg",
+          "place_id": "9910713226031282168",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=9910713226031282168&q=West+End+theatre",
+          "provider_id": "/m/05c6x8",
+          "gps_coordinates": {
+            "latitude": 51.510235,
+            "longitude": -0.13209
+          },
+          "title": "Prince of Wales Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 11,
+          "rating": 4.7,
+          "reviews": 4600,
+          "reviews_original": "(4.6K)",
+          "description": "\"Friendly staff, beautiful building and a small, intimate theatre experience.\"",
+          "lsig": "AB86z5VdD0ODsjVHNRc2xeuuc8IW",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/3PB7W5GbzcNlXm-z6s1tJOinxBiAwlk7VBkiCc4dLHs.jpeg",
+          "place_id": "4845128432449491005",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4845128432449491005&q=West+End+theatre",
+          "provider_id": "/m/02tvr8",
+          "gps_coordinates": {
+            "latitude": 51.51167,
+            "longitude": -0.1331014
+          },
+          "title": "Gielgud Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 12,
+          "rating": 4.7,
+          "reviews": 10000,
+          "reviews_original": "(10K)",
+          "description": "\"The smaller theater, sound, lighting, and performance was out of this world!\"",
+          "lsig": "AB86z5V6IDh7bUYa3VlKtAvWwz8t",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/_X3UX_Xdt2pxJVc9ER9vZvA8cTTf08rF4pQqFmsI7rs.jpeg",
+          "place_id": "10927169225100619391",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10927169225100619391&q=West+End+theatre",
+          "provider_id": "/m/03dzfk",
+          "gps_coordinates": {
+            "latitude": 51.51188,
+            "longitude": -0.1325785
+          },
+          "title": "Sondheim Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 13,
+          "rating": 4.6,
+          "reviews": 8900,
+          "reviews_original": "(8.9K)",
+          "description": "\"Quite an intimate West end theatre with good views of the stage.\"",
+          "lsig": "AB86z5XkslBVwNgxkDYaCOzbafO_",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/7SS5CQTRnlnpBxMJbL4DGcvhpankQr63kz4l1ErE-to.jpeg",
+          "place_id": "14909691366856369790",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=14909691366856369790&q=West+End+theatre",
+          "provider_id": "/m/05hyjq",
+          "gps_coordinates": {
+            "latitude": 51.512997,
+            "longitude": -0.1185571
+          },
+          "title": "Aldwych Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 16000,
+          "reviews_original": "(16K)",
+          "description": "\"The theater is beautiful, the bartenders were kind and drinks were great.\"",
+          "lsig": "AB86z5VUKARUcn6xhryNkkGH7zt5",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/2kydB2h7VGekhD_Fqpkq1bysMouyRg7vEw3pNADifhE.jpeg",
+          "place_id": "2641541697210462127",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2641541697210462127&q=West+End+theatre",
+          "provider_id": "/m/043536",
+          "gps_coordinates": {
+            "latitude": 51.508244,
+            "longitude": -0.131863
+          },
+          "title": "His Majesty's Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 15,
+          "rating": 4.6,
+          "reviews": 3400,
+          "reviews_original": "(3.4K)",
+          "description": "\"It's a intimate space so the views and sound is awesome.\"",
+          "lsig": "AB86z5WJTZ6v3rcDX0m1wlpA6L5d",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/EMkxX5tcg2jBxqKtp_R20ygaEmRJ-TlyWhGms4IKul4.jpeg",
+          "place_id": "7487530069165462137",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7487530069165462137&q=West+End+theatre",
+          "provider_id": "/m/05cqq9",
+          "gps_coordinates": {
+            "latitude": 51.51026,
+            "longitude": -0.1223685
+          },
+          "title": "Vaudeville Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 16,
+          "rating": 4.7,
+          "reviews": 5800,
+          "reviews_original": "(5.8K)",
+          "description": "\"Beautiful theater, great bar service, friendly staff.\"",
+          "lsig": "AB86z5W103AaVzPrPego52Pf-2x4",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/4ieJ-svEsoifcp4gxJxGd-VUlSV4pB25JKJr5b7xGu4.jpeg",
+          "place_id": "18337095373849513102",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18337095373849513102&q=West+End+theatre",
+          "provider_id": "/m/080phm",
+          "gps_coordinates": {
+            "latitude": 51.496662,
+            "longitude": -0.1425907
+          },
+          "title": "Victoria Palace Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 17,
+          "rating": 4.6,
+          "reviews": 6100,
+          "reviews_original": "(6.1K)",
+          "description": "\"Comfortable seating, an enjoyable performance, and a lovely evening overall.\"",
+          "lsig": "AB86z5VYfRkht8CqSIor7qKnka9G",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/HGg8xZgcPufHk9HrXZ2aWm4EqIG9pad6Oe7HH5QYuys.jpeg",
+          "place_id": "17647890677118172177",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17647890677118172177&q=West+End+theatre",
+          "provider_id": "/m/02vrgf",
+          "gps_coordinates": {
+            "latitude": 51.50853,
+            "longitude": -0.1315475
+          },
+          "title": "Theatre Royal Haymarket",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 18,
+          "rating": 4.6,
+          "reviews": 3800,
+          "reviews_original": "(3.8K)",
+          "description": "\"Choose a seat in the front rows for a more intimate feeling and immersion.\"",
+          "lsig": "AB86z5VizJj6Kx4dhGXAGCjnEwBu",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/y1zKoxMMi6-iG84tZSQKPwXmeO5rkwtLTQ17BKL6fe8.jpeg",
+          "place_id": "8620146241358515955",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=8620146241358515955&q=West+End+theatre",
+          "provider_id": "/m/0dfmnc",
+          "gps_coordinates": {
+            "latitude": 51.511143,
+            "longitude": -0.1272381
+          },
+          "title": "Noël Coward Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 19,
+          "rating": 4.5,
+          "reviews": 7400,
+          "reviews_original": "(7.4K)",
+          "description": "Veteran playhouse for mainstream shows",
+          "lsig": "AB86z5VOgLytjoP4zgU5UDiPUUiQ",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/KrctWqHihFSheY45Q7qwivjEredtr_92CrlatYT5mQY.jpeg",
+          "place_id": "9354368858077264123",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=9354368858077264123&q=West+End+theatre",
+          "provider_id": "/m/0dr4yh",
+          "gps_coordinates": {
+            "latitude": 51.51122,
+            "longitude": -0.1337817
+          },
+          "title": "Lyric Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        },
+        {
+          "position": 20,
+          "rating": 4.6,
+          "reviews": 3500,
+          "reviews_original": "(3.5K)",
+          "description": "\"Seats are well-elevated allowing clear viewing even at the very back.\"",
+          "lsig": "AB86z5VPZIYEnjqFPp3AfFOSWkl4",
+          "thumbnail": "https://serpapi.com/searches/69d51c786539a2d4d7190d3e/images/Gh4tTRM6P5c7N-hYg91-thWcdt2V-M-mrMiSRPo3OZ4.jpeg",
+          "place_id": "4160297709120822748",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4160297709120822748&q=West+End+theatre",
+          "provider_id": "/m/07dhb5",
+          "gps_coordinates": {
+            "latitude": 51.511124,
+            "longitude": -0.1282324
+          },
+          "title": "Wyndham's Theatre",
+          "type": "Performing arts theater",
+          "address": "London, United Kingdom"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:46:24.089528",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "afternoon tea",
+      "location": "London"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 3.9,
+          "reviews": 353,
+          "reviews_original": "(353)",
+          "description": "\"Always a joy to enjoy hot drinks and delicious cakes/biscuits from here.\"",
+          "lsig": "AB86z5XEOpBwE2maMG2qg7NiYtrG",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/s0oKAKVps-Oq0EPoQVOqYXrQfdtgUVjyssahCjud4fc.jpeg",
+          "place_id": "16437368137797433268",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16437368137797433268&q=afternoon+tea",
+          "provider_id": "/g/1pp2x54yf",
+          "gps_coordinates": {
+            "latitude": 52.962612,
+            "longitude": -2.203702
+          },
+          "title": "Totally Delicious - Trentham Gardens (Tea Room)",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom"
+        },
+        {
+          "position": 2,
+          "rating": 4.9,
+          "reviews": 747,
+          "reviews_original": "(747)",
+          "description": "\"Afternoon tea was delicious, decor is amazing, staff are very helpful\"",
+          "lsig": "AB86z5W8Tt6vSYbNbxUjswv0SFMj",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/S9mnmRn11H858hwOJgB3jhhWxviHl7L9hlGzuTCgS8M.jpeg",
+          "place_id": "2172760165194436610",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2172760165194436610&q=afternoon+tea",
+          "provider_id": "/g/11g07flb20",
+          "gps_coordinates": {
+            "latitude": 53.003685,
+            "longitude": -2.1827347
+          },
+          "title": "The Rabbit Hole Tea Room",
+          "type": "Tea house",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closed · Opens 11:30 AM Thu"
+        },
+        {
+          "position": 3,
+          "rating": 4.5,
+          "reviews": 2300,
+          "reviews_original": "(2.3K)",
+          "description": "\"Beautiful setting, lovely food, great service and atmosphere.\"",
+          "lsig": "AB86z5WNVXgqSXsHdH7qkCDZ4Y5_",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/1kXtOiwZ7cAd3pinhHPVl58VhTcdn41Uer75ijItyP4.jpeg",
+          "place_id": "12544583344277738009",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12544583344277738009&q=afternoon+tea",
+          "provider_id": "/g/1tkf0hmn",
+          "gps_coordinates": {
+            "latitude": 52.885433,
+            "longitude": -2.1225936
+          },
+          "title": "Aston Marina",
+          "type": "Restaurant",
+          "address": "Stone, United Kingdom"
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 1800,
+          "reviews_original": "(1.8K)",
+          "description": "\"The quality of the afternoon tea was really good quality and plentiful.\"",
+          "lsig": "AB86z5UJuY-reBs1ZfDdILZIAwVs",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/zF9YZYdIZ0OoCyniZjEuPk0Kq56_sDggzL7TJtse0Yk.jpeg",
+          "place_id": "519876976854173543",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=519876976854173543&q=afternoon+tea",
+          "provider_id": "/g/1pxyd8knw",
+          "gps_coordinates": {
+            "latitude": 52.84057,
+            "longitude": -2.0515354
+          },
+          "title": "Weston Hall - Stafford",
+          "type": "Restaurant",
+          "address": "Stafford, United Kingdom"
+        },
+        {
+          "position": 5,
+          "rating": 4.5,
+          "reviews": 1700,
+          "reviews_original": "(1.7K)",
+          "description": "\"Fantastic afternoon tea and lovely staff and service\"",
+          "lsig": "AB86z5Wm-8ST2AxaeCneAkriLdJE",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/D29HjfspzCKEeYl6d1E4NKGQs6CrNk4UQYDXL9DIPSM.jpeg",
+          "place_id": "12117312474251093924",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12117312474251093924&q=afternoon+tea",
+          "provider_id": "/g/1tqpysg_",
+          "gps_coordinates": {
+            "latitude": 52.941948,
+            "longitude": -2.1008217
+          },
+          "title": "Moddershall Oaks Country Spa Retreat",
+          "type": "Restaurant",
+          "address": "Stone, United Kingdom"
+        },
+        {
+          "position": 6,
+          "rating": 4.8,
+          "reviews": 570,
+          "reviews_original": "(570)",
+          "description": "\"Lovely staff, fresh made food and a quirky decor Loved it ❤️\"",
+          "lsig": "AB86z5XMSaQn-SlQvF9iZ18hSD9i",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/X73qPLlcqJ79nn06YsaWvCF4vhysqPjjKK_aVKtExkE.jpeg",
+          "place_id": "613466236258949643",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=613466236258949643&q=afternoon+tea",
+          "provider_id": "/g/11bwyyn5mm",
+          "gps_coordinates": {
+            "latitude": 53.009827,
+            "longitude": -2.2258441
+          },
+          "title": "Bygones Tearoom",
+          "type": "Tea house",
+          "address": "Newcastle, United Kingdom",
+          "hours": "Closed · Opens 8:45 AM Wed"
+        },
+        {
+          "position": 7,
+          "rating": 4.5,
+          "reviews": 236,
+          "reviews_original": "(236)",
+          "description": "\"Fab afternoon tea in a lovely setting and fantastic staff.\"",
+          "lsig": "AB86z5VJJQ2icf8Low3ICZ0ToKa-",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/SKkM9-8AVXBpb3nu-iXY3kbbGnjQNxcov5sF1j2sgU8.jpeg",
+          "place_id": "16543057937043660221",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16543057937043660221&q=afternoon+tea",
+          "provider_id": "/g/11j0tlq94l",
+          "gps_coordinates": {
+            "latitude": 52.954792,
+            "longitude": -2.1703806
+          },
+          "title": "Wedgwood Tea Room",
+          "type": "Tea house",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closes soon · 5 PM"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 341,
+          "reviews_original": "(341)",
+          "description": "\"Wonderful little tea room ,great food ,lovely staff well worth the visit .\"",
+          "lsig": "AB86z5XyfHiDhCQpuAyeRn8L7jGd",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/-FkeFPsPQmw3SQpoHH8cwqe2tFtEc_WwX6eWcO73vs4.jpeg",
+          "place_id": "1183085978569892686",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1183085978569892686&q=afternoon+tea",
+          "provider_id": "/g/11clyh78p8",
+          "gps_coordinates": {
+            "latitude": 52.692654,
+            "longitude": -2.1245809
+          },
+          "title": "Cyril's Tearoom",
+          "type": "Tea house",
+          "address": "United Kingdom",
+          "hours": "Closed · Opens 9:30 AM Wed"
+        },
+        {
+          "position": 9,
+          "rating": 4.7,
+          "reviews": 660,
+          "reviews_original": "(660)",
+          "description": "\"Amazing 🤩 afternoon tea very good food organising and great service\"",
+          "lsig": "AB86z5VzeBQhTteELne5t_cCu7Zc",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/Ck1gM-mTfeECPOO2VV2JQyBavtw5SqEQ7Z_5Ze_WZOM.jpeg",
+          "place_id": "15545601195855180775",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15545601195855180775&q=afternoon+tea",
+          "provider_id": "/g/11bxw8_mj_",
+          "gps_coordinates": {
+            "latitude": 52.9658,
+            "longitude": -2.2844262
+          },
+          "title": "Whitmore Tea Rooms",
+          "type": "Tea house",
+          "address": "Newcastle, United Kingdom",
+          "hours": "Closed · Opens 10:30 AM Thu"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 883,
+          "reviews_original": "(883)",
+          "price": "£10–20",
+          "description": "\"The food was amazing and the scones were out of this world.\"",
+          "lsig": "AB86z5WgvCOL8WXxYCyTMUiZSssB",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/Wi36FlXzr4PFE1Aewo70g7o9qh7czGW9Rejy04vqjEo.jpeg",
+          "place_id": "5147591672478707574",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5147591672478707574&q=afternoon+tea",
+          "provider_id": "/g/11g7nrn6_j",
+          "gps_coordinates": {
+            "latitude": 53.02643,
+            "longitude": -1.9616034
+          },
+          "title": "Hetty's Tea Shop",
+          "type": "Coffee shop",
+          "address": "United Kingdom",
+          "hours": "Closed · Opens 10 AM Thu"
+        },
+        {
+          "position": 11,
+          "rating": 4.5,
+          "reviews": 925,
+          "reviews_original": "(925)",
+          "price": "£20–30",
+          "description": "\"Fabulous food, excellent staff, gorgeous atmosphere and decor.\"",
+          "lsig": "AB86z5UWFbQsF2C3LqYcPHfU3ZnH",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/8WufXPX5I3mDA1YKRSHB3fzBoGrGN3WutLqhBLBDwoQ.png",
+          "place_id": "15970866957105833643",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15970866957105833643&q=afternoon+tea",
+          "provider_id": "/g/11hm_96c4m",
+          "gps_coordinates": {
+            "latitude": 53.005512,
+            "longitude": -2.1853023
+          },
+          "title": "the QUARTER at Potbank",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closed · Opens 10 AM Wed"
+        },
+        {
+          "position": 12,
+          "rating": 4.9,
+          "reviews": 84,
+          "reviews_original": "(84)",
+          "lsig": "AB86z5UfBJx0CfYLzPgrceaZJk03",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/qsqrNQebsmMW1J6K1pdwz34jZkZCjwhx8ilgQ3KqcLg.jpeg",
+          "place_id": "11236033953104145487",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11236033953104145487&q=afternoon+tea",
+          "provider_id": "/g/12nq93mym",
+          "gps_coordinates": {
+            "latitude": 52.89439,
+            "longitude": -2.0777576
+          },
+          "title": "Oak Tree Farm Rural Project",
+          "type": "Tea house",
+          "address": "Stone, United Kingdom",
+          "hours": "Closed · Opens 10 AM Wed",
+          "extensions": [
+            "Menu highlight: afternoon tea"
+          ]
+        },
+        {
+          "position": 13,
+          "rating": 4.4,
+          "reviews": 2200,
+          "reviews_original": "(2.2K)",
+          "description": "\"The setting is beautiful, the staff were fab and the food was delicious!\"",
+          "lsig": "AB86z5XSBu-xIUi67KhtMuuCUwVK",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/H9nn_Z5ltNkEnAGWpd-e2Gg8Z-rvnuT5YmUionVbJrY.jpeg",
+          "place_id": "114432325280368338",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=114432325280368338&q=afternoon+tea",
+          "provider_id": "/g/11f3n25k8y",
+          "gps_coordinates": {
+            "latitude": 52.679638,
+            "longitude": -2.679568
+          },
+          "title": "The Mytton & Mermaid",
+          "type": "Pub",
+          "address": "Shrewsbury, United Kingdom"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 784,
+          "reviews_original": "(784)",
+          "lsig": "AB86z5VUS_8gUUUPysECArcAmX59",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/_6buF46SAFBUcdMaersettYQTurF3IzTvIZV2OGFOXs.jpeg",
+          "place_id": "11096384088301656667",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11096384088301656667&q=afternoon+tea",
+          "provider_id": "/g/1v2kwzkw",
+          "gps_coordinates": {
+            "latitude": 52.97427,
+            "longitude": -2.062409
+          },
+          "title": "Heath House Farm",
+          "type": "Tea house",
+          "address": "Stoke-on-Trent, United Kingdom",
+          "hours": "Closes soon · 4:30 PM",
+          "extensions": [
+            "Menu highlight: afternoon tea"
+          ]
+        },
+        {
+          "position": 15,
+          "rating": 4.4,
+          "reviews": 732,
+          "reviews_original": "(732)",
+          "price": "£10–20",
+          "description": "\"Delicious afternoon tea with great service - really enjoyed our visit!\"",
+          "lsig": "AB86z5XjcWIp0LqyUWXXOOdImFYk",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/CG7dRzo7I_wrzLnYinbJwPlaMztivJBlY9n2G-lf7wo.jpeg",
+          "place_id": "1983027531285871252",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=1983027531285871252&q=afternoon+tea",
+          "provider_id": "/g/1v62h2sk",
+          "gps_coordinates": {
+            "latitude": 52.598324,
+            "longitude": -2.1678298
+          },
+          "title": "Gluttons for Nourishment",
+          "type": "Coffee shop",
+          "address": "Wolverhampton, United Kingdom",
+          "hours": "Closed · Opens 9 AM Wed"
+        },
+        {
+          "position": 16,
+          "rating": 4.5,
+          "reviews": 759,
+          "reviews_original": "(759)",
+          "price": "£10–20",
+          "description": "\"Delicious food and drinks and even cream teas all with friendly service.\"",
+          "lsig": "AB86z5X68_2HoOhRGg1dr-IMornR",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/y2EG8yPXW69p-c_VGjdJ3A1sSkKScWcranlt9Rm1mjQ.jpeg",
+          "place_id": "12722073340909604814",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12722073340909604814&q=afternoon+tea",
+          "provider_id": "/g/1hc4fccnp",
+          "gps_coordinates": {
+            "latitude": 52.74591,
+            "longitude": -2.0330637
+          },
+          "title": "Springslade Lodge",
+          "type": "Cafe",
+          "address": "Camp Rd",
+          "hours": "Closed · Opens 10:30 AM Wed"
+        },
+        {
+          "position": 17,
+          "rating": 4.7,
+          "reviews": 432,
+          "reviews_original": "(432)",
+          "price": "£1–10",
+          "description": "\"Super tasty afternoon tea, delightful atmosphere.\"",
+          "lsig": "AB86z5UxPTEsc3KTQRG2cdFoONmf",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/P_zYUtaduVtqZWNHctvjIiI7mwRUvvILtI71i9-B9W8.jpeg",
+          "place_id": "15933948406055747108",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15933948406055747108&q=afternoon+tea",
+          "provider_id": "/g/11c1wsy3fx",
+          "gps_coordinates": {
+            "latitude": 52.808147,
+            "longitude": -2.1161318
+          },
+          "title": "Cup a Cha",
+          "type": "Cafe",
+          "address": "Stafford, United Kingdom",
+          "hours": "Closed · Opens 9 AM Wed"
+        },
+        {
+          "position": 18,
+          "rating": 4.8,
+          "reviews": 143,
+          "reviews_original": "(143)",
+          "description": "\"The service, the cleanliness, the food, all is second to none.\"",
+          "lsig": "AB86z5X-esbP6Pc8a7-b07LAI07p",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/s14RygpRrbAmUaU4AeR3vSo3nU8fv-kTdJWGTOsl3zI.jpeg",
+          "place_id": "2629838047334495523",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=2629838047334495523&q=afternoon+tea",
+          "provider_id": "/g/11d_wnl6r5",
+          "gps_coordinates": {
+            "latitude": 52.901783,
+            "longitude": -2.1469734
+          },
+          "title": "The Secret Tea Room",
+          "type": "Tea house",
+          "address": "Stone, United Kingdom",
+          "hours": "Closed · Opens 10 AM Wed"
+        },
+        {
+          "position": 19,
+          "rating": 4.6,
+          "reviews": 1100,
+          "reviews_original": "(1.1K)",
+          "description": "\"Lovely setting afternoon tea was delicious.\"",
+          "lsig": "AB86z5XgjfX6e2LV-slGTJSTJiU6",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/ibFV9KQH0lZ2LZ4JMBi-KZJ-rCYOCOW3EfaCa6qKdOM.jpeg",
+          "place_id": "16766892904527474291",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16766892904527474291&q=afternoon+tea",
+          "provider_id": "/g/1tc_dsyy",
+          "gps_coordinates": {
+            "latitude": 52.939396,
+            "longitude": -2.1578698
+          },
+          "title": "The Upper House",
+          "type": "Restaurant",
+          "address": "Stoke-on-Trent, United Kingdom"
+        },
+        {
+          "position": 20,
+          "rating": 4.7,
+          "reviews": 347,
+          "reviews_original": "(347)",
+          "description": "\"Went here for afternoon tea, lovely food - filled me to the brim!\"",
+          "lsig": "AB86z5WMMPwMQQ7jFVnSBYYrvsdV",
+          "thumbnail": "https://serpapi.com/searches/69d51c84822c5f983fdf0340/images/WysEVOE7kV4juQy6aieVW9RtnwvW-Qis23W_H7k3VlE.jpeg",
+          "place_id": "16028952285301263123",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16028952285301263123&q=afternoon+tea",
+          "provider_id": "/g/1tj45fgk",
+          "gps_coordinates": {
+            "latitude": 52.85241,
+            "longitude": -2.436207
+          },
+          "title": "Goldstone Hall Hotel",
+          "type": "Restaurant",
+          "address": "Market Drayton, United Kingdom"
+        }
+      ]
+    }
+  }
+]

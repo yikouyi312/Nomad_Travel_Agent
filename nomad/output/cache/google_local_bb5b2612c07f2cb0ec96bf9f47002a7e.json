@@ -1,0 +1,51 @@
+{
+  "search_metadata": {
+    "id": "69d51c0d5c018f894ec35fda",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zjzcZCkywM_iwg74TEvepQ/69d51c0d5c018f894ec35fda.json",
+    "created_at": "2026-04-07 15:00:29 UTC",
+    "processed_at": "2026-04-07 15:00:29 UTC",
+    "google_local_url": "https://www.google.com/search?q=Kennedy+Center&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/zjzcZCkywM_iwg74TEvepQ/69d51c0d5c018f894ec35fda.html",
+    "total_time_taken": 14.15
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Kennedy Center",
+    "location_requested": "Washington DC",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 38.89595956712964,
+      "longitude": -77.05568075180054
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 11000,
+      "reviews_original": "(11K)",
+      "lsig": "AB86z5Wrl6He-5QX5_Cdy4DGG0DL",
+      "thumbnail": "https://serpapi.com/searches/69d51c0d5c018f894ec35fda/images/Bt7Rv0Y7WNvGXzfNaBMwJVd6xPRTGfSDUOAImY5qje8.jpeg",
+      "place_id": "13189611626200258717",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Washington+DC&ludocid=13189611626200258717&q=Kennedy+Center",
+      "provider_id": "/m/021jng",
+      "gps_coordinates": {
+        "latitude": 38.895847,
+        "longitude": -77.05568
+      },
+      "title": "John F. Kennedy Center for the Performing Arts",
+      "type": "Performing arts theater",
+      "address": "Washington, DC",
+      "extensions": [
+        "J1772·7 kWTotal 6"
+      ]
+    }
+  ]
+}

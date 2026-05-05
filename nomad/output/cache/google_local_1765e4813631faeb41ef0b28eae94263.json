@@ -1,0 +1,50 @@
+{
+  "search_metadata": {
+    "id": "69d51c73c2bb99858cf2b207",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/q8zdeWPwvAq6xwA0OuZcnA/69d51c73c2bb99858cf2b207.json",
+    "created_at": "2026-04-07 15:02:12 UTC",
+    "processed_at": "2026-04-07 15:02:12 UTC",
+    "google_local_url": "https://www.google.com/search?q=British+Museum&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/q8zdeWPwvAq6xwA0OuZcnA/69d51c73c2bb99858cf2b207.html",
+    "total_time_taken": 1.55
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "British Museum",
+    "location_requested": "London",
+    "location_used": "London TV Region,England,United Kingdom",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 51.5195054401361,
+      "longitude": -0.1269543170928955
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 171000,
+      "reviews_original": "(171K)",
+      "description": "Museum housing many famous antiquities",
+      "lsig": "AB86z5XYTdzs7cPNKxEcaY9VMWXn",
+      "thumbnail": "https://serpapi.com/searches/69d51c73c2bb99858cf2b207/images/YLL0Nz7UwLJBTBQU-fm_-BK9nsxdUSvVIdn24x8RFAk.jpeg",
+      "place_id": "3436696222068785831",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=3436696222068785831&q=British+Museum",
+      "provider_id": "/m/01hb3",
+      "gps_coordinates": {
+        "latitude": 51.519413,
+        "longitude": -0.1269566
+      },
+      "title": "The British Museum",
+      "type": "Museum",
+      "address": "Great Russell St",
+      "hours": "Closes soon · 5 PM"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "search_metadata": {
+    "id": "69d51545e82707e18d9f4b62",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WedsgaXr2Sk73I_1OETEHw/69d51545e82707e18d9f4b62.json",
+    "created_at": "2026-04-07 14:31:33 UTC",
+    "processed_at": "2026-04-07 14:31:33 UTC",
+    "google_local_url": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/WedsgaXr2Sk73I_1OETEHw/69d51545e82707e18d9f4b62.html",
+    "total_time_taken": 3.21
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "vegan restaurants",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.549880640496056,
+      "longitude": -122.67642974853516
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 455,
+      "reviews_original": "(455)",
+      "price": "$20–30",
+      "lsig": "AB86z5XmyhX4n0HZsG1_kg6Tnwum",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/qgkbmlKbjAAhDaHtUAGzc7iKcj46ixfVyOadCOUjXlw.jpeg",
+      "place_id": "8609625482922068190",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8609625482922068190&q=vegan+restaurants",
+      "provider_id": "/g/11q3y47bfr",
+      "gps_coordinates": {
+        "latitude": 45.51276,
+        "longitude": -122.656006
+      },
+      "title": "Lilla",
+      "type": "Vegan",
+      "address": "960 SE Madison St",
+      "hours": "Closed · Opens 12 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 591,
+      "reviews_original": "(591)",
+      "price": "$10–20",
+      "lsig": "AB86z5XxFgYZGh2J8uCweoATmyhU",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/KRMfs1wH4EFx2W353ronsWk-XszfcG7biVOBjca5Gro.jpeg",
+      "place_id": "11878189943617958014",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=11878189943617958014&q=vegan+restaurants",
+      "provider_id": "/g/11hfqdy2ng",
+      "gps_coordinates": {
+        "latitude": 45.548378,
+        "longitude": -122.61434
+      },
+      "title": "Dirty Lettuce",
+      "type": "Vegan",
+      "address": "4727 NE Fremont St",
+      "hours": "Closed · Opens 12 PM Wed",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews": 205,
+      "reviews_original": "(205)",
+      "price": "$10–20",
+      "description": "\"This is the most incredible gluten free and vegan food I’ve ever had!\"",
+      "lsig": "AB86z5XJqYz3_exKgECLMpTNpA5J",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/FspLwDkCQmHHayBIlGMXSjzA8uIZx5g6iWLnZKBrsb8.jpeg",
+      "place_id": "4776875571280383286",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4776875571280383286&q=vegan+restaurants",
+      "provider_id": "/g/11q1jz9x63",
+      "gps_coordinates": {
+        "latitude": 45.57067,
+        "longitude": -122.68193
+      },
+      "title": "Honey Butter Country Fare",
+      "type": "Restaurant",
+      "address": "6550 N Interstate Ave",
+      "hours": "Closed · Opens 12 PM Wed"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 563,
+      "reviews_original": "(563)",
+      "lsig": "AB86z5UTqAQlp2T2-uvLb1Fr6GxI",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/FClPGDy53BYElgz-4lcOsphoiL5S1VdluIC_3fAkdmM.jpeg",
+      "place_id": "2789266699189454105",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2789266699189454105&q=vegan+restaurants",
+      "provider_id": "/g/11sjwslvdj",
+      "gps_coordinates": {
+        "latitude": 45.516304,
+        "longitude": -122.64214
+      },
+      "title": "Jade Rabbit",
+      "type": "Vegan",
+      "address": "2304 SE Belmont St",
+      "hours": "Closed · Opens 12 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$20–30",
+      "lsig": "AB86z5W124UBinPDhxPqkXyVjcmR",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/5m4iLh3gchtw6C4jn9uUqUA2cUAzyxeAxJgucMQhY64.jpeg",
+      "place_id": "10543264232878185764",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=10543264232878185764&q=vegan+restaurants",
+      "provider_id": "/g/1218cs91",
+      "gps_coordinates": {
+        "latitude": 45.53314,
+        "longitude": -122.69563
+      },
+      "title": "Blossoming Lotus",
+      "type": "Vegan",
+      "address": "2122 NW Quimby St",
+      "hours": "Closed · Opens 9 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 202,
+      "reviews_original": "(202)",
+      "lsig": "AB86z5XHtS5MCXgjAxgEffP_AoyQ",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/ZPDjKC52xPjYf-8cUZGA9DHStElsIXuuG4E03UEJ74Q.jpeg",
+      "place_id": "5858056411757474983",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5858056411757474983&q=vegan+restaurants",
+      "provider_id": "/g/11l6s3lsjy",
+      "gps_coordinates": {
+        "latitude": 45.56263,
+        "longitude": -122.648254
+      },
+      "title": "Feral",
+      "type": "Vegan",
+      "address": "1640 NE Killingsworth St",
+      "hours": "Closed · Opens 5 PM Wed",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 7,
+      "rating": 4.8,
+      "reviews": 306,
+      "reviews_original": "(306)",
+      "price": "$10–20",
+      "lsig": "AB86z5VsMLVkfM8B_JBjnUk01svj",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/xGwDafMOzFvKarlhvx_ThK90NqDkOxCi-UqbtTlkRqs.jpeg",
+      "place_id": "622205651163002953",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=622205651163002953&q=vegan+restaurants",
+      "provider_id": "/g/11cjkq39g4",
+      "gps_coordinates": {
+        "latitude": 45.522385,
+        "longitude": -122.67619
+      },
+      "title": "Rabbits Cafe",
+      "type": "Vegan",
+      "address": "Inside the, 111 SW 5th Ave",
+      "hours": "Opens soon · 8 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 8,
+      "rating": 4.8,
+      "reviews": 601,
+      "reviews_original": "(601)",
+      "price": "$10–20",
+      "lsig": "AB86z5VbMISXFN4o2tCmDlQUkmib",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/_2pr5BAQ_5lrPneg6CHqwNRoJcIHzEPD2DVbcoEzstc.jpeg",
+      "place_id": "3660145440136579393",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3660145440136579393&q=vegan+restaurants",
+      "provider_id": "/g/11hcc47qw6",
+      "gps_coordinates": {
+        "latitude": 45.505108,
+        "longitude": -122.61062
+      },
+      "title": "DC Vegetarian",
+      "type": "Vegan",
+      "address": "5026 SE Division St",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 9,
+      "rating": 5.0,
+      "reviews": 93,
+      "reviews_original": "(93)",
+      "price": "$10–20",
+      "lsig": "AB86z5Uj9zQKlurQ-36QtsNxlUyZ",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/VkcFe-FCYQd0S_5b6_0yaEiGDoQgSK0ysYAT8J1x90s.jpeg",
+      "place_id": "12935533862837015163",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12935533862837015163&q=vegan+restaurants",
+      "provider_id": "/g/11p66lxmjp",
+      "gps_coordinates": {
+        "latitude": 45.58763,
+        "longitude": -122.7425
+      },
+      "title": "Cozo Grill",
+      "type": "Vegan",
+      "address": "7316 N Lombard St",
+      "hours": "Closed · Opens 12 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 54,
+      "reviews_original": "(54)",
+      "price": "$10–20",
+      "lsig": "AB86z5ULGJ_3fTQ6QKAOJ2LrqyaG",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/PJ_P-SL4uhMXK2B_cqZ-05pMHbVh14jdVvfeydV6uhk.jpeg",
+      "place_id": "15802201542880346205",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15802201542880346205&q=vegan+restaurants",
+      "provider_id": "/g/11ygtdyv8c",
+      "gps_coordinates": {
+        "latitude": 45.559216,
+        "longitude": -122.642586
+      },
+      "title": "Off The Griddle",
+      "type": "Vegan",
+      "address": "2215 NE Alberta St",
+      "hours": "Closed · Opens 9 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 11,
+      "rating": 4.7,
+      "reviews": 848,
+      "reviews_original": "(848)",
+      "price": "$20–30",
+      "lsig": "AB86z5X0d9UoQ-xQvMwGL4RXTst8",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/ghAlN6tdMQFnU9EnTkcHhTXUTJL-8xgwbMSvIwryBBY.jpeg",
+      "place_id": "4551093361630754309",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4551093361630754309&q=vegan+restaurants",
+      "provider_id": "/g/11b61r3dqy",
+      "gps_coordinates": {
+        "latitude": 45.517563,
+        "longitude": -122.66056
+      },
+      "title": "Obon Shokudo",
+      "type": "Vegan",
+      "address": "720 SE Grand Ave",
+      "hours": "Closed · Opens 11:30 AM Wed",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "price": "$10–20",
+      "lsig": "AB86z5WF5AdMRV5Mva4L7d6Trx9P",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/x3Y5IrMW21Z1tmvWUdEUO6G1TSrg6oZIW_9oNgpt7f0.jpeg",
+      "place_id": "6953659362683179082",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6953659362683179082&q=vegan+restaurants",
+      "provider_id": "/g/11bt_mfthg",
+      "gps_coordinates": {
+        "latitude": 45.540092,
+        "longitude": -122.61069
+      },
+      "title": "Black Water",
+      "type": "Vegan",
+      "address": "5115 NE Sandy Blvd",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 249,
+      "reviews_original": "(249)",
+      "price": "$10–20",
+      "lsig": "AB86z5VqWMqUcEmZL8UzZNa532P7",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/95nD48tFHyBSvlaJECtpp_b49NbNe6FKV0mh77zp2YA.jpeg",
+      "place_id": "9839375424666258589",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9839375424666258589&q=vegan+restaurants",
+      "provider_id": "/g/11t6p13d38",
+      "gps_coordinates": {
+        "latitude": 45.631145,
+        "longitude": -122.67305
+      },
+      "title": "Scratch Breakfast",
+      "type": "Vegan",
+      "address": "Vancouver, WA",
+      "hours": "Closed · Opens 8 AM Thu",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 14,
+      "rating": 4.9,
+      "reviews": 120,
+      "reviews_original": "(120)",
+      "price": "$100+",
+      "lsig": "AB86z5WB7NDkXfINsNPEWw0NSbQc",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/bU0CK0XH_yd6K6VSjTf4bDpJ__t79HlKBJkUxAvorbM.jpeg",
+      "place_id": "2001258252354620284",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2001258252354620284&q=vegan+restaurants",
+      "provider_id": "/g/11rk6bs_k4",
+      "gps_coordinates": {
+        "latitude": 45.516712,
+        "longitude": -122.65144
+      },
+      "title": "ASTERA",
+      "type": "Vegan",
+      "address": "1403 SE Belmont St",
+      "hours": "Closed · Opens 5 PM Thu",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 858,
+      "reviews_original": "(858)",
+      "lsig": "AB86z5WcAMg-V_F6iU_AML7jKveJ",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/bKIlAKcVjX7RgD2z3uWi4UXqipPxE_CXn4TS0tgtaYQ.jpeg",
+      "place_id": "489266926245199173",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=489266926245199173&q=vegan+restaurants",
+      "provider_id": "/g/11r_vkn1l5",
+      "gps_coordinates": {
+        "latitude": 45.558987,
+        "longitude": -122.646645
+      },
+      "title": "Ben & Esther’s Vegan Delicatessen",
+      "type": "Vegan",
+      "address": "1800 NE Alberta St",
+      "hours": "Opens soon · 8 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$10–20",
+      "lsig": "AB86z5Xj7EKw2qADmv20oYpENYLQ",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/8fVkzLopH9-0G3fhV2WHfYGecVDQ5HvhyT-6gQCp-eQ.jpeg",
+      "place_id": "9749332703826722462",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9749332703826722462&q=vegan+restaurants",
+      "provider_id": "/g/1vljg0xl",
+      "gps_coordinates": {
+        "latitude": 45.488846,
+        "longitude": -122.5953
+      },
+      "title": "Off The Griddle",
+      "type": "Vegan",
+      "address": "6526 SE Foster Rd",
+      "hours": "Closed · Opens 9 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 17,
+      "rating": 4.7,
+      "reviews": 487,
+      "reviews_original": "(487)",
+      "price": "$20–30",
+      "lsig": "AB86z5U0lViMFuj-uJmZsC-_PlCl",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/T8DYeZaM770Pa3ERjbXl2IFz9tPHfUGLpDhfmKdO-sA.jpeg",
+      "place_id": "4290286579051204191",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4290286579051204191&q=vegan+restaurants",
+      "provider_id": "/g/11scv0052x",
+      "gps_coordinates": {
+        "latitude": 45.51659,
+        "longitude": -122.62426
+      },
+      "title": "Norah Belmont",
+      "type": "Vegan",
+      "address": "3801 SE Belmont St",
+      "hours": "Closed · Opens 12 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 18,
+      "rating": 5.0,
+      "reviews": 44,
+      "reviews_original": "(44)",
+      "price": "$10–20",
+      "lsig": "AB86z5VYVaF3Bk7f8HS4pXujGxpp",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/Vkp3FqWdAVTNIRb1IBJScYV_bP6Lnf9esSuGTfQgsPg.jpeg",
+      "place_id": "3197919245327989758",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3197919245327989758&q=vegan+restaurants",
+      "provider_id": "/g/11y73knqzv",
+      "gps_coordinates": {
+        "latitude": 45.48958,
+        "longitude": -122.808014
+      },
+      "title": "The Vegan Phoenix",
+      "type": "Restaurant",
+      "address": "Beaverton, OR",
+      "hours": "Closed · Opens 11:30 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 19,
+      "rating": 4.7,
+      "reviews": 306,
+      "reviews_original": "(306)",
+      "price": "$20–30",
+      "description": "\"Beautiful, insanely delicious, healthy, great seating… a new favorite!\"",
+      "lsig": "AB86z5VkpMeaU8ZuRBZlJHu3S81S",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/fre67QEUgAj0rd-V0nvISdcCuWQ-KBLEoW2SbALZNgg.jpeg",
+      "place_id": "15875802952945738216",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15875802952945738216&q=vegan+restaurants",
+      "provider_id": "/g/11rrpv871x",
+      "gps_coordinates": {
+        "latitude": 45.478313,
+        "longitude": -122.64907
+      },
+      "title": "Bastion PDX",
+      "type": "Health Food",
+      "address": "6116 SE Milwaukie Ave",
+      "hours": "Closed · Opens 9 AM Wed"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 256,
+      "reviews_original": "(256)",
+      "price": "$10–20",
+      "lsig": "AB86z5X5XIfg2bZVjD6uWdFNkmi9",
+      "thumbnail": "https://serpapi.com/searches/69d51545e82707e18d9f4b62/images/jhHSvwpcq_wuirV-53VwPHEFZ-ow64RARCWuggyjq98.jpeg",
+      "place_id": "16058745495130476160",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16058745495130476160&q=vegan+restaurants",
+      "provider_id": "/g/1jglx3gzh",
+      "gps_coordinates": {
+        "latitude": 45.554344,
+        "longitude": -122.675644
+      },
+      "title": "Native Bowl",
+      "type": "Vegan",
+      "address": "4233 N Mississippi Ave",
+      "hours": "Closed · Opens 11:30 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=vegan+restaurants&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=vegan+restaurants&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=vegan+restaurants&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=vegan+restaurants&start=40&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=vegan+restaurants&start=60&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=vegan+restaurants&start=80&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

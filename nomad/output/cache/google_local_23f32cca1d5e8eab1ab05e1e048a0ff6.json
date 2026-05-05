@@ -1,0 +1,104 @@
+{
+  "search_metadata": {
+    "id": "69d51b50421b08f241222818",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Lh4LxsOFndxXook75seLSg/69d51b50421b08f241222818.json",
+    "created_at": "2026-04-07 14:57:20 UTC",
+    "processed_at": "2026-04-07 14:57:20 UTC",
+    "google_local_url": "https://www.google.com/search?q=Pike+Place+Market&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/Lh4LxsOFndxXook75seLSg/69d51b50421b08f241222818.html",
+    "total_time_taken": 2.05
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Pike Place Market",
+    "location_requested": "Seattle",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 47.609258944820546,
+      "longitude": -122.34142184257509
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 78000,
+      "reviews_original": "(78K)",
+      "description": "Iconic farmer's market with flying fish",
+      "lsig": "AB86z5Wd6_8wmmRuJSzDzSCcfOFO",
+      "thumbnail": "https://serpapi.com/searches/69d51b50421b08f241222818/images/CGQ4pMTTJ9okj9kvg73Xb_6yGZfrd4dhDgUMGuOxu3Q.jpeg",
+      "place_id": "10660459035763804716",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=10660459035763804716&q=Pike+Place+Market",
+      "provider_id": "/g/11k94gr42p",
+      "gps_coordinates": {
+        "latitude": 47.60941,
+        "longitude": -122.341835
+      },
+      "title": "Pike Place Market",
+      "type": "Market",
+      "address": "85 Pike St",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.6,
+      "reviews": 4400,
+      "reviews_original": "(4.4K)",
+      "description": "Iconic seafood stall with entertainment",
+      "lsig": "AB86z5VHocGCQxhVvO6LJE0fyJVC",
+      "thumbnail": "https://serpapi.com/searches/69d51b50421b08f241222818/images/W_sFjyYt6qEQasfs9-QWKwA-aYkny6ChdYy1Lt5fABQ.jpeg",
+      "place_id": "13966269589212611346",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=13966269589212611346&q=Pike+Place+Market",
+      "provider_id": "/m/027d1gv",
+      "gps_coordinates": {
+        "latitude": 47.60864,
+        "longitude": -122.34068
+      },
+      "title": "Pike Place Fish Market",
+      "type": "Seafood",
+      "address": "86 Pike St"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 7900,
+      "reviews_original": "(7.9K)",
+      "price": "$10–20",
+      "description": "Counter-serve place for seafood chowder",
+      "lsig": "AB86z5U9Wtdfo_M4cfIZ4Pzjwntx",
+      "thumbnail": "https://serpapi.com/searches/69d51b50421b08f241222818/images/0xV7dwHqRXNYJVQJGksFRnLQXmmwmgoDAGajE7Yq4iw.jpeg",
+      "place_id": "983461984774551847",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=983461984774551847&q=Pike+Place+Market",
+      "provider_id": "/g/1v6qh9zz",
+      "gps_coordinates": {
+        "latitude": 47.609425,
+        "longitude": -122.34122
+      },
+      "title": "Pike Place Chowder - Pike Place Market",
+      "type": "Seafood",
+      "address": "1530 Post Alley",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 4,
+      "lsig": "AB86z5UHswFi9JP_3WB7rpu56iKK",
+      "thumbnail": "https://serpapi.com/searches/69d51b50421b08f241222818/images/PsuhQ1zNHaC4iLXjnqy93cv-p85CbhUajbLE2Z6R0kc.jpeg",
+      "place_id": "6936701621581553436",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=6936701621581553436&q=Pike+Place+Market",
+      "provider_id": "/m/02k953",
+      "gps_coordinates": {
+        "latitude": 47.609665,
+        "longitude": -122.34217
+      },
+      "title": "Pike Place Market",
+      "address": "Seattle, WA"
+    }
+  ]
+}

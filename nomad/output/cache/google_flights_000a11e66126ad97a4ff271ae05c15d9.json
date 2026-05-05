@@ -1,0 +1,1030 @@
+{
+  "search_metadata": {
+    "id": "69d51b0332f11d1d7fd7eae0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TuYyRtZNNW9QYem_cId-LA/69d51b0332f11d1d7fd7eae0.json",
+    "created_at": "2026-04-07 14:56:03 UTC",
+    "processed_at": "2026-04-07 14:56:03 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTA2LTIwagcIARIDREZXcgcIARIDTVNZGh4SCjIwMjYtMDYtMjNqBwgBEgNNU1lyBwgBEgNERldAAUgBcAGYAQE&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/TuYyRtZNNW9QYem_cId-LA/69d51b0332f11d1d7fd7eae0.html",
+    "prettify_html_file": "https://serpapi.com/searches/TuYyRtZNNW9QYem_cId-LA/69d51b0332f11d1d7fd7eae0.prettify",
+    "total_time_taken": 0.86
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "DFW",
+    "arrival_id": "MSY",
+    "outbound_date": "2026-06-20",
+    "return_date": "2026-06-23",
+    "currency": "USD"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 07:15"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 08:49"
+          },
+          "duration": 94,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2183",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 86 kg"
+          ]
+        }
+      ],
+      "total_duration": 94,
+      "carbon_emissions": {
+        "this_flight": 87000,
+        "typical_for_this_route": 91000,
+        "difference_percent": -4
+      },
+      "price": 213,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRJeE9ETWFDd2lncGdFUUFob0RWVk5FT0J4d29LWUIiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMjE4MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 15:38"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 17:09"
+          },
+          "duration": 91,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2194",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 86 kg"
+          ]
+        }
+      ],
+      "total_duration": 91,
+      "carbon_emissions": {
+        "this_flight": 87000,
+        "typical_for_this_route": 91000,
+        "difference_percent": -4
+      },
+      "price": 213,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRJeE9UUWFDd2lncGdFUUFob0RWVk5FT0J4d29LWUIiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMjE5NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 17:30"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 19:02"
+          },
+          "duration": 92,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2158",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 86 kg"
+          ]
+        }
+      ],
+      "total_duration": 92,
+      "carbon_emissions": {
+        "this_flight": 87000,
+        "typical_for_this_route": 91000,
+        "difference_percent": -4
+      },
+      "price": 213,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRJeE5UZ2FDd2lncGdFUUFob0RWVk5FT0J4d29LWUIiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMjE1OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 09:35"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 11:07"
+          },
+          "duration": 92,
+          "airplane": "Airbus A320",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2885",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 95 kg"
+          ]
+        }
+      ],
+      "total_duration": 92,
+      "carbon_emissions": {
+        "this_flight": 96000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 5
+      },
+      "price": 238,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRJNE9EVWFDd2lvdVFFUUFob0RWVk5FT0J4d3FMa0IiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMjg4NSJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 06:20"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2026-06-20 09:49"
+          },
+          "duration": 149,
+          "airplane": "Airbus A321",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 1270",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 103 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2026-06-20 15:42"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 16:26"
+          },
+          "duration": 104,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 2051",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 82 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 353,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 606,
+      "carbon_emissions": {
+        "this_flight": 186000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 104
+      },
+      "price": 180,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZzFHT1RFeU56QjhSamt5TURVeEdnc0kwSXdCRUFJYUExVlRSRGdjY05DTUFRPT0iLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJBVEwiLG51bGwsIkY5IiwiMTI3MCJdLFsiQVRMIiwiMjAyNi0wNi0yMCIsIk1TWSIsbnVsbCwiRjkiLCIyMDUxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 17:33"
+          },
+          "arrival_airport": {
+            "name": "Orlando International Airport",
+            "id": "MCO",
+            "time": "2026-06-20 21:32"
+          },
+          "duration": 179,
+          "airplane": "Airbus A320neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 1952",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 108 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Orlando International Airport",
+            "id": "MCO",
+            "time": "2026-06-21 13:53"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-21 14:49"
+          },
+          "duration": 116,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 1431",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 73 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 981,
+          "name": "Orlando International Airport",
+          "id": "MCO",
+          "overnight": true
+        }
+      ],
+      "total_duration": 1276,
+      "carbon_emissions": {
+        "this_flight": 182000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 100
+      },
+      "price": 180,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZzFHT1RFNU5USjhSamt4TkRNeEdnc0kwSXdCRUFJYUExVlRSRGdjY05DTUFRPT0iLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNQ08iLG51bGwsIkY5IiwiMTk1MiJdLFsiTUNPIiwiMjAyNi0wNi0yMSIsIk1TWSIsbnVsbCwiRjkiLCIxNDMxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 21:15"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 22:49"
+          },
+          "duration": 94,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1455",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 93 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 94,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 3
+      },
+      "price": 213,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRFME5UVWFDd2lncGdFUUFob0RWVk5FT0J4d29LWUIiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMTQ1NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 22:25"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 23:59"
+          },
+          "duration": 94,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1472",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 86 kg"
+          ]
+        }
+      ],
+      "total_duration": 94,
+      "carbon_emissions": {
+        "this_flight": 87000,
+        "typical_for_this_route": 91000,
+        "difference_percent": -4
+      },
+      "price": 213,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRFME56SWFDd2lncGdFUUFob0RWVk5FT0J4d29LWUIiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMTQ3MiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 06:50"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2026-06-20 10:04"
+          },
+          "duration": 134,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 893",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 123 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2026-06-20 13:32"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 14:07"
+          },
+          "duration": 95,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 3157",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 76 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 208,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 437,
+      "carbon_emissions": {
+        "this_flight": 200000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 120
+      },
+      "price": 348,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ3hFVERnNU0zeEVURE14TlRjYUN3aXpqd0lRQWhvRFZWTkVPQnh3czQ4QyIsW1siREZXIiwiMjAyNi0wNi0yMCIsIkFUTCIsbnVsbCwiREwiLCI4OTMiXSxbIkFUTCIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkRMIiwiMzE1NyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 12:39"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 14:13"
+          },
+          "duration": 94,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 3721",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 115 kg"
+          ],
+          "plane_and_crew_by": "Envoy Air as American Eagle"
+        }
+      ],
+      "total_duration": 94,
+      "carbon_emissions": {
+        "this_flight": 116000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 27
+      },
+      "price": 351,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ1pCUVRNM01qRWFDd2k5a1FJUUFob0RWVk5FT0J4d3ZaRUMiLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkFBIiwiMzcyMSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 14:15"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-06-20 16:57"
+          },
+          "duration": 162,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2160",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-06-20 20:06"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 22:41"
+          },
+          "duration": 155,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1761",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 133 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 189,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 506,
+      "carbon_emissions": {
+        "this_flight": 258000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 184
+      },
+      "price": 434,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZzFWUVRJeE5qQjhWVUV4TnpZeEdnc0kyOUlDRUFJYUExVlRSRGdjY052U0FnPT0iLFtbIkRGVyIsIjIwMjYtMDYtMjAiLCJPUkQiLG51bGwsIlVBIiwiMjE2MCJdLFsiT1JEIiwiMjAyNi0wNi0yMCIsIk1TWSIsbnVsbCwiVUEiLCIxNzYxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 09:36"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2026-06-20 12:50"
+          },
+          "duration": 134,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 839",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 123 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2026-06-20 13:32"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 14:07"
+          },
+          "duration": 95,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 3157",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 76 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 42,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 271,
+      "carbon_emissions": {
+        "this_flight": 200000,
+        "typical_for_this_route": 91000,
+        "difference_percent": 120
+      },
+      "price": 634,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJZUc1cGVHWndTVkYwYkUxQlFqZzNOMUZDUnkwdExTMHRMUzB0Y0dwaVpYWXhPVUZCUVVGQlIyNVdSM2ROU1RSU2ExZEJFZ3hFVERnek9YeEVURE14TlRjYUN3anI3Z01RQWhvRFZWTkVPQnh3Nis0RCIsW1siREZXIiwiMjAyNi0wNi0yMCIsIkFUTCIsbnVsbCwiREwiLCI4MzkiXSxbIkFUTCIsIjIwMjYtMDYtMjAiLCJNU1kiLG51bGwsIkRMIiwiMzE1NyJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 180,
+    "price_level": "typical",
+    "typical_price_range": [
+      105,
+      205
+    ],
+    "price_history": [
+      [
+        1770271200,
+        190
+      ],
+      [
+        1770357600,
+        190
+      ],
+      [
+        1770444000,
+        190
+      ],
+      [
+        1770530400,
+        190
+      ],
+      [
+        1770616800,
+        190
+      ],
+      [
+        1770703200,
+        190
+      ],
+      [
+        1770789600,
+        190
+      ],
+      [
+        1770876000,
+        190
+      ],
+      [
+        1770962400,
+        194
+      ],
+      [
+        1771048800,
+        194
+      ],
+      [
+        1771135200,
+        225
+      ],
+      [
+        1771221600,
+        225
+      ],
+      [
+        1771308000,
+        243
+      ],
+      [
+        1771394400,
+        243
+      ],
+      [
+        1771480800,
+        243
+      ],
+      [
+        1771567200,
+        243
+      ],
+      [
+        1771653600,
+        243
+      ],
+      [
+        1771740000,
+        243
+      ],
+      [
+        1771826400,
+        243
+      ],
+      [
+        1771912800,
+        243
+      ],
+      [
+        1771999200,
+        272
+      ],
+      [
+        1772085600,
+        266
+      ],
+      [
+        1772172000,
+        276
+      ],
+      [
+        1772258400,
+        289
+      ],
+      [
+        1772344800,
+        289
+      ],
+      [
+        1772431200,
+        289
+      ],
+      [
+        1772517600,
+        309
+      ],
+      [
+        1772604000,
+        309
+      ],
+      [
+        1772690400,
+        289
+      ],
+      [
+        1772776800,
+        289
+      ],
+      [
+        1772863200,
+        289
+      ],
+      [
+        1772949600,
+        289
+      ],
+      [
+        1773032400,
+        289
+      ],
+      [
+        1773118800,
+        289
+      ],
+      [
+        1773205200,
+        309
+      ],
+      [
+        1773291600,
+        309
+      ],
+      [
+        1773378000,
+        309
+      ],
+      [
+        1773464400,
+        309
+      ],
+      [
+        1773550800,
+        296
+      ],
+      [
+        1773637200,
+        296
+      ],
+      [
+        1773723600,
+        293
+      ],
+      [
+        1773810000,
+        274
+      ],
+      [
+        1773896400,
+        257
+      ],
+      [
+        1773982800,
+        257
+      ],
+      [
+        1774069200,
+        238
+      ],
+      [
+        1774155600,
+        238
+      ],
+      [
+        1774242000,
+        257
+      ],
+      [
+        1774328400,
+        238
+      ],
+      [
+        1774414800,
+        216
+      ],
+      [
+        1774501200,
+        216
+      ],
+      [
+        1774587600,
+        216
+      ],
+      [
+        1774674000,
+        216
+      ],
+      [
+        1774760400,
+        216
+      ],
+      [
+        1774846800,
+        167
+      ],
+      [
+        1774933200,
+        167
+      ],
+      [
+        1775019600,
+        167
+      ],
+      [
+        1775106000,
+        167
+      ],
+      [
+        1775192400,
+        167
+      ],
+      [
+        1775278800,
+        167
+      ],
+      [
+        1775365200,
+        167
+      ],
+      [
+        1775451600,
+        167
+      ],
+      [
+        1775538000,
+        180
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "DFW",
+            "name": "Dallas Fort Worth International Airport"
+          },
+          "city": "Dallas",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61zSeEE0f0RSedvAIvzJKv1B7Tojcnx1pR5ipb9l389QDa2V23R4cRbmgVZVCgrVsZ6Ewme_WpDRgmw",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4Hg7sSdARNWUKEIVKbquvgGkx76RuLbHy7uH51pecZu-z7-Wi9ya5fpf-YmM63--MKoWu7HUM3Q1O7mQoRBSlNeNSfgHP5Y2tO11niU"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "MSY",
+            "name": "Louis Armstrong New Orleans International Airport"
+          },
+          "city": "New Orleans",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzhIJFTPNT6iwytgwT3rVROq1UBJ9Gzf5vEzOTt2wuZjRI_3cjiH82bNE3KCg8PNkFlgS6O6hDTpGG4Q",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvkNXjCJGc5AuDNBQf2jCs1M61Yo83F-I6OdNIhJLbRWFTmV6cweK5i-to8N2RocZAqG0vAUwkbScb3YnYQklh_DPW9lkOFxMD4XGrYkA"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "MSY",
+            "name": "Louis Armstrong New Orleans International Airport"
+          },
+          "city": "New Orleans",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzhIJFTPNT6iwytgwT3rVROq1UBJ9Gzf5vEzOTt2wuZjRI_3cjiH82bNE3KCg8PNkFlgS6O6hDTpGG4Q",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvkNXjCJGc5AuDNBQf2jCs1M61Yo83F-I6OdNIhJLbRWFTmV6cweK5i-to8N2RocZAqG0vAUwkbScb3YnYQklh_DPW9lkOFxMD4XGrYkA"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "DFW",
+            "name": "Dallas Fort Worth International Airport"
+          },
+          "city": "Dallas",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61zSeEE0f0RSedvAIvzJKv1B7Tojcnx1pR5ipb9l389QDa2V23R4cRbmgVZVCgrVsZ6Ewme_WpDRgmw",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4Hg7sSdARNWUKEIVKbquvgGkx76RuLbHy7uH51pecZu-z7-Wi9ya5fpf-YmM63--MKoWu7HUM3Q1O7mQoRBSlNeNSfgHP5Y2tO11niU"
+        }
+      ]
+    }
+  ]
+}

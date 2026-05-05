@@ -1,0 +1,49 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01LeWmUdfmdq7VsigATQDnUi",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01JdEuSwmcyaA6UopbnLD9k3",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "end_date": "2026-06-05",
+          "duration_days": 4,
+          "budget_usd": 1600,
+          "interests": [
+            "Broadway show",
+            "musical"
+          ]
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I've updated your trip to 4 days (June 1-5) with a budget of $1,600. I'll find you a great Broadway musical to see during your New York visit. Let me search for show options and availability for you!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2571,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 216,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

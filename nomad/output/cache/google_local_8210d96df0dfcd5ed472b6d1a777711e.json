@@ -1,0 +1,49 @@
+{
+  "search_metadata": {
+    "id": "69d51c0a59eb3776892f3573",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/T1pS-UOEIXjOGR6YWTgrzA/69d51c0a59eb3776892f3573.json",
+    "created_at": "2026-04-07 15:00:26 UTC",
+    "processed_at": "2026-04-07 15:00:26 UTC",
+    "google_local_url": "https://www.google.com/search?q=Smithsonian+National+Museum+of+Natural+History&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/T1pS-UOEIXjOGR6YWTgrzA/69d51c0a59eb3776892f3573.html",
+    "total_time_taken": 1.21
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Smithsonian National Museum of Natural History",
+    "location_requested": "Washington DC",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 38.89138355491702,
+      "longitude": -77.02606916427612
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 57000,
+      "reviews_original": "(57K)",
+      "description": "Renowned collection of natural wonders",
+      "lsig": "AB86z5XEDrB7dSFHoMitYboCLCov",
+      "thumbnail": "https://serpapi.com/searches/69d51c0a59eb3776892f3573/images/bSREEJMZJG7JEShJkqbGQ4WUeE7w_fZzIneT3mHvtaY.jpeg",
+      "place_id": "14406435510458217903",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Washington+DC&ludocid=14406435510458217903&q=Smithsonian+National+Museum+of+Natural+History",
+      "provider_id": "/m/033xmz",
+      "gps_coordinates": {
+        "latitude": 38.891266,
+        "longitude": -77.02606
+      },
+      "title": "Smithsonian National Museum of Natural History",
+      "type": "Natural history museum",
+      "address": "10th St. & Constitution Ave. NW"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_014zF9Gt7Bw8SZJGtPyaqLRg",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01RNom23tAJE5hxNvRhnHtmu",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "dietary_needs": [
+            "kosher"
+          ],
+          "interests": [
+            "group dinner",
+            "steakhouse"
+          ]
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": true
+        },
+        "response_to_user": "I'll search for a nice steakhouse in Chicago near the Loop that can accommodate kosher dietary needs for your group dinner on October 20th (your first night). Let me find some options for your party of 3."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2583,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 184,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

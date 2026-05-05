@@ -1,0 +1,457 @@
+{
+  "search_metadata": {
+    "id": "69d52d95526c48f298ae0366",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tDvg3tqfOLh1tg_oHmZz_w/69d52d95526c48f298ae0366.json",
+    "created_at": "2026-04-07 16:15:17 UTC",
+    "processed_at": "2026-04-07 16:15:17 UTC",
+    "google_local_url": "https://www.google.com/search?q=steakhouse&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/tDvg3tqfOLh1tg_oHmZz_w/69d52d95526c48f298ae0366.html",
+    "total_time_taken": 6.13
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "steakhouse",
+    "location_requested": "Chicago",
+    "location_used": "Chicago,Illinois,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 41.891927238219935,
+      "longitude": -87.62978553771973
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 16000,
+      "reviews_original": "(16K)",
+      "description": "\"Chef Jesse served up perfectly cooked steaks that were out of this world.\"",
+      "lsig": "AB86z5XuMSCtk_HlJxs-plkFbdGk",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/ez97X4iv02PUjETCXSygUJc4p2I_82wdZTAp6N65Ysc.jpeg",
+      "place_id": "5754815119590898545",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5754815119590898545&q=steakhouse",
+      "provider_id": "/g/11ckqzj2_d",
+      "gps_coordinates": {
+        "latitude": 41.889027,
+        "longitude": -87.62864
+      },
+      "title": "STK Steakhouse",
+      "type": "Steak",
+      "address": "9 W Kinzie St"
+    },
+    {
+      "position": 2,
+      "rating": 4.4,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$100+",
+      "description": "\"We ordered steaks that melted in your mouth, great flavor, and very tender.\"",
+      "lsig": "AB86z5WfwSQNbEDg__Kdw6-j77cE",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/QCySdouEc1bO9reJ9O8u3wLEc66l5em9jdLzuoNIvBY.jpeg",
+      "place_id": "9294240848300660600",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=9294240848300660600&q=steakhouse",
+      "provider_id": "/g/1vbl8502",
+      "gps_coordinates": {
+        "latitude": 41.8881,
+        "longitude": -87.632744
+      },
+      "title": "Chicago Cut Steakhouse",
+      "type": "Steak",
+      "address": "300 N La Salle Dr"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 6700,
+      "reviews_original": "(6.7K)",
+      "price": "$100+",
+      "description": "\"The steaks melted in your mouth and the sides were absolutely delicious!\"",
+      "lsig": "AB86z5XDN2dxesAl6JH9WeCfZvp7",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/O2jU5lcGa_wbRQu_QctNXvTQedTlCiiZcHoIc6Ys52k.jpeg",
+      "place_id": "15121268809622259668",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15121268809622259668&q=steakhouse",
+      "provider_id": "/g/1th7nhgq",
+      "gps_coordinates": {
+        "latitude": 41.901398,
+        "longitude": -87.62809
+      },
+      "title": "Gibsons Bar & Steakhouse",
+      "type": "Steak",
+      "address": "1028 N Rush St"
+    },
+    {
+      "position": 4,
+      "rating": 4.6,
+      "reviews": 2700,
+      "reviews_original": "(2.7K)",
+      "description": "\"The filet mignon was perfectly cooked, tender, and full of flavor.\"",
+      "lsig": "AB86z5UKpt_5GNkpjB03JQeMpInC",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/AjL40gs1CC-7yU4KTfoj7HWmAnBLArN7IiS5GMKHxVI.jpeg",
+      "place_id": "10481072841389147234",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10481072841389147234&q=steakhouse",
+      "provider_id": "/g/11b7qyvnw7",
+      "gps_coordinates": {
+        "latitude": 41.88269,
+        "longitude": -87.62467
+      },
+      "title": "Remington's",
+      "type": "American",
+      "address": "20 N Michigan Ave"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 3900,
+      "reviews_original": "(3.9K)",
+      "price": "$100+",
+      "description": "\"Amazing vibe, excellent service, and easily the best steak I’ve ever had.\"",
+      "lsig": "AB86z5WjEQ_Pd9Dmha_4bJkXvIBn",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/2WXo_6dSrj-yMlnD1Dr0ea6-tr6y7QIH8f1RntaUJZc.jpeg",
+      "place_id": "13931739334360690963",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13931739334360690963&q=steakhouse",
+      "provider_id": "/g/11h0p_tl4",
+      "gps_coordinates": {
+        "latitude": 41.88928,
+        "longitude": -87.63489
+      },
+      "title": "Bavette's Bar & Boeuf",
+      "type": "Steak",
+      "address": "218 W Kinzie St",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.4,
+      "reviews": 3500,
+      "reviews_original": "(3.5K)",
+      "price": "$100+",
+      "description": "\"Filet was perfectly done, had a wonderful sauce, and melted in my mouth.\"",
+      "lsig": "AB86z5VIZas7_jZV25CzSNxwV6qN",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/E9QLLVojQ9KXu_YqUGk14nYueMU8R1vGqVo_KhhQdts.jpeg",
+      "place_id": "622078382232350315",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=622078382232350315&q=steakhouse",
+      "provider_id": "/g/1ym_k2khy",
+      "gps_coordinates": {
+        "latitude": 41.89117,
+        "longitude": -87.62388
+      },
+      "title": "Michael Jordan's Steak House Chicago",
+      "type": "Steak",
+      "address": "505 N Michigan Ave"
+    },
+    {
+      "position": 7,
+      "rating": 4.8,
+      "reviews": 469,
+      "reviews_original": "(469)",
+      "price": "$100+",
+      "description": "\"Service was top tier , ambiance was amazing , and food was delicious .\"",
+      "lsig": "AB86z5VqcNizq4jozJj-_C-fMNgi",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/OpjImIqdFqBGnqWTwnUtUFETKMnkgPv_IBRgP3UfCRA.jpeg",
+      "place_id": "2282328380003939610",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=2282328380003939610&q=steakhouse",
+      "provider_id": "/g/11x7ddp5zn",
+      "gps_coordinates": {
+        "latitude": 41.89622,
+        "longitude": -87.62832
+      },
+      "title": "Sophia Steak Chicago",
+      "type": "Restaurant",
+      "address": "748 N State St",
+      "hours": "Closed · Opens 4:30 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.5,
+      "reviews": 817,
+      "reviews_original": "(817)",
+      "price": "$50–100",
+      "description": "\"Great steaks, chill low key atmosphere, strong drinks, great service.\"",
+      "lsig": "AB86z5XUJBiKP9MzLNMnvuPzyzRm",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/CeLOCXEeGIN3vi13QP9HSidspD647rlUfyELf28W2UQ.jpeg",
+      "place_id": "15951115615094365857",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15951115615094365857&q=steakhouse",
+      "provider_id": "/g/1thq5wl1",
+      "gps_coordinates": {
+        "latitude": 41.88052,
+        "longitude": -87.628815
+      },
+      "title": "The Grillroom Chophouse & Wine Bar",
+      "type": "Steak",
+      "address": "33 W Monroe St Floor 1"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 926,
+      "reviews_original": "(926)",
+      "price": "$100+",
+      "description": "\"The steaks were cooked to perfection, tender and flavorful.\"",
+      "lsig": "AB86z5XyV0u48HDR7-pFc2KVT1O9",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/-JK9D-fnU6P8E6LpA9udQrco95d_KM5MDWtdeT3RIOQ.jpeg",
+      "place_id": "13083001139280516047",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13083001139280516047&q=steakhouse",
+      "provider_id": "/g/11vwm83khd",
+      "gps_coordinates": {
+        "latitude": 41.890957,
+        "longitude": -87.63302
+      },
+      "title": "Hawksmoor Chicago",
+      "type": "Steak",
+      "address": "500 N La Salle Dr",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$100+",
+      "description": "\"The New York strip and filet mignon were prepared flawlessly to medium-rare.\"",
+      "lsig": "AB86z5U-wIzZJgbxEDCcErJRgUGQ",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/egR2R4Y7mEfj8K0Z5QF3sxHcpFqbBjTaEYknfEeVZp4.jpeg",
+      "place_id": "17308622795343437681",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17308622795343437681&q=steakhouse",
+      "provider_id": "/m/01_70hn",
+      "gps_coordinates": {
+        "latitude": 41.890884,
+        "longitude": -87.63577
+      },
+      "title": "Gene & Georgetti",
+      "type": "Steak",
+      "address": "500 N Franklin St"
+    },
+    {
+      "position": 11,
+      "rating": 4.7,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "price": "$100+",
+      "description": "\"Everything was delicious and my steak was cooked a perfect medium well.\"",
+      "lsig": "AB86z5WDs-Uyo91Bjcfa7pOZ5skO",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/e0gCvTl99lZoGDlge6UzGj17bBiysI1sFCWy6D8V6RU.jpeg",
+      "place_id": "11772515381560280814",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=11772515381560280814&q=steakhouse",
+      "provider_id": "/g/1w4f8pk6",
+      "gps_coordinates": {
+        "latitude": 41.893337,
+        "longitude": -87.630394
+      },
+      "title": "Chicago Chop House",
+      "type": "Steak",
+      "address": "60 W Ontario St",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "price": "$50–100",
+      "description": "\"Tender and juicy steak, delicious and perfectly seasoned sides.\"",
+      "lsig": "AB86z5UAMWIZg2xBV5vRQHGxkBKS",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/ulb0n80_GXZoi1vvvHrFdyMuB-ZOQV5WZyMfLpUgIw4.jpeg",
+      "place_id": "12012799429802567065",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=12012799429802567065&q=steakhouse",
+      "provider_id": "/g/1th7yy6d",
+      "gps_coordinates": {
+        "latitude": 41.893787,
+        "longitude": -87.6335
+      },
+      "title": "Wildfire",
+      "type": "Steak",
+      "address": "159 W Erie St",
+      "hours": "Opens soon · 11:30 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 5200,
+      "reviews_original": "(5.2K)",
+      "price": "$100+",
+      "description": "\"The steak melted in your mouth & the sides were insanely delicious!\"",
+      "lsig": "AB86z5W-3mMgUWlG6IaMyXLUvXLR",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/OkTontCF9fu3vbOHjmNfMno69C57S-sVX7ZghIz-vmI.jpeg",
+      "place_id": "11123140090440554441",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=11123140090440554441&q=steakhouse",
+      "provider_id": "/g/11b5ywk7j1",
+      "gps_coordinates": {
+        "latitude": 41.889397,
+        "longitude": -87.630615
+      },
+      "title": "RPM Steak",
+      "type": "Steak",
+      "address": "66 W Kinzie St",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.4,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "description": "\"The steak was exceptionally tender and prepared flawlessly.\"",
+      "lsig": "AB86z5VxoHY5LKm7LQChFf6xj5Ha",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/L3aAxD2FhkoKZ3FjD-zAb3TMu2RIpODYsE4oAGI9yZ4.jpeg",
+      "place_id": "13163859021999759109",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13163859021999759109&q=steakhouse",
+      "provider_id": "/g/1v3h_l52",
+      "gps_coordinates": {
+        "latitude": 41.901356,
+        "longitude": -87.627556
+      },
+      "title": "Tavern On Rush",
+      "type": "Steak",
+      "address": "1015 N Rush St"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$100+",
+      "description": "\"The cowboy steak was cooked to perfection and top notch service\"",
+      "lsig": "AB86z5XnlYSRNzPxjRsG3DgmszDw",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/zCvTUeKEdJGBgtfb-M1-iXQMmw5Fao14MLZLA7C5GC0.jpeg",
+      "place_id": "8903900748585246091",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8903900748585246091&q=steakhouse",
+      "provider_id": "/g/1tfsnl3x",
+      "gps_coordinates": {
+        "latitude": 41.8893,
+        "longitude": -87.63424
+      },
+      "title": "Kinzie Chophouse",
+      "type": "Steak",
+      "address": "400 N Wells St",
+      "hours": "Opens soon · 11:30 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 3700,
+      "reviews_original": "(3.7K)",
+      "description": "\"The steak was spot-on: juicy, tender, and cooked exactly as requested.\"",
+      "lsig": "AB86z5UdUhTXmDEp7ZhEOHY5v9-O",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/YOCMS0QZjCz-kLVAaojEPsCT0AnQrsloJa1KfBYELpE.jpeg",
+      "place_id": "1772916981374383356",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=1772916981374383356&q=steakhouse",
+      "provider_id": "/g/116bxq0f_",
+      "gps_coordinates": {
+        "latitude": 41.889126,
+        "longitude": -87.62934
+      },
+      "title": "Harry Caray's Italian Steakhouse",
+      "type": "Italian",
+      "address": "33 W Kinzie St",
+      "hours": "Opens soon · 11:30 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.3,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$100+",
+      "description": "\"The steak was cooked perfectly medium-rare, buttery, and packed with flavor.\"",
+      "lsig": "AB86z5WmczTEfRAgzePcQAl1LSBj",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/wDYxdaYitf8oAaVEoO8s3Vhm4qVTK3CRJwchf0r_8Cg.jpeg",
+      "place_id": "5114639911790832240",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5114639911790832240&q=steakhouse",
+      "provider_id": "/g/1td9fb6c",
+      "gps_coordinates": {
+        "latitude": 41.886524,
+        "longitude": -87.62554
+      },
+      "title": "Morton's The Steakhouse",
+      "type": "Restaurant",
+      "address": "65 E Wacker Pl",
+      "hours": "Opens soon · 11:30 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.4,
+      "reviews": 3500,
+      "reviews_original": "(3.5K)",
+      "price": "$100+",
+      "description": "\"The steaks and bone marrow butter were out of this world.\"",
+      "lsig": "AB86z5X3QiCiaT0J_g2X9eE14eah",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/ucAwZxz9sSjUReP3x81v4cning6BlSPabPPEml-I660.jpeg",
+      "place_id": "3341069098741303602",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3341069098741303602&q=steakhouse",
+      "provider_id": "/g/1tfk503c",
+      "gps_coordinates": {
+        "latitude": 41.88799,
+        "longitude": -87.62861
+      },
+      "title": "Smith & Wollensky - Chicago",
+      "type": "Steak",
+      "address": "318 N State St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.8,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "price": "$100+",
+      "description": "\"The steak was cooked perfectly — tender, flavorful, and seasoned just right.\"",
+      "lsig": "AB86z5XPWANQvLiSVXYyoPrV3Mir",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/eMfqc3bodqxvXOd1vHXGmGYiNKvthOZtrSM0icoA1I0.jpeg",
+      "place_id": "14358403360702812708",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14358403360702812708&q=steakhouse",
+      "provider_id": "/g/11ynybhqsj",
+      "gps_coordinates": {
+        "latitude": 41.84627,
+        "longitude": -87.9497
+      },
+      "title": "STK Steakhouse",
+      "type": "Steak",
+      "address": "Oak Brook, IL"
+    },
+    {
+      "position": 20,
+      "rating": 4.7,
+      "reviews": 4100,
+      "reviews_original": "(4.1K)",
+      "price": "$100+",
+      "description": "\"Steak flavors were so intense, even the asparagus were to die for.\"",
+      "lsig": "AB86z5XWDw5ysaky1c1_4HULpGD2",
+      "thumbnail": "https://serpapi.com/searches/69d52d95526c48f298ae0366/images/dIFCD2sKtgf31PRh9gM1Uvh43sD4nJwqPBKKgJLlaRU.jpeg",
+      "place_id": "6099501835260677183",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=6099501835260677183&q=steakhouse",
+      "provider_id": "/g/11gbwl71vx",
+      "gps_coordinates": {
+        "latitude": 41.886593,
+        "longitude": -87.63957
+      },
+      "title": "Gibsons Italia",
+      "type": "Italian",
+      "address": "233 N Canal St"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=steakhouse&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=steakhouse&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=steakhouse&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=steakhouse&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=steakhouse&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=steakhouse&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=steakhouse&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=steakhouse&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=steakhouse&start=40&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=steakhouse&start=60&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=steakhouse&start=80&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

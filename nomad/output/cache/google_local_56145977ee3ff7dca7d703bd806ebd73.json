@@ -1,0 +1,46 @@
+{
+  "search_metadata": {
+    "id": "69d51c3f8ffd7b4053e59c78",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/R4kKzMn95ZNuNZkP419otA/69d51c3f8ffd7b4053e59c78.json",
+    "created_at": "2026-04-07 15:01:19 UTC",
+    "processed_at": "2026-04-07 15:01:19 UTC",
+    "google_local_url": "https://www.google.com/search?q=bike+ride+across+Golden+Gate+Bridge&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/R4kKzMn95ZNuNZkP419otA/69d51c3f8ffd7b4053e59c78.html",
+    "total_time_taken": 1.38
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "bike ride across Golden Gate Bridge",
+    "location_requested": "San Francisco",
+    "location_used": "San Francisco Bay Area,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 37.79964557770774,
+      "longitude": -122.43694067001344
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "lsig": "AB86z5UKxfAg_ehrq8D4sXXw86Vp",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Golden+Gate+Bridge+Bike+Rentals,+2157+Lombard+St,+San+Francisco,+CA+94123/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808580d0c869ade5:0xde9287f0eaad726e?sa=X&ved=2ahUKEwj92N_ygNyTAxXGK1kFHaJdDH8Q48ADegQIHxAA&hl=en&gl=us"
+      },
+      "place_id": "16038030691818893934",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=16038030691818893934&q=bike+ride+across+Golden+Gate+Bridge",
+      "provider_id": "/g/11cn5tlyqb",
+      "gps_coordinates": {
+        "latitude": 37.79953,
+        "longitude": -122.436935
+      },
+      "title": "Golden Gate Bridge Bike Rentals",
+      "address": "Bicycle rental service"
+    }
+  ]
+}

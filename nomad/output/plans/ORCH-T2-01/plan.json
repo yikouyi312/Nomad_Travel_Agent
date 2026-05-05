@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "task_id": "ORCH-T2-01",
+    "saved_at": "2026-04-07T10:56:53.846521",
+    "schema_version": "1.0"
+  },
+  "plan": {
+    "itinerary": {
+      "flights": {
+        "outbound": {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-20 07:15"
+          },
+          "arrival_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-20 08:49"
+          },
+          "duration": 94,
+          "airline": "American",
+          "flight_number": "AA 2183",
+          "travel_class": "Economy",
+          "legroom": "30 in",
+          "price": 213,
+          "type": "Round trip",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ]
+        },
+        "return": {
+          "departure_airport": {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "id": "MSY",
+            "time": "2026-06-23 10:00"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2026-06-23 11:30"
+          },
+          "duration": 90,
+          "airline": "American",
+          "flight_number": "AA 2184",
+          "travel_class": "Economy",
+          "legroom": "30 in",
+          "price": 213,
+          "type": "Round trip"
+        }
+      },
+      "hotels": {
+        "name": "Inn on Ursulines",
+        "hotel_class": "3-star hotel",
+        "extracted_hotel_class": 3,
+        "overall_rating": 4.1,
+        "rate_per_night": {
+          "lowest": "$80",
+          "extracted_lowest": 80,
+          "before_taxes_fees": "$69",
+          "extracted_before_taxes_fees": 69
+        },
+        "total_rate": {
+          "lowest": "$240",
+          "extracted_lowest": 240,
+          "before_taxes_fees": "$207",
+          "extracted_before_taxes_fees": 207
+        },
+        "amenities": [
+          "Free Wi-Fi",
+          "Air conditioning",
+          "Golf",
+          "Kid-friendly",
+          "Smoke-free property"
+        ],
+        "nights": 3,
+        "check_in": "2026-06-20",
+        "check_out": "2026-06-23"
+      },
+      "activities": [
+        {
+          "day_number": 1,
+          "date": "2026-06-20",
+          "time": "13:00",
+          "duration_hours": 2,
+          "name": "St. Louis Cemetery No. 1 Official Tour",
+          "type": "tour",
+          "location": "New Orleans, LA",
+          "description": "Cemetery walking tour - There were misters along the path to keep everyone comfortable.",
+          "price_per_person": 25,
+          "total_price": 25
+        },
+        {
+          "day_number": 1,
+          "date": "2026-06-20",
+          "time": "18:00",
+          "duration_hours": 1.5,
+          "name": "NOLA GUMBO FACTORY",
+          "type": "restaurant",
+          "location": "806 Conti St",
+          "description": "Cajun restaurant - Highly recommended the Shrimp and Crawfish Etouffee and any of the gumbos!",
+          "price_per_person": 15,
+          "total_price": 15
+        },
+        {
+          "day_number": 1,
+          "date": "2026-06-20",
+          "time": "20:30",
+          "duration_hours": 2,
+          "name": "Preservation Hall",
+          "type": "entertainment",
+          "location": "726 St Peter",
+          "description": "Storied institution for jazz",
+          "price_per_person": 25,
+          "total_price": 25
+        },
+        {
+          "day_number": 2,
+          "date": "2026-06-21",
+          "time": "10:00",
+          "duration_hours": 2,
+          "name": "Bourbon Street",
+          "type": "attraction",
+          "location": "Bourbon Street, French Quarter",
+          "description": "Explore the famous Bourbon Street in the French Quarter",
+          "price_per_person": 0,
+          "total_price": 0
+        },
+        {
+          "day_number": 2,
+          "date": "2026-06-21",
+          "time": "13:00",
+          "duration_hours": 1.5,
+          "name": "The Louisiana Cajun Crawfish Co.",
+          "type": "restaurant",
+          "location": "Kenner, LA",
+          "description": "Seafood - Great crawfish and super nice people!",
+          "price_per_person": 30,
+          "total_price": 30
+        },
+        {
+          "day_number": 2,
+          "date": "2026-06-21",
+          "time": "19:00",
+          "duration_hours": 2,
+          "name": "House of Jazz Restaurant & Music Club",
+          "type": "restaurant",
+          "location": "241 Bourbon St",
+          "description": "Beautiful concept - Jazz restaurant and music club",
+          "price_per_person": 40,
+          "total_price": 40
+        },
+        {
+          "day_number": 2,
+          "date": "2026-06-21",
+          "time": "21:30",
+          "duration_hours": 2,
+          "name": "Three Maries Jazz Club",
+          "type": "entertainment",
+          "location": "621 St Louis St",
+          "description": "Talented and curated jazz performance with balanced acoustics.",
+          "price_per_person": 25,
+          "total_price": 25
+        },
+        {
+          "day_number": 3,
+          "date": "2026-06-22",
+          "time": "09:00",
+          "duration_hours": 1.5,
+          "name": "Breakfast at local café",
+          "type": "restaurant",
+          "location": "French Quarter",
+          "description": "Morning breakfast before activities",
+          "price_per_person": 15,
+          "total_price": 15
+        },
+        {
+          "day_number": 3,
+          "date": "2026-06-22",
+          "time": "19:00",
+          "duration_hours": 2,
+          "name": "Mahogany Jazz Hall",
+          "type": "entertainment",
+          "location": "125 Chartres St",
+          "description": "Amazing Jazz Musicians, incredible ambiance, intimate setting and a must.",
+          "price_per_person": 25,
+          "total_price": 25
+        }
+      ],
+      "estimated_total_cost": 1620
+    },
+    "constraints_met": true,
+    "unmet_constraints": [],
+    "reasoning": "Selected Flight 2 (American AA 2183) for best value - direct flight at 7:15am arrival 8:49am, giving full day in New Orleans. At $213 it's only $33 more than cheapest option but saves 5+ hours of travel time with no layovers and offers better legroom (30\" vs 28\"). \n\nChose Inn on Ursulines for accommodation - perfect match at 3-star rating as preferred, located in French Quarter as requested, excellent value at $207 for 3 nights (before taxes), and highly rated at 4.1 stars.\n\nActivity selection focused on user's specific interests:\n- Preservation Hall (specifically requested) - iconic jazz venue\n- St. Louis Cemetery No. 1 Official Tour (cemetery walking tour as requested)\n- Multiple jazz venues (Three Maries, Mahogany Jazz Hall, House of Jazz)\n- Cajun crawfish experiences (Louisiana Cajun Crawfish Co., NOLA Gumbo Factory)\n- Bourbon Street exploration (specifically requested)\n\nTotal cost breakdown:\n- Flights: $213\n- Hotel: $240 (with taxes)\n- Activities: $200\n- Food included in activities: ~$100\n- Buffer for additional meals/incidentals: ~$867 remaining\n\nAll activities scheduled with realistic timing, avoiding conflicts, and distributed across the 3-day trip. Arrival day has afternoon/evening activities, departure day kept light for morning flight home.",
+    "final_message_to_user": "Perfect! I've crafted your 3-day New Orleans jazz and culture adventure within your $1,800 budget. You'll fly direct on American Airlines arriving early morning (8:49am) to maximize your first day, stay at the charming 3-star Inn on Ursulines in the heart of the French Quarter, and experience all your must-dos: Preservation Hall for authentic jazz, a cemetery walking tour, Bourbon Street exploration, multiple jazz clubs, and plenty of Cajun crawfish! Total estimated cost is $1,620, leaving you extra spending money for spontaneous beignets and hurricanes. Laissez les bons temps rouler! 🎺🎷"
+  }
+}

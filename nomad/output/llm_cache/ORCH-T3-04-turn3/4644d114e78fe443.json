@@ -1,0 +1,50 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01TRkzw46TcGPbUn8bXqQUaB",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01KAdLAFPx7dxJ6WxqF7JJXG",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "interests": [
+            "all-inclusive resort",
+            "Hotel Zone",
+            "Chichen Itza",
+            "cenote swimming",
+            "reef-safe sunscreen"
+          ],
+          "hotel_location": "Hotel Zone"
+        },
+        "needs": {
+          "flight": false,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll search for all-inclusive resorts in Cancun's Hotel Zone for your November 1-6 trip. I'll also find information about visiting Chichen Itza ruins, cenote swimming tours, and where to get reef-safe sunscreen nearby. Let me gather those options for you."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2606,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 225,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "search_metadata": {
+    "id": "69d51b3f18dc9389b0a75195",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5YACsiMbiGgssyabXtsXoQ/69d51b3f18dc9389b0a75195.json",
+    "created_at": "2026-04-07 14:57:03 UTC",
+    "processed_at": "2026-04-07 14:57:03 UTC",
+    "google_local_url": "https://www.google.com/search?q=pet-friendly&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/5YACsiMbiGgssyabXtsXoQ/69d51b3f18dc9389b0a75195.html",
+    "total_time_taken": 5.63
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "pet-friendly",
+    "location_requested": "Seattle",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 47.665156141945474,
+      "longitude": -122.33516693115233
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.9,
+      "reviews": 145,
+      "reviews_original": "(145)",
+      "description": "\"The staff are attentive, kind, and engaging with the dogs and owners.\"",
+      "lsig": "AB86z5V7-0f-BcYHyR48OwM-jZgS",
+      "links": {
+        "website": "https://www.marthasgardenseattle.com/",
+        "directions": "https://www.google.com/maps/dir//Martha's+Garden,+310+9th+Ave+N,+Seattle,+WA+98109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54901568ade96b6f:0xcef854c43a905fc0?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "14913763367810260928",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14913763367810260928&q=pet-friendly",
+      "provider_id": "/g/11kwcc7jc7",
+      "gps_coordinates": {
+        "latitude": 47.621258,
+        "longitude": -122.33945
+      },
+      "title": "Martha's Garden",
+      "type": "Dog day care center",
+      "phone": "(206) 466-2897",
+      "years_in_business": "5+ years in business",
+      "address": "310 9th Ave N",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.1,
+      "reviews": 110,
+      "reviews_original": "(110)",
+      "description": "\"Dog park close by.\"",
+      "lsig": "AB86z5WJQZVj91xDQ-oYa16XgLUu",
+      "links": {
+        "website": "http://www.seattle.gov/parks/find/parks/plymouth-pillars-park",
+        "directions": "https://www.google.com/maps/dir//Plymouth+Pillars+Park,+1050+Pike+St,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906acabd04534b:0xd1c080b48a6a596d?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIKxAA&hl=en&gl=us"
+      },
+      "place_id": "15114221862360078701",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=15114221862360078701&q=pet-friendly",
+      "provider_id": "/g/1tfh4c7p",
+      "gps_coordinates": {
+        "latitude": 47.613632,
+        "longitude": -122.3294
+      },
+      "title": "Plymouth Pillars Park",
+      "type": "City park",
+      "phone": "(206) 684-4075",
+      "address": "1050 Pike St",
+      "hours": "Open · Closes 10 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews": 167,
+      "reviews_original": "(167)",
+      "description": "\"Very friendly staff and great treats for our dog on his bday.\"",
+      "lsig": "AB86z5WtNbLuWivF8k6Gq2GaNObS",
+      "links": {
+        "website": "http://www.theseattlebarkery.com/contact",
+        "directions": "https://www.google.com/maps/dir//The+Seattle+Barkery,+2225+8th+Ave,+Seattle,+WA+98121/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490117b9fdbde33:0x538eb97eed4c1aa?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQILBAA&hl=en&gl=us"
+      },
+      "place_id": "376309606664946090",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=376309606664946090&q=pet-friendly",
+      "provider_id": "/g/11gfg_8fpz",
+      "gps_coordinates": {
+        "latitude": 47.617405,
+        "longitude": -122.33983
+      },
+      "title": "The Seattle Barkery",
+      "type": "Pet store",
+      "phone": "(206) 851-1549",
+      "address": "2225 8th Ave",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.6,
+      "reviews": 109,
+      "reviews_original": "(109)",
+      "description": "\"I love that you can check on your pup via live video stream.\"",
+      "lsig": "AB86z5V1sa6JtcC4sa8I2y0yicnv",
+      "links": {
+        "website": "https://www.dogtopia.com/seattle-harborsteps/",
+        "directions": "https://www.google.com/maps/dir//Dogtopia+of+Harbor+Steps,+1300+Post+Alley,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906b7564f75f6b:0xb15bfd5542e51c9f?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIMhAA&hl=en&gl=us"
+      },
+      "place_id": "12780086910230273183",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=12780086910230273183&q=pet-friendly",
+      "provider_id": "/g/11h5ncy7xn",
+      "gps_coordinates": {
+        "latitude": 47.606647,
+        "longitude": -122.33918
+      },
+      "title": "Dogtopia of Harbor Steps",
+      "type": "Dog day care center",
+      "phone": "(206) 485-7568",
+      "years_in_business": "7+ years in business",
+      "address": "1300 Post Alley",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.1,
+      "reviews": 112,
+      "reviews_original": "(112)",
+      "description": "\"The dogs that come are extremely friendly as well as the owners.\"",
+      "lsig": "AB86z5Xu198drPgRfXldDv_Gq8IY",
+      "links": {
+        "website": "https://www.seattle.gov/parks/find/parks/plymouth-pillars-park",
+        "directions": "https://www.google.com/maps/dir//Plymouth+Pillars+Dog+Park,+Pine+Street,+Boren+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906bc61ab9027d:0xc8538ed54a23d389?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIJxAA&hl=en&gl=us"
+      },
+      "place_id": "14435038277375611785",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14435038277375611785&q=pet-friendly",
+      "provider_id": "/g/11ghsvwvs0",
+      "gps_coordinates": {
+        "latitude": 47.614357,
+        "longitude": -122.32912
+      },
+      "title": "Plymouth Pillars Dog Park",
+      "type": "Dog park",
+      "phone": "(206) 684-4075",
+      "address": "Pine Street, Boren Ave",
+      "hours": "Open · Closes 10 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.9,
+      "reviews": 72,
+      "reviews_original": "(72)",
+      "description": "\"Loki gets to play with all sorts of friendly neighborhood dogs!\"",
+      "lsig": "AB86z5UcmgNusZ2f-uWwX6TfF9EJ",
+      "links": {
+        "website": "https://www.clubdogfish.com/",
+        "directions": "https://www.google.com/maps/dir//Club+Dogfish,+2217+3rd+Ave+%23102,+Seattle,+WA+98121/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54901587296a2c67:0xe16880eed37d67fa?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIMRAA&hl=en&gl=us"
+      },
+      "place_id": "16242373819350476794",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=16242373819350476794&q=pet-friendly",
+      "provider_id": "/g/11rp1l2fgm",
+      "gps_coordinates": {
+        "latitude": 47.614166,
+        "longitude": -122.344215
+      },
+      "title": "Club Dogfish",
+      "type": "Dog day care center",
+      "phone": "(206) 420-8283",
+      "years_in_business": "5+ years in business",
+      "address": "2217 3rd Ave #102",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.4,
+      "reviews": 488,
+      "reviews_original": "(488)",
+      "description": "\"Extra star for being Pet friendly.\"",
+      "lsig": "AB86z5W4QuqPj-91HkJ2MWMLfeKE",
+      "links": {
+        "website": "https://hotels.cloudbeds.com/reservation/Q3JAFF",
+        "directions": "https://www.google.com/maps/dir//TBy,+721+1st+Ave,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549015b4f7b4fc9d:0x60851a8b16861ce4?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIMBAA&hl=en&gl=us"
+      },
+      "place_id": "6954994384224263396",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=6954994384224263396&q=pet-friendly",
+      "provider_id": "/g/11s16900kl",
+      "gps_coordinates": {
+        "latitude": 47.60273,
+        "longitude": -122.33486
+      },
+      "title": "TBy",
+      "type": "Hotel",
+      "phone": "(303) 499-7000",
+      "address": "721 1st Ave"
+    },
+    {
+      "position": 8,
+      "rating": 4.5,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$20–30",
+      "description": "\"Great atmosphere (dogs allowed and welcome!) and friendly staff.\"",
+      "lsig": "AB86z5XPUw0kk1cq1o81aSlsYNoM",
+      "links": {
+        "website": "https://thebarkingdogalehouse.com/",
+        "directions": "https://www.google.com/maps/dir//The+Barking+Dog+Alehouse,+705+NW+70th+St,+Seattle,+WA+98117/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54901431c25d2f73:0xf82c00f5a49fd38a?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQILhAA&hl=en&gl=us"
+      },
+      "place_id": "17882669275410322314",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=17882669275410322314&q=pet-friendly",
+      "provider_id": "/g/1tjmdc41",
+      "gps_coordinates": {
+        "latitude": 47.679478,
+        "longitude": -122.364876
+      },
+      "title": "The Barking Dog Alehouse",
+      "type": "Pub",
+      "phone": "(206) 782-2974",
+      "address": "705 NW 70th St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 401,
+      "reviews_original": "(401)",
+      "price": "$20–30",
+      "description": "\"Dogs get to run free while owners or dog lovers get to have a drink!\"",
+      "lsig": "AB86z5Wzsz-lzOBncu1_LLGkxOEU",
+      "links": {
+        "website": "http://www.dogyardbar.com/",
+        "directions": "https://www.google.com/maps/dir//Dog+Yard+Bar,+1540+NW+Leary+Wy,+Seattle,+WA+98107/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490152be51b3225:0x55d59c6552869b56?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIKBAA&hl=en&gl=us"
+      },
+      "place_id": "6185021622253427542",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=6185021622253427542&q=pet-friendly",
+      "provider_id": "/g/11j7ynkcsg",
+      "gps_coordinates": {
+        "latitude": 47.663822,
+        "longitude": -122.37784
+      },
+      "title": "Dog Yard Bar",
+      "type": "Bar",
+      "phone": "(206) 385-5612",
+      "address": "1540 NW Leary Wy",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 10,
+      "rating": 4.8,
+      "reviews": 659,
+      "reviews_original": "(659)",
+      "description": "\"Amazing staff, great selection of drinks, and friendly dogs to meet.\"",
+      "lsig": "AB86z5VBcKT3Z4epgLXjZe6XyqmU",
+      "links": {
+        "website": "http://dogwoodplaypark.com/",
+        "directions": "https://www.google.com/maps/dir//Dogwood+Play+Park,+12568+33rd+Ave+NE,+Seattle,+WA+98125/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490138a91b91bb1:0x9b75395eae003571?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQILxAA&hl=en&gl=us"
+      },
+      "place_id": "11201922726962935153",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=11201922726962935153&q=pet-friendly",
+      "provider_id": "/g/11b6t7942h",
+      "gps_coordinates": {
+        "latitude": 47.721115,
+        "longitude": -122.29225
+      },
+      "title": "Dogwood Play Park",
+      "type": "Dog cafe",
+      "phone": "(206) 456-6884",
+      "address": "12568 33rd Ave NE",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 11,
+      "lsig": "AB86z5Uw1br_a2AZe6yoU6VsmT6r",
+      "links": {
+        "website": "https://www.vrbo.com/pdp/lo/106268387?MDPCID=VRBO-META.HPA.WEB-ORGANIC.VR"
+      },
+      "place_id": "15195265760425233981",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=15195265760425233981&q=pet-friendly",
+      "provider_id": "/g/11z218mz0y",
+      "gps_coordinates": {
+        "latitude": 47.601803,
+        "longitude": -122.316475
+      },
+      "title": "Pet-Friendly First Hill Jr 1BR w/ Gym, Roof Lounge & W/D, by Blueground",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 12,
+      "lsig": "AB86z5WgYOnpSd9rsYzG-PxnRpWl",
+      "links": {
+        "website": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D91261511%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1"
+      },
+      "place_id": "18067099013601045402",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=18067099013601045402&q=pet-friendly",
+      "provider_id": "/g/11z21bh7s6",
+      "gps_coordinates": {
+        "latitude": 47.6098,
+        "longitude": -122.34038
+      },
+      "title": "1 Deluxe King! Pet-Friendly, Short Drive To Space Needle!",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 13,
+      "rating": 4.1,
+      "reviews": 369,
+      "reviews_original": "(369)",
+      "description": "\"Nice, quiet and clean, moderate sized dog park.\"",
+      "lsig": "AB86z5VdTt09rKy6HDtmikHYiuH5",
+      "links": {
+        "website": "http://www.seattle.gov/parks/find/parks/blue-dog-pond",
+        "directions": "https://www.google.com/maps/dir//Blue+Dog+Pond,+1520+26th+Ave+S,+Seattle,+WA+98144/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906af328097507:0xb37d8642ff4746b1?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIKRAA&hl=en&gl=us"
+      },
+      "place_id": "12933641327186757297",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=12933641327186757297&q=pet-friendly",
+      "provider_id": "/g/11gz6mp9y",
+      "gps_coordinates": {
+        "latitude": 47.58874,
+        "longitude": -122.29857
+      },
+      "title": "Blue Dog Pond",
+      "type": "Dog park",
+      "phone": "(206) 684-4075",
+      "address": "1520 26th Ave S",
+      "hours": "Open · Closes 11:30 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.5,
+      "reviews": 95,
+      "reviews_original": "(95)",
+      "description": "\"Open for Amazon employee’s dog-friendly culture and non-employees.\"",
+      "lsig": "AB86z5U4rGYdxTXJVhvptrD3LbGS",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Amazon+-+Day+1+Dog+Park,+2112+6th+Ave,+Seattle,+WA+98121/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549015228764225f:0xe4cffce8719a56d4?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "16487674836095227604",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=16487674836095227604&q=pet-friendly",
+      "provider_id": "/g/11fct1m_pk",
+      "gps_coordinates": {
+        "latitude": 47.61574,
+        "longitude": -122.339874
+      },
+      "title": "Amazon - Day 1 Dog Park",
+      "type": "Dog park",
+      "address": "2112 6th Ave",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 15,
+      "rating": 3.7,
+      "reviews": 88,
+      "reviews_original": "(88)",
+      "description": "\"Lighting around center and great dog park.\"",
+      "lsig": "AB86z5UGj-6fT6aw-xYuj7EnHp1h",
+      "links": {
+        "website": "https://www.seattle.gov/parks/recreation/dog-off-leash-areas#dennyparkoffleasharea",
+        "directions": "https://www.google.com/maps/dir//Denny+Park+Dog+Park,+100+Dexter+Ave+N,+Seattle,+WA+98109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490158bb3df18cb:0xebe24a968bf6a10a?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "16997229954103419146",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=16997229954103419146&q=pet-friendly",
+      "provider_id": "/g/11gt6dw1g5",
+      "gps_coordinates": {
+        "latitude": 47.619434,
+        "longitude": -122.341095
+      },
+      "title": "Denny Park Dog Park",
+      "type": "Dog park",
+      "phone": "(206) 684-4075",
+      "address": "100 Dexter Ave N",
+      "hours": "Open · Closes 11:30 PM"
+    },
+    {
+      "position": 16,
+      "rating": 4.9,
+      "reviews": 76,
+      "reviews_original": "(76)",
+      "price": "$10–20",
+      "description": "\"Dog-friendly indoor seating, free pool and affordable menu.\"",
+      "lsig": "AB86z5UcvM1_S1GgHROQXVRVT6SL",
+      "links": {
+        "website": "https://www.boneyardseattle.com/",
+        "directions": "https://www.google.com/maps/dir//BoneYard's+Howlin'+Bistro,+2603+S+Jackson+St,+Seattle,+WA+98144/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906bcdd0cb81b7:0x75b8334bd20673c3?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIKhAA&hl=en&gl=us"
+      },
+      "place_id": "8482586298891531203",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=8482586298891531203&q=pet-friendly",
+      "provider_id": "/g/11v9kv8xjq",
+      "gps_coordinates": {
+        "latitude": 47.59909,
+        "longitude": -122.29845
+      },
+      "title": "BoneYard's Howlin' Bistro",
+      "type": "Bar",
+      "phone": "(206) 485-3085",
+      "address": "2603 S Jackson St",
+      "hours": "Closed · Opens 6 PM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.8,
+      "reviews": 4,
+      "reviews_original": "(4)",
+      "description": "\"Clean and well maintained\"",
+      "lsig": "AB86z5Xl9rKAs-KNpsBjkYCb4w-Z",
+      "links": {
+        "website": "https://www.aboutamazon.com/news/workplace/how-much-does-amazon-love-dogs-just-ask-one-of-the-7-000-pups-that-work-here",
+        "directions": "https://www.google.com/maps/dir//Amazon+-+Nitro+Dog+Park,+2250+7th+Ave,+Seattle,+WA+98121/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490153ad09901e1:0x35c4e94029d35daf?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "3874478041234365871",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=3874478041234365871&q=pet-friendly",
+      "provider_id": "/g/11tk2hhhjk",
+      "gps_coordinates": {
+        "latitude": 47.617477,
+        "longitude": -122.34
+      },
+      "title": "Amazon - Nitro Dog Park",
+      "type": "Dog park",
+      "address": "2250 7th Ave",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 18,
+      "rating": 3.7,
+      "reviews": 199,
+      "reviews_original": "(199)",
+      "description": "\"Oddly fun dog park available downtown.\"",
+      "lsig": "AB86z5VaXe5OcS5vC_IhLOiPfOOW",
+      "links": {
+        "website": "http://www.seattle.gov/parks/find/parks/regrade-park",
+        "directions": "https://www.google.com/maps/dir//Regrade+Park,+2251+3rd+Ave,+Seattle,+WA+98121/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490154c39868379:0xfa89a326588c8b77?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQILRAA&hl=en&gl=us"
+      },
+      "place_id": "18053139966381034359",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=18053139966381034359&q=pet-friendly",
+      "provider_id": "/g/11b5_01dgl",
+      "gps_coordinates": {
+        "latitude": 47.6145,
+        "longitude": -122.34479
+      },
+      "title": "Regrade Park",
+      "type": "Park",
+      "phone": "(206) 684-4075",
+      "address": "2251 3rd Ave",
+      "hours": "Open · Closes 10 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.4,
+      "reviews": 564,
+      "reviews_original": "(564)",
+      "price": "$20–30",
+      "description": "\"This spot was super dog-friendly and even had a whole menu just for pups!\"",
+      "lsig": "AB86z5VRFc9zLE1h_5M2CE9iWgQy",
+      "links": {
+        "website": "https://www.pub70.com/",
+        "directions": "https://www.google.com/maps/dir//Pub+70,+2801+Alaskan+Wy,+Seattle,+WA+98121/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549015025e606315:0xde1f4649cc0c7216?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "16005588883467956758",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=16005588883467956758&q=pet-friendly",
+      "provider_id": "/g/11q_kww6xm",
+      "gps_coordinates": {
+        "latitude": 47.614643,
+        "longitude": -122.354744
+      },
+      "title": "Pub 70",
+      "type": "Restaurant",
+      "phone": "(206) 737-8891",
+      "address": "2801 Alaskan Wy",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.2,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"Location was great and easy to walk to all the dog friendly places.\"",
+      "lsig": "AB86z5V70FL30RuiYCAB5ogqSQiI",
+      "links": {
+        "website": "https://www.hotelvintage-seattle.com/?&cm_mmc=WEB-_-KI-_-AMER-_-EN-_-EV-_-Google%20Business%20Profile-_-DD-_-VintageSeattle",
+        "directions": "https://www.google.com/maps/dir//Kimpton+Hotel+Vintage+Seattle,+1100+5th+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab6b498a827:0x8f6fc73cc34f4b18?sa=X&ved=2ahUKEwj97cz6_9uTAxW2E1kFHSbFNakQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "10335698733627296536",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=10335698733627296536&q=pet-friendly",
+      "provider_id": "/g/1td7ysvc",
+      "gps_coordinates": {
+        "latitude": 47.607597,
+        "longitude": -122.3326
+      },
+      "title": "Kimpton Hotel Vintage Seattle",
+      "type": "Restaurant",
+      "phone": "(206) 624-8000",
+      "address": "1100 5th Ave"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pet-friendly&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pet-friendly&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=pet-friendly&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=pet-friendly&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=pet-friendly&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=pet-friendly&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=pet-friendly&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=pet-friendly&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=pet-friendly&start=40&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=pet-friendly&start=60&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=pet-friendly&start=80&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

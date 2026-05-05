@@ -1,0 +1,26 @@
+{
+  "search_metadata": {
+    "id": "69d52d2eb333eea193562599",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aSOLrtHK6gszoKCdmlv82w/69d52d2eb333eea193562599.json",
+    "created_at": "2026-04-07 16:13:34 UTC",
+    "processed_at": "2026-04-07 16:13:34 UTC",
+    "google_local_url": "https://www.google.com/search?q=Hotel+Zone&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/aSOLrtHK6gszoKCdmlv82w/69d52d2eb333eea193562599.html",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Hotel Zone",
+    "location_requested": "Cancun",
+    "location_used": "Cancun,Quintana Roo,Mexico",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "local_results_state": "Fully empty"
+  },
+  "error": "Google Local hasn't returned any results for this query."
+}

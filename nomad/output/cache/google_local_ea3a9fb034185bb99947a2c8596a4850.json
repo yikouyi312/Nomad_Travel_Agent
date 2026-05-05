@@ -1,0 +1,458 @@
+{
+  "search_metadata": {
+    "id": "69d51b5c5b92f89ab684be89",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OQGCld2PB40fk0ey4MHFSg/69d51b5c5b92f89ab684be89.json",
+    "created_at": "2026-04-07 14:57:32 UTC",
+    "processed_at": "2026-04-07 14:57:32 UTC",
+    "google_local_url": "https://www.google.com/search?q=lactose-intolerant+restaurants&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/OQGCld2PB40fk0ey4MHFSg/69d51b5c5b92f89ab684be89.html",
+    "total_time_taken": 6.93
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "lactose-intolerant restaurants",
+    "location_requested": "Seattle",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 47.59180955803043,
+      "longitude": -122.3052978515625
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.4,
+      "reviews": 749,
+      "reviews_original": "(749)",
+      "price": "$10–20",
+      "description": "\"I highly recommend for vegans and even non-vegans!\"",
+      "lsig": "AB86z5XE_SA3JkZUvk89rCB_Cxnk",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/UuhwZoOfBxlXEwgfoo67rMtEwOXhjjZ7_VrGfPBJluw.jpeg",
+      "place_id": "6939489274220414398",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=6939489274220414398&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/1tf8190t",
+      "gps_coordinates": {
+        "latitude": 47.613983,
+        "longitude": -122.34929
+      },
+      "title": "Bang Bang Cafe",
+      "type": "Cafe",
+      "address": "2460 Western Ave"
+    },
+    {
+      "position": 2,
+      "rating": 4.5,
+      "reviews": 27,
+      "reviews_original": "(27)",
+      "price": "$10–20",
+      "description": "\"Lovers the vegan gluten free options!\"",
+      "lsig": "AB86z5XEh6esgzvr3s96ZQmnG_jK",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/kRUc78lmd7KbMHU0hfMXkY1wL35qHs4FcqkDT672vNI.jpeg",
+      "place_id": "17745558132898358745",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=17745558132898358745&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11zjvtxld1",
+      "gps_coordinates": {
+        "latitude": 47.650223,
+        "longitude": -122.3496
+      },
+      "title": "Pluto Organic Cafe - Fremont",
+      "type": "Breakfast",
+      "address": "3418 Fremont Ave N"
+    },
+    {
+      "position": 3,
+      "rating": 4.3,
+      "reviews": 262,
+      "reviews_original": "(262)",
+      "price": "$10–20",
+      "description": "\"So cute, everything’s vegan, and really yummy options.\"",
+      "lsig": "AB86z5UtdzDJyYmwW_IPJP8Mjg-P",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/pjIotUooXnx2S7kNFH1tlRid4burp_3ku8KMruTK1I0.jpeg",
+      "place_id": "9392418999169768589",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=9392418999169768589&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11s18jshy_",
+      "gps_coordinates": {
+        "latitude": 47.650196,
+        "longitude": -122.34955
+      },
+      "title": "Lazy cow",
+      "type": "Breakfast",
+      "address": "3418 Fremont Ave N"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 390,
+      "reviews_original": "(390)",
+      "price": "$10–20",
+      "description": "\"The owner was very nice and helped me order for dairy free.\"",
+      "lsig": "AB86z5UsNAd_j3WTLWVYJ0aBwymr",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/qi4Pi-SGi8tdhvZjlLkbZuWxr6mdnz-siyLxCTd86cI.jpeg",
+      "place_id": "7011317339492224981",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=7011317339492224981&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11c57mgkkh",
+      "gps_coordinates": {
+        "latitude": 47.617645,
+        "longitude": -122.345505
+      },
+      "title": "Pluto Organic Cafe - Belltown",
+      "type": "Breakfast",
+      "address": "2502 5th Ave"
+    },
+    {
+      "position": 5,
+      "rating": 4.8,
+      "reviews": 288,
+      "reviews_original": "(288)",
+      "price": "$10–20",
+      "description": "\"Even our non-vegan and non-allergen friends had a great time.\"",
+      "lsig": "AB86z5XlSTky6pE6Kz2Soqa61Sb4",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/V6C7yAcfML8jsNzBQmVtszqxiSkeCc6lt-CwwZwDjkU.jpeg",
+      "place_id": "6065866544914034297",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=6065866544914034297&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11kk84dy0b",
+      "gps_coordinates": {
+        "latitude": 47.60909,
+        "longitude": -122.31652
+      },
+      "title": "Plantiful Capitol Hill",
+      "type": "Vegetarian",
+      "address": "734 12th Ave",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.2,
+      "reviews": 409,
+      "reviews_original": "(409)",
+      "price": "$10–20",
+      "description": "\"Plenty of gluten and dairy free options!\"",
+      "lsig": "AB86z5VHwXF2zaH0t_GaWceSV7-6",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/wBj37ByynhDNM1U3JPxg1G8jSl1SLf5vIi7LlfE5Okw.jpeg",
+      "place_id": "14008410796665049832",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14008410796665049832&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11b6c80gm6",
+      "gps_coordinates": {
+        "latitude": 47.623867,
+        "longitude": -122.312325
+      },
+      "title": "Nuflours Bakery",
+      "type": "Gluten Free",
+      "address": "518 15th Ave E",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$20–30",
+      "description": "\"... vegan and gluten free options but good for those without allergies!\"",
+      "lsig": "AB86z5VbgdNt-nem1KOB8jpyucrt",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/j0yzLGMDnKKDsAePsFdxOmihMzYfUmTv5ddC0EjkEPI.jpeg",
+      "place_id": "2717340975899283510",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=2717340975899283510&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/1vntjlq6",
+      "gps_coordinates": {
+        "latitude": 47.610054,
+        "longitude": -122.34136
+      },
+      "title": "Bacco Cafe",
+      "type": "Cafe",
+      "address": "86 Pine St"
+    },
+    {
+      "position": 8,
+      "rating": 4.8,
+      "reviews": 145,
+      "reviews_original": "(145)",
+      "price": "$10–20",
+      "description": "\"Delicious plant-based menu with a lot of great options.\"",
+      "lsig": "AB86z5VA7ADqyS2eVdNv9YcwAUHx",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/KiG8pDeepBCk3yr7bcA75CBGJbhpFP0xXlistTSdHPk.jpeg",
+      "place_id": "14380426583030871192",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14380426583030871192&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11ldm15qfh",
+      "gps_coordinates": {
+        "latitude": 47.608067,
+        "longitude": -122.33955
+      },
+      "title": "Plantiful First & Union",
+      "type": "Vegetarian",
+      "address": "1405 1st Ave",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 548,
+      "reviews_original": "(548)",
+      "price": "$10–20",
+      "description": "\"Cute spot with a great menu to fit virtually any diet.\"",
+      "lsig": "AB86z5WNOusJwH0L9jHefgQKkbQq",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/dSp8YoTRwTBww9rGgfDeMXN2Fftx5dKTnzuj--te7FM.jpeg",
+      "place_id": "4698032129606180464",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4698032129606180464&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11b6mn0npj",
+      "gps_coordinates": {
+        "latitude": 47.519554,
+        "longitude": -122.26139
+      },
+      "title": "Redwing Cafe",
+      "type": "Vegetarian",
+      "address": "9272 57th Ave S"
+    },
+    {
+      "position": 10,
+      "rating": 4.4,
+      "reviews": 735,
+      "reviews_original": "(735)",
+      "description": "\"... provided me delicious alternatives to accommodate my allergies.\"",
+      "lsig": "AB86z5WCqBZXohicqaAI0Ky_4YlI",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/xZf87mh7pa0JlISpd5WyexxNrg_5pwsIt7vg0yQEvyQ.jpeg",
+      "place_id": "9945884715391476346",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=9945884715391476346&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11kpl55nfd",
+      "gps_coordinates": {
+        "latitude": 47.611317,
+        "longitude": -122.333405
+      },
+      "title": "Alder & Ash",
+      "type": "Restaurant",
+      "address": "629 Pike St"
+    },
+    {
+      "position": 11,
+      "rating": 4.6,
+      "reviews": 390,
+      "reviews_original": "(390)",
+      "price": "$1–10",
+      "description": "\"Vegan, gluten-free and sugar-free options.\"",
+      "lsig": "AB86z5UqXcoI1XMCmruM0eCsGtsg",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/B6RCuYDDxb7kd699O4ozJSDRovj50PWgTiAxXOuxzck.jpeg",
+      "place_id": "15259714262718903583",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=15259714262718903583&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/1tgdsv9p",
+      "gps_coordinates": {
+        "latitude": 47.66151,
+        "longitude": -122.32538
+      },
+      "title": "A Muddy Cup Cafe' & Roastery",
+      "type": "Coffee shop",
+      "address": "266 NE 45th St"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 175,
+      "reviews_original": "(175)",
+      "price": "$10–20",
+      "description": "\"All is gluten free, nut free , dairy free and rice free.\"",
+      "lsig": "AB86z5XE0h_0m6EK26d2VNj8EwnY",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/04ln6X6A1ZW4VfuUeYfF1QI2-hj07rHeXo3B0yI6KDQ.jpeg",
+      "place_id": "770644431091093268",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=770644431091093268&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11j3t99r5y",
+      "gps_coordinates": {
+        "latitude": 47.614677,
+        "longitude": -122.34334
+      },
+      "title": "Askatu Bakery",
+      "type": "Bakery",
+      "address": "2209 4th Ave",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 121,
+      "reviews_original": "(121)",
+      "price": "$10–20",
+      "description": "\"Can accommodate most dietary restrictions\"",
+      "lsig": "AB86z5Xzi2MhNP-LKseJs_dlAL3B",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/pdYpQqoxFawdfLQY271zM3w4ZWcHJchx0elMqN7skQw.jpeg",
+      "place_id": "3419892289124301872",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=3419892289124301872&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11wy778rzk",
+      "gps_coordinates": {
+        "latitude": 47.620064,
+        "longitude": -122.30147
+      },
+      "title": "Yeobo Cafe and Bar",
+      "type": "Cafe",
+      "address": "2332 E Madison St"
+    },
+    {
+      "position": 14,
+      "rating": 4.7,
+      "reviews": 270,
+      "reviews_original": "(270)",
+      "price": "$10–20",
+      "description": "\"She and the team are so in tune with the dietary restrictions, it was great!\"",
+      "lsig": "AB86z5XU-jcjv4dtJ6IT5i6YiXdi",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/a580YR2_qJEtdluHLeARMjuUR5XMZUxXLU1WiiiRV0Y.jpeg",
+      "place_id": "15400723208855814121",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=15400723208855814121&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11cs5sq30n",
+      "gps_coordinates": {
+        "latitude": 47.552002,
+        "longitude": -122.3264
+      },
+      "title": "Conscious Eatery",
+      "type": "Lunch",
+      "address": "5620 6th Ave S Building T",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 311,
+      "reviews_original": "(311)",
+      "price": "$10–20",
+      "description": "\"5-star Food - The almond croissant was amazing.\"",
+      "lsig": "AB86z5V-i-475hGfGzT8f5iOK07B",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/60VQWl7Za_bxqYFNgvOdMSpj0bqzVQQqKXaAujFPnpw.jpeg",
+      "place_id": "1629491537852075465",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=1629491537852075465&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11jyy1gdsx",
+      "gps_coordinates": {
+        "latitude": 47.63825,
+        "longitude": -122.356735
+      },
+      "title": "Café Hagen Modern All-Day Cafe",
+      "type": "Coffee shop",
+      "address": "2128 Queen Anne Ave N"
+    },
+    {
+      "position": 16,
+      "rating": 4.5,
+      "reviews": 2900,
+      "reviews_original": "(2.9K)",
+      "price": "$20–30",
+      "description": "\"This is the perfect place to take friends with any dietary restrictions.\"",
+      "lsig": "AB86z5Xuqe9TXCnTNYZGHZjk04ju",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/9Kz4wBxSiPy05UEOEhtQek0WAlBQ4PxXF-4abH3v2CY.jpeg",
+      "place_id": "14727239691919411129",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14727239691919411129&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/1tkktkvw",
+      "gps_coordinates": {
+        "latitude": 47.624027,
+        "longitude": -122.29511
+      },
+      "title": "Cafe Flora",
+      "type": "Vegetarian",
+      "address": "2901 E Madison St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 223,
+      "reviews_original": "(223)",
+      "price": "$20–30",
+      "description": "\"It's a top choice for enjoying delicious, guilt-free meals.\"",
+      "lsig": "AB86z5XYNq8oTRbi75g3NKFfYc1a",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/_q5FJLw-C83kp2WMislwlFQDKf-pNfTEQM54ixXkyUE.jpeg",
+      "place_id": "10896571603918071360",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=10896571603918071360&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11t7l_tmjt",
+      "gps_coordinates": {
+        "latitude": 47.621716,
+        "longitude": -122.33829
+      },
+      "title": "Plantiful SLU",
+      "type": "Vegetarian",
+      "address": "340 Westlake Ave N",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.5,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$10–20",
+      "description": "\"They had a great texture and you'd never know they were gluten free.\"",
+      "lsig": "AB86z5UVt9D6_J73W47liKgue-7P",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/SIyEwFt8xaGfpdnIUnXWXkr_lr41dyMcDLu4EWIL-20.jpeg",
+      "place_id": "4350621720964367211",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4350621720964367211&q=lactose-intolerant+restaurants",
+      "provider_id": "/m/0zcwqdx",
+      "gps_coordinates": {
+        "latitude": 47.613125,
+        "longitude": -122.34043
+      },
+      "title": "Dahlia Bakery",
+      "type": "Bakery",
+      "address": "2001 4th Ave"
+    },
+    {
+      "position": 19,
+      "rating": 4.2,
+      "reviews": 677,
+      "reviews_original": "(677)",
+      "price": "$10–20",
+      "description": "\"I love that this place caters to several dietary issues.\"",
+      "lsig": "AB86z5Xia9aZWzZcJ8WnG9lTEXW7",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/d-E9_NGZN_Jvqh6CK_Wpp5BLmiHjYwg6R3_7pz2k0Jk.jpeg",
+      "place_id": "10497269606689465233",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=10497269606689465233&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/11gs54q62_",
+      "gps_coordinates": {
+        "latitude": 47.61422,
+        "longitude": -122.3213
+      },
+      "title": "Cinnaholic",
+      "type": "Bakery",
+      "address": "816 E Pike St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "description": "\"They also accommodate changes based on allergies.\"",
+      "lsig": "AB86z5U5qwtbWQ6nGZh1HfkpSmPv",
+      "thumbnail": "https://serpapi.com/searches/69d51b5c5b92f89ab684be89/images/KtjHYRMpsOuHU-daz2F0lz_rjn5BCp-VurTQHWnxRQ0.jpeg",
+      "place_id": "11202786725440254415",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=11202786725440254415&q=lactose-intolerant+restaurants",
+      "provider_id": "/g/1hc7krck1",
+      "gps_coordinates": {
+        "latitude": 47.675697,
+        "longitude": -122.31992
+      },
+      "title": "The Wayward Cafe",
+      "type": "Vegan",
+      "address": "801 NE 65th St suite c",
+      "hours": "Closed · Opens 8 AM Thu"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=lactose-intolerant+restaurants&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=lactose-intolerant+restaurants&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=lactose-intolerant+restaurants&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=lactose-intolerant+restaurants&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=lactose-intolerant+restaurants&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=lactose-intolerant+restaurants&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=lactose-intolerant+restaurants&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=lactose-intolerant+restaurants&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=lactose-intolerant+restaurants&start=40&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=lactose-intolerant+restaurants&start=60&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=lactose-intolerant+restaurants&start=80&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

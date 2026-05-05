@@ -1,0 +1,1348 @@
+{
+  "search_metadata": {
+    "id": "69d51c07d45a3869b723a439",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aLol7QcsWKf_1YdTpKkcMw/69d51c07d45a3869b723a439.json",
+    "created_at": "2026-04-07 15:00:23 UTC",
+    "processed_at": "2026-04-07 15:00:23 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEwLTEwagcIARIDT1JEcgcIARIDRENBGh4SCjIwMjYtMTAtMTRqBwgBEgNEQ0FyBwgBEgNPUkRAAUgBcAGYAQE&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/aLol7QcsWKf_1YdTpKkcMw/69d51c07d45a3869b723a439.html",
+    "prettify_html_file": "https://serpapi.com/searches/aLol7QcsWKf_1YdTpKkcMw/69d51c07d45a3869b723a439.prettify",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "ORD",
+    "arrival_id": "DCA",
+    "outbound_date": "2026-10-10",
+    "return_date": "2026-10-14",
+    "currency": "USD"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 08:11"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 11:00"
+          },
+          "duration": 109,
+          "airplane": "Airbus A319",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2345",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 131 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 109,
+      "carbon_emissions": {
+        "this_flight": 132000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 8
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pCUVRJek5EVWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiMjM0NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 10:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 12:42"
+          },
+          "duration": 102,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1381",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 102,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFek9ERWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTM4MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 11:44"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 14:32"
+          },
+          "duration": 108,
+          "airplane": "Airbus A319",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1221",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 131 kg"
+          ]
+        }
+      ],
+      "total_duration": 108,
+      "carbon_emissions": {
+        "this_flight": 132000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 8
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pCUVRFeU1qRWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiMTIyMSJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 06:07"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 09:00"
+          },
+          "duration": 113,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 523",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 113,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 122000,
+        "difference_percent": -10
+      },
+      "price": 289,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1ZCUVRVeU14b0xDTkRoQVJBQ0dnTlZVMFE0SEhEUTRRRT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiNTIzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 09:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 11:45"
+          },
+          "duration": 105,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 307",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1ZWUVRNd054b0xDS0R4QVJBQ0dnTlZVMFE0SEhDZzhRRT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMzA3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 11:15"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 13:59"
+          },
+          "duration": 104,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2668",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 116 kg"
+          ]
+        }
+      ],
+      "total_duration": 104,
+      "carbon_emissions": {
+        "this_flight": 116000,
+        "typical_for_this_route": 122000,
+        "difference_percent": -5
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRJMk5qZ2FDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMjY2OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 12:40"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 15:38"
+          },
+          "duration": 118,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 752",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 118,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1ZWUVRjMU1ob0xDS0R4QVJBQ0dnTlZVMFE0SEhDZzhRRT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiNzUyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 13:14"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 16:13"
+          },
+          "duration": 119,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 789",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 119,
+      "carbon_emissions": {
+        "this_flight": 95000,
+        "typical_for_this_route": 122000,
+        "difference_percent": -22
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1ZCUVRjNE9Sb0xDS0R4QVJBQ0dnTlZVMFE0SEhDZzhRRT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiNzg5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 14:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 16:52"
+          },
+          "duration": 112,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1314",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 112,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFek1UUWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTMxNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 15:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 17:48"
+          },
+          "duration": 108,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1941",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 108,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFNU5ERWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTk0MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 15:32"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 18:27"
+          },
+          "duration": 115,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2769",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 115,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 122000,
+        "difference_percent": -10
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pCUVRJM05qa2FDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiMjc2OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 16:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 18:52"
+          },
+          "duration": 112,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1755",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 112,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFM05UVWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTc1NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 17:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 20:10"
+          },
+          "duration": 130,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2761",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 130,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRJM05qRWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMjc2MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 17:19"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 20:16"
+          },
+          "duration": 117,
+          "airplane": "Airbus A320",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 489",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 122 kg"
+          ]
+        }
+      ],
+      "total_duration": 117,
+      "carbon_emissions": {
+        "this_flight": 123000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 1
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1ZCUVRRNE9Sb0xDS0R4QVJBQ0dnTlZVMFE0SEhDZzhRRT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiNDg5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 18:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 20:43"
+          },
+          "duration": 103,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1369",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 103,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFek5qa2FDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTM2OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 19:45"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 22:26"
+          },
+          "duration": 101,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2160",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 101,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 309,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRJeE5qQWFDd2lnOFFFUUFob0RWVk5FT0J4d29QRUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMjE2MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 19:15"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 22:15"
+          },
+          "duration": 120,
+          "airplane": "Airbus A319",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1187",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 131 kg"
+          ]
+        }
+      ],
+      "total_duration": 120,
+      "carbon_emissions": {
+        "this_flight": 132000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 8
+      },
+      "price": 312,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pCUVRFeE9EY2FDd2lpOHdFUUFob0RWVk5FT0J4d292TUIiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiMTE4NyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 11:30"
+          },
+          "arrival_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2026-10-10 13:57"
+          },
+          "duration": 87,
+          "airplane": "Boeing 717",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1654",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Carbon emissions estimate: 93 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2026-10-10 14:55"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 16:31"
+          },
+          "duration": 96,
+          "airplane": "Airbus A319",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1454",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 95 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 58,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "id": "DTW"
+        }
+      ],
+      "total_duration": 241,
+      "carbon_emissions": {
+        "this_flight": 189000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 55
+      },
+      "price": 329,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZzFFVERFMk5UUjhSRXd4TkRVMEdnc0l5SUFDRUFJYUExVlRSRGdjY01pQUFnPT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEVFciLG51bGwsIkRMIiwiMTY1NCJdLFsiRFRXIiwiMjAyNi0xMC0xMCIsIkRDQSIsbnVsbCwiREwiLCIxNDU0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 20:35"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 23:35"
+          },
+          "duration": 120,
+          "airplane": "Airbus A319",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1080",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 131 kg"
+          ]
+        }
+      ],
+      "total_duration": 120,
+      "carbon_emissions": {
+        "this_flight": 132000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 8
+      },
+      "price": 338,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pCUVRFd09EQWFDd2kyaHdJUUFob0RWVk5FT0J4d3RvY0MiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIkFBIiwiMTA4MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 07:30"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 10:17"
+          },
+          "duration": 107,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 482",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 107,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 647,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1ZWUVRRNE1ob0xDT0w0QXhBQ0dnTlZVMFE0SEhEaStBTT0iLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiNDgyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 06:30"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 09:15"
+          },
+          "duration": 105,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1077",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 124 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 125000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 2
+      },
+      "price": 767,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFd056Y2FDd2laMXdRUUFob0RWVk5FT0J4d21kY0UiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTA3NyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2026-10-10 08:00"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2026-10-10 10:44"
+          },
+          "duration": 104,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1705",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 140 kg"
+          ]
+        }
+      ],
+      "total_duration": 104,
+      "carbon_emissions": {
+        "this_flight": 140000,
+        "typical_for_this_route": 122000,
+        "difference_percent": 15
+      },
+      "price": 892,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV21veFUzRnNaSFJqT0ZWQlJIcFBUWGRDUnkwdExTMHRMUzB0TFc5cmJHVXlNa0ZCUVVGQlIyNVdTRUZqUzFodFdtVkJFZ1pWUVRFM01EVWFDd2pvdUFVUUFob0RWVk5FT0J4dzZMZ0YiLFtbIk9SRCIsIjIwMjYtMTAtMTAiLCJEQ0EiLG51bGwsIlVBIiwiMTcwNSJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 289,
+    "price_level": "high",
+    "typical_price_range": [
+      170,
+      280
+    ],
+    "price_history": [
+      [
+        1770271200,
+        251
+      ],
+      [
+        1770357600,
+        201
+      ],
+      [
+        1770444000,
+        196
+      ],
+      [
+        1770530400,
+        196
+      ],
+      [
+        1770616800,
+        196
+      ],
+      [
+        1770703200,
+        269
+      ],
+      [
+        1770789600,
+        269
+      ],
+      [
+        1770876000,
+        269
+      ],
+      [
+        1770962400,
+        182
+      ],
+      [
+        1771048800,
+        182
+      ],
+      [
+        1771135200,
+        182
+      ],
+      [
+        1771221600,
+        182
+      ],
+      [
+        1771308000,
+        263
+      ],
+      [
+        1771394400,
+        263
+      ],
+      [
+        1771480800,
+        263
+      ],
+      [
+        1771567200,
+        263
+      ],
+      [
+        1771653600,
+        263
+      ],
+      [
+        1771740000,
+        208
+      ],
+      [
+        1771826400,
+        208
+      ],
+      [
+        1771912800,
+        263
+      ],
+      [
+        1771999200,
+        263
+      ],
+      [
+        1772085600,
+        263
+      ],
+      [
+        1772172000,
+        269
+      ],
+      [
+        1772258400,
+        269
+      ],
+      [
+        1772344800,
+        269
+      ],
+      [
+        1772431200,
+        269
+      ],
+      [
+        1772517600,
+        269
+      ],
+      [
+        1772604000,
+        289
+      ],
+      [
+        1772690400,
+        269
+      ],
+      [
+        1772776800,
+        216
+      ],
+      [
+        1772863200,
+        216
+      ],
+      [
+        1772949600,
+        216
+      ],
+      [
+        1773032400,
+        269
+      ],
+      [
+        1773118800,
+        269
+      ],
+      [
+        1773205200,
+        269
+      ],
+      [
+        1773291600,
+        289
+      ],
+      [
+        1773378000,
+        289
+      ],
+      [
+        1773464400,
+        289
+      ],
+      [
+        1773550800,
+        289
+      ],
+      [
+        1773637200,
+        289
+      ],
+      [
+        1773723600,
+        289
+      ],
+      [
+        1773810000,
+        289
+      ],
+      [
+        1773896400,
+        289
+      ],
+      [
+        1773982800,
+        289
+      ],
+      [
+        1774069200,
+        289
+      ],
+      [
+        1774155600,
+        289
+      ],
+      [
+        1774242000,
+        289
+      ],
+      [
+        1774328400,
+        289
+      ],
+      [
+        1774414800,
+        289
+      ],
+      [
+        1774501200,
+        289
+      ],
+      [
+        1774587600,
+        289
+      ],
+      [
+        1774674000,
+        289
+      ],
+      [
+        1774760400,
+        289
+      ],
+      [
+        1774846800,
+        289
+      ],
+      [
+        1774933200,
+        289
+      ],
+      [
+        1775019600,
+        289
+      ],
+      [
+        1775106000,
+        289
+      ],
+      [
+        1775192400,
+        289
+      ],
+      [
+        1775278800,
+        289
+      ],
+      [
+        1775365200,
+        289
+      ],
+      [
+        1775451600,
+        289
+      ],
+      [
+        1775538000,
+        289
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "ORD",
+            "name": "Chicago O'Hare International Airport"
+          },
+          "city": "Chicago",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDuw95ynLqGCkZRzt9XuWXGBs8qWhw_1UZkMrCRAQp3rojEZBpwitHM8GAMBXgKhSKFgJZcXZ3qmYs2g",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0CK6-eZWtnTJdtBk0BnPl1NeBcRul1YiurNp0AEgxFjNRleXR3vb2VV6vc5Uk51C0AhYN6AZAQKz6FJ-NQfbjVf8HQQ96ZH3WYIS-Rw0"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "DCA",
+            "name": "Ronald Reagan Washington National Airport"
+          },
+          "city": "Washington",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG0OK4wTkRsqDVobvhtBOPZMDsUETpgJ7jPzOA--4D-HL-0BVkyp4S9gvw7CBWMKyfFVS0lLRn7pmR-Q",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMLLOliMVP16YVOyMBlzc0Gmxx-R5fU2bSGBN2tw9x-6tWr0q5I3bRnaMOot3V_SMDxjwVNjxd3aIlFxHtZL0Yc8rVnZAQAs2upGkhIZ0"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "DCA",
+            "name": "Ronald Reagan Washington National Airport"
+          },
+          "city": "Washington",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG0OK4wTkRsqDVobvhtBOPZMDsUETpgJ7jPzOA--4D-HL-0BVkyp4S9gvw7CBWMKyfFVS0lLRn7pmR-Q",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMLLOliMVP16YVOyMBlzc0Gmxx-R5fU2bSGBN2tw9x-6tWr0q5I3bRnaMOot3V_SMDxjwVNjxd3aIlFxHtZL0Yc8rVnZAQAs2upGkhIZ0"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "ORD",
+            "name": "Chicago O'Hare International Airport"
+          },
+          "city": "Chicago",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDuw95ynLqGCkZRzt9XuWXGBs8qWhw_1UZkMrCRAQp3rojEZBpwitHM8GAMBXgKhSKFgJZcXZ3qmYs2g",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0CK6-eZWtnTJdtBk0BnPl1NeBcRul1YiurNp0AEgxFjNRleXR3vb2VV6vc5Uk51C0AhYN6AZAQKz6FJ-NQfbjVf8HQQ96ZH3WYIS-Rw0"
+        }
+      ]
+    }
+  ]
+}

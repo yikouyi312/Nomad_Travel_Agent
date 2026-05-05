@@ -1,0 +1,52 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01So3A4QWsBa2ifrdkZTbUxo",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01MsMXzLGuPVhw8CBNsWK2E7",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Los Angeles",
+          "destination": "Las Vegas",
+          "start_date": "2026-12-10",
+          "end_date": "2026-12-14",
+          "duration_days": 4,
+          "budget_usd": 1000,
+          "num_travelers": 1,
+          "interests": [
+            "budget-friendly"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your 4-day Las Vegas trip from LA, departing December 10, 2026 and returning December 14, 2026. With a $1,000 budget, I'll find you the cheapest flights and hotel options, plus suggest some activities to enjoy in Vegas. Let me search for the best deals!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2570,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 276,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

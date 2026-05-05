@@ -1,0 +1,470 @@
+{
+  "search_metadata": {
+    "id": "69d52b68683863bd5b780226",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MUXKOk427aZ9XPdtII1KzQ/69d52b68683863bd5b780226.json",
+    "created_at": "2026-04-07 16:06:00 UTC",
+    "processed_at": "2026-04-07 16:06:00 UTC",
+    "google_local_url": "https://www.google.com/search?q=ski+equipment+rental&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/MUXKOk427aZ9XPdtII1KzQ/69d52b68683863bd5b780226.html",
+    "total_time_taken": 2.29
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "ski equipment rental",
+    "location_requested": "Denver",
+    "location_used": "Denver,Colorado,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 39.78004660226123,
+      "longitude": -104.99496459960938
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.1,
+      "reviews": 882,
+      "reviews_original": "(882)",
+      "description": "\"Easy rental experience and amazing huge ski and snowboard store!\"",
+      "lsig": "AB86z5VjvXhwSwi7ZS9-M1MYlUD7",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo41540vPNICenOJ6UEGIm2x_k4U06bG4mytzG0QBoszW9DIBw71yA5exVGSVjXDhQWIL9OD47me0xXGBKVY6AHeoTe0zaLt7UQo-JPGyMsHF-_u5p6c-pFM4SZ2fmDkNkHiNc=w90-h90-n-k-no-l75",
+      "place_id": "4818641879422382526",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4818641879422382526&q=ski+equipment+rental",
+      "provider_id": "/g/1tk4rn9m",
+      "gps_coordinates": {
+        "latitude": 39.668392,
+        "longitude": -104.864655
+      },
+      "title": "Epic Mountain Gear",
+      "type": "Ski rental service",
+      "phone": "(303) 337-1734",
+      "address": "Aurora, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.5,
+      "reviews": 95,
+      "reviews_original": "(95)",
+      "description": "\"They put me in the perfect equipment for my needs and ski level.\"",
+      "lsig": "AB86z5Wg8qoIQvuOuFIBqGwLMRHm",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/csXRdD2ecfOvcq0iXY8hwtgwZoCrVVNX28pnYGRuqEM.jpeg",
+      "place_id": "29793473184896848",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=29793473184896848&q=ski+equipment+rental",
+      "provider_id": "/g/11j6jmhm5h",
+      "gps_coordinates": {
+        "latitude": 39.744854,
+        "longitude": -104.99063
+      },
+      "title": "Breckenridge Ski & Sport",
+      "type": "Ski rental service",
+      "phone": "(970) 368-4540",
+      "address": "1630 Welton St #730",
+      "hours": "Open now"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 824,
+      "reviews_original": "(824)",
+      "description": "\"Affordable, friendly place for ski equipment rental.\"",
+      "lsig": "AB86z5WkjMm-548DSYTCJr-U_rnk",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/MqIJ2YzCeT_9FQB39isZbDv661e_KeSUyXTrv6ObDBo.jpeg",
+      "place_id": "1055392855568844645",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1055392855568844645&q=ski+equipment+rental",
+      "provider_id": "/g/1trtvtcd",
+      "gps_coordinates": {
+        "latitude": 39.78212,
+        "longitude": -105.11004
+      },
+      "title": "Larson's Ski & Sport",
+      "type": "Ski shop",
+      "phone": "(303) 423-0654",
+      "address": "Wheat Ridge, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 24,
+      "reviews_original": "(24)",
+      "description": "\"My skis had a couple nasty core shots and they made them look like new.\"",
+      "lsig": "AB86z5VcFHm-B0wRkXdLFwEl_qAQ",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/kdaEKTdOLKi-YBxbmpJgbvjVdm6yGEMJyJ0CGeRepSI.jpeg",
+      "place_id": "15376491108946701695",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15376491108946701695&q=ski+equipment+rental",
+      "provider_id": "/g/11gmwq38qs",
+      "gps_coordinates": {
+        "latitude": 39.913383,
+        "longitude": -105.07278
+      },
+      "title": "Ski & Snowboard Rental & Repair",
+      "type": "Sporting goods store",
+      "phone": "(303) 466-1975",
+      "address": "Broomfield, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 264,
+      "reviews_original": "(264)",
+      "description": "\"Seamless rental experience, super friendly staff, great rates\"",
+      "lsig": "AB86z5UTUz0wbF0zsNriDgwM15Q9",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/opWwhtfW__r653jepel9gA3coF4U4-macrNJ-86It9g.jpeg",
+      "place_id": "17637394143803342563",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17637394143803342563&q=ski+equipment+rental",
+      "provider_id": "/g/1tfv10v4",
+      "gps_coordinates": {
+        "latitude": 39.857483,
+        "longitude": -105.07262
+      },
+      "title": "Colorado Sports Rent",
+      "type": "Ski rental service",
+      "phone": "(303) 467-0200",
+      "address": "Westminster, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.6,
+      "reviews": 688,
+      "reviews_original": "(688)",
+      "description": "\"Renting skis from Christy Sports was efficient and affordable.\"",
+      "lsig": "AB86z5WfYes-FN6iwnHgmW1RCd_r",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/EuJ3FFBK2ky-9JX-jlur0bBGOhC1TEbcfe3EQvlhT5A.jpeg",
+      "place_id": "16186845863192159055",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16186845863192159055&q=ski+equipment+rental",
+      "provider_id": "/g/1tvq4m9s",
+      "gps_coordinates": {
+        "latitude": 39.72013,
+        "longitude": -104.95988
+      },
+      "title": "Christy Sports Cherry Creek",
+      "type": "Ski rental service",
+      "phone": "(303) 321-3885",
+      "address": "201 University Blvd #112",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 7,
+      "rating": 5.0,
+      "reviews": 139,
+      "reviews_original": "(139)",
+      "description": "\"... was very knowledgeable and informative about all their ski gear.\"",
+      "lsig": "AB86z5U_-rPTKzib35ImmH2YwL_E",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/hkAqx4kr-dClL3-X_r-5ODG_xix1-3n0V5JmgpVElts.jpeg",
+      "place_id": "14638332860736907447",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14638332860736907447&q=ski+equipment+rental",
+      "provider_id": "/g/11y9rr_kw5",
+      "gps_coordinates": {
+        "latitude": 39.69206,
+        "longitude": -104.9871
+      },
+      "title": "Denver Ski Company",
+      "type": "Ski rental service",
+      "phone": "(720) 749-6148",
+      "address": "1350 S Broadway",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.4,
+      "reviews": 562,
+      "reviews_original": "(562)",
+      "description": "\"They helped me get set up with a whole ski set up.\"",
+      "lsig": "AB86z5UNBh4ym8NLA3Jv6g0amZO8",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/HVDOza3mY9bHNsKRdkGmrfw8oUsPU6eEYdgv-Ka4ga4.jpeg",
+      "place_id": "2478667657186795623",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2478667657186795623&q=ski+equipment+rental",
+      "provider_id": "/g/1tj1m_qp",
+      "gps_coordinates": {
+        "latitude": 39.61676,
+        "longitude": -105.088234
+      },
+      "title": "Epic Mountain Gear",
+      "type": "Ski rental service",
+      "phone": "(303) 948-7550",
+      "address": "Littleton, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.9,
+      "reviews": 147,
+      "reviews_original": "(147)",
+      "description": "\"Great owners, great service, and really cool skis!\"",
+      "lsig": "AB86z5Wecl7hx8b3KeXGdctethaK",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/4pAKbg0Gf-xxCWfa-Uu5xyPHX8uqluOrGlUXZSKN12o.jpeg",
+      "place_id": "15688634029611560745",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=15688634029611560745&q=ski+equipment+rental",
+      "provider_id": "/g/11b6bj4gl2",
+      "gps_coordinates": {
+        "latitude": 39.684395,
+        "longitude": -104.98796
+      },
+      "title": "Meier Skis",
+      "type": "Ski shop",
+      "phone": "(844) 966-3754",
+      "address": "1775 S Broadway",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 197,
+      "reviews_original": "(197)",
+      "description": "\"Knowledgeable staff and reasonable prices on rentals.\"",
+      "lsig": "AB86z5WOEyDLfOMFhqug0lz-kkos",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/IQCL1pYcj299PlP-a1n_KzEwYxVe3OoxD_NStkiXG_Q.jpeg",
+      "place_id": "2674573678216261881",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2674573678216261881&q=ski+equipment+rental",
+      "provider_id": "/g/1tg5_3hv",
+      "gps_coordinates": {
+        "latitude": 39.726273,
+        "longitude": -105.12561
+      },
+      "title": "Breeze Ski Rentals",
+      "type": "Ski shop",
+      "phone": "(303) 232-2384",
+      "address": "Lakewood, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 391,
+      "reviews_original": "(391)",
+      "description": "\"Renting skis was a smooth process and very quick\"",
+      "lsig": "AB86z5VoJz7qVLKxtsl1QtZo_Es1",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/2367katyjhuo5fNDUAOGcFeF92cRtpBuhc1XHhXjUkw.png",
+      "place_id": "4960152123311460712",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4960152123311460712&q=ski+equipment+rental",
+      "provider_id": "/g/1vyxjxbk",
+      "gps_coordinates": {
+        "latitude": 39.615856,
+        "longitude": -105.09623
+      },
+      "title": "Christy Sports Littleton",
+      "type": "Ski rental service",
+      "phone": "(720) 981-1761",
+      "address": "Littleton, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 12,
+      "rating": 4.8,
+      "reviews": 888,
+      "reviews_original": "(888)",
+      "description": "\"They were so helpful and patient with us when sizing all of us for skis.\"",
+      "lsig": "AB86z5VkAWmCKrRK3JJcApiHH9hi",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/XlPczXoxCrcKsGdqp5Xq2PsUCLju4g-AehK7aL0jPAo.jpeg",
+      "place_id": "17090269598053020550",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17090269598053020550&q=ski+equipment+rental",
+      "provider_id": "/g/1yg5784km",
+      "gps_coordinates": {
+        "latitude": 39.594563,
+        "longitude": -104.81697
+      },
+      "title": "Outabounds Ski and Board",
+      "type": "Ski rental service",
+      "phone": "(720) 440-9935",
+      "address": "Centennial, CO",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 13,
+      "rating": 4.6,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "description": "\"I had a great experience, renting skis, boots, poles, and a helmet today.\"",
+      "lsig": "AB86z5VbZ9TW3re690hQP_uoy0m_",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/aHtwQnslKOiKWQV4f43tZoUkjAqHiKs8LyrT1NlCFJM.jpeg",
+      "place_id": "4703489560469176971",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4703489560469176971&q=ski+equipment+rental",
+      "provider_id": "/g/1tg6w5k5",
+      "gps_coordinates": {
+        "latitude": 39.730263,
+        "longitude": -104.98712
+      },
+      "title": "evo Denver",
+      "type": "Ski rental service",
+      "phone": "(303) 831-7228",
+      "address": "860 N Broadway",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.6,
+      "reviews": 564,
+      "reviews_original": "(564)",
+      "description": "\"Friendly staff and fair pricing for alpine skiing equipment rental.\"",
+      "lsig": "AB86z5WQZVag8d3vR3cilnPCOa1Y",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/3tnRYAUO-vvkHjHiz5zuFzjh_TOXo4Ld-ZSq9VxOobs.jpeg",
+      "place_id": "6240890656961085965",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=6240890656961085965&q=ski+equipment+rental",
+      "provider_id": "/g/1vvr6ps8",
+      "gps_coordinates": {
+        "latitude": 39.735912,
+        "longitude": -105.16222
+      },
+      "title": "Christy Sports Denver West",
+      "type": "Ski rental service",
+      "phone": "(303) 271-0155",
+      "address": "Lakewood, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 560,
+      "reviews_original": "(560)",
+      "description": "\"Friendly employees, great ski rental service, good selection on ski apparel.\"",
+      "lsig": "AB86z5X0ttfm7jqV-d6OeJnaF-hU",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/rzRIOLnSjoDjBn5xfmkgPO_QFchjHJeBybfDKqr9kC8.jpeg",
+      "place_id": "8702548140263209575",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8702548140263209575&q=ski+equipment+rental",
+      "provider_id": "/g/1tdr3td7",
+      "gps_coordinates": {
+        "latitude": 39.566673,
+        "longitude": -104.876785
+      },
+      "title": "Christy Sports Park Meadows",
+      "type": "Ski rental service",
+      "phone": "(303) 708-8535",
+      "address": "Englewood, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 16,
+      "rating": 4.1,
+      "reviews": 613,
+      "reviews_original": "(613)",
+      "description": "\"Really good selection of gear and I received a lot of help from staff!\"",
+      "lsig": "AB86z5VVvvtKUjwMZoJBIORaq5xA",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/ycCq-q1ch8OMhp6Or8vhS_kxJfRQW7IOC9qf6J-oVGk.jpeg",
+      "place_id": "11302841345309756674",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11302841345309756674&q=ski+equipment+rental",
+      "provider_id": "/g/1hc7gvykn",
+      "gps_coordinates": {
+        "latitude": 39.862495,
+        "longitude": -105.081276
+      },
+      "title": "Epic Mountain Gear",
+      "type": "Ski rental service",
+      "phone": "(303) 421-4001",
+      "address": "Westminster, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 17,
+      "rating": 4.8,
+      "reviews": 234,
+      "reviews_original": "(234)",
+      "description": "\"Lovely local gear rental, with incredible helpful and kind staff.\"",
+      "lsig": "AB86z5WDEZ8Bp2TzU8P1MyrXPu20",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/mt3pW6AydDlzXSmHkX2MZBfhb3DnvtPlI7nDDevawTU.jpeg",
+      "place_id": "2379784907855954521",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2379784907855954521&q=ski+equipment+rental",
+      "provider_id": "/g/1tsjf3xq",
+      "gps_coordinates": {
+        "latitude": 39.566544,
+        "longitude": -104.924805
+      },
+      "title": "Eskimo Ski & Board Shop",
+      "type": "Ski rental service",
+      "phone": "(303) 761-1101",
+      "address": "Centennial, CO",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.5,
+      "reviews": 2,
+      "reviews_original": "(2)",
+      "lsig": "AB86z5Wk5O-s03NXuEo554zPbHG9",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/vc5cv9s8nbxvf31k_9KW5A3bHf6WvCatq8wNLhSnbLM.jpeg",
+      "place_id": "14073669351077284175",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14073669351077284175&q=ski+equipment+rental",
+      "provider_id": "/g/1262c951p",
+      "gps_coordinates": {
+        "latitude": 39.75119,
+        "longitude": -104.986404
+      },
+      "title": "High Country Skiing Shuttle Co",
+      "type": "Ski rental service",
+      "phone": "(720) 215-9969",
+      "address": "2135 Stout St",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 19,
+      "rating": 4.5,
+      "reviews": 306,
+      "reviews_original": "(306)",
+      "description": "\"I had never gone skiing and they were very informative and patient with me.\"",
+      "lsig": "AB86z5V7Wi5JBa-r4ZkK5xil2fAj",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/FkJQeGclxLcfjTiSLoSkwTSIx4IAKasNEEsAYiYzVrE.jpeg",
+      "place_id": "8187386688140055142",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8187386688140055142&q=ski+equipment+rental",
+      "provider_id": "/g/11gfmlql1k",
+      "gps_coordinates": {
+        "latitude": 39.835873,
+        "longitude": -105.0838
+      },
+      "title": "Christy Sports Arvada",
+      "type": "Ski rental service",
+      "phone": "(303) 421-0261",
+      "address": "Arvada, CO",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 359,
+      "reviews_original": "(359)",
+      "description": "\"Wonderful people, got an amazing pair of skis at a great price.\"",
+      "lsig": "AB86z5V2_crQN63z-18MKJXqL-WZ",
+      "thumbnail": "https://serpapi.com/searches/69d52b68683863bd5b780226/images/FTtXkPtwCF81rZJ8NENer1P3G22S53iL9_FDRpLzXvw.jpeg",
+      "place_id": "7076873656776650684",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=7076873656776650684&q=ski+equipment+rental",
+      "provider_id": "/g/1hhxn13ww",
+      "gps_coordinates": {
+        "latitude": 39.90134,
+        "longitude": -104.97813
+      },
+      "title": "2nd Time Sports",
+      "type": "Ski rental service",
+      "phone": "(720) 245-7295",
+      "address": "Northglenn, CO",
+      "hours": "Open · Closes 7 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ski+equipment+rental&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ski+equipment+rental&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=ski+equipment+rental&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=ski+equipment+rental&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=ski+equipment+rental&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=ski+equipment+rental&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=ski+equipment+rental&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=ski+equipment+rental&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=ski+equipment+rental&start=40&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=ski+equipment+rental&start=60&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=ski+equipment+rental&start=80&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

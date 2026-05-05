@@ -1,0 +1,273 @@
+{
+  "search_metadata": {
+    "id": "69d52cc83a92060c57fe2557",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KIBOdcyKntnJACLDPpDN6A/69d52cc83a92060c57fe2557.json",
+    "created_at": "2026-04-07 16:11:52 UTC",
+    "processed_at": "2026-04-07 16:11:52 UTC",
+    "google_local_url": "https://www.google.com/search?q=craft+brewery+tour&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/KIBOdcyKntnJACLDPpDN6A/69d52cc83a92060c57fe2557.html",
+    "total_time_taken": 1.74
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "craft brewery tour",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.53413060841814,
+      "longitude": -122.6766014099121
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 64,
+      "reviews_original": "(64)",
+      "description": "\"Matt was an incredible guide, and highly knowledgeable about beer!\"",
+      "lsig": "AB86z5W8HyyVsUrnR1DPF4qsp1g6",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/-8fdtSWe-ANOM_50rJ4Ire0tfGHNbdHEOP5yw6t2BjQ.jpeg",
+      "place_id": "16003867500289059984",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=16003867500289059984&q=craft+brewery+tour",
+      "provider_id": "/g/1v9lbh57",
+      "gps_coordinates": {
+        "latitude": 45.53896,
+        "longitude": -122.71354
+      },
+      "title": "City Brew Tours Portland",
+      "type": "Tour operator",
+      "address": "2330 NW 31st Ave",
+      "hours": "Closed · Opens 10 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 320,
+      "reviews_original": "(320)",
+      "price": "$10–20",
+      "description": "\"Great atmosphere, great staff, great beer, charming merch.\"",
+      "lsig": "AB86z5XIygv-gzW8Ehr2a3jhjsJS",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/z5YDbZypIT5rOAORBdGdGCZ2mRwEUxPSwCTJvKjXy4Y.jpeg",
+      "place_id": "8779465375184255599",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8779465375184255599&q=craft+brewery+tour",
+      "provider_id": "/g/11pkj4hytj",
+      "gps_coordinates": {
+        "latitude": 45.51698,
+        "longitude": -122.67496
+      },
+      "title": "Treebeerd's Taphouse",
+      "type": "Beer hall",
+      "address": "822 SW 2nd Ave",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.7,
+      "reviews": 198,
+      "reviews_original": "(198)",
+      "price": "$20–30",
+      "description": "\"The quality and variety of the beer offerings are outstanding!\"",
+      "lsig": "AB86z5XiFbI_8wWHRmPh-WCv-SK5",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/rcvZeBlWSH22k3M2qzJfBsNNoVGhj4B5jhYFnXiDcgE.jpeg",
+      "place_id": "4072881533363345646",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4072881533363345646&q=craft+brewery+tour",
+      "provider_id": "/g/11vk35161k",
+      "gps_coordinates": {
+        "latitude": 45.540012,
+        "longitude": -122.66845
+      },
+      "title": "Lazy Days Brewing Co",
+      "type": "Brewpub",
+      "address": "2326 N Flint Ave",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$20–30",
+      "description": "\"The beer selection is phenomenal—hands down the best I've ever had.\"",
+      "lsig": "AB86z5VuVyjHvUuQo8yv_RWnjTMW",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/szRhgHmgQRN3rmTqHBGC8VwF-ly5bsgJU5Sf3MHsTV8.jpeg",
+      "place_id": "12020080138410537468",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12020080138410537468&q=craft+brewery+tour",
+      "provider_id": "/g/11gjhfmzjp",
+      "gps_coordinates": {
+        "latitude": 45.524952,
+        "longitude": -122.682335
+      },
+      "title": "Backwoods Brewing Company",
+      "type": "Brewery",
+      "address": "231 NW 11th Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 5,
+      "rating": 4.3,
+      "reviews": 718,
+      "reviews_original": "(718)",
+      "description": "\"Great experience, great guide, good beer tasting at the end.\"",
+      "lsig": "AB86z5XSwW480urvitjyyhwQ-V2C",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/wGkYuRPIu5ye4438cC-VvcHOKMzdLZ3RhSAn95-s1Zc.jpeg",
+      "place_id": "2402663149339164466",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=2402663149339164466&q=craft+brewery+tour",
+      "provider_id": "/g/1tcz80pq",
+      "gps_coordinates": {
+        "latitude": 45.524445,
+        "longitude": -122.67306
+      },
+      "title": "Old Town Pizza & Brewing",
+      "type": "Brewery",
+      "address": "226 NW Davis St",
+      "hours": "Closed · Opens 3 PM Wed"
+    },
+    {
+      "position": 6,
+      "rating": 4.5,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "price": "$20–30",
+      "description": "\"Wow the food is amazing, building is amazing and the beer was unbeatable.\"",
+      "lsig": "AB86z5VKwuXUy6zLI7tDgWbZLdjY",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/tldDue9ceeHG6lksb7Nn4kNUI8WrxmzZB5m_hzli_vU.jpeg",
+      "place_id": "12967011238872403519",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=12967011238872403519&q=craft+brewery+tour",
+      "provider_id": "/g/11nrwsck7c",
+      "gps_coordinates": {
+        "latitude": 45.534904,
+        "longitude": -122.64077
+      },
+      "title": "Steeplejack Brewing Company",
+      "type": "Brewery",
+      "address": "2400 NE Broadway",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 17,
+      "reviews_original": "(17)",
+      "price": "$10–20",
+      "description": "\"Solid beer, warm staff and great patio.\"",
+      "lsig": "AB86z5WNT_AM8V0Av2jB7Q_EJP5D",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/JmX1036zpZVwhcNNCVA6-aKSYNxT2PHgdcMUt2_XFnc.jpeg",
+      "place_id": "5944396141308884387",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5944396141308884387&q=craft+brewery+tour",
+      "provider_id": "/g/11xfhd0cb1",
+      "gps_coordinates": {
+        "latitude": 45.515217,
+        "longitude": -122.680435
+      },
+      "title": "Migration Brewing - Pacwest Patio",
+      "type": "Beer Garden",
+      "address": "1211 SW 5th Ave",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.5,
+      "reviews": 4600,
+      "reviews_original": "(4.6K)",
+      "price": "$20–30",
+      "description": "\"Loved the food and beers and they were doing brewery tours which was cool.\"",
+      "lsig": "AB86z5VOoY3uTc6lvhSXWgyISWz2",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/SAdURjdX7-EV-a8LCrr_OUS_EyJ9lJV-Gr8rVdbhuUU.jpeg",
+      "place_id": "3591323990925726668",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3591323990925726668&q=craft+brewery+tour",
+      "provider_id": "/g/1x5fb1qs",
+      "gps_coordinates": {
+        "latitude": 45.52458,
+        "longitude": -122.68202
+      },
+      "title": "Deschutes Brewery Portland Public House",
+      "type": "Pub",
+      "address": "210 NW 11th Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 9,
+      "rating": 4.8,
+      "reviews": 46,
+      "reviews_original": "(46)",
+      "description": "\"Tour guide was very knowledgeable and engaging\"",
+      "lsig": "AB86z5UMi-Oexd00WB0jLcmTPtMk",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/f203I9UpgdxuYeZkFuVSDEldxkAzj-aibLSzpGby8LM.jpeg",
+      "place_id": "8548093264886630254",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8548093264886630254&q=craft+brewery+tour",
+      "title": "BeerQuest Walking Tours",
+      "type": "Tour operator"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 656,
+      "reviews_original": "(656)",
+      "price": "$20–30",
+      "description": "\"Excellent beer flight, nice warm interior.\"",
+      "lsig": "AB86z5VzUBK9cOB6y1OUb0e426Rv",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/-MmLZpPAPi0sgD-05IZbsKw0vknQpVvC-9IK5i3egOM.jpeg",
+      "place_id": "17145638968706753111",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17145638968706753111&q=craft+brewery+tour",
+      "provider_id": "/g/1ptxtdcb8",
+      "gps_coordinates": {
+        "latitude": 45.549427,
+        "longitude": -122.67515
+      },
+      "title": "StormBreaker Brewing",
+      "type": "Brewery",
+      "address": "832 N Beech St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.8,
+      "reviews": 73,
+      "reviews_original": "(73)",
+      "lsig": "AB86z5WCY-Lg8pzbFknO21EIup-R",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweozEWllOUIrqm6oclIxLgnGhA5-hTGS64r-0lIq2jpEAi7vyr270vrFdg8igCXPoHQXQky948MYaFljTPqjkqY0hls-NBX80OZArrINFD7TcIM_tZDx3fOHEwH_NnJVJn-NtndZ=w90-h90-n-k-no-l75",
+      "place_id": "9685844240321740441",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9685844240321740441&q=craft+brewery+tour",
+      "provider_id": "/g/11q97g3g52",
+      "gps_coordinates": {
+        "latitude": 45.51663,
+        "longitude": -122.63976
+      },
+      "title": "ForeLand Beer - Belmont",
+      "type": "Brewery",
+      "address": "2511 SE Belmont St",
+      "hours": "Closed · Opens 3 PM Wed",
+      "extensions": [
+        "Recently opened"
+      ]
+    },
+    {
+      "position": 12,
+      "rating": 4.8,
+      "reviews": 71,
+      "reviews_original": "(71)",
+      "price": "$1–10",
+      "description": "\"Excellent rotating taps in a neighborhood food cart pod.\"",
+      "lsig": "AB86z5UWJ8bmXCTgvqsLCb6a8zUv",
+      "thumbnail": "https://serpapi.com/searches/69d52cc83a92060c57fe2557/images/p7feZCwxmEa7IYNuAzgFb6U13re9K0vLk4TG0V183JU.jpeg",
+      "place_id": "13230416468309836140",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=13230416468309836140&q=craft+brewery+tour",
+      "provider_id": "/g/12hmymcfq",
+      "gps_coordinates": {
+        "latitude": 45.521877,
+        "longitude": -122.63751
+      },
+      "title": "Captured Beer Bus",
+      "type": "Beer hall",
+      "address": "113 SE 28th Ave",
+      "hours": "Closed · Opens 4 PM"
+    }
+  ]
+}

@@ -34,7 +34,7 @@ class NomadEvaluator:
             except FileNotFoundError:
                 print(f"Warning: {task_file} not found. Running in standalone mode.")
 
-    def evaluate(self, agent_output, task_id=None, hard_constraints=None, expected_tools=None, tool_logs=None):
+    def evaluate(self, agent_output, task_id=None, hard_constraints=None, expected_tools=None, tool_logs=None, interests=None):
         """
         Main evaluation function with schema-based validation.
         
@@ -47,16 +47,20 @@ class NomadEvaluator:
                 If not provided, auto-extracts from agent_output.
             expected_tools (list, optional): Expected tools called. Defaults to ["flight_search", "hotel_search", "activities_search"].
             tool_logs (list, optional): Record of tool calls. Defaults to empty list.
+            interests (list, optional): List of interest keywords (e.g., ["Broadway show", "musical"]).
+                If provided and non-empty, base scores are weighted 90% and interest satisfaction 10%.
 
         Returns:
             {
                 "task_id": str,
                 "overall_score": 0-1,
                 "csr_score": 0-1,
+                "interest_score": 0-1 or None,
                 "tool_accuracy": 0-1,
                 "schema_compliance": 0-1,
                 "itinerary_validity": bool,
                 "constraint_breakdown": {constraint: bool},
+                "interest_breakdown": {interest: bool} or None,
                 "schema_validation": {is_valid, errors, missing_fields},
                 "conflict_report": {has_conflicts, errors, warnings}
             }
@@ -65,16 +69,45 @@ class NomadEvaluator:
         if tool_logs is None:
             tool_logs = []
         if expected_tools is None:
-            expected_tools = ["flight_search", "hotel_search", "activities_search"]
+            expected_tools = ["search_flights", "search_hotels", "search_places"]
         if task_id is None:
             task_id = agent_output.get("task_id", "unknown_task")
         
         # Try to get constraints from benchmark task file if available
-        if not hard_constraints and task_id in self.tasks:
+        if task_id in self.tasks:
             task = self.tasks[task_id]
-            hard_constraints = task.get("constraints", {}).get("hard", [])
-            if not expected_tools or expected_tools == ["flight_search", "hotel_search", "activities_search"]:
+            if not hard_constraints:
+                hard_constraints = task.get("constraints", {}).get("hard", [])
+            if interests is None:
+                # interests may be under expected_output.updated_constraints or constraints
+                interests = list(
+                    task.get("expected_output", {}).get("updated_constraints", {}).get("interests")
+                    or task.get("constraints", {}).get("interests")
+                    or []
+                )
+            if not expected_tools or expected_tools == ["search_flights", "search_hotels", "search_places"]:
                 expected_tools = task.get("expected_tools", expected_tools)
+
+            # Hotel star rating: route to hard constraint or interest based on priority
+            uc = task.get("expected_output", {}).get("updated_constraints", {})
+            _hr = uc.get("preferred_hotel_rating")
+            _hp = uc.get("hotel_rating_priority", "soft")
+            if _hr is not None:
+                if _hp == "hard":
+                    if hard_constraints is None:
+                        hard_constraints = []
+                    hard_constraints.append(f"Hotel rating: at least {_hr} stars")
+                else:
+                    if interests is None:
+                        interests = []
+                    interests.append(f"{_hr}-star hotel")
+
+            # Hotel location: always a hard constraint when specified
+            _hl = uc.get("hotel_location")
+            if _hl:
+                if hard_constraints is None:
+                    hard_constraints = []
+                hard_constraints.append(f"hotel_location: {_hl}")
         
         # If still no constraints, auto-extract from agent_output
         if not hard_constraints:
@@ -92,22 +125,35 @@ class NomadEvaluator:
         # 4. Itinerary Consistency - no temporal/spatial conflicts?
         conflict_report = self._check_itinerary_consistency(agent_output)
 
+        # 5. Interest Satisfaction - do activities match user interests?
+        interest_results = None
+        if interests:
+            interest_results = self._check_interests(interests, agent_output)
+
         # Calculate overall score (weighted average)
-        overall_score = (
+        base_score = (
             schema_validation["score"] * 0.25 +
             csr_results["score"] * 0.35 +
             tool_accuracy * 0.20 +
             (1.0 if not conflict_report["has_conflicts"] else 0.5) * 0.20
         )
 
+        if interest_results:
+            # 90% base scores + 10% interest satisfaction
+            overall_score = base_score * 0.9 + interest_results["score"] * 0.1
+        else:
+            overall_score = base_score
+
         return {
             "task_id": task_id,
             "overall_score": round(overall_score, 3),
             "csr_score": round(csr_results["score"], 3),
+            "interest_score": round(interest_results["score"], 3) if interest_results else None,
             "tool_accuracy": round(tool_accuracy, 3),
             "schema_compliance": round(schema_validation["score"], 3),
             "itinerary_validity": schema_validation["is_valid"],
             "constraint_breakdown": csr_results["breakdown"],
+            "interest_breakdown": interest_results["breakdown"] if interest_results else None,
             "schema_validation": {
                 "is_valid": schema_validation["is_valid"],
                 "errors": schema_validation["errors"],
@@ -167,8 +213,16 @@ class NomadEvaluator:
         rate = hotel.get("rate_per_night", {})
         total = hotel.get("total_rate", {})
 
+        # Star class: prefer extracted_hotel_class, fall back to hotel_class
+        star_class = 0
+        hc = hotel.get("extracted_hotel_class") or hotel.get("hotel_class", 0)
+        if isinstance(hc, (int, float)):
+            star_class = hc
+
         return {
             "name": hotel.get("name", ""),
+            "address": hotel.get("address", hotel.get("location", "")),
+            "description": hotel.get("description", ""),
             "check_in_date": hotel.get("check_in_date", ""),
             "check_out_date": hotel.get("check_out_date", ""),
             "nights": hotel.get("nights", hotel.get("num_nights", 0)),
@@ -181,6 +235,7 @@ class NomadEvaluator:
                 else hotel.get("total_nights_cost", 0)
             ),
             "rating": hotel.get("overall_rating", hotel.get("rating", 0)),
+            "star_class": star_class,
         }
 
     def _get_total_cost(self, itinerary) -> float:
@@ -357,10 +412,22 @@ class NomadEvaluator:
             elif "rating" in constraint_lower or ("star" in constraint_lower and "start" not in constraint_lower):
                 try:
                     min_rating = float(re.findall(r"\d+\.?\d*", constraint)[0])
-                    actual_rating = hotel_info.get("rating", 0)
-                    is_met = actual_rating >= min_rating
+                    # Use star_class (hotel class) first; fall back to review rating
+                    actual = hotel_info.get("star_class", 0) or hotel_info.get("rating", 0)
+                    is_met = actual >= min_rating
                 except (IndexError, ValueError):
                     is_met = False
+
+            # Hotel location constraint: check hotel name/address
+            elif "hotel_location" in constraint_lower or "hotel location" in constraint_lower:
+                required_loc = constraint.split(":")[-1].strip().lower()
+                hotel_name = hotel_info.get("name", "").lower()
+                hotel_addr = hotel_info.get("address", "").lower()
+                hotel_desc = hotel_info.get("description", "").lower()
+                combined = f"{hotel_name} {hotel_addr} {hotel_desc}"
+                # Strip common prefixes like "near", "close to"
+                loc_keywords = required_loc.replace("near ", "").replace("close to ", "").replace("downtown", "downtown").strip()
+                is_met = any(kw in combined for kw in loc_keywords.split() if len(kw) > 2) or loc_keywords in all_text
 
             # General date constraint
             elif "date" in constraint_lower:
@@ -378,6 +445,101 @@ class NomadEvaluator:
         score = met_count / len(hard_constraints) if hard_constraints else 1.0
         return {"score": score, "met": met_count, "breakdown": breakdown}
 
+    def _check_interests(self, interests: List[str], output) -> Dict:
+        """
+        Checks how many user interests are reflected in the plan output.
+        Uses structural checks for flight/hotel-specific interests and
+        falls back to keyword matching for the rest.
+
+        Returns:
+            {
+                "score": 0-1,
+                "met": int,
+                "breakdown": {interest: bool}
+            }
+        """
+        if not interests:
+            return {"score": 1.0, "met": 0, "breakdown": {}}
+
+        all_text = json.dumps(output).lower()
+        itinerary = self._get_itinerary(output)
+        hotel_info = self._get_hotel_info(itinerary)
+        outbound = itinerary.get("flights", {}).get("outbound", {})
+        segments = outbound.get("flights", [])
+        layovers = outbound.get("layovers", [])
+
+        # Handle flat format: if no nested "flights" array but outbound has
+        # departure_airport, treat the outbound object itself as 1 segment
+        if not segments and outbound.get("departure_airport"):
+            segments = [outbound]
+
+        met_count = 0
+        breakdown = {}
+
+        for interest in interests:
+            interest_lower = interest.lower()
+            is_met = False
+
+            # ── Hotel star rating (e.g. "3-star hotel", "4-star hotel") ──
+            star_match = re.match(r"(\d+)\s*-?\s*star", interest_lower)
+            if star_match:
+                min_rating = float(star_match.group(1))
+                # Use star_class from normalized hotel info; >= so 4-star satisfies 3-star
+                actual = hotel_info.get("star_class", 0) or hotel_info.get("rating", 0)
+                is_met = actual >= min_rating
+
+            # ── Nonstop / direct flight ──
+            elif "nonstop" in interest_lower or "non-stop" in interest_lower or "direct" in interest_lower:
+                is_met = len(segments) == 1 and len(layovers) == 0
+
+            # ── Morning departure ──
+            elif "morning" in interest_lower and "departure" in interest_lower:
+                if segments:
+                    dep_time = segments[0].get("departure_airport", {}).get("time", "")
+                    try:
+                        hour = int(dep_time.split()[-1].split(":")[0]) if dep_time else 99
+                        is_met = hour < 12
+                    except (ValueError, IndexError):
+                        is_met = False
+
+            # ── Afternoon departure ──
+            elif "afternoon" in interest_lower and "departure" in interest_lower:
+                if segments:
+                    dep_time = segments[0].get("departure_airport", {}).get("time", "")
+                    try:
+                        hour = int(dep_time.split()[-1].split(":")[0]) if dep_time else -1
+                        is_met = 12 <= hour < 18
+                    except (ValueError, IndexError):
+                        is_met = False
+
+            # ── Evening departure ──
+            elif "evening" in interest_lower and "departure" in interest_lower:
+                if segments:
+                    dep_time = segments[0].get("departure_airport", {}).get("time", "")
+                    try:
+                        hour = int(dep_time.split()[-1].split(":")[0]) if dep_time else -1
+                        is_met = hour >= 18
+                    except (ValueError, IndexError):
+                        is_met = False
+
+            # ── No basic economy ──
+            elif "no basic economy" in interest_lower or "no basic" in interest_lower:
+                if segments:
+                    classes = [seg.get("travel_class", "").lower() for seg in segments]
+                    is_met = all("basic" not in c for c in classes)
+                else:
+                    is_met = False
+
+            # ── Fallback: keyword matching ──
+            else:
+                is_met = interest_lower in all_text
+
+            breakdown[interest] = is_met
+            if is_met:
+                met_count += 1
+
+        score = met_count / len(interests)
+        return {"score": score, "met": met_count, "breakdown": breakdown}
 
     def _check_tool_accuracy(self, expected_tools: List[str], logs: List[Dict], agent_output=None) -> float:
         """
@@ -395,6 +557,7 @@ class NomadEvaluator:
         used_tools = [log.get("tool", "") for log in logs]
         
         # If no tool logs, infer from plan data
+        # Use names matching orchestrator_tasks.json: search_flights, search_hotels, search_places
         if not used_tools and agent_output:
             itinerary = self._get_itinerary(agent_output)
             flights = itinerary.get("flights", {})
@@ -402,23 +565,36 @@ class NomadEvaluator:
             activities = itinerary.get("activities", [])
             
             if flights and flights.get("outbound"):
-                used_tools.append("flight_search")
-            if hotel and hotel.get("name"):
-                used_tools.append("hotel_search")
+                used_tools.append("search_flights")
+            if hotel and (hotel.get("name") if isinstance(hotel, dict) else False):
+                used_tools.append("search_hotels")
             if activities:
-                used_tools.append("activities_search")
+                used_tools.append("search_places")
 
         used_tools_set = set(used_tools)
         expected_tools_set = set(expected_tools)
 
+        # Normalize aliases: search_activities ↔ search_places
+        _aliases = {"search_activities": "search_places", "search_places": "search_activities"}
+        used_normalized = set()
+        for t in used_tools_set:
+            used_normalized.add(t)
+            if t in _aliases:
+                used_normalized.add(_aliases[t])
+        expected_normalized = set()
+        for t in expected_tools_set:
+            expected_normalized.add(t)
+            if t in _aliases:
+                expected_normalized.add(_aliases[t])
+
         # Precision: tools used were expected
         if used_tools_set:
-            precision = len(used_tools_set & expected_tools_set) / len(used_tools_set)
+            precision = len(used_tools_set & expected_normalized) / len(used_tools_set)
         else:
             precision = 0
 
         # Recall: all expected tools were used
-        recall = len(used_tools_set & expected_tools_set) / len(expected_tools_set)
+        recall = len(expected_tools_set & used_normalized) / len(expected_tools_set)
 
         # F1 score
         if precision + recall == 0:

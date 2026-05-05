@@ -1,0 +1,54 @@
+{
+  "search_metadata": {
+    "id": "69d51b11792d68d74b33a308",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hU9yzR0Blvmt2S9z-NzKoQ/69d51b11792d68d74b33a308.json",
+    "created_at": "2026-04-07 14:56:17 UTC",
+    "processed_at": "2026-04-07 14:56:17 UTC",
+    "google_local_url": "https://www.google.com/search?q=cemetery+walking+tour&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/hU9yzR0Blvmt2S9z-NzKoQ/69d51b11792d68d74b33a308.html",
+    "total_time_taken": 2.43
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "cemetery walking tour",
+    "location_requested": "New Orleans",
+    "location_used": "New Orleans,Louisiana,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 29.95996337508355,
+      "longitude": -90.07072448730469
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.9,
+      "reviews": 3900,
+      "reviews_original": "(3.9K)",
+      "description": "\"There were misters along the path to keep everyone comfortable.\"",
+      "lsig": "AB86z5WD9FbYf2FwchKfwhqbUk3K",
+      "links": {
+        "website": "https://cemeterytourneworleans.com/",
+        "directions": "https://www.google.com/maps/dir//St.+Louis+Cemetery+No.+1+Official+Tour,+501+Basin+St,+New+Orleans,+LA+70112/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8620a7dcf43ba849:0x5cae41f098e6d323?sa=X&ved=2ahUKEwit3ani_9uTAxW3XEEAHaZmDvgQ48ADegQIHxAA&hl=en&gl=us"
+      },
+      "place_id": "6678347799050244899",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=6678347799050244899&q=cemetery+walking+tour",
+      "provider_id": "/g/11rhjjb493",
+      "gps_coordinates": {
+        "latitude": 29.959833,
+        "longitude": -90.070724
+      },
+      "title": "St. Louis Cemetery No. 1 Official Tour",
+      "type": "Cemetery",
+      "address": "New Orleans, LA",
+      "phone": "(504) 777-3027",
+      "hours": "Open · Closes 4 PM"
+    }
+  ]
+}

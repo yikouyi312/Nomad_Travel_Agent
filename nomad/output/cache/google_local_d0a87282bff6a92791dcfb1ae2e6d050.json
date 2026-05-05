@@ -1,0 +1,454 @@
+{
+  "search_metadata": {
+    "id": "69d51b45bde97978259a5266",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/O4WkbpBeY0R2zuQkFf4lnA/69d51b45bde97978259a5266.json",
+    "created_at": "2026-04-07 14:57:09 UTC",
+    "processed_at": "2026-04-07 14:57:09 UTC",
+    "google_local_url": "https://www.google.com/search?q=parking&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/O4WkbpBeY0R2zuQkFf4lnA/69d51b45bde97978259a5266.html",
+    "total_time_taken": 5.47
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "parking",
+    "location_requested": "Seattle",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 47.60627878178091,
+      "longitude": -122.33581066131592
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "lsig": "AB86z5XuXMYfqXSnKB_VxLNVoaLw",
+      "links": {
+        "website": "https://aceparking.com/find-parking",
+        "directions": "https://www.google.com/maps/dir//Olympic+Garage,+415+Seneca+St,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab15278e835:0xcc0f83a45e3fd6aa?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIKhAA&hl=en&gl=us",
+        "schedule": "https://www.google.com/maps/reserve/appt/place/ChIJNeh4UrFqkFQRqtY_XqSDD8w/mid/%2Fg%2F1q5hsg4kd?sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM%26gl%3Dus%26q%3Dparking%26hl%3Den%26udm%3D1&source=cat"
+      },
+      "place_id": "14704116050367076010",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=14704116050367076010&q=parking",
+      "provider_id": "/g/1q5hsg4kd",
+      "gps_coordinates": {
+        "latitude": 47.607735,
+        "longitude": -122.33312
+      },
+      "title": "Olympic Garage",
+      "address": "415 Seneca St",
+      "type": "Parking garage",
+      "phone": "(206) 682-1238",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 2,
+      "lsig": "AB86z5US4O-akvTY_LxxxjeJMkiy",
+      "links": {
+        "website": "https://parking.airgarage.com/spot/a9R6txWfsbqB4sc8wEaXh7?source=webpay",
+        "directions": "https://www.google.com/maps/dir//AirGarage+%7C+Public+Parking,+1516+1st+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906b8bbf4d99c5:0xf9de65a88826c7f9?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIKxAA&hl=en&gl=us",
+        "schedule": "https://www.google.com/maps/reserve/appt/place/ChIJxZlNv4trkFQR-ccmiKhl3vk/mid/%2Fg%2F11zk3g1phh?sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM%26gl%3Dus%26q%3Dparking%26hl%3Den%26udm%3D1&source=cat"
+      },
+      "place_id": "18004940134786975737",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=18004940134786975737&q=parking",
+      "provider_id": "/g/11zk3g1phh",
+      "gps_coordinates": {
+        "latitude": 47.609463,
+        "longitude": -122.34014
+      },
+      "title": "AirGarage | Public Parking",
+      "address": "1516 1st Ave",
+      "type": "Parking lot",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 3,
+      "lsig": "AB86z5U4EeFblafcB4Rc6W-RzPy7",
+      "links": {
+        "website": "https://lazparking.com/",
+        "directions": "https://www.google.com/maps/dir//LAZ+Parking+-+2nd+%26+Union+Garage,+1400+2nd+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab3b059c693:0xe6e70eed5144202?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIKRAA&hl=en&gl=us",
+        "schedule": "https://www.google.com/maps/reserve/appt/place/ChIJk8ZZsLNqkFQRAkIU1e5wbg4/mid/%2Fg%2F11btrrs7sb?sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM%26gl%3Dus%26q%3Dparking%26hl%3Den%26udm%3D1&source=cat"
+      },
+      "place_id": "1039892735048565250",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=1039892735048565250&q=parking",
+      "provider_id": "/g/11btrrs7sb",
+      "gps_coordinates": {
+        "latitude": 47.608704,
+        "longitude": -122.33787
+      },
+      "title": "LAZ Parking - 2nd & Union Garage",
+      "address": "1400 2nd Ave",
+      "type": "Parking garage",
+      "phone": "(206) 586-8181",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 4,
+      "lsig": "AB86z5WSBoITlEGpanpUq-MRQAvG",
+      "links": {
+        "website": "http://www.diamondparking.com/",
+        "directions": "https://www.google.com/maps/dir//Butler+Garage,+114+James+St,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906aba9889207f:0x9d5e8bacbe2ea29d?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIMxAA&hl=en&gl=us",
+        "schedule": "https://www.google.com/maps/reserve/appt/place/ChIJfyCJmLpqkFQRnaIuvqyLXp0/mid/%2Fm%2F04jdyyw?sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM%26gl%3Dus%26q%3Dparking%26hl%3Den%26udm%3D1&source=cat"
+      },
+      "place_id": "11339654485806850717",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=11339654485806850717&q=parking",
+      "provider_id": "/m/04jdyyw",
+      "gps_coordinates": {
+        "latitude": 47.60227,
+        "longitude": -122.333084
+      },
+      "title": "Butler Garage",
+      "address": "114 James St",
+      "type": "Parking garage",
+      "phone": "(206) 788-0330",
+      "hours": "Open · Closes 12 AM"
+    },
+    {
+      "position": 5,
+      "lsig": "AB86z5X1bylJoslYA12lqq_qtqUf",
+      "links": {
+        "website": "https://www.impark.com/seattle/714-1st-avenue-parking-lot/?utm_source=google&utm_medium=maps&utm_content=0250178&utm_campaign=local_us",
+        "directions": "https://www.google.com/maps/dir//Impark+Parking+(714+1st+Ave+Parking+Garage),+Parking+Lot,+178+714+1st+Ave+S,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab012d3c111:0x3fdf1a9f45f9489a?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "4602426615572023450",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=4602426615572023450&q=parking",
+      "provider_id": "/g/11gd685z3b",
+      "gps_coordinates": {
+        "latitude": 47.60312,
+        "longitude": -122.33435
+      },
+      "title": "Impark Parking (714 1st Ave Parking Garage)",
+      "address": "Parking Lot, 178 714 1st Ave S",
+      "type": "Parking lot",
+      "phone": "(206) 267-0446",
+      "hours": "Open · Closes 9 PM"
+    },
+    {
+      "position": 6,
+      "lsig": "AB86z5Xg-vp3hhf91AjQejgEE7U8",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "http://pikeplacemarket.org/parking-directions/",
+        "directions": "https://www.google.com/maps/dir//Pike+Place+MarketFront+Parking+Garage,+1901+Western+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab2b866206b:0x5f761e9dabb704ef?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQILxAA&hl=en&gl=us"
+      },
+      "place_id": "6878719143394608367",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=6878719143394608367&q=parking",
+      "provider_id": "/g/11d_1cy9t0",
+      "gps_coordinates": {
+        "latitude": 47.609795,
+        "longitude": -122.34307
+      },
+      "title": "Pike Place MarketFront Parking Garage",
+      "address": "1901 Western Ave",
+      "type": "Parking garage",
+      "phone": "(206) 774-5316",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 7,
+      "lsig": "AB86z5XdblAi3kIjE3D6zfAFwDvE",
+      "service_options": {
+        "onsite_services": true
+      },
+      "links": {
+        "website": "http://pikeplacemarket.org/directions-parking",
+        "directions": "https://www.google.com/maps/dir//Pike+Place+Market+Parking+Garage,+1531+Western+Ave+P,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab2927b84f7:0xb85f14457f19be32?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIMRAA&hl=en&gl=us"
+      },
+      "place_id": "13285359714483945010",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=13285359714483945010&q=parking",
+      "provider_id": "/g/1tncslrx",
+      "gps_coordinates": {
+        "latitude": 47.608837,
+        "longitude": -122.34193
+      },
+      "title": "Pike Place Market Parking Garage",
+      "address": "1531 Western Ave P",
+      "type": "Parking garage",
+      "phone": "(206) 774-5316",
+      "hours": "Open · Closes 2 AM"
+    },
+    {
+      "position": 8,
+      "lsig": "AB86z5Wu0-70CJHQYanFK3xbh6Eo",
+      "links": {
+        "website": "https://spothero.com/search?kind=address&latitude=47.6059329&longitude=-122.3384271&search_string=1200+Western+Avenue%2C+Seattle%2C+WA%2C+USA",
+        "directions": "https://www.google.com/maps/dir//Harbor+Steps+Parking+Garage+-+Ace+Parking,+1200+Western+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906b68f2be0f0f:0xbee069a59da18b4d?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIMhAA&hl=en&gl=us",
+        "schedule": "https://www.parkwhiz.com/locations/64055/checkout/?merchant_id=505-64055&pwa=pa-1242&utm_medium=Google&utm_source=GBP&rwg_token=AFd1xnEe2WZKiBSvah-8JuTZgHJKgvkIyndqqV9OK6CjkfjSF3P17WHpCoFR2r-mjN3WJZy7MxlITK1kHe9WzbsKz0wNOFluiA%3D%3D&source=cat"
+      },
+      "place_id": "13754109422024624973",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=13754109422024624973&q=parking",
+      "provider_id": "/g/11s323chy7",
+      "gps_coordinates": {
+        "latitude": 47.606144,
+        "longitude": -122.338844
+      },
+      "title": "Harbor Steps Parking Garage - Ace Parking",
+      "address": "1200 Western Ave",
+      "type": "Parking garage",
+      "hours": "Open · Closes 12 AM"
+    },
+    {
+      "position": 9,
+      "lsig": "AB86z5U4bE3tHVfuBD_9k0uiFiYv",
+      "links": {
+        "website": "https://www.impark.com/seattle/puget-sound-plaza-parking-garage/?utm_source=google&utm_medium=maps&utm_content=0251103&utm_campaign=local_us",
+        "directions": "https://www.google.com/maps/dir//Republic+Parking+(Puget+Sound+Plaza+Parking+Garage),+315+Union+St,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab3913bb8db:0x294b6cc6a46806da?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIKBAA&hl=en&gl=us",
+        "schedule": "https://spothero.com/facility/21633?partner=google&rwg_token=AFd1xnHHE1jhMu8MdcuQYa9Gm8vGXYypHjdUHxi7fIbKqtfnLDOf5ciaBezJLcC24VnkWFs9gWlHwK3qiUw1xhfaA-xQ9mDLVQ%3D%3D&source=cat"
+      },
+      "place_id": "2975591579225949914",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=2975591579225949914&q=parking",
+      "provider_id": "/g/1tk1mpv3",
+      "gps_coordinates": {
+        "latitude": 47.608574,
+        "longitude": -122.33598
+      },
+      "title": "Republic Parking (Puget Sound Plaza Parking Garage)",
+      "address": "315 Union St",
+      "type": "Parking garage",
+      "phone": "(206) 624-7040",
+      "hours": "Open · Closes 12 AM"
+    },
+    {
+      "position": 10,
+      "lsig": "AB86z5WYpgY90Fhp3lbsTKpMY_2x",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Buck+Pavilion+Parking,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab6768e4d29:0x51ae6156e559a485?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQILhAA&hl=en&gl=us"
+      },
+      "place_id": "5885748788862755973",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=5885748788862755973&q=parking",
+      "provider_id": "/g/11d_yzlm8m",
+      "gps_coordinates": {
+        "latitude": 47.60944,
+        "longitude": -122.32879
+      },
+      "title": "Buck Pavilion Parking",
+      "address": "Seattle, WA",
+      "type": "Parking garage"
+    },
+    {
+      "position": 11,
+      "lsig": "AB86z5XjWnduLAq0nqoLGY88R9-d",
+      "links": {
+        "website": "https://lazparking.com/",
+        "directions": "https://www.google.com/maps/dir//LAZ+Parking+-+6th+Avenue+Garage,+1301+6th+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906b00e03207f1:0x1672d2fc14a32a37?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIMBAA&hl=en&gl=us",
+        "schedule": "https://www.google.com/maps/reserve/appt/place/ChIJ8Qcy4ABrkFQRNyqjFPzSchY/mid/%2Fg%2F11jbn25ysp?sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM%26gl%3Dus%26q%3Dparking%26hl%3Den%26udm%3D1&source=cat"
+      },
+      "place_id": "1617587196299258423",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=1617587196299258423&q=parking",
+      "provider_id": "/g/11jbn25ysp",
+      "gps_coordinates": {
+        "latitude": 47.609386,
+        "longitude": -122.33317
+      },
+      "title": "LAZ Parking - 6th Avenue Garage",
+      "address": "1301 6th Ave",
+      "type": "Parking garage",
+      "phone": "(206) 441-7928",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 12,
+      "lsig": "AB86z5WrFhR_zAFaOa-LLYfBWMjF",
+      "links": {
+        "website": "http://spacesconnect.com/",
+        "directions": "https://www.google.com/maps/dir//SPACES+Parking,+335+Columbia+St,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906baa7ac494cd:0x7fe7873b2e6bcb11?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQILBAA&hl=en&gl=us",
+        "schedule": "https://spothero.com/facility/14842?partner=google&rwg_token=AFd1xnHHSH20phbHObSartsUUisFcn1P8uhSqVkLoeu4aalJLWo-LqgsSYNmv6A1we9KX58mABPjMq9X7QP-oWE51h66X0ALMg%3D%3D&source=cat"
+      },
+      "place_id": "9216483850688645905",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=9216483850688645905&q=parking",
+      "provider_id": "/g/11mw80j4fy",
+      "gps_coordinates": {
+        "latitude": 47.604225,
+        "longitude": -122.33239
+      },
+      "title": "SPACES Parking",
+      "address": "335 Columbia St",
+      "type": "Parking garage",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 13,
+      "lsig": "AB86z5VUEP34RvY7o8g-Qzvxld5w",
+      "links": {
+        "website": "http://parkchirp.com/facilities/harbor-steps-garage-parking/",
+        "directions": "https://www.google.com/maps/dir//Harbor+Steps+Apartment+Parking+-+Park+Seattle,+1230+Western+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab1f12698f5:0x6fe65079f0e72917?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIIBAA&hl=en&gl=us"
+      },
+      "place_id": "8063220667516397847",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=8063220667516397847&q=parking",
+      "provider_id": "/g/11dzzdstjg",
+      "gps_coordinates": {
+        "latitude": 47.60602,
+        "longitude": -122.338806
+      },
+      "title": "Harbor Steps Apartment Parking - Park Seattle",
+      "address": "1230 Western Ave",
+      "type": "Parking garage",
+      "phone": "(206) 348-4686",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 14,
+      "lsig": "AB86z5VRpM0-lYU00Lp2LTPVKawa",
+      "links": {
+        "website": "https://parking.com/seattle/lot/901-fifth-avenue?utm_source=Soci&utm_medium=Soci&utm_campaign=Soci-WA",
+        "directions": "https://www.google.com/maps/dir//SP%2B+Parking,+450+Marion+St,+Seattle,+WA+98164/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab0d6110d71:0x9a8d5b14ac9d93a4?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "11136657597910586276",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=11136657597910586276&q=parking",
+      "provider_id": "/g/1tfrm0v_",
+      "gps_coordinates": {
+        "latitude": 47.605534,
+        "longitude": -122.331635
+      },
+      "title": "SP+ Parking",
+      "address": "450 Marion St",
+      "type": "Parking garage",
+      "phone": "(206) 682-1380",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 15,
+      "lsig": "AB86z5UU8Eej9WQDA_h_MqQfWRPQ",
+      "links": {
+        "website": "https://rpnw.com/locations/seattle/",
+        "directions": "https://www.google.com/maps/dir//Republic+Parking,+1401+Western+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab26c3056a1:0xf81bf7ad54c1af9c?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "17878155469600698268",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=17878155469600698268&q=parking",
+      "provider_id": "/g/11f2gsybg0",
+      "gps_coordinates": {
+        "latitude": 47.607445,
+        "longitude": -122.34065
+      },
+      "title": "Republic Parking",
+      "address": "1401 Western Ave",
+      "type": "Parking lot",
+      "phone": "(206) 783-4144"
+    },
+    {
+      "position": 16,
+      "lsig": "AB86z5VSKt1i484vS7lC1PmxYPWO",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Meridian+East+Parking+Garage,+1515+7th+Ave,+Seattle,+WA+98101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906b7a956700ff:0x48285860d34f6179?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIJhAA&hl=en&gl=us",
+        "schedule": "https://spothero.com/facility/143293?partner=google&rwg_token=AFd1xnHfkmP53Pfk4HNxmsu4ZAZ0EQornnpXnFLjnr5z8VruUghrKh6kMoi4-92W49wr6a74KqBzbwXpkA6sYyEvuBia0BHxLg%3D%3D&source=cat"
+      },
+      "place_id": "5199502942684537209",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=5199502942684537209&q=parking",
+      "provider_id": "/g/11fn7jxx0s",
+      "gps_coordinates": {
+        "latitude": 47.61208,
+        "longitude": -122.33405
+      },
+      "title": "Meridian East Parking Garage",
+      "address": "1515 7th Ave",
+      "type": "Parking garage",
+      "hours": "Open · Closes 12:30 AM"
+    },
+    {
+      "position": 17,
+      "lsig": "AB86z5VkN7lABSSFK11MiebLTaBu",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Public+Parking+-+1000+8th,+1000+8th+Ave,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906b001adfc693:0xbb5116fb98d19898?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIJxAA&hl=en&gl=us",
+        "schedule": "https://www.parkwhiz.com/locations/59038/checkout/?merchant_id=2147-59038&pwa=pa-1242&utm_medium=Google&utm_source=GBP&rwg_token=AFd1xnGgTXZ_Xp6LTuYHwt-pnYKnR2dB14mSopwiW2q9zQeZMRPm5K8FUu1EfI93xRiBxlGgNw_wTn0RM9-F1x3EuP9VYU4kOg%3D%3D&source=cat"
+      },
+      "place_id": "13497594828062562456",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=13497594828062562456&q=parking",
+      "provider_id": "/g/11ypk0k9pq",
+      "gps_coordinates": {
+        "latitude": 47.608414,
+        "longitude": -122.3278
+      },
+      "title": "Public Parking - 1000 8th",
+      "address": "1000 8th Ave",
+      "type": "Parking lot",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 18,
+      "lsig": "AB86z5XKol4KfGBf2UF4dmWr6fIu",
+      "links": {
+        "website": "http://www.fourthandmadison.com/main.cfm?sid=bservices&pid=parking",
+        "directions": "https://www.google.com/maps/dir//Fourth+%26+Madison+Garage,+925+4th+Ave,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab1231409a5:0x74f28dff873db587?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQILRAA&hl=en&gl=us"
+      },
+      "place_id": "8426953981388764551",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=8426953981388764551&q=parking",
+      "provider_id": "/g/11b6_d8wwm",
+      "gps_coordinates": {
+        "latitude": 47.605484,
+        "longitude": -122.33324
+      },
+      "title": "Fourth & Madison Garage",
+      "address": "925 4th Ave",
+      "type": "Parking garage",
+      "phone": "(206) 262-4100",
+      "hours": "Open · Closes 9 PM"
+    },
+    {
+      "position": 19,
+      "lsig": "AB86z5Xc3vkTRJBIekCDKMk67qXO",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//SeaPark+Garage+-+Lot+%2366,+609+6th+Ave,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab754a5df3b:0x6884697a2e05b082?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "7531260450349363330",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=7531260450349363330&q=parking",
+      "provider_id": "/g/1q5blnfcp",
+      "gps_coordinates": {
+        "latitude": 47.604706,
+        "longitude": -122.328835
+      },
+      "title": "SeaPark Garage - Lot #66",
+      "address": "609 6th Ave",
+      "type": "Parking garage",
+      "phone": "(206) 381-1789",
+      "hours": "Open · Closes 10 PM"
+    },
+    {
+      "position": 20,
+      "lsig": "AB86z5UedvH6J5laUqrq1IP0Euju",
+      "links": {
+        "website": "https://www.diamondparking.com/",
+        "directions": "https://www.google.com/maps/dir//Diamond+Parking+Service,+312+Cherry+St,+Seattle,+WA+98104/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab090e42231:0x6f52f32127efe2b2?sa=X&ved=2ahUKEwjbpaH9_9uTAxVQHbkGHRe4ARoQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "8021741210029777586",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&ludocid=8021741210029777586&q=parking",
+      "provider_id": "/g/11f_p2xv2s",
+      "gps_coordinates": {
+        "latitude": 47.603878,
+        "longitude": -122.331505
+      },
+      "title": "Diamond Parking Service",
+      "address": "312 Cherry St",
+      "type": "Parking lot",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=parking&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=parking&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=parking&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=parking&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=parking&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=parking&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=parking&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=parking&start=20&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=parking&start=40&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=parking&start=60&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Seattle&q=parking&start=80&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01JbSQ1kWbqmGfyngTh9u7xP",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01SKTucYByBxLPoNnTmmFXHA",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Seattle",
+          "destination": "Denver",
+          "start_date": "2027-01-15",
+          "end_date": "2027-01-19",
+          "duration_days": 4,
+          "budget_usd": 2500,
+          "num_travelers": 2,
+          "hotel_location": "near ski slopes",
+          "interests": [
+            "hot tub",
+            "ski equipment rental",
+            "après-ski restaurant",
+            "craft beer",
+            "shuttle service"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your 4-day ski trip to Denver for 2 people from January 15-19, 2027, with a $2,500 budget. I'll find flights from Seattle, a hotel with a hot tub near the ski slopes (preferably with shuttle service), and include ski equipment rental options and cozy après-ski restaurants with craft beer. Let me search for the best options for you!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2690,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 322,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

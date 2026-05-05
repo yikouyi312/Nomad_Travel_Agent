@@ -1,0 +1,452 @@
+{
+  "search_metadata": {
+    "id": "69d52c792f47f8dfba7b91d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GhKQnVjyk_1B8XxAIGivYg/69d52c792f47f8dfba7b91d1.json",
+    "created_at": "2026-04-07 16:10:33 UTC",
+    "processed_at": "2026-04-07 16:10:33 UTC",
+    "google_local_url": "https://www.google.com/search?q=rooftop+bar&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/GhKQnVjyk_1B8XxAIGivYg/69d52c792f47f8dfba7b91d1.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "rooftop bar",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.9469314321602,
+      "longitude": -80.17410278320312
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 6000,
+      "reviews_original": "(6K)",
+      "description": "\"The views are spectacular and the drinks are strong and delicious.\"",
+      "lsig": "AB86z5XGF2IoNWvUmCDvm021nTH9",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/6s8LrYw6SikYniXeuDTn2eLh7EW7K2fU6_lsFeh9Olc.jpeg",
+      "place_id": "8544288044977879219",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8544288044977879219&q=rooftop+bar",
+      "provider_id": "/g/11ptsllzd2",
+      "gps_coordinates": {
+        "latitude": 25.766848,
+        "longitude": -80.196175
+      },
+      "title": "Rosa Sky",
+      "type": "Cocktail bar",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 4:30 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.4,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$100+",
+      "description": "\"Beautiful rooftop views, great ambiance, and amazing food.\"",
+      "lsig": "AB86z5Wqo46PE6__oNqCXRC9Ec4k",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/D3jqod29ZI8aSbc-rNPWdlT-b-j8Oag93DbvDjRW_qk.jpeg",
+      "place_id": "16591850696780727909",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16591850696780727909&q=rooftop+bar",
+      "provider_id": "/g/1hhhlc4gc",
+      "gps_coordinates": {
+        "latitude": 25.79959,
+        "longitude": -80.126854
+      },
+      "title": "Watr at the 1 Rooftop",
+      "type": "Japanese",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 221,
+      "reviews_original": "(221)",
+      "description": "\"They had a DJ playing, the drinks were amazing and the atmosphere was great.\"",
+      "lsig": "AB86z5UlD1NkieTTaLkL4ta7azgL",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/aV2DRiV4vFTqqdkSI_EIlk5zlf20_Nowte9i2hFXMSs.jpeg",
+      "place_id": "4682035535293254607",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4682035535293254607&q=rooftop+bar",
+      "provider_id": "/g/11sh0my4s8",
+      "gps_coordinates": {
+        "latitude": 25.78679,
+        "longitude": -80.13198
+      },
+      "title": "The Roof at Esme Hotel",
+      "type": "Bar",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 64,
+      "reviews_original": "(64)",
+      "price": "$50–100",
+      "description": "\"The atmosphere was very relaxing and the scenery was breathtaking.\"",
+      "lsig": "AB86z5XhPsmsURWMqydGzDxy5Pf9",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/M1uPkgb37grVgG0IvDkP4KEvs4ZQNQTB1RoJMU-nobA.jpeg",
+      "place_id": "4988739618962468390",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4988739618962468390&q=rooftop+bar",
+      "provider_id": "/g/11y3j64c7m",
+      "gps_coordinates": {
+        "latitude": 25.776531,
+        "longitude": -80.13418
+      },
+      "title": "La Terraza Rooftop",
+      "type": "Restaurant",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 5,
+      "rating": 4.8,
+      "reviews": 2800,
+      "reviews_original": "(2.8K)",
+      "price": "$50–100",
+      "description": "\"Beautiful rooftop, great service, good food and drinks, great view.\"",
+      "lsig": "AB86z5WWX5tXQijKbd3DzgAJIuQd",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/Z8MBHQnHIHTkuFOJs_1FHk8266lXOWbOpyBXZTePNQE.png",
+      "place_id": "8896472022976043186",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8896472022976043186&q=rooftop+bar",
+      "provider_id": "/g/11tflpnndf",
+      "gps_coordinates": {
+        "latitude": 25.726458,
+        "longitude": -80.24422
+      },
+      "title": "Level 6 Rooftop Restaurant Miami",
+      "type": "Restaurant",
+      "address": "3480 Main Hwy 6th floor",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.8,
+      "reviews": 255,
+      "reviews_original": "(255)",
+      "description": "\"The tropical rooftop vibe and the views of the Miami skyline are unmatched.\"",
+      "lsig": "AB86z5XglV1u5hIVz_XiO4ukxXGO",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/IZuqxP9rLxpGVwj5SOfmRsFJbVcxJ_GAwSvGhja5HZg.jpeg",
+      "place_id": "4211248218112733863",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4211248218112733863&q=rooftop+bar",
+      "provider_id": "/g/11mkvz_pxp",
+      "gps_coordinates": {
+        "latitude": 25.768284,
+        "longitude": -80.20943
+      },
+      "title": "Terras Miami Rooftop",
+      "type": "Restaurant",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 7,
+      "rating": 3.4,
+      "reviews": 31,
+      "reviews_original": "(31)",
+      "price": "$20–30",
+      "description": "\"The vibe was perfect, and the service was next-level.\"",
+      "lsig": "AB86z5Vc4DRJA6i7waGedT_mxy_9",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/ziF1HvqOMdQYStq87EMbVl3GPa1s5hXk_srVl0D23Bo.jpeg",
+      "place_id": "739989026195556984",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=739989026195556984&q=rooftop+bar",
+      "provider_id": "/g/11l2h_p5p3",
+      "gps_coordinates": {
+        "latitude": 25.759686,
+        "longitude": -80.196945
+      },
+      "title": "Vista Rooftop Bar and Lounge",
+      "type": "Restaurant",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 8,
+      "rating": 4.5,
+      "reviews": 874,
+      "reviews_original": "(874)",
+      "description": "\"The vibe is incredible, with stunning views and a chic, relaxed atmosphere.\"",
+      "lsig": "AB86z5VpaM2p_9JAMupmB0CbrahV",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/SX9T0tpTNxU_sxOetzTswvE4qfpJK7GmCEoFsfbJMSo.jpeg",
+      "place_id": "12613442180320413563",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12613442180320413563&q=rooftop+bar",
+      "provider_id": "/g/11p66h4dtt",
+      "gps_coordinates": {
+        "latitude": 26.01643,
+        "longitude": -80.116776
+      },
+      "title": "Sunset Club | Rooftop Restaurant & Lounge",
+      "type": "Restaurant",
+      "address": "Hollywood, FL"
+    },
+    {
+      "position": 9,
+      "rating": 4.1,
+      "reviews": 971,
+      "reviews_original": "(971)",
+      "price": "$50–100",
+      "description": "\"The food and drinks were delicious and the rooftop ambience is gorgeous.\"",
+      "lsig": "AB86z5XvZvgQZl3v3pF-0D1l8e2m",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/XsQyM2Pq2gU8yNzV8m4vkYCm_RBaJrOcxdcotc1_ljA.jpeg",
+      "place_id": "11479789663882675804",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11479789663882675804&q=rooftop+bar",
+      "provider_id": "/g/11r0sgkwqc",
+      "gps_coordinates": {
+        "latitude": 25.779764,
+        "longitude": -80.132866
+      },
+      "title": "Serena",
+      "type": "Restaurant",
+      "address": "Miami Beach, FL"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$50–100",
+      "description": "\"The drinks creative and the views and ambiance were totally worth it!\"",
+      "lsig": "AB86z5XeXyuD_xYWCXW6lTDxR_nz",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/ZFyMDWQ3SHb1izSsnJ2K9PnAGZPvoNSoc4OW1udTmt4.jpeg",
+      "place_id": "2193562895591481348",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2193562895591481348&q=rooftop+bar",
+      "provider_id": "/g/11kryh94n5",
+      "gps_coordinates": {
+        "latitude": 26.129484,
+        "longitude": -80.10416
+      },
+      "title": "Nubé Rooftop",
+      "type": "Cocktail bar",
+      "address": "Fort Lauderdale, FL",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.3,
+      "reviews": 2100,
+      "reviews_original": "(2.1K)",
+      "description": "\"Unmatched views, upbeat music, shareable drinks, friendly staff!\"",
+      "lsig": "AB86z5VQToI07xaDlx6qfBAA7bpl",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/S7QoFaifxInYrlL-5Vz_2t1EB7MVqi_IkhrkS5DbXyM.jpeg",
+      "place_id": "4470569167837918605",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4470569167837918605&q=rooftop+bar",
+      "provider_id": "/g/11bxf2b12r",
+      "gps_coordinates": {
+        "latitude": 25.779743,
+        "longitude": -80.13098
+      },
+      "title": "Voodoo Lounge & Rooftop",
+      "type": "Night club",
+      "address": "Miami Beach, FL",
+      "hours": "Closed · Opens 7 PM"
+    },
+    {
+      "position": 12,
+      "rating": 3.6,
+      "reviews": 47,
+      "reviews_original": "(47)",
+      "price": "$50–100",
+      "description": "\"Such a beautiful view, great service, great food.\"",
+      "lsig": "AB86z5XZqFIuRD64vJcGG7E7Zvtf",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/pRBQewU2Xjfdv3ANHT-zdo80VwAeVYnaIkPGUyGKXyY.jpeg",
+      "place_id": "9146406894098582643",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9146406894098582643&q=rooftop+bar",
+      "provider_id": "/g/11v_5y2st8",
+      "gps_coordinates": {
+        "latitude": 25.768663,
+        "longitude": -80.18873
+      },
+      "title": "TULUM Rooftop Bar & Restaurant",
+      "type": "Latin American",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 13,
+      "rating": 4.2,
+      "reviews": 490,
+      "reviews_original": "(490)",
+      "description": "\"Good happy hour drinks, pleasant view, fast and friendly service.\"",
+      "lsig": "AB86z5XqjxJFnxf20FTz75deDmVw",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/UOWwXfJL-sSZ5s84ypc-jnUSkPW7ebnwh_4CjlKp0LY.jpeg",
+      "place_id": "8831897246358436383",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8831897246358436383&q=rooftop+bar",
+      "provider_id": "/g/11rg2wqmnc",
+      "gps_coordinates": {
+        "latitude": 25.751219,
+        "longitude": -80.25736
+      },
+      "title": "Cebada Rooftop",
+      "type": "Spanish",
+      "address": "Coral Gables, FL",
+      "hours": "Closed · Opens 4:30 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.9,
+      "reviews": 2400,
+      "reviews_original": "(2.4K)",
+      "description": "\"Food, drinks, music and rooftop views were 10/10!\"",
+      "lsig": "AB86z5VMfwOxkRFS2LNsjT9xnvpr",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/imlbcep8jr4s5dHXidoJzdXmzEISFNbIklxsb4yPS-s.jpeg",
+      "place_id": "9973155813632182089",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9973155813632182089&q=rooftop+bar",
+      "provider_id": "/g/11wqrk1jm5",
+      "gps_coordinates": {
+        "latitude": 25.77978,
+        "longitude": -80.13111
+      },
+      "title": "Carnaval Rooftop",
+      "type": "Restaurant",
+      "address": "Miami Beach, FL",
+      "hours": "Closed · Opens 7 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 3600,
+      "reviews_original": "(3.6K)",
+      "price": "$20–30",
+      "description": "\"The lighting, music, and views all come together to make it such a fun vibe.\"",
+      "lsig": "AB86z5VTwja6wLJe-e1G03wxL0Tr",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/wgKiLR-O1wgPoxrAtiJON479gJxLktpoLXBy4xsaNJY.jpeg",
+      "place_id": "4866863559555084336",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4866863559555084336&q=rooftop+bar",
+      "provider_id": "/g/11gbv630f9",
+      "gps_coordinates": {
+        "latitude": 26.1196,
+        "longitude": -80.14367
+      },
+      "title": "Rooftop @1WLO",
+      "type": "Bar",
+      "address": "Fort Lauderdale, FL",
+      "hours": "Closed · Opens 4 PM Wed"
+    },
+    {
+      "position": 16,
+      "rating": 4.0,
+      "reviews": 3300,
+      "reviews_original": "(3.3K)",
+      "description": "\"Live DJ’s beautiful rooftop views and great atmosphere.\"",
+      "lsig": "AB86z5VzK9lMed89RzRGWex9vhTU",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/mXhHGuvGYJcaAA1LbupAEEidqlsTGAMrHeE9Ncm5V8Q.jpeg",
+      "place_id": "5757323510087939101",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5757323510087939101&q=rooftop+bar",
+      "provider_id": "/g/11gy3b_tq8",
+      "gps_coordinates": {
+        "latitude": 25.796862,
+        "longitude": -80.19863
+      },
+      "title": "Astra Miami Rooftop",
+      "type": "Mediterranean",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 17,
+      "rating": 5.0,
+      "reviews": 11,
+      "reviews_original": "(11)",
+      "price": "$10–20",
+      "description": "\"The rooftop gets a little breezy so you might want a jacket after sunset.\"",
+      "lsig": "AB86z5W8a64_Rjt9JOOCz0D3cpml",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/wIXwaVllOwRhQwcDFikb6V2G-MFNd53up5JrMoVq81Q.jpeg",
+      "place_id": "6342767544701516993",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6342767544701516993&q=rooftop+bar",
+      "provider_id": "/g/11vz5ff1s8",
+      "gps_coordinates": {
+        "latitude": 25.85194,
+        "longitude": -80.19318
+      },
+      "title": "The Key Rooftop Bar",
+      "type": "Bar",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 4 PM Thu"
+    },
+    {
+      "position": 18,
+      "rating": 4.4,
+      "reviews": 2500,
+      "reviews_original": "(2.5K)",
+      "description": "\"Best roof top bar and dj music to dance, eat, drink and chill.\"",
+      "lsig": "AB86z5XDNYJUqgsLCPZhfPoCRSuV",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/Lugzi90x3Fvpp_lxmdMMfNgKk4JYghQWLgW1l3vUZFg.jpeg",
+      "place_id": "3293035356072777261",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3293035356072777261&q=rooftop+bar",
+      "provider_id": "/g/11c6dzbb4p",
+      "gps_coordinates": {
+        "latitude": 25.986807,
+        "longitude": -80.11865
+      },
+      "title": "Terrazas at Lyfe Hollywood - Oceanfront Rooftop",
+      "type": "Restaurant",
+      "address": "Hollywood, FL"
+    },
+    {
+      "position": 19,
+      "rating": 4.2,
+      "reviews": 21,
+      "reviews_original": "(21)",
+      "description": "\"The rooftop is magical and the attention is just on point.\"",
+      "lsig": "AB86z5Wj6DO2BuhuDc0JbwbkYO-L",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/Msi6K6l7gg3a27RMD8OiFnRiR_UwZACu3oromZkRGlQ.jpeg",
+      "place_id": "1544577184006605154",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1544577184006605154&q=rooftop+bar",
+      "provider_id": "/g/11nh5b1k0m",
+      "gps_coordinates": {
+        "latitude": 25.947025,
+        "longitude": -80.152374
+      },
+      "title": "Aventura Skybar",
+      "type": "Event venue",
+      "address": "Aventura, FL"
+    },
+    {
+      "position": 20,
+      "rating": 4.1,
+      "reviews": 3300,
+      "reviews_original": "(3.3K)",
+      "price": "$100+",
+      "description": "\"A must-visit for great drinks, stunning views, and a chic ambiance!\"",
+      "lsig": "AB86z5VwQY42YTChVV131tJFYwsd",
+      "thumbnail": "https://serpapi.com/searches/69d52c792f47f8dfba7b91d1/images/GELuCe0U1FAf4rEk1BeKYafd178zunBWzJzYmf6axaE.jpeg",
+      "place_id": "3041638096893265568",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3041638096893265568&q=rooftop+bar",
+      "provider_id": "/g/11byyldkt8",
+      "gps_coordinates": {
+        "latitude": 25.766636,
+        "longitude": -80.192505
+      },
+      "title": "Sugar",
+      "type": "Bar",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 4 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=rooftop+bar&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=rooftop+bar&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=rooftop+bar&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=rooftop+bar&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=rooftop+bar&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=rooftop+bar&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=rooftop+bar&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=rooftop+bar&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=rooftop+bar&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=rooftop+bar&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=rooftop+bar&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

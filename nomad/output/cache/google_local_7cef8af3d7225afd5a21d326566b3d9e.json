@@ -1,0 +1,468 @@
+{
+  "search_metadata": {
+    "id": "69d51b96bb48ad7f435112d6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-7HK7zWi1wETr88Y4ABnoQ/69d51b96bb48ad7f435112d6.json",
+    "created_at": "2026-04-07 14:58:30 UTC",
+    "processed_at": "2026-04-07 14:58:30 UTC",
+    "google_local_url": "https://www.google.com/search?q=deep-dish+pizza&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/-7HK7zWi1wETr88Y4ABnoQ/69d51b96bb48ad7f435112d6.html",
+    "total_time_taken": 1.83
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "deep-dish pizza",
+    "location_requested": "Chicago",
+    "location_used": "Chicago,Illinois,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 41.90534332706593,
+      "longitude": -87.64480590820312
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.5,
+      "reviews": 25000,
+      "reviews_original": "(25K)",
+      "price": "$20–30",
+      "description": "\"The pizza came out perfectly cooked, nice crispy crust, delicious layers.\"",
+      "lsig": "AB86z5VeKjUUIfiNn_qKQFeC7X-Y",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/cYC5IhUF4yO3zXgjGYFtoEJJA2-9IgBZ13gXYnyd7Vw.jpeg",
+      "place_id": "16471007048779442923",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=16471007048779442923&q=deep-dish+pizza",
+      "provider_id": "/g/1tj80kdc",
+      "gps_coordinates": {
+        "latitude": 41.88513,
+        "longitude": -87.623764
+      },
+      "title": "Giordano's",
+      "type": "Pizza",
+      "address": "130 E Randolph St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 2,
+      "rating": 4.3,
+      "reviews": 891,
+      "reviews_original": "(891)",
+      "price": "$10–20",
+      "description": "\"We ordered a medium thin crust pizza and it was absolutely delicious.\"",
+      "lsig": "AB86z5XHlE0zUitZzg2neGBNZ27R",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/u6xywQkGodxRbOy1Mol3L8uKHZF8dLSgLkIifEZ_Aq0.jpeg",
+      "place_id": "2048825410452341557",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=2048825410452341557&q=deep-dish+pizza",
+      "provider_id": "/g/1tdz5dpn",
+      "gps_coordinates": {
+        "latitude": 41.892193,
+        "longitude": -87.63239
+      },
+      "title": "Pizzeria Ora Chicago",
+      "type": "Pizza",
+      "address": "545 N La Salle Dr"
+    },
+    {
+      "position": 3,
+      "rating": 4.7,
+      "reviews": 19000,
+      "reviews_original": "(19K)",
+      "price": "$20–30",
+      "description": "\"Excellent service, delicious pizza, fun and eclectic atmosphere!\"",
+      "lsig": "AB86z5Vn8BmSq1OKJOMYKbDQpzED",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/Y1rGURGzoxMMd2jtkzekCugYMVmCQaSAnBZvQCLtyRQ.jpeg",
+      "place_id": "4914755759962784759",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4914755759962784759&q=deep-dish+pizza",
+      "provider_id": "/g/1jkvvy5b2",
+      "gps_coordinates": {
+        "latitude": 41.895885,
+        "longitude": -87.623055
+      },
+      "title": "Gino's East",
+      "type": "Pizza",
+      "address": "162 E Superior St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.4,
+      "reviews": 15000,
+      "reviews_original": "(15K)",
+      "price": "$20–30",
+      "description": "\"The pizza was delicious, and the service was friendly and welcoming.\"",
+      "lsig": "AB86z5UsWQJpGJPwghf4wqpay6tV",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/lY9rTeBs5rV9w9XpLbM_FPUtAR98LgQkOLMI1ual4Hk.jpeg",
+      "place_id": "5180583909798372095",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5180583909798372095&q=deep-dish+pizza",
+      "provider_id": "/g/1thvt93k",
+      "gps_coordinates": {
+        "latitude": 41.89584,
+        "longitude": -87.62567
+      },
+      "title": "Giordano's",
+      "type": "Pizza",
+      "address": "730 N Rush St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 5,
+      "rating": 3.8,
+      "reviews": 568,
+      "reviews_original": "(568)",
+      "price": "$10–20",
+      "description": "\"The pizza was very good and delivered definitely fresh and hot.\"",
+      "lsig": "AB86z5USHhaSjD2k0DgpNtr6jU_i",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/BJdhSO_DMVBF6oCWMRcurDWhR96tap0OE2PzjM9kE0g.jpeg",
+      "place_id": "15137678443930921174",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15137678443930921174&q=deep-dish+pizza",
+      "provider_id": "/g/11j865xl2b",
+      "gps_coordinates": {
+        "latitude": 41.879356,
+        "longitude": -87.626686
+      },
+      "title": "Rosati's Pizza Chicago Downtown",
+      "type": "Pizza",
+      "address": "23 E Adams St",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.4,
+      "reviews": 13000,
+      "reviews_original": "(13K)",
+      "price": "$20–30",
+      "description": "\"The pizza had a completely unexpected flavor and was simply delicious.\"",
+      "lsig": "AB86z5XlSJZlM7aGjCECDGUQS382",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/49RIiV8LyrJRok0bXaRpwSNYiJHp9VILcU0GEXnIunk.jpeg",
+      "place_id": "8492603346710087707",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8492603346710087707&q=deep-dish+pizza",
+      "provider_id": "/g/1tg4lzj7",
+      "gps_coordinates": {
+        "latitude": 41.890347,
+        "longitude": -87.63387
+      },
+      "title": "Lou Malnati's Pizzeria",
+      "type": "Pizza",
+      "address": "439 N Wells St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 3400,
+      "reviews_original": "(3.4K)",
+      "price": "$20–30",
+      "description": "\"The gluten free pizza crust is small so he devours it in one setting.\"",
+      "lsig": "AB86z5X2RnsiYWG76RiNhCqdNaSL",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/4xTjDQZJST8Tozn1kJMCZeiJpwyzdqSEhxcS439ayt4.jpeg",
+      "place_id": "12572123656528281890",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=12572123656528281890&q=deep-dish+pizza",
+      "provider_id": "/g/11h10d_ct",
+      "gps_coordinates": {
+        "latitude": 41.875233,
+        "longitude": -87.62898
+      },
+      "title": "Gino’s East - South Loop",
+      "type": "Pizza",
+      "address": "521 S Dearborn St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.4,
+      "reviews": 4500,
+      "reviews_original": "(4.5K)",
+      "price": "$20–30",
+      "description": "\"The Bruschetta & Basil pizza was perfectly seasoned with a perfect texture.\"",
+      "lsig": "AB86z5W-bwb2Rb8s_EhNfmDs2w0L",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/MDB0mLkCUh8O4fBgH_bQnc7VMmDFyQlVFWLCFlac69E.jpeg",
+      "place_id": "10477839186575790604",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10477839186575790604&q=deep-dish+pizza",
+      "provider_id": "/g/11b6__1rkb",
+      "gps_coordinates": {
+        "latitude": 41.891876,
+        "longitude": -87.62361
+      },
+      "title": "Labriola Ristorante - Chicago",
+      "type": "Italian",
+      "address": "535 N Michigan Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"Their gluten free pizza crust is very flavorful and has the right texture.\"",
+      "lsig": "AB86z5VNZ98LgznuSiCtQ8EJlmlF",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/oqu7rbPJyaAn9Bs8jmQiOtDzqhb2XZGwYk0MfOw2-IU.jpeg",
+      "place_id": "14014861787883385006",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14014861787883385006&q=deep-dish+pizza",
+      "provider_id": "/g/1tj1n7y3",
+      "gps_coordinates": {
+        "latitude": 41.93825,
+        "longitude": -87.66685
+      },
+      "title": "Chicago's Pizza",
+      "type": "Pizza",
+      "address": "3114 N Lincoln Ave",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.4,
+      "reviews": 4600,
+      "reviews_original": "(4.6K)",
+      "price": "$20–30",
+      "description": "\"Pizza made using house-made dough, and sauce with great quality produce.\"",
+      "lsig": "AB86z5WBwJ-Y3yZQozI0nsqvWIzo",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/zunYYa9XABsKNq5zaEoPqZucTRFxsS3wk9r_vUK9OJk.jpeg",
+      "place_id": "18336198331839153123",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18336198331839153123&q=deep-dish+pizza",
+      "provider_id": "/g/1ygbcmg0q",
+      "gps_coordinates": {
+        "latitude": 41.864597,
+        "longitude": -87.62453
+      },
+      "title": "Giordano's",
+      "type": "Pizza",
+      "address": "1340 S Michigan Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 961,
+      "reviews_original": "(961)",
+      "price": "$20–30",
+      "description": "\"The crust was perfectly crispy, and the toppings were fresh and flavorful.\"",
+      "lsig": "AB86z5Vu8FchVFn8pibi3diUBFUa",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/TBxw4WYk7Kp96eKJtSmezL8BeIlS9MbpVbNNo3QyFko.jpeg",
+      "place_id": "4545758377518052828",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4545758377518052828&q=deep-dish+pizza",
+      "provider_id": "/g/11fp33pphn",
+      "gps_coordinates": {
+        "latitude": 41.883305,
+        "longitude": -87.65285
+      },
+      "title": "Nancy's Pizza Chicago West Loop",
+      "type": "Pizza",
+      "address": "1000 W Washington Blvd",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 12,
+      "rating": 3.7,
+      "reviews": 758,
+      "reviews_original": "(758)",
+      "price": "$10–20",
+      "description": "\"The pizza was off the chain and the pizza sauce was so rich and flavorful.\"",
+      "lsig": "AB86z5UJdC8FaeIBI0PTy6CCb66j",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/ccsjpDiD6E3DzEbU47t13skrBQDD2SmP3fi6e54vFqA.jpeg",
+      "place_id": "6085692233448503228",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=6085692233448503228&q=deep-dish+pizza",
+      "provider_id": "/g/11f9x_vyfj",
+      "gps_coordinates": {
+        "latitude": 41.885166,
+        "longitude": -87.63418
+      },
+      "title": "Rosati's Pizza Chicago Loop",
+      "type": "Pizza",
+      "address": "176 N Wells St",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.1,
+      "reviews": 4200,
+      "reviews_original": "(4.2K)",
+      "price": "$20–30",
+      "description": "\"The pizza was delicious—great flavor and perfectly cooked.\"",
+      "lsig": "AB86z5VZSvEfgh_ir-ohn6ePkbxY",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/Qk5IzJottEj6oGEY1d4A_AwBKVwpc3TB0TuTEhhhyvw.jpeg",
+      "place_id": "9611962038361005983",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=9611962038361005983&q=deep-dish+pizza",
+      "provider_id": "/g/1wb8v8d7",
+      "gps_coordinates": {
+        "latitude": 41.88196,
+        "longitude": -87.62569
+      },
+      "title": "Pizano's Pizza & Pasta",
+      "type": "Pizza",
+      "address": "61 E Madison St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.5,
+      "reviews": 12000,
+      "reviews_original": "(12K)",
+      "price": "$20–30",
+      "description": "\"The pizza was delicious and the service and ambience were great.\"",
+      "lsig": "AB86z5WLjLFbTcYJAydu22wH5kYC",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/dC8vb7DG7tZw-tRkx-AXzUEexC0Bo3WBeVB2EqqYy5o.jpeg",
+      "place_id": "10680018969822695801",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10680018969822695801&q=deep-dish+pizza",
+      "provider_id": "/g/1vp74c4c",
+      "gps_coordinates": {
+        "latitude": 41.877975,
+        "longitude": -87.634766
+      },
+      "title": "Giordano's",
+      "type": "Pizza",
+      "address": "223 W Jackson Blvd",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 15,
+      "rating": 3.8,
+      "reviews": 889,
+      "reviews_original": "(889)",
+      "price": "$10–20",
+      "description": "\"Crust was buttery & crunchy and the sauce is so tasty.\"",
+      "lsig": "AB86z5VQQiElHGriN8r57a--fIPs",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/XpJQztmcyXd3rBciCaUUj3G5G4DYhAZpdbiSFK5FIO4.jpeg",
+      "place_id": "6928856112571139750",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=6928856112571139750&q=deep-dish+pizza",
+      "provider_id": "/g/12lk1pmnj",
+      "gps_coordinates": {
+        "latitude": 41.864403,
+        "longitude": -87.646545
+      },
+      "title": "Rosati's Pizza Chicago",
+      "type": "Pizza",
+      "address": "1339 S Halsted St",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.5,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "price": "$20–30",
+      "description": "\"Delicious pizza, good sangria, great service\"",
+      "lsig": "AB86z5V9tW-5EjcAL4_lhciAIUtS",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/OD_f3_jTXhBsSte2Hb6ThR5xlhVTX43p7ScLddVN_ME.jpeg",
+      "place_id": "13951248752704932652",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13951248752704932652&q=deep-dish+pizza",
+      "provider_id": "/g/1tqnm6km",
+      "gps_coordinates": {
+        "latitude": 41.87639,
+        "longitude": -87.647934
+      },
+      "title": "Giordano's",
+      "type": "Pizza",
+      "address": "815 W Van Buren St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.3,
+      "reviews": 3300,
+      "reviews_original": "(3.3K)",
+      "price": "$20–30",
+      "description": "\"Pizza was amazing, atmosphere was great and service was excellent!\"",
+      "lsig": "AB86z5VKADCRpd0lVZUS7_kxwwH4",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/xKWTYTMj3clj9UYgu0nyMIJ2aTlDv0xYRD2D1oTEJxc.jpeg",
+      "place_id": "10414281288281113140",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10414281288281113140&q=deep-dish+pizza",
+      "provider_id": "/g/1tfvzqxq",
+      "gps_coordinates": {
+        "latitude": 41.89311,
+        "longitude": -87.62643
+      },
+      "title": "Pizzeria Due",
+      "type": "Pizza",
+      "address": "619 N Wabash Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.2,
+      "reviews": 6000,
+      "reviews_original": "(6K)",
+      "price": "$20–30",
+      "description": "\"The atmosphere was comfortable, the pizza delicious and service exceptional.\"",
+      "lsig": "AB86z5WIFYvV1_jfI6-SbPiwncJG",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/vIsEM_cujWYl9LGAzGABulZiR34HYLXc1aAma5FgT0w.jpeg",
+      "place_id": "17413796533590589894",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17413796533590589894&q=deep-dish+pizza",
+      "provider_id": "/g/11hy_2qqtp",
+      "gps_coordinates": {
+        "latitude": 41.89,
+        "longitude": -87.62477
+      },
+      "title": "Lou Malnati's Pizzeria",
+      "type": "Pizza",
+      "address": "410 N Michigan Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.8,
+      "reviews": 15000,
+      "reviews_original": "(15K)",
+      "description": "\"The pizza was excellent—fresh, flavorful, and cooked perfectly.\"",
+      "lsig": "AB86z5WdMS7-WGUXQGY972PioU2M",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/SEWzvOlcA5ZDCr1_BcY3HvABHaXTdc1CyOX2PHC9Yyo.jpeg",
+      "place_id": "10560855889418057816",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10560855889418057816&q=deep-dish+pizza",
+      "provider_id": "/g/11fm7lck9z",
+      "gps_coordinates": {
+        "latitude": 41.887985,
+        "longitude": -87.63076
+      },
+      "title": "Pizzeria Portofino",
+      "type": "Pizza",
+      "address": "317 N Clark St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.5,
+      "reviews": 9600,
+      "reviews_original": "(9.6K)",
+      "price": "$20–30",
+      "description": "\"... was the best part chewy and crunchy like a focaccia bread pizza.\"",
+      "lsig": "AB86z5WPlaQprqf-RXrUYssus1XS",
+      "thumbnail": "https://serpapi.com/searches/69d51b96bb48ad7f435112d6/images/_88E-ABkTjJiBGTGoLynSu4YrJWrajHIIXK7hYY2wZw.jpeg",
+      "place_id": "3715991433467248024",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3715991433467248024&q=deep-dish+pizza",
+      "provider_id": "/g/1tfzhbsy",
+      "gps_coordinates": {
+        "latitude": 41.871563,
+        "longitude": -87.62729
+      },
+      "title": "Lou Malnati's Pizzeria",
+      "type": "Pizza",
+      "address": "805 S State St",
+      "hours": "Closed · Opens 11 AM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=deep-dish+pizza&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=deep-dish+pizza&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=deep-dish+pizza&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=deep-dish+pizza&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=deep-dish+pizza&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=deep-dish+pizza&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=deep-dish+pizza&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=deep-dish+pizza&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=deep-dish+pizza&start=40&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=deep-dish+pizza&start=60&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=deep-dish+pizza&start=80&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

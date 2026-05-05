@@ -1,0 +1,452 @@
+{
+  "search_metadata": {
+    "id": "69d51bd4ac1765e4e6a1c3d3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JNnezcJZrH_QDgME9Y9gyQ/69d51bd4ac1765e4e6a1c3d3.json",
+    "created_at": "2026-04-07 14:59:32 UTC",
+    "processed_at": "2026-04-07 14:59:32 UTC",
+    "google_local_url": "https://www.google.com/search?q=family-friendly+seafood&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/JNnezcJZrH_QDgME9Y9gyQ/69d51bd4ac1765e4e6a1c3d3.html",
+    "total_time_taken": 3.17
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "family-friendly seafood",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.547397663603167,
+      "longitude": -80.299072265625
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.5,
+      "reviews": 2700,
+      "reviews_original": "(2.7K)",
+      "price": "$20–30",
+      "description": "\"Seafood was fresh, portions generous, reasonably priced.\"",
+      "lsig": "AB86z5X1U26PRqQOqvLnCsUJBO_I",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/zkHptZugNXgmClyvUu4aMad7inY28rji_oLdYxEGcQY.jpeg",
+      "place_id": "12440682073114478781",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12440682073114478781&q=family-friendly+seafood",
+      "provider_id": "/g/1tmqg_xq",
+      "gps_coordinates": {
+        "latitude": 25.606665,
+        "longitude": -80.35028
+      },
+      "title": "Golden Rule Seafood",
+      "type": "Seafood",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 2,
+      "rating": 4.6,
+      "reviews": 4200,
+      "reviews_original": "(4.2K)",
+      "description": "\"The seafood dishes are delicious and reasonably priced.\"",
+      "lsig": "AB86z5UBB-4Cyz_YunKLO30c4W_x",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/9pQlkkYhEWlcEvoyH0EI4qxdegb2AotZca1KcyJDTwk.jpeg",
+      "place_id": "14171124282933039333",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14171124282933039333&q=family-friendly+seafood",
+      "provider_id": "/g/11qq6m2qcb",
+      "gps_coordinates": {
+        "latitude": 25.79309,
+        "longitude": -80.337555
+      },
+      "title": "The Fatty Crab",
+      "type": "Seafood",
+      "address": "Doral, FL",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 3,
+      "rating": 4.7,
+      "reviews": 4700,
+      "reviews_original": "(4.7K)",
+      "description": "\"Delicious, fresh fish, served right on the water.\"",
+      "lsig": "AB86z5WA2zMmuEFIGjT44VAOHJJ2",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/Asf8ooHFHFCwiqo8gjRyoNekb9qL4F5reHO1Wd9_ONg.jpeg",
+      "place_id": "12165106968338461712",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12165106968338461712&q=family-friendly+seafood",
+      "provider_id": "/g/1tdcxx4v",
+      "gps_coordinates": {
+        "latitude": 25.76286,
+        "longitude": -80.31795
+      },
+      "title": "Sonia's Seafood Market & Restaurant",
+      "type": "Seafood",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 4,
+      "rating": 4.5,
+      "reviews": 862,
+      "reviews_original": "(862)",
+      "description": "\"Delicious seafood boil had a great time with family.\"",
+      "lsig": "AB86z5XVTAowofOqzTcaJIKRjhNm",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/KjJlSBt9f3dJoStkNuS10xzjdfRzYcOfKNIbBwsgRAs.jpeg",
+      "place_id": "11080238041095032277",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11080238041095032277&q=family-friendly+seafood",
+      "provider_id": "/g/11q1wwfyp9",
+      "gps_coordinates": {
+        "latitude": 25.645243,
+        "longitude": -80.33435
+      },
+      "title": "Crafty Crab - The Falls",
+      "type": "Seafood",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.3,
+      "reviews": 4400,
+      "reviews_original": "(4.4K)",
+      "description": "\"The freshest seafood we had especially for the king crab legs!\"",
+      "lsig": "AB86z5WDs-KRT9Io9X-zp0iPb1XC",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/A-1ioJLKFgw-JKKLDLWgp3UKcms-_uxqx6-Br68AW8o.jpeg",
+      "place_id": "13296174115727076223",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13296174115727076223&q=family-friendly+seafood",
+      "provider_id": "/g/1tjt2r7l",
+      "gps_coordinates": {
+        "latitude": 25.782187,
+        "longitude": -80.26438
+      },
+      "title": "Catch of the Day",
+      "type": "Seafood",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.6,
+      "reviews": 6500,
+      "reviews_original": "(6.5K)",
+      "description": "\"laid back, fun, and with incredibly amazing fresh seafood.\"",
+      "lsig": "AB86z5UXez30yl9M9Qt4hYB2raP7",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/nu6TySdbnTcni_A9jVg34zS_b4owoM5R4giNIY0_OT8.jpeg",
+      "place_id": "14857940076792705072",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14857940076792705072&q=family-friendly+seafood",
+      "provider_id": "/g/11bxg0h4l0",
+      "gps_coordinates": {
+        "latitude": 25.124275,
+        "longitude": -80.41296
+      },
+      "title": "The Fish House",
+      "type": "Seafood",
+      "address": "Key Largo, FL",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "description": "\"Superb seafood served fresh at a reasonable price.\"",
+      "lsig": "AB86z5XKwNxh1qVBVcyF4PoEjofb",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/Cz9pevz0LXwASBjOJokFslivQilHikReyKlYO1e1VO8.jpeg",
+      "place_id": "17513078933033035365",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17513078933033035365&q=family-friendly+seafood",
+      "provider_id": "/g/1tht27p4",
+      "gps_coordinates": {
+        "latitude": 25.715494,
+        "longitude": -80.357056
+      },
+      "title": "The Fish House",
+      "type": "Seafood",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.4,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$20–30",
+      "description": "\"The shrimp was spicy and the garlic butter mussels were to incredible.\"",
+      "lsig": "AB86z5Uc-z_vXfEllGaCMZK7wYFT",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/R7hJk9Xwy0cUibIGYa2QmJY3YXxUuukMYB2AJfBTmQU.jpeg",
+      "place_id": "9201708634375660908",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9201708634375660908&q=family-friendly+seafood",
+      "provider_id": "/g/1tdrg4yq",
+      "gps_coordinates": {
+        "latitude": 25.641708,
+        "longitude": -80.413086
+      },
+      "title": "Floridita Kendall Seafood Restaurant",
+      "type": "Seafood",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 9,
+      "rating": 4.4,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "price": "$20–30",
+      "description": "\"The seafood is fresh, perfectly seasoned, and cooked to perfection.\"",
+      "lsig": "AB86z5U9TcuIyEht9K4cd_ma2uC-",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/7Fx0xls5jX8NgPUAI2AScmW5F4rVDXHOjOouEcTT8gk.jpeg",
+      "place_id": "17900251944561497114",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17900251944561497114&q=family-friendly+seafood",
+      "provider_id": "/g/1tdh02k_",
+      "gps_coordinates": {
+        "latitude": 25.82373,
+        "longitude": -80.25625
+      },
+      "title": "Heads Or Tails Seafood Fish Market & Restaurant",
+      "type": "Seafood",
+      "address": "Miami, FL"
+    },
+    {
+      "position": 10,
+      "rating": 4.4,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$20–30",
+      "description": "\"Fresh clean oysters, amazing fish, claws to die for.\"",
+      "lsig": "AB86z5XC4XasT8vYYrJX-31_41tq",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/pdFVcNBBH17_gEG0tyNG_Y94IQskfwYPTZnybMknzqs.jpeg",
+      "place_id": "7850728780750809019",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=7850728780750809019&q=family-friendly+seafood",
+      "provider_id": "/g/1tdpbdt_",
+      "gps_coordinates": {
+        "latitude": 25.894386,
+        "longitude": -80.18346
+      },
+      "title": "Captain Jim's Seafood",
+      "type": "Seafood",
+      "address": "North Miami, FL",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 11,
+      "rating": 4.7,
+      "reviews": 120,
+      "reviews_original": "(120)",
+      "description": "\"Good place for family, food it’s top quality and low price\"",
+      "lsig": "AB86z5UCGiaL32khJQcmIje_ISOS",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/QUZ9X9alu5aqBuHim1nCOGHwI5nLXZWU4jH1lhJX-6Y.jpeg",
+      "place_id": "16347655466484480545",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16347655466484480545&q=family-friendly+seafood",
+      "provider_id": "/g/11xd_j76_p",
+      "gps_coordinates": {
+        "latitude": 25.607773,
+        "longitude": -80.47955
+      },
+      "title": "Mar y Fuego",
+      "type": "Seafood",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 9 AM Sat"
+    },
+    {
+      "position": 12,
+      "rating": 4.3,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "description": "\"Their crab boils are well seasoned and plentiful for the price.\"",
+      "lsig": "AB86z5U9S-HQsmm4dmbpAmN-HHt7",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/R3rynocUpHQ2aZAFn5blVvH2ccQXOWnhJZ6qFT6C1B0.jpeg",
+      "place_id": "11929620420290940366",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11929620420290940366&q=family-friendly+seafood",
+      "provider_id": "/g/11fs2l5xtb",
+      "gps_coordinates": {
+        "latitude": 25.921898,
+        "longitude": -80.15435
+      },
+      "title": "Crafty Crab",
+      "type": "Seafood",
+      "address": "North Miami Beach, FL",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.8,
+      "reviews": 10000,
+      "reviews_original": "(10K)",
+      "description": "\"The kids enjoyed their fried shrimp and fries from the kids’ menu.\"",
+      "lsig": "AB86z5XgxwLQh3CZrAvLx0LfiGw7",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/4C_Lk_VNSyTD79AH2YIOesfjamh6dsjOaggOwuUoceU.jpeg",
+      "place_id": "4723397001367849777",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4723397001367849777&q=family-friendly+seafood",
+      "provider_id": "/g/1thxrfpv",
+      "gps_coordinates": {
+        "latitude": 25.859407,
+        "longitude": -80.32351
+      },
+      "title": "Don Camaron Seafood Grill & Market",
+      "type": "Seafood",
+      "address": "Hialeah, FL",
+      "hours": "Opens soon · 11 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.3,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"It has shrimp fish, mussels,and calamari.Yummy.\"",
+      "lsig": "AB86z5U2QEzo6bTs2BceZV7bY0Yc",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/llVz9UaTVGKfDf6khUKmRZe0iaYuSPJGsYNrM0Kkb2I.jpeg",
+      "place_id": "15465733331118595006",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15465733331118595006&q=family-friendly+seafood",
+      "provider_id": "/g/1v_sp0k9",
+      "gps_coordinates": {
+        "latitude": 25.75602,
+        "longitude": -80.30393
+      },
+      "title": "Disco Fish and Grill Restaurant & Fish Market",
+      "type": "Seafood",
+      "address": "West Miami, FL"
+    },
+    {
+      "position": 15,
+      "rating": 4.6,
+      "reviews": 14000,
+      "reviews_original": "(14K)",
+      "description": "\"The shrimps, clams and oysters were fresh and delicious.\"",
+      "lsig": "AB86z5WU50nYWwFmTDjBAErqllfD",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/Rw4sXcuMAaWClYrGea2kG30d6qdWDqlr0ppYWSaJXbo.jpeg",
+      "place_id": "12540175533409226685",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12540175533409226685&q=family-friendly+seafood",
+      "provider_id": "/g/1tm2bgsm",
+      "gps_coordinates": {
+        "latitude": 25.73227,
+        "longitude": -80.23249
+      },
+      "title": "Monty's Coconut Grove",
+      "type": "Seafood",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.8,
+      "reviews": 139,
+      "reviews_original": "(139)",
+      "description": "\"Delicious seafood all the time good quality and quantity!!\"",
+      "lsig": "AB86z5X8xkgqvQpJmT54ibQW5Ha1",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/McLZ4whJwyhsL7w-pvxONL1_q0xXf5jqilABsKTIyAw.jpeg",
+      "place_id": "7800215940371683765",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=7800215940371683765&q=family-friendly+seafood",
+      "provider_id": "/g/11pws50rsx",
+      "gps_coordinates": {
+        "latitude": 25.527275,
+        "longitude": -80.41252
+      },
+      "title": "Scatta's Seafood",
+      "type": "Seafood",
+      "address": "Naranja, FL",
+      "hours": "Closed · Opens 5 PM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.3,
+      "reviews": 2600,
+      "reviews_original": "(2.6K)",
+      "price": "$20–30",
+      "description": "\"The conch chowder is excellent and highly recommended.\"",
+      "lsig": "AB86z5XWO7i37hGiPCTZaxLYmbpw",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/0fstBe3troMIG7NJ8B3x-UARBfpjAdt65gv71hv_r6Q.jpeg",
+      "place_id": "17314137088742088450",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17314137088742088450&q=family-friendly+seafood",
+      "provider_id": "/g/1tkb5xmk",
+      "gps_coordinates": {
+        "latitude": 25.539442,
+        "longitude": -80.32816
+      },
+      "title": "Black Point Ocean Grill",
+      "type": "Seafood",
+      "address": "Homestead, FL",
+      "hours": "Opens soon · 11 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.4,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$20–30",
+      "description": "\"You get to eat right beside the water and watch the fish while you eat.\"",
+      "lsig": "AB86z5U2Q0UHhz_kNxiJyxb__Zka",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/J33CrhvyCMFgLQ_5XA831FPsaZ8Hfc27t06BqFfamYA.jpeg",
+      "place_id": "3106169151121379723",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3106169151121379723&q=family-friendly+seafood",
+      "provider_id": "/g/1tj8b6gq",
+      "gps_coordinates": {
+        "latitude": 25.291422,
+        "longitude": -80.37882
+      },
+      "title": "Alabama Jacks",
+      "type": "Seafood",
+      "address": "Key Largo, FL",
+      "hours": "Opens soon · 11 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.8,
+      "reviews": 3900,
+      "reviews_original": "(3.9K)",
+      "description": "\"The seafood was fresh, and the portions were generous.\"",
+      "lsig": "AB86z5XcFrPfrftsHLqU2AtYIMW1",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/r2GCyfamXHrwI6QqNW6WR27uiLPsY9tuEOakF1dzWqA.jpeg",
+      "place_id": "18034935828857680439",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=18034935828857680439&q=family-friendly+seafood",
+      "provider_id": "/g/11hcx75k6t",
+      "gps_coordinates": {
+        "latitude": 25.767942,
+        "longitude": -80.360245
+      },
+      "title": "Cajun Boil Flagler St",
+      "type": "Seafood",
+      "address": "Miami, FL",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 666,
+      "reviews_original": "(666)",
+      "price": "$20–30",
+      "description": "\"We had Fried Snapper, Lobster Tail, and Jumbo prawns.\"",
+      "lsig": "AB86z5Wl9LBkzw0gjOEQkc86DtxJ",
+      "thumbnail": "https://serpapi.com/searches/69d51bd4ac1765e4e6a1c3d3/images/adGqGSDOuXiepzLWh3fTvtjSrWJpS3PNTG9DK_z3Cls.jpeg",
+      "place_id": "15840481003213103662",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15840481003213103662&q=family-friendly+seafood",
+      "provider_id": "/g/1tgptdxw",
+      "gps_coordinates": {
+        "latitude": 25.827673,
+        "longitude": -80.25701
+      },
+      "title": "Cod Seafood",
+      "type": "Seafood",
+      "address": "Miami, FL"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=family-friendly+seafood&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=family-friendly+seafood&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=family-friendly+seafood&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=family-friendly+seafood&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=family-friendly+seafood&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=family-friendly+seafood&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=family-friendly+seafood&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=family-friendly+seafood&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=family-friendly+seafood&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=family-friendly+seafood&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=family-friendly+seafood&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

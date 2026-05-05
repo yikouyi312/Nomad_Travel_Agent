@@ -1,0 +1,52 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01GPTRGKmCsBPJAPHBBax1gR",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01CzgBv6Qi3A3LxDkNbcrKvp",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Los Angeles",
+          "destination": "New York",
+          "start_date": "2026-07-04",
+          "end_date": "2026-07-11",
+          "budget_usd": 1050,
+          "num_travelers": 3,
+          "interests": [
+            "non-stop flights",
+            "direct flights"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": false,
+          "activity": false
+        },
+        "response_to_user": "Perfect! I'll search for round-trip direct flights from Los Angeles to New York for 3 adults, departing July 4 and returning July 11, 2026, with each ticket under $350 (total budget $1,050)."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2611,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 252,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

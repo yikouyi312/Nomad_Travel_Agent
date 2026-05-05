@@ -133,11 +133,9 @@ class SerpManager:
     def _check_local_cache(self, engine, cache_key):
         filename = self._get_cache_filename(engine, cache_key)
         
-        # 先查本次运行的内存缓存（避免重复读文件）
         if filename in self.cache:
             return self.cache[filename]
         
-        # 再查文件（只读这一个文件，不是全部）
         filepath = os.path.join(self.cache_dir, filename)
         if os.path.exists(filepath):
             with open(filepath, "r", encoding="utf-8") as f:

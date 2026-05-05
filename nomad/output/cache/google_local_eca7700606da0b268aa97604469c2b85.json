@@ -1,0 +1,544 @@
+{
+  "search_metadata": {
+    "id": "69d51515f6e926a6dc792ab1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/N5apIbpf4PspcIUaylKAmg/69d51515f6e926a6dc792ab1.json",
+    "created_at": "2026-04-07 14:30:45 UTC",
+    "processed_at": "2026-04-07 14:30:45 UTC",
+    "google_local_url": "https://www.google.com/search?q=whale+watching&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/N5apIbpf4PspcIUaylKAmg/69d51515f6e926a6dc792ab1.html",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "whale watching",
+    "location_requested": "San Diego",
+    "location_used": "San Diego County,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 33.19732768648872,
+      "longitude": -117.55096435546875
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.9,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "description": "\"We got to see whales so close up it was amazing.\"",
+      "lsig": "AB86z5W-RK-ByzMW7JgiRog5XGCD",
+      "links": {
+        "website": "https://www.adventurewhalewatchingsandiego.com/",
+        "directions": "https://www.google.com/maps/dir//Adventure+Whale+Watching,+1380+Harbor+Island+Dr,+San+Diego,+CA+92101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deab4001579dcf:0x843cc8a5ee098a8?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "595544470412368040",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=595544470412368040&q=whale+watching",
+      "provider_id": "/g/1tf4385k",
+      "gps_coordinates": {
+        "latitude": 32.72786,
+        "longitude": -117.198685
+      },
+      "title": "Adventure Whale Watching",
+      "type": "Whale watching tour agency",
+      "years_in_business": "20+ years in business",
+      "address": "San Diego, CA",
+      "phone": "(619) 808-2822",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 4100,
+      "reviews_original": "(4.1K)",
+      "description": "\"We were able to see and follow 4 grey whales for a short distance.\"",
+      "lsig": "AB86z5W3ps_vwb8lfm7MlYAxoBw2",
+      "links": {
+        "website": "https://www.sdwhale.com/",
+        "directions": "https://www.google.com/maps/dir//Legacy+Whale+Watch,+1717+Quivira+Rd,+San+Diego,+CA+92109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deab47c1ffc839:0xe0af70b320244491?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "16190283100060927121",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=16190283100060927121&q=whale+watching",
+      "provider_id": "/g/11fpfr6z73",
+      "gps_coordinates": {
+        "latitude": 32.763065,
+        "longitude": -117.23553
+      },
+      "title": "Legacy Whale Watch",
+      "type": "Whale watching tour agency",
+      "years_in_business": "5+ years in business",
+      "address": "San Diego, CA",
+      "hours": "Open · Closes 9 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "description": "\"Both trips we saw multiple whales that were right next to the boat.\"",
+      "lsig": "AB86z5XV13kfB6PnQqJxeZzD_Hn4",
+      "links": {
+        "website": "http://www.oceansidewhalewatching.com/",
+        "directions": "https://www.google.com/maps/dir//Oceanside+Adventures,+256+S+Harbor+Dr,+Oceanside,+CA+92054/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dc6fb4f048c585:0xe95ba13ccd62d077?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQILRAA&hl=en&gl=us"
+      },
+      "place_id": "16815210916233793655",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=16815210916233793655&q=whale+watching",
+      "provider_id": "/g/11bw5svjsh",
+      "gps_coordinates": {
+        "latitude": 33.20472,
+        "longitude": -117.389854
+      },
+      "title": "Oceanside Adventures",
+      "type": "Whale watching tour agency",
+      "years_in_business": "10+ years in business",
+      "address": "Oceanside, CA",
+      "phone": "(888) 507-1130",
+      "hours": "Closed · Opens 8:30 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 4300,
+      "reviews_original": "(4.3K)",
+      "description": "\"We were luck enough to see several humpback whales, dolphins and seals.\"",
+      "lsig": "AB86z5U5cuHIgyXRbn3Z_yUWT1pS",
+      "links": {
+        "website": "https://sdwhalewatch.com/",
+        "directions": "https://www.google.com/maps/dir//San+Diego+Whale+Watch,+1617+Quivira+Rd,+San+Diego,+CA+92109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deaa68e5ef7413:0x1682a9280d8e92d?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQINBAA&hl=en&gl=us"
+      },
+      "place_id": "101377800331127085",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=101377800331127085&q=whale+watching",
+      "provider_id": "/g/1tg81s70",
+      "gps_coordinates": {
+        "latitude": 32.764687,
+        "longitude": -117.23784
+      },
+      "title": "San Diego Whale Watch",
+      "type": "Whale watching tour agency",
+      "years_in_business": "15+ years in business",
+      "address": "San Diego, CA",
+      "phone": "(619) 542-9931",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 5,
+      "rating": 4.9,
+      "reviews": 6300,
+      "reviews_original": "(6.3K)",
+      "description": "\"We had several different sightings of whales and it was exciting!\"",
+      "lsig": "AB86z5WeHdBoYxCFoiAKej1uSzFR",
+      "links": {
+        "website": "https://www.dolphinsafari.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "directions": "https://www.google.com/maps/dir//Capt.+Dave's+Dana+Point+Dolphin+%26+Whale+Watching+Safari,+24440+Dana+Point+Harbor+Dr,+Dana+Point,+CA+92629/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dcf057a600fc5d:0x66ecd9f935739f33?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "7416542350739218227",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7416542350739218227&q=whale+watching",
+      "provider_id": "/g/1wrgkg8k",
+      "gps_coordinates": {
+        "latitude": 33.462536,
+        "longitude": -117.70295
+      },
+      "title": "Capt. Dave's Dana Point Dolphin & Whale Watching Safari",
+      "type": "Whale watching tour agency",
+      "years_in_business": "30+ years in business",
+      "address": "Dana Point, CA",
+      "phone": "(949) 518-0310",
+      "hours": "Open · Closes 5:30 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.8,
+      "reviews": 17000,
+      "reviews_original": "(17K)",
+      "description": "\"... spotted five whales, which was so exciting and beautiful to watch.\"",
+      "lsig": "AB86z5U01hP7wnCn9u4DRRWuEesu",
+      "links": {
+        "website": "https://newportwhales.com/",
+        "directions": "https://www.google.com/maps/dir//Newport+Landing+Whale+Watching,+309+Palm+St+A,+Newport+Beach,+CA+92661/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dce06cb9887861:0xb344d2e27a451cff?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIMxAA&hl=en&gl=us"
+      },
+      "place_id": "12917681501361216767",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=12917681501361216767&q=whale+watching",
+      "provider_id": "/g/11b6nn7qxq",
+      "gps_coordinates": {
+        "latitude": 33.603638,
+        "longitude": -117.900635
+      },
+      "title": "Newport Landing Whale Watching",
+      "type": "Whale watching tour agency",
+      "years_in_business": "35+ years in business",
+      "address": "Newport Beach, CA",
+      "phone": "(949) 675-0551",
+      "hours": "Open · Closes 8 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.9,
+      "reviews": 561,
+      "reviews_original": "(561)",
+      "description": "\"Blue whales, fin whales, humpbacks and last trip we even saw orcas.\"",
+      "lsig": "AB86z5WfbXcgFFvqX62y9QB7teXK",
+      "links": {
+        "website": "https://www.gonewhalewatching.com/",
+        "directions": "https://www.google.com/maps/dir//Gone+Whale+Watching+San+Diego,+1617+Quivira+Rd,+San+Diego,+CA+92109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dc076b37293b37:0x55c9c07b8b024399?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIMhAA&hl=en&gl=us"
+      },
+      "place_id": "6181683600388408217",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=6181683600388408217&q=whale+watching",
+      "provider_id": "/g/11fn0668dd",
+      "gps_coordinates": {
+        "latitude": 32.764687,
+        "longitude": -117.23784
+      },
+      "title": "Gone Whale Watching San Diego",
+      "type": "Whale watching tour agency",
+      "years_in_business": "5+ years in business",
+      "address": "San Diego, CA",
+      "phone": "(858) 500-2568",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 8,
+      "rating": 5.0,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "description": "\"Saw humpback whales and grey whales, would definitely recommend!\"",
+      "lsig": "AB86z5UY2uuGoqtFEeFu4WmSiCuI",
+      "links": {
+        "website": "https://newportcoastaladventure.com/",
+        "directions": "https://www.google.com/maps/dir//Newport+Coastal+Adventure,+309+Palm+St,+Newport+Beach,+CA+92661/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dce06c5179bb9d:0x161f8318574da593?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIMRAA&hl=en&gl=us"
+      },
+      "place_id": "1594136933679605139",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1594136933679605139&q=whale+watching",
+      "provider_id": "/g/11b70dr41h",
+      "gps_coordinates": {
+        "latitude": 33.6036,
+        "longitude": -117.90063
+      },
+      "title": "Newport Coastal Adventure",
+      "type": "Whale watching tour agency",
+      "years_in_business": "10+ years in business",
+      "address": "Newport Beach, CA",
+      "phone": "(949) 922-8784",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 9,
+      "rating": 5.0,
+      "reviews": 426,
+      "reviews_original": "(426)",
+      "description": "\"We saw 3 types of whales and had lots of dolphins even baby ones.\"",
+      "lsig": "AB86z5XGlP4_8oWa6A8YFiCuo3Gf",
+      "links": {
+        "website": "https://oceansidecoastalexpeditions.com/",
+        "directions": "https://www.google.com/maps/dir//Oceanside+Coastal+Expeditions,+315+S+Harbor+Dr,+Oceanside,+CA+92054/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dc6f0039260f09:0xa9c34ac6583ffa94?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIKBAA&hl=en&gl=us"
+      },
+      "place_id": "12232703228612967060",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=12232703228612967060&q=whale+watching",
+      "provider_id": "/g/11nnnmj81c",
+      "gps_coordinates": {
+        "latitude": 33.205242,
+        "longitude": -117.389114
+      },
+      "title": "Oceanside Coastal Expeditions",
+      "type": "Whale watching tour agency",
+      "years_in_business": "3+ years in business",
+      "address": "Oceanside, CA",
+      "phone": "(833) 618-2111",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.9,
+      "reviews": 308,
+      "reviews_original": "(308)",
+      "description": "\"Saw huge pods of dolphins, a mola mola, a pod of grey whales, and sea lions.\"",
+      "lsig": "AB86z5W1g0bwkeodr9JKtnTaKUwM",
+      "links": {
+        "website": "http://www.sandiegowhalesanddolphins.com/",
+        "directions": "https://www.google.com/maps/dir//Offshore+Blue+Adventures,+1500+Quivira+Way+%232,+San+Diego,+CA+92109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deaba24e260aa7:0x19d3d023f97b102c?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQILxAA&hl=en&gl=us"
+      },
+      "place_id": "1861059923962171436",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=1861059923962171436&q=whale+watching",
+      "provider_id": "/g/1xgrn7dp",
+      "gps_coordinates": {
+        "latitude": 32.759098,
+        "longitude": -117.23924
+      },
+      "title": "Offshore Blue Adventures",
+      "type": "Whale watching tour agency",
+      "years_in_business": "15+ years in business",
+      "address": "San Diego, CA",
+      "phone": "(310) 974-2176",
+      "hours": "Closed · Opens 8:30 AM"
+    },
+    {
+      "position": 11,
+      "rating": 5.0,
+      "reviews": 253,
+      "reviews_original": "(253)",
+      "description": "\"Saw lots of orcas and thousands of dolphins and we saw humpback whales\"",
+      "lsig": "AB86z5Xil0knOQD4-r_Vc9LeQXE4",
+      "links": {
+        "website": "https://wildpacificwhalewatch.com/?utm_source=GBP&utm_medium=organic&utm_campaign=gbp_whalewatch",
+        "directions": "https://www.google.com/maps/dir//Wild+Pacific+Whale+Watch,+2803+Emerson+St,+San+Diego,+CA+92106/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deab0fbd7ab473:0x857b79f999b74f8b?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQILhAA&hl=en&gl=us"
+      },
+      "place_id": "9618415542112571275",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=9618415542112571275&q=whale+watching",
+      "provider_id": "/g/11ydl0pbrp",
+      "gps_coordinates": {
+        "latitude": 32.723522,
+        "longitude": -117.2276
+      },
+      "title": "Wild Pacific Whale Watch",
+      "type": "Whale watching tour agency",
+      "address": "San Diego, CA",
+      "phone": "(619) 821-8205",
+      "hours": "Opens soon · 8 AM"
+    },
+    {
+      "position": 12,
+      "rating": 5.0,
+      "reviews": 94,
+      "reviews_original": "(94)",
+      "description": "\"This whale watching tour was an unforgettable experience.\"",
+      "lsig": "AB86z5VsUzusKBaR_ryQ0n-XTSgU",
+      "links": {
+        "website": "https://osidewhales.com/",
+        "directions": "https://www.google.com/maps/dir//O%E2%80%99side+Whales,+1900+N+Harbor+Dr,+Oceanside,+CA+92054/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dc6fae1e934c09:0x2ad7691fd2b53186?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "3087051654985757062",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3087051654985757062&q=whale+watching",
+      "provider_id": "/g/11w3xlm1_9",
+      "gps_coordinates": {
+        "latitude": 33.211445,
+        "longitude": -117.39609
+      },
+      "title": "O’side Whales",
+      "type": "Whale watching tour agency",
+      "address": "Oceanside, CA",
+      "phone": "(760) 383-1433",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 13,
+      "rating": 4.5,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"... boat tour was amazing, I saw so many dolphins, and I saw a whale!\"",
+      "lsig": "AB86z5VZ4HikeOwCYlnjraMuS1q5",
+      "links": {
+        "website": "https://www.cityexperiences.com/san-diego/city-cruises/?pageNo=1&query=&sortBy=prodv3_ce_experiences_weightScaled_desc&city=San%20Diego&country=&&brandTag=&webCategoriesMain=&durationTiming=&priceMin=&priceMax=&dateMin=&dateMax=&hierarchical.lvl0=&showPriceWithFees=false&showSpecialOffers=false&utm_source=google&utm_medium=organic&utm_campaign=google-listing-san-diego-whale-watching-harbor-tours",
+        "directions": "https://www.google.com/maps/dir//City+Cruises+San+Diego+Whale+Watching+%26+Harbor+Tours,+970+N+Harbor+Dr,+San+Diego,+CA+92101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d954ab4d90bc4d:0x35d7a9d9d716da88?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIKhAA&hl=en&gl=us"
+      },
+      "place_id": "3879756357084568200",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=3879756357084568200&q=whale+watching",
+      "provider_id": "/g/1v5fs5qg",
+      "gps_coordinates": {
+        "latitude": 32.715065,
+        "longitude": -117.17327
+      },
+      "title": "City Cruises San Diego Whale Watching & Harbor Tours",
+      "type": "Whale watching tour agency",
+      "years_in_business": "40+ years in business",
+      "address": "San Diego, CA",
+      "phone": "(619) 686-8715",
+      "hours": "Closed · Opens 9:30 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.8,
+      "reviews": 7400,
+      "reviews_original": "(7.4K)",
+      "description": "\"Saw 2 humpback whales, it was a beautiful day and experience!!!!!!!\"",
+      "lsig": "AB86z5VIRCO_GG5inZaC_hYn9SXT",
+      "links": {
+        "website": "http://www.danawharf.com/",
+        "directions": "https://www.google.com/maps/dir//Dana+Wharf+Sportfishing+%26+Whale+Watching+Dana+Point,+34675+Golden+Lantern,+Dana+Point,+CA+92629/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dcf0ff9904e773:0x9cabc24bc8a30736?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIJxAA&hl=en&gl=us"
+      },
+      "place_id": "11289330521678743350",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=11289330521678743350&q=whale+watching",
+      "provider_id": "/g/1tdh452_",
+      "gps_coordinates": {
+        "latitude": 33.46001,
+        "longitude": -117.69215
+      },
+      "title": "Dana Wharf Sportfishing & Whale Watching Dana Point",
+      "type": "Whale watching tour agency",
+      "years_in_business": "50+ years in business",
+      "address": "Dana Point, CA",
+      "phone": "(949) 496-5794",
+      "hours": "Open · Closes 8 PM"
+    },
+    {
+      "position": 15,
+      "rating": 5.0,
+      "reviews": 1,
+      "reviews_original": "(1)",
+      "lsig": "AB86z5VCO4wzjKPJ7TZZjWZSuR6j",
+      "links": {
+        "website": "https://www.getyourguide.com/san-diego-l263/san-diego-luxury-year-round-whale-watching-dolphin-tour-t1027166/?partner_id=PCP3E0Y&currency=USD&travel_agent=1&cmp=share_to_earn",
+        "directions": "https://www.google.com/maps/dir//San+Diego:+Luxury+Year-round+Whale+Watching+%26+Dolphin+Tour,+2803+Emerson+St+%232716,+San+Diego,+CA+92106/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deab003a4308eb:0xa1c2d0949f642863?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIKxAA&hl=en&gl=us"
+      },
+      "place_id": "11656108122336143459",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=11656108122336143459&q=whale+watching",
+      "provider_id": "/g/11z309hj1h",
+      "gps_coordinates": {
+        "latitude": 32.7236,
+        "longitude": -117.2276
+      },
+      "title": "San Diego: Luxury Year-round Whale Watching & Dolphin Tour",
+      "type": "Tourist attraction",
+      "address": "San Diego, CA",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 16,
+      "rating": 5.0,
+      "reviews": 87,
+      "reviews_original": "(87)",
+      "description": "\"We saw hundreds of dolphins, several whales and even a fee sharks.\"",
+      "lsig": "AB86z5V4m0RKPkcG23ZeKnCSFXL8",
+      "links": {
+        "website": "https://www.bigbluephotoboat.com/",
+        "directions": "https://www.google.com/maps/dir//Big+Blue+Photo+Boat,+1677+Quivira+Rd,+San+Diego,+CA+92109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deab40c501de39:0x6741ff09eeb73deb?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "7440508477517544939",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=7440508477517544939&q=whale+watching",
+      "provider_id": "/g/11kpm8nrq2",
+      "gps_coordinates": {
+        "latitude": 32.763805,
+        "longitude": -117.23654
+      },
+      "title": "Big Blue Photo Boat",
+      "type": "Whale watching tour agency",
+      "address": "San Diego, CA",
+      "phone": "(858) 408-5633",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 17,
+      "rating": 4.7,
+      "reviews": 52,
+      "reviews_original": "(52)",
+      "description": "\"Being on the water and seeing the whales was a highlight of our trip.\"",
+      "lsig": "AB86z5XK0HTTM95sHBMKzoZz1KLf",
+      "links": {
+        "website": "https://www.upclosewhalewatch.com/",
+        "directions": "https://www.google.com/maps/dir//Tailwalker+Whale+%26+Dolphin+Adventures,+1441+Quivira+Rd,+San+Diego,+CA+92109/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80deaa0d15d2b183:0xe62c6c91652c9767?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "16585750899422173031",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=16585750899422173031&q=whale+watching",
+      "provider_id": "/g/11f3jc04qy",
+      "gps_coordinates": {
+        "latitude": 32.764668,
+        "longitude": -117.23904
+      },
+      "title": "Tailwalker Whale & Dolphin Adventures",
+      "type": "Whale watching tour agency",
+      "years_in_business": "15+ years in business",
+      "address": "San Diego, CA",
+      "phone": "(619) 549-2503",
+      "hours": "Open · Closes 10 PM"
+    },
+    {
+      "position": 18,
+      "rating": 5.0,
+      "reviews": 523,
+      "reviews_original": "(523)",
+      "description": "\"... of dolphins, Minke whales, Fin whales, and a Blue whale!\"",
+      "lsig": "AB86z5WoaldslHeoY65hpO8bgVoa",
+      "links": {
+        "website": "https://emwwhalewatching.com/",
+        "directions": "https://www.google.com/maps/dir//East+Meets+West+Whale+Watching,+309+Palm+St+A,+Newport+Beach,+CA+92661/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dce06dab0136e3:0xc751afaad77b5db7?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIMBAA&hl=en&gl=us"
+      },
+      "place_id": "14362453834955709879",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=14362453834955709879&q=whale+watching",
+      "provider_id": "/g/11c45mlht7",
+      "gps_coordinates": {
+        "latitude": 33.60359,
+        "longitude": -117.900635
+      },
+      "title": "East Meets West Whale Watching",
+      "type": "Whale watching tour agency",
+      "years_in_business": "7+ years in business",
+      "address": "Newport Beach, CA",
+      "phone": "(949) 201-5650",
+      "hours": "Open · Closes 7 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.6,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "description": "\"We were thrilled to see whales up close—an absolutely magical moment.\"",
+      "lsig": "AB86z5UPo3MMX4W1TfaVnoUbmBqh",
+      "links": {
+        "website": "https://2seewhales.com/?utm_source=GMB&utm_medium=organic",
+        "directions": "https://www.google.com/maps/dir//Harbor+Breeze+Whale+Watching+Cruises,+100+Aquarium+Way+Dock+%232,+Long+Beach,+CA+90802/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dd39e65396702b:0x92650241556bd54d?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQILBAA&hl=en&gl=us"
+      },
+      "place_id": "10548840181814515021",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=10548840181814515021&q=whale+watching",
+      "provider_id": "/g/1thz1zp7",
+      "gps_coordinates": {
+        "latitude": 33.76264,
+        "longitude": -118.19548
+      },
+      "title": "Harbor Breeze Whale Watching Cruises",
+      "type": "Whale watching tour agency",
+      "years_in_business": "25+ years in business",
+      "address": "Long Beach, CA",
+      "phone": "(562) 432-4900",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.5,
+      "reviews": 8000,
+      "reviews_original": "(8K)",
+      "description": "\"We went whale watching today and it was such an extraordinary experience.\"",
+      "lsig": "AB86z5U3bMsg12QtHEyVemc1D3cI",
+      "links": {
+        "website": "https://daveyslocker.com/",
+        "directions": "https://www.google.com/maps/dir//Davey's+Locker+Whale+Watching+%26+Sportfishing,+400+Main+St,+Newport+Beach,+CA+92661/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80dce06b7bddd61b:0x8d82c512aa578d94?sa=X&ved=2ahUKEwjG69CH-tuTAxXbhP0HHVPNH-kQ48ADegQIKRAA&hl=en&gl=us"
+      },
+      "place_id": "10196929190278172052",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&ludocid=10196929190278172052&q=whale+watching",
+      "provider_id": "/g/1tj4bsqz",
+      "gps_coordinates": {
+        "latitude": 33.602592,
+        "longitude": -117.89899
+      },
+      "title": "Davey's Locker Whale Watching & Sportfishing",
+      "type": "Whale watching tour agency",
+      "years_in_business": "65+ years in business",
+      "address": "Newport Beach, CA",
+      "phone": "(949) 673-1434",
+      "hours": "Open · Closes 9 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=whale+watching&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=whale+watching&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=whale+watching&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=whale+watching&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=whale+watching&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=whale+watching&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=whale+watching&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=whale+watching&start=20&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=whale+watching&start=40&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=whale+watching&start=60&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Diego&q=whale+watching&start=80&uule=w+CAIQICIpU2FuIERpZWdvIENvdW50eSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

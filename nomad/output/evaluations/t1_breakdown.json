@@ -1,0 +1,78 @@
+[
+  {
+    "task_id": "ORCH-T1-01",
+    "desc": "Flight with preference and morning time window",
+    "overall": 1.0,
+    "schema": 1.0,
+    "csr_frac": 1.0,
+    "csr_bin": true,
+    "tool_acc": 1.0,
+    "consistency": 1.0,
+    "failing": [],
+    "ftypes": []
+  },
+  {
+    "task_id": "ORCH-T1-02",
+    "desc": "Hotel with star rating and amenity combo",
+    "overall": 1.0,
+    "schema": 1.0,
+    "csr_frac": 1.0,
+    "csr_bin": true,
+    "tool_acc": 1.0,
+    "consistency": 1.0,
+    "failing": [],
+    "ftypes": []
+  },
+  {
+    "task_id": "ORCH-T1-03",
+    "desc": "Pet-friendly hotel with pool and parking near specific area",
+    "overall": 0.685,
+    "schema": 1.0,
+    "csr_frac": 0.0,
+    "csr_bin": false,
+    "tool_acc": 1.0,
+    "consistency": 1.0,
+    "failing": [
+      "hotel_location: near South Congress Avenue"
+    ],
+    "ftypes": [
+      "Fine-grained geo"
+    ]
+  },
+  {
+    "task_id": "ORCH-T1-04",
+    "desc": "Multi-criteria activity search with kid-friendly and outdoor constraints",
+    "overall": 0.925,
+    "schema": 0.667,
+    "csr_frac": 1.0,
+    "csr_bin": true,
+    "tool_acc": 1.0,
+    "consistency": 1.0,
+    "failing": [],
+    "ftypes": []
+  },
+  {
+    "task_id": "ORCH-T1-05",
+    "desc": "Group flight with per-person budget calculation",
+    "overall": 0.925,
+    "schema": 0.667,
+    "csr_frac": 1.0,
+    "csr_bin": true,
+    "tool_acc": 1.0,
+    "consistency": 1.0,
+    "failing": [],
+    "ftypes": []
+  },
+  {
+    "task_id": "ORCH-T1-06",
+    "desc": "Restaurant search with multiple dietary constraints and cuisine preference",
+    "overall": 0.925,
+    "schema": 0.667,
+    "csr_frac": 1.0,
+    "csr_bin": true,
+    "tool_acc": 1.0,
+    "consistency": 1.0,
+    "failing": [],
+    "ftypes": []
+  }
+]

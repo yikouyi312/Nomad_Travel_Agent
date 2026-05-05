@@ -1,0 +1,425 @@
+{
+  "search_metadata": {
+    "id": "69d52bd65c018fb94c29a2ea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LasMjrXUqGyZvXZI8GMyMA/69d52bd65c018fb94c29a2ea.json",
+    "created_at": "2026-04-07 16:07:51 UTC",
+    "processed_at": "2026-04-07 16:07:51 UTC",
+    "google_local_url": "https://www.google.com/search?q=Broadway+show&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/LasMjrXUqGyZvXZI8GMyMA/69d52bd65c018fb94c29a2ea.html",
+    "total_time_taken": 4.0
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Broadway show",
+    "location_requested": "New York",
+    "location_used": "New York,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 40.74374551975831,
+      "longitude": -73.99137496948242
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 2600,
+      "reviews_original": "(2.6K)",
+      "description": "\"took me 5 minutes to find the show and seats that met all my expectations\"",
+      "lsig": "AB86z5VYdJ7B_6ZWgBBueotjukCr",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/oNccG3aF3AHSpSTpNrMhlxLs7Ky7YzCG6tOpMeBn6xM.jpeg",
+      "place_id": "1396520872680707490",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1396520872680707490&q=Broadway+show",
+      "provider_id": "/g/1pty8bq7d",
+      "gps_coordinates": {
+        "latitude": 40.760242,
+        "longitude": -73.983604
+      },
+      "title": "Broadway.com",
+      "type": "Event ticket seller",
+      "address": "729 7th Ave 6th Floor"
+    },
+    {
+      "position": 2,
+      "rating": 4.7,
+      "reviews": 5200,
+      "reviews_original": "(5.2K)",
+      "description": "\"At Broadway Theatre to see the Great Gatsby, great show, great seats.\"",
+      "lsig": "AB86z5UoDE1MgNSytKIc6ILip5ji",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/L_kDlszX-RWMzKn7vg5n_kM3gOV0sxnMSZoX_Vss-Dw.jpeg",
+      "place_id": "6611263863904037878",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=6611263863904037878&q=Broadway+show",
+      "provider_id": "/m/0bz7bg",
+      "gps_coordinates": {
+        "latitude": 40.76325,
+        "longitude": -73.98314
+      },
+      "title": "Broadway Theatre",
+      "type": "Performing arts theater",
+      "address": "1681 Broadway"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 32,
+      "reviews_original": "(32)",
+      "description": "\"Amazing I must say\"",
+      "lsig": "AB86z5U16dIBcekkCawdFcWBK56e",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/r8dQu5DqnPv-BoI6_mzzWfdA-79YOZiReajipQQpdvY.jpeg",
+      "place_id": "9190981814318073449",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9190981814318073449&q=Broadway+show",
+      "provider_id": "/g/1tnpgc14",
+      "gps_coordinates": {
+        "latitude": 40.720695,
+        "longitude": -73.99978
+      },
+      "title": "Broadway",
+      "type": "Performing arts theater",
+      "address": "473 Broadway"
+    },
+    {
+      "position": 4,
+      "rating": 4.9,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"The seats were great, the show - unforgettable.\"",
+      "lsig": "AB86z5W9YDaG45cw9gQfHdoFx6Jy",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/dGK-7jFp4TuSLfJ8nxQQ0Y7qP0ie56_xoLVaoO4A1Go.jpeg",
+      "place_id": "3550841835535959418",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3550841835535959418&q=Broadway+show",
+      "provider_id": "/g/11j31vp07t",
+      "gps_coordinates": {
+        "latitude": 40.75956,
+        "longitude": -73.9847
+      },
+      "title": "Broadway Tickets Last Minute Center",
+      "type": "Event ticket seller",
+      "address": "1578 Broadway"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "description": "\"The Lion King on Broadway was an absolutely unforgettable experience.\"",
+      "lsig": "AB86z5UjcgEqbrmA41s1-ZaXlRnR",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/80CG5HL54fMsVzBE6vfd1-GTj8UrisHOHJZpvR_GRHE.jpeg",
+      "place_id": "16897918525835204107",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16897918525835204107&q=Broadway+show",
+      "provider_id": "/g/11bxb9njgv",
+      "gps_coordinates": {
+        "latitude": 40.758022,
+        "longitude": -73.98602
+      },
+      "title": "The Lion King",
+      "type": "Performing arts theater",
+      "address": "200 W 45th St"
+    },
+    {
+      "position": 6,
+      "rating": 4.3,
+      "reviews": 592,
+      "reviews_original": "(592)",
+      "description": "\"The Broadway show was absolutely mesmerizing from start to finish.\"",
+      "lsig": "AB86z5UvSHyN7aCHcKqkwoa3cxsp",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/6qICIrNCI9E6QDCyEg4Ldfcd8Y6fb5Q9vg8Ekyp6htw.jpeg",
+      "place_id": "13672119977302661892",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=13672119977302661892&q=Broadway+show",
+      "provider_id": "/g/11y1ch00jc",
+      "gps_coordinates": {
+        "latitude": 40.75701,
+        "longitude": -73.987625
+      },
+      "title": "Harry Potter and the Cursed Child",
+      "type": "Theater production",
+      "address": "214 W 43rd St"
+    },
+    {
+      "position": 7,
+      "rating": 4.7,
+      "reviews": 64,
+      "reviews_original": "(64)",
+      "description": "\"Broadway shows are a truly unique and unforgettable experience.\"",
+      "lsig": "AB86z5VtZzc0SyaPm53aVwJEkogJ",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/B9tEZBAwa2qiyuctJl9f5KHQKpgK7Mj0I144eQpRMNg.jpeg",
+      "place_id": "15682781211841165713",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15682781211841165713&q=Broadway+show",
+      "provider_id": "/g/11fs2pdf4p",
+      "gps_coordinates": {
+        "latitude": 40.758766,
+        "longitude": -73.98769
+      },
+      "title": "Broadway",
+      "type": "Performing arts theater",
+      "address": "242 W 45th St"
+    },
+    {
+      "position": 8,
+      "rating": 3.1,
+      "reviews": 100,
+      "reviews_original": "(100)",
+      "description": "\"Broadway Direct was phenomenal and refunded my ticket.\"",
+      "lsig": "AB86z5Wvi7d9C0QSVVmJ3nkjDopA",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/1_KONnm5ybpvOapNh7QlHv9iY-MlUXqzdtBIujK04qo.jpeg",
+      "place_id": "15329848847997760473",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=15329848847997760473&q=Broadway+show",
+      "provider_id": "/g/1tkr05k8",
+      "gps_coordinates": {
+        "latitude": 40.75707,
+        "longitude": -73.98644
+      },
+      "title": "Broadway Direct",
+      "type": "Event ticket seller",
+      "address": "1501 Broadway 14th floor"
+    },
+    {
+      "position": 9,
+      "rating": 4.3,
+      "reviews": 282,
+      "reviews_original": "(282)",
+      "description": "\"An extraordinary Broadway show with the energy of a live concert.\"",
+      "lsig": "AB86z5UoQ-eV2RE5WkvKPfU1i4pI",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/tfiNdphhSwfcryeGVWus2MnGe-x-unLV3n6eCINQOA8.jpeg",
+      "place_id": "18442375463817619027",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=18442375463817619027&q=Broadway+show",
+      "provider_id": "/g/11j2fnzlb2",
+      "gps_coordinates": {
+        "latitude": 40.759964,
+        "longitude": -73.98691
+      },
+      "title": "Six on Broadway",
+      "type": "Theater production",
+      "address": "256 W 47th St"
+    },
+    {
+      "position": 10,
+      "rating": 4.3,
+      "reviews": 251,
+      "reviews_original": "(251)",
+      "description": "\"A fun, high-energy Broadway show with a modern twist on Shakespeare.\"",
+      "lsig": "AB86z5WieBSoDuTiuRhC07QngrLY",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/bEKDgT8s8HYDEABwumzAbLdgLHhg_-7A8Y7EDdme3gQ.jpeg",
+      "place_id": "16737030536451138380",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16737030536451138380&q=Broadway+show",
+      "provider_id": "/g/11tnxkmj13",
+      "gps_coordinates": {
+        "latitude": 40.755844,
+        "longitude": -73.984856
+      },
+      "title": "& Juliet on Broadway",
+      "type": "Theater production",
+      "address": "124 W 43rd St"
+    },
+    {
+      "position": 11,
+      "rating": 4.2,
+      "reviews": 240,
+      "reviews_original": "(240)",
+      "description": "\"The special effects, acoustics, and stage designs were excellent.\"",
+      "lsig": "AB86z5XERAwgMn7kSMlzwGJeGiUU",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/QEu2pjyetNgu-SWo_EG9aRgqzOdSOpZEdZgTjDSo9Ro.jpeg",
+      "place_id": "9174009635572747992",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=9174009635572747992&q=Broadway+show",
+      "provider_id": "/g/11vbmr111g",
+      "gps_coordinates": {
+        "latitude": 40.757168,
+        "longitude": -73.986664
+      },
+      "title": "New York Theatre Guide",
+      "type": "Event ticket seller",
+      "address": "1501 Broadway"
+    },
+    {
+      "position": 12,
+      "rating": 4.4,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "description": "\"Great music, dancing, sets, costumes, in all a top Broadway play.\"",
+      "lsig": "AB86z5UZ1otBM5k8HwgMbd_1TP1D",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/mfB95VrX60GsfIdXN9pEs7gCCQaESJI6gaTNgh75Z9U.jpeg",
+      "place_id": "1514882333496200720",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=1514882333496200720&q=Broadway+show",
+      "provider_id": "/g/11bw82l8bl",
+      "gps_coordinates": {
+        "latitude": 40.761112,
+        "longitude": -73.98497
+      },
+      "title": "Chicago The Musical",
+      "type": "Performing arts theater",
+      "address": "219 W 49th St"
+    },
+    {
+      "position": 13,
+      "rating": 3.5,
+      "reviews": 393,
+      "reviews_original": "(393)",
+      "description": "\"Best prices and best seats available from Broadway shows.\"",
+      "lsig": "AB86z5USf2RKT5-Tc0X2wKzr-8VN",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/IE2P3MHxK34rmEut7y-6J-eI7gQ8TxqOsbnfgkHz4vY.png",
+      "place_id": "2713976244074746453",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=2713976244074746453&q=Broadway+show",
+      "provider_id": "/g/11bwpyw6w_",
+      "gps_coordinates": {
+        "latitude": 40.757168,
+        "longitude": -73.986664
+      },
+      "title": "TodayTix",
+      "type": "Event ticket seller",
+      "address": "1501 Broadway"
+    },
+    {
+      "position": 14,
+      "rating": 4.8,
+      "reviews": 1400,
+      "reviews_original": "(1.4K)",
+      "description": "\"We were seated in the orchestra very close to the stage for only $35!\"",
+      "lsig": "AB86z5W3DVVl0mYzU8Dj-sXXMndJ",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/9AKnJp0teuZpovIBAlb89ZothD9mblswtzkuX2W2pX4.jpeg",
+      "place_id": "8699902661441973871",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8699902661441973871&q=Broadway+show",
+      "provider_id": "/g/11j1sdd31y",
+      "gps_coordinates": {
+        "latitude": 40.75621,
+        "longitude": -73.98773
+      },
+      "title": "Aladdin the Musical",
+      "type": "Theater production",
+      "address": "214 W 42nd St"
+    },
+    {
+      "position": 15,
+      "rating": 4.4,
+      "reviews": 109,
+      "reviews_original": "(109)",
+      "description": "\"A great way of seeing a broadway show for cheaper than usual.\"",
+      "lsig": "AB86z5Wy1gtXfitzXNClDWdTPxT5",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/V-Tzbocav51qNci2vzVSHDCsqh7i5MUteIvfXVcjypw.jpeg",
+      "place_id": "17441000170071730133",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17441000170071730133&q=Broadway+show",
+      "title": "Broadway Roulette",
+      "type": "Event ticket seller"
+    },
+    {
+      "position": 16,
+      "rating": 4.8,
+      "reviews": 7300,
+      "reviews_original": "(7.3K)",
+      "description": "\"The cast, music production, and stage setup were all soo amazing.\"",
+      "lsig": "AB86z5XRSHj5KixNeTM5NMUbh1y8",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/ySpBDeziiMizOeUOoUz-E95jtQEOoRC5uhldbu1SWC8.jpeg",
+      "place_id": "17269304829974522299",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=17269304829974522299&q=Broadway+show",
+      "provider_id": "/m/0c07jx",
+      "gps_coordinates": {
+        "latitude": 40.757908,
+        "longitude": -73.98608
+      },
+      "title": "Minskoff Theatre",
+      "type": "Performing arts theater",
+      "address": "200 W 45th St"
+    },
+    {
+      "position": 17,
+      "rating": 2.7,
+      "reviews": 12,
+      "reviews_original": "(12)",
+      "description": "\"Amazing seats, friendly staff 👌 thank you Olga...\"",
+      "lsig": "AB86z5VAIdHCzfP6P-N5PmqUmMTB",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/zaJ18S1r6n6nnobvGHZQTZluWotdE1rN_YbV0xRYN68.jpeg",
+      "place_id": "3216636160698918362",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=3216636160698918362&q=Broadway+show",
+      "provider_id": "/g/11ghpys2p7",
+      "gps_coordinates": {
+        "latitude": 40.75956,
+        "longitude": -73.9847
+      },
+      "title": "Discounted Broadway Tickets",
+      "type": "Event ticket seller",
+      "address": "1578 Broadway"
+    },
+    {
+      "position": 18,
+      "rating": 4.7,
+      "reviews": 2800,
+      "reviews_original": "(2.8K)",
+      "description": "\"The music, set design, cast and crew are Broadway at its finest.\"",
+      "lsig": "AB86z5VrGyJv0QaK1DkIKt-2c2fZ",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/nNHZxOzzCSu9OVADuwtv63bauPcIX5PBg4-9jGqmTFE.jpeg",
+      "place_id": "11035058566009073586",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=11035058566009073586&q=Broadway+show",
+      "provider_id": "/m/0c07cw",
+      "gps_coordinates": {
+        "latitude": 40.760723,
+        "longitude": -73.985664
+      },
+      "title": "Walter Kerr Theatre",
+      "type": "Performing arts theater",
+      "address": "219 W 48th St"
+    },
+    {
+      "position": 19,
+      "rating": 4.7,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "description": "\"Intimate theater with great views of the stage.\"",
+      "lsig": "AB86z5WbruVVfiTNLC04zyJeHAAf",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/jWGjsGN38Wd0C9jUY5eLT31scULYSVhHu4oFCVHUObo.jpeg",
+      "place_id": "8242433625113643590",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=8242433625113643590&q=Broadway+show",
+      "provider_id": "/m/0c07rt",
+      "gps_coordinates": {
+        "latitude": 40.75996,
+        "longitude": -73.98689
+      },
+      "title": "Lena Horne Theatre",
+      "type": "Performing arts theater",
+      "address": "256 W 47th St"
+    },
+    {
+      "position": 20,
+      "rating": 4.4,
+      "reviews": 314,
+      "reviews_original": "(314)",
+      "description": "\"We saw Alice in Wonderland, and most of the cast were excellent performers.\"",
+      "lsig": "AB86z5WpgrlvW49oCRR5gVjKzbZ5",
+      "thumbnail": "https://serpapi.com/searches/69d52bd65c018fb94c29a2ea/images/1fHx1xW4fHGYnUIODCEBRsqgdZzrvSqPyCZn8XZID5M.jpeg",
+      "place_id": "16186555405801218721",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&ludocid=16186555405801218721&q=Broadway+show",
+      "provider_id": "/m/0k2rg67",
+      "gps_coordinates": {
+        "latitude": 40.7301,
+        "longitude": -74.00054
+      },
+      "title": "The Players Theatre",
+      "type": "Performing arts theater",
+      "address": "115 MacDougal St"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Broadway+show&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Broadway+show&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=Broadway+show&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=Broadway+show&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=Broadway+show&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=Broadway+show&start=20&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=Broadway+show&start=20&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=Broadway+show&start=20&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=Broadway+show&start=40&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=Broadway+show&start=60&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+York&q=Broadway+show&start=80&uule=w+CAIQICIWTmV3IFlvcmssVW5pdGVkIFN0YXRlcw"
+    }
+  }
+}

@@ -1,0 +1,1835 @@
+{
+  "vanilla": {
+    "ORCH-T1-01": {
+      "error": "'str' object has no attribute 'get'"
+    },
+    "ORCH-T1-02": {
+      "task_id": "ORCH-T1-02",
+      "overall_score": 0.764,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.75,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: downtown Chicago": true
+      },
+      "interest_breakdown": {
+        "fitness center": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-03": {
+      "task_id": "ORCH-T1-03",
+      "overall_score": 0.82,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "hotel_location: near South Congress Avenue": true
+      },
+      "interest_breakdown": {
+        "pet-friendly": true,
+        "pool": true,
+        "free parking": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-04": {
+      "task_id": "ORCH-T1-04",
+      "overall_score": 0.708,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.5,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "kid-friendly": true,
+        "outdoor activities": true,
+        "tide pools": true,
+        "whale watching": true,
+        "animals": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "accommodation",
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-05": {
+      "task_id": "ORCH-T1-05",
+      "overall_score": 0.73,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.6,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "non-stop flights": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "accommodation",
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-06": {
+      "task_id": "ORCH-T1-06",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Pacific Northwest cuisine": true,
+        "farm-to-table": true,
+        "outdoor seating": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-01": {
+      "task_id": "ORCH-T2-01",
+      "overall_score": 0.617,
+      "csr_score": 0.5,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": false,
+        "hotel_location: French Quarter": true
+      },
+      "interest_breakdown": {
+        "Preservation Hall": true,
+        "jazz": true,
+        "Bourbon Street": true,
+        "cemetery walking tour": true,
+        "Cajun crawfish": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-02": {
+      "task_id": "ORCH-T2-02",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "pet-friendly": true,
+        "parking": true,
+        "Space Needle": true,
+        "Pike Place Market": true,
+        "ramen": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-03": {
+      "task_id": "ORCH-T2-03",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "hotel_location: near McCormick Place": true
+      },
+      "interest_breakdown": {
+        "business center": true,
+        "WiFi": true,
+        "Art Institute": true,
+        "deep-dish pizza": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-04": {
+      "task_id": "ORCH-T2-04",
+      "overall_score": 0.758,
+      "csr_score": 1.0,
+      "interest_score": 0.833,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "pool": true,
+        "kids club": false,
+        "beach": true,
+        "Miami Seaquarium": true,
+        "family-friendly seafood": true,
+        "ocean views": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-05": {
+      "task_id": "ORCH-T2-05",
+      "overall_score": 0.617,
+      "csr_score": 0.5,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": false,
+        "hotel_location: near National Mall": true
+      },
+      "interest_breakdown": {
+        "Smithsonian National Museum of Natural History": true,
+        "Lincoln Memorial": true,
+        "National Gallery of Art": true,
+        "Kennedy Center": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found"
+        ]
+      }
+    },
+    "ORCH-T2-06": {
+      "task_id": "ORCH-T2-06",
+      "overall_score": 0.725,
+      "csr_score": 1.0,
+      "interest_score": 0.5,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Golden Gate Park": true,
+        "bike ride Golden Gate Bridge": false,
+        "plant-based restaurant Mission District": false,
+        "eco-friendly hotel": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-07": {
+      "task_id": "ORCH-T2-07",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Westminster": true
+      },
+      "interest_breakdown": {
+        "breakfast included": true,
+        "British Museum": true,
+        "West End theatre": true,
+        "afternoon tea": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-08": {
+      "task_id": "ORCH-T2-08",
+      "overall_score": 0.44,
+      "csr_score": 0.0,
+      "interest_score": 0.8,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "hotel_location: near ski slopes": false
+      },
+      "interest_breakdown": {
+        "hot tub": true,
+        "ski equipment rental": true,
+        "après-ski restaurant": false,
+        "craft beer": true,
+        "shuttle service": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-01-turn1": {
+      "task_id": "ORCH-T3-01-turn1",
+      "overall_score": 0.75,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Destination: New York": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found"
+        ]
+      }
+    },
+    "ORCH-T3-01-turn2": {
+      "task_id": "ORCH-T3-01-turn2",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Broadway show": true,
+        "musical": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-01-turn3": {
+      "task_id": "ORCH-T3-01-turn3",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Times Square": true
+      },
+      "interest_breakdown": {
+        "Italian restaurant": true,
+        "Little Italy": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-02-turn1": {
+      "task_id": "ORCH-T3-02-turn1",
+      "overall_score": 0.75,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Destination: Miami": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found"
+        ]
+      }
+    },
+    "ORCH-T3-02-turn2": {
+      "task_id": "ORCH-T3-02-turn2",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Destination: Miami": true
+      },
+      "interest_breakdown": {
+        "beachfront hotel": true,
+        "ocean views": true,
+        "snorkeling": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found"
+        ]
+      }
+    },
+    "ORCH-T3-02-turn3": {
+      "task_id": "ORCH-T3-02-turn3",
+      "overall_score": 0.725,
+      "csr_score": 1.0,
+      "interest_score": 0.5,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "halal restaurants South Beach": false,
+        "rooftop bar": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-03-turn1": {
+      "task_id": "ORCH-T3-03-turn1",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "food scene": true,
+        "Powell's Books": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-03-turn2": {
+      "task_id": "ORCH-T3-03-turn2",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "craft brewery tour": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-03-turn3": {
+      "task_id": "ORCH-T3-03-turn3",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "hotel_location: Pearl District": true
+      },
+      "interest_breakdown": {
+        "Columbia River Gorge": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-04-turn1": {
+      "task_id": "ORCH-T3-04-turn1",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "hotel_location: near South Beach": true
+      },
+      "interest_breakdown": {
+        "pool": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-04-turn2": {
+      "task_id": "ORCH-T3-04-turn2",
+      "overall_score": 0.75,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-04-turn3": {
+      "task_id": "ORCH-T3-04-turn3",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "all-inclusive resort": true,
+        "Hotel Zone": true,
+        "Chichen Itza": true,
+        "cenote swimming": true,
+        "reef-safe sunscreen": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn1": {
+      "task_id": "ORCH-T3-05-turn1",
+      "overall_score": 0.75,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "hotel_location: near the Loop": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn2": {
+      "task_id": "ORCH-T3-05-turn2",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "conference room": true,
+        "meeting space": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn3": {
+      "task_id": "ORCH-T3-05-turn3",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Destination: Chicago": true
+      },
+      "interest_breakdown": {
+        "group dinner": true,
+        "steakhouse": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn4": {
+      "task_id": "ORCH-T3-05-turn4",
+      "overall_score": 0.775,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Willis Tower Skydeck": true,
+        "deep-dish pizza": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-06-turn1": {
+      "task_id": "ORCH-T3-06-turn1",
+      "overall_score": 0.75,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-06-turn2": {
+      "task_id": "ORCH-T3-06-turn2",
+      "overall_score": 0.75,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.8,
+      "itinerary_validity": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Las Vegas Strip": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    }
+  },
+  "rag": {
+    "ORCH-T1-01": {
+      "task_id": "ORCH-T1-01",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Origin: BOS": true,
+        "Destination: SEA": true
+      },
+      "interest_breakdown": {
+        "morning departure": true,
+        "no basic economy": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": []
+      }
+    },
+    "ORCH-T1-02": {
+      "task_id": "ORCH-T1-02",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: downtown Chicago": true
+      },
+      "interest_breakdown": {
+        "fitness center": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-03": {
+      "task_id": "ORCH-T1-03",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "hotel_location: near South Congress Avenue": true
+      },
+      "interest_breakdown": {
+        "pet-friendly": true,
+        "pool": true,
+        "free parking": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-04": {
+      "task_id": "ORCH-T1-04",
+      "overall_score": 0.905,
+      "csr_score": 1.0,
+      "interest_score": 0.8,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 0.667,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "kid-friendly": true,
+        "outdoor activities": true,
+        "tide pools": false,
+        "whale watching": true,
+        "animals": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-05": {
+      "task_id": "ORCH-T1-05",
+      "overall_score": 0.925,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 0.667,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "non-stop flights": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T1-06": {
+      "task_id": "ORCH-T1-06",
+      "overall_score": 0.595,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.0,
+      "schema_compliance": 0.0,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Pacific Northwest cuisine": true,
+        "farm-to-table": true,
+        "outdoor seating": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "flights",
+          "accommodation",
+          "activities",
+          "cost_info",
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-01": {
+      "task_id": "ORCH-T2-01",
+      "overall_score": 0.98,
+      "csr_score": 1.0,
+      "interest_score": 0.8,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: French Quarter": true
+      },
+      "interest_breakdown": {
+        "Preservation Hall": false,
+        "jazz": true,
+        "Bourbon Street": true,
+        "cemetery walking tour": true,
+        "Cajun crawfish": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-02": {
+      "task_id": "ORCH-T2-02",
+      "overall_score": 0.98,
+      "csr_score": 1.0,
+      "interest_score": 0.8,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "pet-friendly": true,
+        "parking": true,
+        "Space Needle": true,
+        "Pike Place Market": true,
+        "ramen": false
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-03": {
+      "task_id": "ORCH-T2-03",
+      "overall_score": 0.964,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.8,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "hotel_location: near McCormick Place": true
+      },
+      "interest_breakdown": {
+        "business center": true,
+        "WiFi": true,
+        "Art Institute": true,
+        "deep-dish pizza": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-04": {
+      "task_id": "ORCH-T2-04",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "pool": true,
+        "kids club": true,
+        "beach": true,
+        "Miami Seaquarium": true,
+        "family-friendly seafood": true,
+        "ocean views": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-05": {
+      "task_id": "ORCH-T2-05",
+      "overall_score": 0.842,
+      "csr_score": 0.5,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": false,
+        "hotel_location: near National Mall": true
+      },
+      "interest_breakdown": {
+        "Smithsonian National Museum of Natural History": true,
+        "Lincoln Memorial": true,
+        "National Gallery of Art": true,
+        "Kennedy Center": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-06": {
+      "task_id": "ORCH-T2-06",
+      "overall_score": 0.925,
+      "csr_score": 1.0,
+      "interest_score": 0.25,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Golden Gate Park": true,
+        "bike ride Golden Gate Bridge": false,
+        "plant-based restaurant Mission District": false,
+        "eco-friendly hotel": false
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-07": {
+      "task_id": "ORCH-T2-07",
+      "overall_score": 0.842,
+      "csr_score": 0.5,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": false,
+        "hotel_location: near Westminster": true
+      },
+      "interest_breakdown": {
+        "breakfast included": true,
+        "British Museum": true,
+        "West End theatre": true,
+        "afternoon tea": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T2-08": {
+      "task_id": "ORCH-T2-08",
+      "overall_score": 0.665,
+      "csr_score": 0.0,
+      "interest_score": 0.8,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "hotel_location: near ski slopes": false
+      },
+      "interest_breakdown": {
+        "hot tub": true,
+        "ski equipment rental": true,
+        "après-ski restaurant": false,
+        "craft beer": true,
+        "shuttle service": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-01-turn1": {
+      "task_id": "ORCH-T3-01-turn1",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-01-turn2": {
+      "task_id": "ORCH-T3-01-turn2",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Broadway show": true,
+        "musical": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-01-turn3": {
+      "task_id": "ORCH-T3-01-turn3",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Times Square": true
+      },
+      "interest_breakdown": {
+        "Italian restaurant": true,
+        "Little Italy": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-02-turn1": {
+      "task_id": "ORCH-T3-02-turn1",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-02-turn2": {
+      "task_id": "ORCH-T3-02-turn2",
+      "overall_score": 0.967,
+      "csr_score": 1.0,
+      "interest_score": 0.667,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "beachfront hotel": false,
+        "ocean views": true,
+        "snorkeling": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-02-turn3": {
+      "task_id": "ORCH-T3-02-turn3",
+      "overall_score": 0.89,
+      "csr_score": 1.0,
+      "interest_score": 0.5,
+      "tool_accuracy": 0.667,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "halal restaurants South Beach": false,
+        "rooftop bar": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-03-turn1": {
+      "task_id": "ORCH-T3-03-turn1",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "food scene": true,
+        "Powell's Books": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-03-turn2": {
+      "task_id": "ORCH-T3-03-turn2",
+      "overall_score": 0.925,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 0.667,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "craft brewery tour": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-04-turn1": {
+      "task_id": "ORCH-T3-04-turn1",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "hotel_location: near South Beach": true
+      },
+      "interest_breakdown": {
+        "pool": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-04-turn2": {
+      "task_id": "ORCH-T3-04-turn2",
+      "overall_score": 0.96,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.8,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Origin: BOS": true,
+        "Destination: CUN": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": []
+      }
+    },
+    "ORCH-T3-04-turn3": {
+      "task_id": "ORCH-T3-04-turn3",
+      "overall_score": 0.98,
+      "csr_score": 1.0,
+      "interest_score": 0.8,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "all-inclusive resort": true,
+        "Hotel Zone": true,
+        "Chichen Itza": false,
+        "cenote swimming": true,
+        "reef-safe sunscreen": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn1": {
+      "task_id": "ORCH-T3-05-turn1",
+      "overall_score": 0.96,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 0.8,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "hotel_location: near the Loop": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn2": {
+      "task_id": "ORCH-T3-05-turn2",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "conference room": true,
+        "meeting space": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn3": {
+      "task_id": "ORCH-T3-05-turn3",
+      "overall_score": 0.925,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 0.667,
+      "itinerary_validity": false,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "group dinner": true,
+        "steakhouse": true
+      },
+      "schema_validation": {
+        "is_valid": false,
+        "errors": [],
+        "missing_fields": [
+          "dates"
+        ]
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-05-turn4": {
+      "task_id": "ORCH-T3-05-turn4",
+      "overall_score": 0.964,
+      "csr_score": 1.0,
+      "interest_score": 1.0,
+      "tool_accuracy": 0.8,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": {
+        "Willis Tower Skydeck": true,
+        "deep-dish pizza": true
+      },
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-06-turn1": {
+      "task_id": "ORCH-T3-06-turn1",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {},
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    },
+    "ORCH-T3-06-turn2": {
+      "task_id": "ORCH-T3-06-turn2",
+      "overall_score": 1.0,
+      "csr_score": 1.0,
+      "interest_score": null,
+      "tool_accuracy": 1.0,
+      "schema_compliance": 1.0,
+      "itinerary_validity": true,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Las Vegas Strip": true
+      },
+      "interest_breakdown": null,
+      "schema_validation": {
+        "is_valid": true,
+        "errors": [],
+        "missing_fields": []
+      },
+      "conflict_report": {
+        "has_conflicts": false,
+        "errors": [],
+        "warnings": [
+          "No departure airport found",
+          "No arrival airport found"
+        ]
+      }
+    }
+  }
+}

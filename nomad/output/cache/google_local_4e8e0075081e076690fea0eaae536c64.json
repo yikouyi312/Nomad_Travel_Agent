@@ -1,0 +1,416 @@
+{
+  "search_metadata": {
+    "id": "69d51c6e703f17061dd575a3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OQh-SzV43WQXZRZ_WHsCfw/69d51c6e703f17061dd575a3.json",
+    "created_at": "2026-04-07 15:02:06 UTC",
+    "processed_at": "2026-04-07 15:02:06 UTC",
+    "google_local_url": "https://www.google.com/search?q=breakfast+included&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/OQh-SzV43WQXZRZ_WHsCfw/69d51c6e703f17061dd575a3.html",
+    "total_time_taken": 5.49
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "breakfast included",
+    "location_requested": "London",
+    "location_used": "London TV Region,England,United Kingdom",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 52.92215137976296,
+      "longitude": -1.9226074218749998
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "lsig": "AB86z5UClVaxea1hUZRoFDxu4ljc",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/RaZuixyGL9a1XcxeGZN2jqVWN593LvjCo-WHt9io_L4.jpeg",
+      "place_id": "15404973770745631663",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=15404973770745631663&q=breakfast+included",
+      "provider_id": "/g/11z21bk85q",
+      "gps_coordinates": {
+        "latitude": 53.8123,
+        "longitude": -3.04806
+      },
+      "title": "PONDEROSA BB with free onsite parking and breakfast included - Deluxe Double Room",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 2,
+      "lsig": "AB86z5XiapWZGgtiu9Pf6hJvSIne",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/kSjoy34weEhDE0muWTnUiUs21lovJ-uFmg3rTjdH0M0.jpeg",
+      "place_id": "18278625947538961414",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18278625947538961414&q=breakfast+included",
+      "provider_id": "/g/11z21bdcbz",
+      "gps_coordinates": {
+        "latitude": 52.37323,
+        "longitude": -2.71351
+      },
+      "title": "Henwick house accommodation, Continental breakfast included - Deluxe Double or Twin Room",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 3,
+      "lsig": "AB86z5VPrS3khwhhIsXp5NVnYVgQ",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/KK2igSyGJ7UfvNf2GVr33bwVY9oSm20TDKhmJn_ZuHg.jpeg",
+      "place_id": "17228435810038671350",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=17228435810038671350&q=breakfast+included",
+      "provider_id": "/g/11zksyltc8",
+      "gps_coordinates": {
+        "latitude": 51.81525,
+        "longitude": -0.79864
+      },
+      "title": "The Townhouse B and B free continental breakfast included - Deluxe Twin Room",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 4,
+      "lsig": "AB86z5XFgzgEDbKsOO0j9RzR-9Mi",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/8tX1M5wazrmwyNCONuOmseNeZdZUHZGIBJRFl3IuJcI.jpeg",
+      "place_id": "6678550715172504228",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=6678550715172504228&q=breakfast+included",
+      "provider_id": "/g/11z14398fl",
+      "gps_coordinates": {
+        "latitude": 51.81525,
+        "longitude": -0.79864
+      },
+      "title": "The Townhouse B and B free continental breakfast included - Comfort Triple Room",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 5,
+      "lsig": "AB86z5WXQC-jadpSiXLhx8IQahZt",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/1T8VUQPEFi-X5bnFTUw8kUny82rHn49uthEGw_JQ7lg.jpeg",
+      "place_id": "4516382050517711735",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=4516382050517711735&q=breakfast+included",
+      "provider_id": "/g/11n9c9gvm4",
+      "gps_coordinates": {
+        "latitude": 51.81525,
+        "longitude": -0.79864
+      },
+      "title": "The Townhouse B and B free continental breakfast included - Single Room with Shared Bathroom",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 631,
+      "reviews_original": "(631)",
+      "price": "£20–30",
+      "description": "\"Breakfasts are huge and excellent quality.\"",
+      "lsig": "AB86z5XZNW0xeN9RVVcx_zEHXCsh",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/vscWoxPB8oTmxSM7uUmLY-fPTfRlTH1hLO9tHXWBZBk.jpeg",
+      "place_id": "7184959262707728364",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=7184959262707728364&q=breakfast+included",
+      "provider_id": "/g/1tf2rrxh",
+      "gps_coordinates": {
+        "latitude": 52.82538,
+        "longitude": -2.2994502
+      },
+      "title": "The Cock Inn",
+      "type": "Pub",
+      "address": "Stafford, United Kingdom"
+    },
+    {
+      "position": 7,
+      "rating": 4.3,
+      "reviews": 462,
+      "reviews_original": "(462)",
+      "lsig": "AB86z5VSl6N0pSZurVwLiWbJLvrc",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/0eh_YJNzite16b6KDiKkQoZIQWq4QSibeRnidkINXb4.jpeg",
+      "place_id": "16994778199456617565",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16994778199456617565&q=breakfast+included",
+      "provider_id": "/g/1tj7_hq5",
+      "gps_coordinates": {
+        "latitude": 52.884594,
+        "longitude": -2.4727263
+      },
+      "title": "The Four Alls Inn",
+      "type": "Pub",
+      "address": "Market Drayton, United Kingdom",
+      "extensions": [
+        "Menu highlight: breakfast included"
+      ]
+    },
+    {
+      "position": 8,
+      "lsig": "AB86z5XZWlTIvY_HYM4w3AXHFz5W",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/mEE-o_TB1xMLQNh6AtD6dC7OfHgmuyDtRmFxVAW90cg.jpeg",
+      "place_id": "11047441939711796028",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11047441939711796028&q=breakfast+included",
+      "provider_id": "/g/11n9c92qyl",
+      "gps_coordinates": {
+        "latitude": 51.81525,
+        "longitude": -0.79864
+      },
+      "title": "The Townhouse B and B free continental breakfast included - Triple Room with Private Bathroom",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 9,
+      "rating": 4.0,
+      "reviews": 59,
+      "reviews_original": "(59)",
+      "description": "\"The food was excellent and reasonably priced.\"",
+      "lsig": "AB86z5VS0os8DnbSdG2onyEyCkrj",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/oyPfGGur3IVA_0vytMZoXehoqfDfXyAlJqKzok4btIo.jpeg",
+      "place_id": "5073631903497603791",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5073631903497603791&q=breakfast+included",
+      "provider_id": "/g/11sy71d_zs",
+      "gps_coordinates": {
+        "latitude": 52.94116,
+        "longitude": -2.1022134
+      },
+      "title": "The Oak House Restaurant and Balcony Bar (located at Moddershall Oaks)",
+      "type": "Restaurant",
+      "address": "Stone, United Kingdom"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 661,
+      "reviews_original": "(661)",
+      "description": "\"Great price, clean and tidy with a great breakfast included.\"",
+      "lsig": "AB86z5UKF1yGk_U9bmQboP_nAD7L",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8xExPH6dHiB2G7zVYaQSAE4k84pGMoYJpDlzR1Ld_Bgm0wsPQ-JVHKke85MQv63mN7lGXXavL5-XD-jSU4cKTXRwoA43EAoRKq6WZwoRf5_V0TnsZKwlTi1TKAfSSRJ4do6MA9g=w90-h90-n-k-no-l75",
+      "place_id": "5642813689266681082",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=5642813689266681082&q=breakfast+included",
+      "provider_id": "/g/1v16pv7f",
+      "gps_coordinates": {
+        "latitude": 52.98636,
+        "longitude": -2.3657565
+      },
+      "title": "The Wheatsheaf Inn, Onneley",
+      "type": "Restaurant",
+      "address": "Crewe, United Kingdom"
+    },
+    {
+      "position": 11,
+      "rating": 4.4,
+      "reviews": 599,
+      "reviews_original": "(599)",
+      "description": "\"(Georgia, kay and leora) full English breakfast included very good quality.\"",
+      "lsig": "AB86z5X2O1A98veRn9N_M9_8StJX",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/9UHYWdiRzB0k-QoteGJCjDZ73Qm0Z01dvAG7a07J0dY.jpeg",
+      "place_id": "18227072324007448915",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=18227072324007448915&q=breakfast+included",
+      "provider_id": "/g/1wf218wh",
+      "gps_coordinates": {
+        "latitude": 52.583282,
+        "longitude": -1.9775226
+      },
+      "title": "Lyndon House - Walsall",
+      "type": "Restaurant",
+      "address": "Walsall, United Kingdom"
+    },
+    {
+      "position": 12,
+      "rating": 4.6,
+      "reviews": 452,
+      "reviews_original": "(452)",
+      "price": "£10–20",
+      "description": "\"Amazing \"Big Breakfast \" hot tasty and filling.\"",
+      "lsig": "AB86z5W5DkZm5pFvb7Uy-aj3rpMH",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/-KDIe3fVXHppaPyuzmi8aGNwYBgeve6cMKla_u732YA.jpeg",
+      "place_id": "8133590567881488682",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=8133590567881488682&q=breakfast+included",
+      "provider_id": "/g/11kpt62kkc",
+      "gps_coordinates": {
+        "latitude": 52.633358,
+        "longitude": -2.4936647
+      },
+      "title": "Embers Cafe",
+      "type": "Cafe",
+      "address": "Telford, United Kingdom",
+      "hours": "Closed · Opens 9 AM Wed"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 373,
+      "reviews_original": "(373)",
+      "price": "£10–20",
+      "description": "\"Great breakfast, good choice, huge portion, great price in fab surroundings\"",
+      "lsig": "AB86z5UqqoF-Kta3oXOSsJfc0eeR",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/P3M1Cc4Wz1YzkZUMMOIEgLffhmEiSiORQajGCd7CqdU.jpeg",
+      "place_id": "16932280417016303154",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16932280417016303154&q=breakfast+included",
+      "provider_id": "/g/11pz8_1rrt",
+      "gps_coordinates": {
+        "latitude": 52.993607,
+        "longitude": -1.9694978
+      },
+      "title": "The Grosvenor at Hales Hall",
+      "type": "Restaurant",
+      "address": "Stoke-on-Trent, United Kingdom"
+    },
+    {
+      "position": 14,
+      "rating": 4.2,
+      "reviews": 692,
+      "reviews_original": "(692)",
+      "description": "\"Breakfast was lovely and the service was exceptionally polite and friendly.\"",
+      "lsig": "AB86z5UhSgk_cqaAWwVyGz5xlsfI",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/aOUrii9gETlw7tx9GdfsFAByzCfWwEGW4HeahDYzEfQ.jpeg",
+      "place_id": "12438970921166185901",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=12438970921166185901&q=breakfast+included",
+      "provider_id": "/g/11wtm82967",
+      "gps_coordinates": {
+        "latitude": 52.72559,
+        "longitude": -2.4288394
+      },
+      "title": "The Sutherland",
+      "type": "Restaurant",
+      "address": "Telford, United Kingdom"
+    },
+    {
+      "position": 15,
+      "rating": 4.2,
+      "reviews": 814,
+      "reviews_original": "(814)",
+      "description": "\"Breakfast which is included in the room rate was traditional and tasty.\"",
+      "lsig": "AB86z5UBHE7PeCzFSou2mHmR2Unu",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/fLqGuN6Szv2BYc9O7cq2R-wTHsUIZT1dBxSsez5crVc.jpeg",
+      "place_id": "16663050242373014720",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=16663050242373014720&q=breakfast+included",
+      "provider_id": "/g/1tffj9ck",
+      "gps_coordinates": {
+        "latitude": 52.788364,
+        "longitude": -2.3659363
+      },
+      "title": "Swan Hotel Forton",
+      "type": "Pub",
+      "address": "Newport, United Kingdom"
+    },
+    {
+      "position": 16,
+      "rating": 4.3,
+      "reviews": 866,
+      "reviews_original": "(866)",
+      "description": "\"Lovely breakfast included in the cost of the room.\"",
+      "lsig": "AB86z5Ue9wusBQBhcg9IyiAfc1i1",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/B1KdpVBOPpR9KFZ0SPHXU9RRHLBhiZWp54bj5-Ha928.jpeg",
+      "place_id": "11510886127509905511",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=11510886127509905511&q=breakfast+included",
+      "provider_id": "/g/1td3l0gr",
+      "gps_coordinates": {
+        "latitude": 52.631855,
+        "longitude": -2.5026865
+      },
+      "title": "The Water Rat Inn",
+      "type": "Restaurant",
+      "address": "Telford, United Kingdom"
+    },
+    {
+      "position": 17,
+      "rating": 4.2,
+      "reviews": 4200,
+      "reviews_original": "(4.2K)",
+      "price": "£10–20",
+      "description": "\"Nice breakfast for a fair price in a great location.\"",
+      "lsig": "AB86z5WoEF1aS8CxUd5xNbcegGEk",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/R1ay7REPjRonhDLjwYa6ZrKfkPmWb7zoQNgBQ1jRGC4.jpeg",
+      "place_id": "10088467788360501544",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=10088467788360501544&q=breakfast+included",
+      "provider_id": "/g/1wk4chlb",
+      "gps_coordinates": {
+        "latitude": 52.56559,
+        "longitude": -1.8791322
+      },
+      "title": "Toby Carvery Streetly",
+      "type": "Carvery",
+      "address": "Sutton Coldfield, United Kingdom"
+    },
+    {
+      "position": 18,
+      "rating": 4.5,
+      "reviews": 649,
+      "reviews_original": "(649)",
+      "price": "£10–20",
+      "description": "\"Perfect setting, very good tasty 'homely' food, great value, great service.\"",
+      "lsig": "AB86z5UhDJCTNXS5_OBfKTgW7sWK",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/7UxeP_5LVNnpbKcrXbDWlRow46sOM-zVlKBLMLIrGok.jpeg",
+      "place_id": "13527619552317490816",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=13527619552317490816&q=breakfast+included",
+      "provider_id": "/g/1ttdxzv_",
+      "gps_coordinates": {
+        "latitude": 52.802933,
+        "longitude": -2.3082917
+      },
+      "title": "Junction Inn",
+      "type": "Pub",
+      "address": "Stafford, United Kingdom",
+      "hours": "Closed · Opens 12 PM Wed"
+    },
+    {
+      "position": 19,
+      "rating": 4.5,
+      "reviews": 1800,
+      "reviews_original": "(1.8K)",
+      "description": "\"We booked two nights it showed the price with breakfast included.\"",
+      "lsig": "AB86z5UJuY-reBs1ZfDdILZIAwVs",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/y1EEeNhlOGbXPL-7gsBtZanjRa2lKAP3CtKcuPFztvY.jpeg",
+      "place_id": "519876976854173543",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=519876976854173543&q=breakfast+included",
+      "provider_id": "/g/1pxyd8knw",
+      "gps_coordinates": {
+        "latitude": 52.84057,
+        "longitude": -2.0515354
+      },
+      "title": "Weston Hall - Stafford",
+      "type": "Hotel",
+      "address": "Stafford, United Kingdom"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 440,
+      "reviews_original": "(440)",
+      "description": "\"Breakfast is fantastic, everything is fresh and cooked just as you like it.\"",
+      "lsig": "AB86z5XysE0aZ2nygs2N3T07Fdzd",
+      "thumbnail": "https://serpapi.com/searches/69d51c6e703f17061dd575a3/images/ar4q_VWVNJGhlloch4NYj1fFq-UyjcuDyz5hYE4d6-g.jpeg",
+      "place_id": "3159478649332149395",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&ludocid=3159478649332149395&q=breakfast+included",
+      "provider_id": "/g/1tfwphh0",
+      "gps_coordinates": {
+        "latitude": 52.85909,
+        "longitude": -2.251101
+      },
+      "title": "The Kings Arms Hotel",
+      "type": "Pub",
+      "address": "Stafford, United Kingdom"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=breakfast+included&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=breakfast+included&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=breakfast+included&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=breakfast+included&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=breakfast+included&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=breakfast+included&start=20&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=breakfast+included&start=20&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=breakfast+included&start=20&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=breakfast+included&start=40&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=breakfast+included&start=60&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=London&q=breakfast+included&start=80&uule=w+CAIQICInTG9uZG9uIFRWIFJlZ2lvbixFbmdsYW5kLFVuaXRlZCBLaW5nZG9t"
+    }
+  }
+}

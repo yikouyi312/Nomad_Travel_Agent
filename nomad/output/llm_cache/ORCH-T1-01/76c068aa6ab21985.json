@@ -1,0 +1,51 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01D6agTiWxYJR799j3bHdDcg",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_012ofPVsHqFdPw8FWP6K6scG",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Boston",
+          "destination": "Seattle",
+          "start_date": "2026-05-05",
+          "end_date": "2026-05-12",
+          "num_travelers": 1,
+          "interests": [
+            "morning departure before 10 AM",
+            "no basic economy"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": false,
+          "activity": false
+        },
+        "response_to_user": "Perfect! I'll search for round-trip flights from Boston to Seattle departing May 5 and returning May 12, 2026. I'll prioritize morning departures before 10 AM and filter out basic economy options for you."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2592,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 238,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

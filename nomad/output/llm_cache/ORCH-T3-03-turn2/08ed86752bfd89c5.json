@@ -1,0 +1,50 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01W8jzMrBDTbD4dpmQ6VZEua",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01PFcz3PvS1dbHSgtgqMQXfK",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "dietary_needs": [
+            "vegan"
+          ],
+          "interests": [
+            "food scene",
+            "Powell's Books",
+            "craft brewery tour"
+          ]
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": true
+        },
+        "response_to_user": "Got it! I've updated your preferences to include vegan dietary requirements for all restaurant recommendations, and added a craft brewery tour to your interests. Portland's craft beer scene is incredible! I'll make sure to find vegan-friendly restaurants and include brewery tour options in your itinerary."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2577,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 201,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

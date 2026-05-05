@@ -1,0 +1,44 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01Ei3FC29V5miKQ219w8WGxx",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01SpzDKVJoPhCsEqFawoLZsZ",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "destination": "Cancun",
+          "budget_usd": 3500
+        },
+        "needs": {
+          "flight": false,
+          "hotel": false,
+          "activity": false
+        },
+        "response_to_user": "Got it! I've updated your destination from Miami to Cancun, Mexico and increased your budget to $3,500. Your trip is still set for November 1-6, 2026 from Boston. Would you like me to search for flights, hotels, or activities for your Cancun trip?"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2560,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 199,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "search_metadata": {
+    "id": "69d52c4d31a6010da4f4e002",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Yt4U_BV9ONDNe-IZp0ME-w/69d52c4d31a6010da4f4e002.json",
+    "created_at": "2026-04-07 16:09:49 UTC",
+    "processed_at": "2026-04-07 16:09:49 UTC",
+    "google_local_url": "https://www.google.com/search?q=snorkeling&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/Yt4U_BV9ONDNe-IZp0ME-w/69d52c4d31a6010da4f4e002.html",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "snorkeling",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.339061458818374,
+      "longitude": -80.42266845703125
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.9,
+      "reviews": 2500,
+      "reviews_original": "(2.5K)",
+      "description": "\"We snorkeled at two different spots, and the water was crystal clear.\"",
+      "lsig": "AB86z5VQYf8CVareaWGiuEt3VjIZ",
+      "links": {
+        "website": "https://silentworld.com/snorkeling/",
+        "directions": "https://www.google.com/maps/dir//Silent+World+Snorkeling+and+dive+Center,+51+Garden+Cove+Dr,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d7661c82bb2bb7:0x740b023a75ce03f0?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIIhAA&hl=en&gl=us"
+      },
+      "place_id": "8361779583251252208",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8361779583251252208&q=snorkeling",
+      "provider_id": "/g/1tgx2tmy",
+      "gps_coordinates": {
+        "latitude": 25.170706,
+        "longitude": -80.36833
+      },
+      "title": "Silent World Snorkeling and dive Center",
+      "type": "Tour operator",
+      "years_in_business": "35+ years in business",
+      "address": "Key Largo, FL",
+      "phone": "(305) 451-3252",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.7,
+      "reviews": 661,
+      "reviews_original": "(661)",
+      "description": "\"We saw tons of fish and coral including a lionfish and glimpse of bullshark.\"",
+      "lsig": "AB86z5V4iMi5IcgHmVxzR_g86pxn",
+      "links": {
+        "website": "https://diversparadise.miami/",
+        "directions": "https://www.google.com/maps/dir//Diver's+Paradise+Miami+%7C+Scuba+Diving+%26+Snorkeling,+4000+Crandon+Blvd,+Key+Biscayne,+FL+33149/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b59b0f5159c9:0xbcb472d38aea7c3f?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKxAA&hl=en&gl=us"
+      },
+      "place_id": "13597619427832659007",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=13597619427832659007&q=snorkeling",
+      "provider_id": "/g/1td18n64",
+      "gps_coordinates": {
+        "latitude": 25.727015,
+        "longitude": -80.15643
+      },
+      "title": "Diver's Paradise Miami | Scuba Diving & Snorkeling",
+      "type": "SCUBA tour agency",
+      "years_in_business": "40+ years in business",
+      "address": "Key Biscayne, FL",
+      "phone": "(305) 361-3483",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews": 815,
+      "reviews_original": "(815)",
+      "description": "\"Snorkeling at 4 spots (3 stops) including snorkel over the Christ statue.\"",
+      "lsig": "AB86z5W9seBHBilbVD-0W2SzVRzD",
+      "links": {
+        "website": "https://www.pcwatersports.com/",
+        "directions": "https://www.google.com/maps/dir//Pirates+Cove+Watersports,+103800+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d7688d916a0919:0x1ac68f341eae6278?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILBAA&hl=en&gl=us"
+      },
+      "place_id": "1929386944390652536",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1929386944390652536&q=snorkeling",
+      "provider_id": "/g/1tf24wmf",
+      "gps_coordinates": {
+        "latitude": 25.141453,
+        "longitude": -80.400314
+      },
+      "title": "Pirates Cove Watersports",
+      "type": "Dive shop",
+      "address": "Key Largo, FL",
+      "phone": "(305) 453-9881",
+      "hours": "Open · Closes 5:30 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.9,
+      "reviews": 303,
+      "reviews_original": "(303)",
+      "description": "\"We were able to snorkel at 3 sites: the mangroves, a reef, and a shipwreck.\"",
+      "lsig": "AB86z5XDJfeqSbGBjSxv14EdGrvP",
+      "links": {
+        "website": "http://www.biscaynenationalparkinstitute.org/?utm_source=gmb+listing&utm_medium=organic",
+        "directions": "https://www.google.com/maps/dir//Biscayne+National+Park+Institute+at+Coconut+Grove,+3400+Pan+American+Dr,+Miami,+FL+33133/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b75bca66f81b:0xdd80cec566d8d69a?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMxAA&hl=en&gl=us"
+      },
+      "place_id": "15960984426630403738",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15960984426630403738&q=snorkeling",
+      "provider_id": "/g/11k4y9ctc1",
+      "gps_coordinates": {
+        "latitude": 25.726933,
+        "longitude": -80.235596
+      },
+      "title": "Biscayne National Park Institute at Coconut Grove",
+      "type": "Tourist attraction",
+      "address": "Miami, FL",
+      "phone": "(786) 465-4058",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.9,
+      "reviews": 7800,
+      "reviews_original": "(7.8K)",
+      "description": "\"The snorkeling was fun with many fish and coral easily visible.\"",
+      "lsig": "AB86z5V0V-fNsW0yRg2QIidx86R_",
+      "links": {
+        "website": "https://www.biscaynenationalparkinstitute.org/?utm_source=gmb+listing&utm_medium=organic",
+        "directions": "https://www.google.com/maps/dir//Biscayne+National+Park+Institute,+9700+SW+328th+St,+Homestead,+FL+33033/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9dbb853e92c63:0x50d9c43151adbc67?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJRAA&hl=en&gl=us"
+      },
+      "place_id": "5825903309083229287",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5825903309083229287&q=snorkeling",
+      "provider_id": "/g/11cjpcf5td",
+      "gps_coordinates": {
+        "latitude": 25.464014,
+        "longitude": -80.33462
+      },
+      "title": "Biscayne National Park Institute",
+      "type": "Boat tour agency",
+      "years_in_business": "7+ years in business",
+      "address": "Homestead, FL",
+      "phone": "(786) 335-3644",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.9,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "description": "\"We went snorkeling, and it was an unforgettable adventure.\"",
+      "lsig": "AB86z5WsqLWEJav6ssQil72mNfpm",
+      "links": {
+        "website": "http://www.sundancewatersports.org/",
+        "directions": "https://www.google.com/maps/dir//Sundance+Watersports,+77522+Overseas+Hwy,+Islamorada,+FL+33036/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d0d19b44f52bd5:0x590bf8046e228ce6?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQINBAA&hl=en&gl=us"
+      },
+      "place_id": "6416494792030719206",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6416494792030719206&q=snorkeling",
+      "provider_id": "/g/1th7npnv",
+      "gps_coordinates": {
+        "latitude": 24.882633,
+        "longitude": -80.690796
+      },
+      "title": "Sundance Watersports",
+      "type": "Tour operator",
+      "years_in_business": "7+ years in business",
+      "address": "Islamorada, FL",
+      "phone": "(305) 743-0145",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.8,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"You can see sea turtles, sharks, barracudas, groupers, and other reef fish.\"",
+      "lsig": "AB86z5W12tT6FgsgGaRtSYUGALFj",
+      "links": {
+        "website": "https://www.seadwellers.com/",
+        "directions": "https://www.google.com/maps/dir//Sea+Dwellers+Dive+Center+of+Key+Largo,+105+Laguna+Ave+E5,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c15eba7a2b:0xa3ec554190296523?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMhAA&hl=en&gl=us"
+      },
+      "place_id": "11811909662765835555",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11811909662765835555&q=snorkeling",
+      "provider_id": "/g/1ttpc2ps",
+      "gps_coordinates": {
+        "latitude": 25.094263,
+        "longitude": -80.43841
+      },
+      "title": "Sea Dwellers Dive Center of Key Largo",
+      "type": "SCUBA tour agency",
+      "years_in_business": "50+ years in business",
+      "address": "Key Largo, FL",
+      "phone": "(305) 451-3640",
+      "hours": "Open · Closes 6 PM"
+    },
+    {
+      "position": 8,
+      "rating": 5.0,
+      "reviews": 285,
+      "reviews_original": "(285)",
+      "description": "\"We were able to see incredible coral and sea life while snorkeling.\"",
+      "lsig": "AB86z5Wq9PUiKxzByAwWT8P89HAA",
+      "links": {
+        "website": "https://www.keylargowaterfun.com/",
+        "directions": "https://www.google.com/maps/dir//Key+Largo+Water+Fun,+112+La+Paloma+Rd,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769be20880d85:0x3649b96aa988a435?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMRAA&hl=en&gl=us"
+      },
+      "place_id": "3911861619109962805",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=3911861619109962805&q=snorkeling",
+      "provider_id": "/g/11lgfqw13z",
+      "gps_coordinates": {
+        "latitude": 25.115362,
+        "longitude": -80.411995
+      },
+      "title": "Key Largo Water Fun",
+      "type": "Boat tour agency",
+      "years_in_business": "5+ years in business",
+      "address": "Key Largo, FL",
+      "phone": "(305) 582-4043",
+      "hours": "Open · Closes 8 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.5,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"Our 7 year old was even able to snorkel with us in open water.\"",
+      "lsig": "AB86z5UKwTVWCPjGAO_1-pGiHwr9",
+      "links": {
+        "website": "http://www.snorkelingisfun.com/",
+        "directions": "https://www.google.com/maps/dir//Sundiver+Snorkel+Tours,+102840+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d768f6341e273d:0x1dcc05548d71e9e3?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKRAA&hl=en&gl=us"
+      },
+      "place_id": "2147096983057328611",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2147096983057328611&q=snorkeling",
+      "provider_id": "/g/1tlwgfgj",
+      "gps_coordinates": {
+        "latitude": 25.129871,
+        "longitude": -80.40969
+      },
+      "title": "Sundiver Snorkel Tours",
+      "type": "Boat tour agency",
+      "years_in_business": "10+ years in business",
+      "address": "Key Largo, FL",
+      "phone": "(305) 451-2220"
+    },
+    {
+      "position": 10,
+      "rating": 4.9,
+      "reviews": 106,
+      "reviews_original": "(106)",
+      "description": "\"The reef was beautiful, and my family had the experience of a lifetime.\"",
+      "lsig": "AB86z5W41fJ-pqbNAcezapj9nL01",
+      "links": {
+        "website": "https://snorkelthekeys.com/",
+        "directions": "https://www.google.com/maps/dir//Snorkel+the+Keys,+99701+Overseas+Hwy+Slip+76,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769dab0b9166f:0xb32a9eccf623528c?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIMBAA&hl=en&gl=us"
+      },
+      "place_id": "12910305884950975116",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12910305884950975116&q=snorkeling",
+      "provider_id": "/g/11j122t8xd",
+      "gps_coordinates": {
+        "latitude": 25.095442,
+        "longitude": -80.43624
+      },
+      "title": "Snorkel the Keys",
+      "type": "Boat tour agency",
+      "years_in_business": "5+ years in business",
+      "address": "Key Largo, FL",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.5,
+      "reviews": 11000,
+      "reviews_original": "(11K)",
+      "description": "\"Crystal clear water to see coral and do snorkeling.\"",
+      "lsig": "AB86z5WqmS3mKa26lBiK6m3IdHQ_",
+      "links": {
+        "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+        "directions": "https://www.google.com/maps/dir//John+Pennekamp+Coral+Reef+State+Park,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d765d7c9d4f8ad:0xe8f62495ebc427a7?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILhAA&hl=en&gl=us"
+      },
+      "place_id": "16786644887394330535",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16786644887394330535&q=snorkeling",
+      "provider_id": "/m/09j528",
+      "gps_coordinates": {
+        "latitude": 25.156654,
+        "longitude": -80.37541
+      },
+      "title": "John Pennekamp Coral Reef State Park",
+      "type": "State park",
+      "address": "Key Largo, FL",
+      "phone": "(305) 676-3777",
+      "hours": "Open now"
+    },
+    {
+      "position": 12,
+      "rating": 5.0,
+      "reviews": 1700,
+      "reviews_original": "(1.7K)",
+      "description": "\"The snorkeling was a blast: calm, clear water made it perfect.\"",
+      "lsig": "AB86z5V_QyHrFjON4NKl8le_VJS3",
+      "links": {
+        "website": "https://www.islandergirltours.com/",
+        "directions": "https://www.google.com/maps/dir//Islander+Girl+Snorkel+%26+Tours,+90791+Old+Hwy+%231,+Tavernier,+FL+33070/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d739262bd127a9:0x9a1a2e145f9d1c55?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKhAA&hl=en&gl=us"
+      },
+      "place_id": "11104238496273734741",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11104238496273734741&q=snorkeling",
+      "provider_id": "/g/11h6p_m8mq",
+      "gps_coordinates": {
+        "latitude": 25.002317,
+        "longitude": -80.531395
+      },
+      "title": "Islander Girl Snorkel & Tours",
+      "type": "Boat tour agency",
+      "years_in_business": "7+ years in business",
+      "address": "Tavernier, FL",
+      "phone": "(305) 712-0032",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 112,
+      "reviews_original": "(112)",
+      "description": "\"Great experience, cool tour, great reefing\"",
+      "lsig": "AB86z5XfmBoffdVkzHm23RwQWprO",
+      "links": {
+        "website": "http://www.snorkelingisfun.com/",
+        "directions": "https://www.google.com/maps/dir//Sundiver+Boat+Dock,+99751+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c08d62ffc1:0x9be99da4d00baf55?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJBAA&hl=en&gl=us"
+      },
+      "place_id": "11234684076643037013",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11234684076643037013&q=snorkeling",
+      "provider_id": "/g/1td4qhhs",
+      "gps_coordinates": {
+        "latitude": 25.096308,
+        "longitude": -80.437874
+      },
+      "title": "Sundiver Boat Dock",
+      "type": "Boat tour agency",
+      "years_in_business": "10+ years in business",
+      "address": "Key Largo, FL",
+      "phone": "(305) 451-2220",
+      "hours": "Open · Closes 5 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.6,
+      "reviews": 939,
+      "reviews_original": "(939)",
+      "description": "\"Huge selection of diving and snorkeling gear in all price ranges.\"",
+      "lsig": "AB86z5WRNYjGJmtbx7RtazT75ONp",
+      "links": {
+        "website": "http://www.diversdirect.com/",
+        "directions": "https://www.google.com/maps/dir//Divers+Direct,+99621+Overseas+Highway,+US-1,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769c287e6e291:0xf90ea7de20cb68ea?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIKBAA&hl=en&gl=us"
+      },
+      "place_id": "17946466137592785130",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17946466137592785130&q=snorkeling",
+      "provider_id": "/g/1tcxw0jz",
+      "gps_coordinates": {
+        "latitude": 25.094563,
+        "longitude": -80.439095
+      },
+      "title": "Divers Direct",
+      "type": "Dive shop",
+      "address": "Key Largo, FL",
+      "phone": "(305) 451-0118",
+      "hours": "Open · Closes 8 PM"
+    },
+    {
+      "position": 15,
+      "rating": 5.0,
+      "reviews": 3,
+      "reviews_original": "(3)",
+      "description": "\"We had a great time snorkeling in Key Largo and saw several sea turtles.\"",
+      "lsig": "AB86z5XWqc381uSK3Pwvz2bv5hAQ",
+      "links": {
+        "website": "https://keylargosnorkeling.com/"
+      },
+      "place_id": "4819174484880985141",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4819174484880985141&q=snorkeling",
+      "title": "Key Largo Snorkeling",
+      "type": "Boat tour agency",
+      "years_in_business": "3+ years in business",
+      "phone": "(786) 926-3306",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 122,
+      "reviews_original": "(122)",
+      "description": "\"we went snorkeling and it was so much fun and absolutely beautiful.\"",
+      "lsig": "AB86z5X1nLqRqS053QP5Jk2OUO2m",
+      "links": {
+        "website": "https://keylargoscubadiving.com/",
+        "directions": "https://www.google.com/maps/dir//Key+Largo+Scuba+Diving,+102900+Overseas+Hwy+%236,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xa6306baca44bbd1f:0x744d757eff18fd61?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILRAA&hl=en&gl=us"
+      },
+      "place_id": "8380483669912517985",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8380483669912517985&q=snorkeling",
+      "provider_id": "/g/11qg042fnk",
+      "gps_coordinates": {
+        "latitude": 25.13048,
+        "longitude": -80.40907
+      },
+      "title": "Key Largo Scuba Diving",
+      "type": "Dive shop",
+      "address": "Key Largo, FL",
+      "phone": "(305) 391-4040",
+      "hours": "Open · Closes 11 PM"
+    },
+    {
+      "position": 17,
+      "rating": 5.0,
+      "reviews": 1,
+      "reviews_original": "(1)",
+      "lsig": "AB86z5Wi3CnjuQ5qvGeLO8Pa097v",
+      "links": {
+        "website": "http://snorkelking.com/",
+        "directions": "https://www.google.com/maps/dir//Snorkeling+King+Key+Largo,+709+Barcelona+Rd,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d769b113d21433:0xce1defadca23173c?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJhAA&hl=en&gl=us"
+      },
+      "place_id": "14852290675837441852",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14852290675837441852&q=snorkeling",
+      "provider_id": "/g/11wwwdx9ch",
+      "gps_coordinates": {
+        "latitude": 25.122952,
+        "longitude": -80.41293
+      },
+      "title": "Snorkeling King Key Largo",
+      "type": "Boat tour agency",
+      "address": "Key Largo, FL",
+      "phone": "(786) 677-4446",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 18,
+      "rating": 4.4,
+      "reviews": 1300,
+      "reviews_original": "(1.3K)",
+      "description": "\"We went Snorkeling here and it was the most amazing experience!\"",
+      "lsig": "AB86z5VD8tK1n_mqg2WHxIBPIGwT",
+      "links": {
+        "website": "https://www.amoray.com/?utm_source=google&utm_medium=organic&utm_campaign=business-listing",
+        "directions": "https://www.google.com/maps/dir//Amoray+Dive+Resort,+104250+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d76890c0b91d8f:0xca261bc84efa5e25?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQILxAA&hl=en&gl=us"
+      },
+      "place_id": "14566360591908888101",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14566360591908888101&q=snorkeling",
+      "provider_id": "/g/1tg_mf4j",
+      "gps_coordinates": {
+        "latitude": 25.14742,
+        "longitude": -80.39494
+      },
+      "title": "Amoray Dive Resort",
+      "type": "Resort hotel",
+      "address": "Key Largo, FL",
+      "phone": "(305) 451-3595"
+    },
+    {
+      "position": 19,
+      "rating": 4.9,
+      "reviews": 14,
+      "reviews_original": "(14)",
+      "description": "\"We have snorkeled many places, but this reef was superior.\"",
+      "lsig": "AB86z5WrK-RN6U3bbOmpDcrQWCcj",
+      "links": {
+        "directions": "https://www.google.com/maps/dir//4M5V%2BP7+Coral+Key+Largo+Snorkeling+Tours,+Key+Largo,+FL/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d76f72e9847e69:0x42f405b9108e0ec1?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIIxAA&hl=en&gl=us"
+      },
+      "place_id": "4824487393225477825",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4824487393225477825&q=snorkeling",
+      "provider_id": "/g/11v0hjxxyq",
+      "gps_coordinates": {
+        "latitude": 25.109253,
+        "longitude": -80.3068
+      },
+      "title": "Coral Key Largo Snorkeling Tours",
+      "type": "Tourist attraction",
+      "address": "Key Largo, FL"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 917,
+      "reviews_original": "(917)",
+      "description": "\"We booked online for our first snorkeling adventure and had a blast.\"",
+      "lsig": "AB86z5VaK0wg3qDWIjxGGvAigOOK",
+      "links": {
+        "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+        "directions": "https://www.google.com/maps/dir//John+Pennekamp+Coral+Reef+State+Park+Visitor+Center,+102601+Overseas+Hwy,+Key+Largo,+FL+33037/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d768f9ecf87b3d:0x93da230d42abba07?sa=X&ved=2ahUKEwj4hpSakNyTAxVllmoFHTeYGngQ48ADegQIJxAA&hl=en&gl=us"
+      },
+      "place_id": "10653866408358427143",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10653866408358427143&q=snorkeling",
+      "provider_id": "/g/11f9wlqpz1",
+      "gps_coordinates": {
+        "latitude": 25.125158,
+        "longitude": -80.40612
+      },
+      "title": "John Pennekamp Coral Reef State Park Visitor Center",
+      "type": "Visitor center",
+      "address": "Key Largo, FL",
+      "hours": "Open · Closes 5 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=snorkeling&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=snorkeling&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=snorkeling&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=snorkeling&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=snorkeling&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=snorkeling&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=snorkeling&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=snorkeling&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=snorkeling&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=snorkeling&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=snorkeling&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

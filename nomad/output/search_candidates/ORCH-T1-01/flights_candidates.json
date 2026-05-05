@@ -1,0 +1,3785 @@
+[
+  {
+    "task_id": "ORCH-T1-01",
+    "category": "flights",
+    "timestamp": "2026-04-07T10:53:12.258548",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "Seattle",
+      "departure_date": "2026-05-05",
+      "return_date": "2026-05-12"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 06:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 07:30"
+              },
+              "duration": 90,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1146",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 74 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 08:25"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:34"
+              },
+              "duration": 369,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 888",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 242 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 55,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 514,
+          "carbon_emissions": {
+            "this_flight": 318000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -12
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRFeE5EWjhRVUU0T0RnYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIlBITCIsbnVsbCwiQUEiLCIxMTQ2Il0sWyJQSEwiLCIyMDI2LTA1LTA1IiwiU0VBIixudWxsLCJBQSIsIjg4OCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:37"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 10:55"
+              },
+              "duration": 378,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 384",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ]
+            }
+          ],
+          "total_duration": 378,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNNE5Cb0xDTC8zQVJBQ0dnTlZVMFE0SEhDLzl3RT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzg0Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:45"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 22:05"
+              },
+              "duration": 380,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 324",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 380,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNeU5Cb0xDTC8zQVJBQ0dnTlZVMFE0SEhDLzl3RT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzI0Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 10:19"
+              },
+              "duration": 379,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 459",
+              "ticket_also_sold_by": [
+                "American"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 379,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpRMU9Sb0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiNDU5Il1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 05:27"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 07:55"
+              },
+              "duration": 148,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 624",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 113 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 08:45"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:28"
+              },
+              "duration": 343,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2791",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 50,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 541,
+          "carbon_emissions": {
+            "this_flight": 411000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRZeU5IeEJRVEkzT1RFYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkNMVCIsbnVsbCwiQUEiLCI2MjQiXSxbIkNMVCIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFBIiwiMjc5MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 06:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 08:44"
+              },
+              "duration": 194,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1509",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 128 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 09:47"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:29"
+              },
+              "duration": 282,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2741",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 215 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 63,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 539,
+          "carbon_emissions": {
+            "this_flight": 345000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -4
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFMU1EbDhRVUV5TnpReEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTUwOSJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyNzQxIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 08:26"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 11:55"
+              },
+              "duration": 269,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 701",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 219 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 13:33"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 15:51"
+              },
+              "duration": 258,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 757",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 221 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 98,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 625,
+          "carbon_emissions": {
+            "this_flight": 441000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 22
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3RCUVRjd01YeEJRVGMxTnhvTENPSGZBUkFDR2dOVlUwUTRISERoM3dFPSIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkRGVyIsbnVsbCwiQUEiLCI3MDEiXSxbIkRGVyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFBIiwiNzU3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 11:51"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 14:20"
+              },
+              "duration": 149,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1904",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 123 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 15:57"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 18:44"
+              },
+              "duration": 347,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 3196",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 97,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 593,
+          "carbon_emissions": {
+            "this_flight": 421000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 17
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFNU1EUjhRVUV6TVRrMkdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJDTFQiLG51bGwsIkFBIiwiMTkwNCJdLFsiQ0xUIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIzMTk2Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 13:34"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 16:03"
+              },
+              "duration": 149,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2919",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 113 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 17:41"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 20:22"
+              },
+              "duration": 341,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 751",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 98,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 588,
+          "carbon_emissions": {
+            "this_flight": 411000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRJNU1UbDhRVUUzTlRFYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkNMVCIsbnVsbCwiQUEiLCIyOTE5Il0sWyJDTFQiLCIyMDI2LTA1LTA1IiwiU0VBIixudWxsLCJBQSIsIjc1MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 14:02"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 17:32"
+              },
+              "duration": 270,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1270",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 200 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 19:04"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:22"
+              },
+              "duration": 258,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2009",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 92,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 620,
+          "carbon_emissions": {
+            "this_flight": 376000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 4
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFeU56QjhRVUV5TURBNUdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJERlciLG51bGwsIkFBIiwiMTI3MCJdLFsiREZXIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyMDA5Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 15:05"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 16:44"
+              },
+              "duration": 99,
+              "airplane": "Airbus A320",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1416",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 81 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 18:08"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:23"
+              },
+              "duration": 375,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2763",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 317 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 84,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 558,
+          "carbon_emissions": {
+            "this_flight": 400000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 11
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFME1UWjhRVUV5TnpZekdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJQSEwiLG51bGwsIkFBIiwiMTQxNiJdLFsiUEhMIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyNzYzIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 16:34"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 18:51"
+              },
+              "duration": 197,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1040",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 128 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 19:54"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 22:38"
+              },
+              "duration": 284,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2398",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 182 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 63,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 544,
+          "carbon_emissions": {
+            "this_flight": 312000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFd05EQjhRVUV5TXprNEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTA0MCJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyMzk4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:48"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 21:00"
+              },
+              "duration": 192,
+              "airplane": "Airbus A319",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1009",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 153 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 22:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-06 00:36"
+              },
+              "duration": 276,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1288",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 215 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 60,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 528,
+          "carbon_emissions": {
+            "this_flight": 369000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 2
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFd01EbDhRVUV4TWpnNEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTAwOSJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIxMjg4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 05:45"
+              },
+              "arrival_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-05-05 07:24"
+              },
+              "duration": 99,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1734",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 64 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-05-05 09:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:48"
+              },
+              "duration": 348,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2101",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 244 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 96,
+              "name": "Dulles International Airport",
+              "id": "IAD"
+            }
+          ],
+          "total_duration": 543,
+          "carbon_emissions": {
+            "this_flight": 309000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -14
+          },
+          "price": 307,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFWUVRFM016UjhWVUV5TVRBeEdnc0lzTzhCRUFJYUExVlRSRGdjY0xEdkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJJQUQiLG51bGwsIlVBIiwiMTczNCJdLFsiSUFEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiVUEiLCIyMTAxIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:20"
+              },
+              "arrival_airport": {
+                "name": "Chicago Midway International Airport",
+                "id": "MDW",
+                "time": "2026-05-05 09:05"
+              },
+              "duration": 165,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "Southwest",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+              "travel_class": "Economy",
+              "flight_number": "WN 961",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat USB outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 107 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago Midway International Airport",
+                "id": "MDW",
+                "time": "2026-05-05 10:15"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:45"
+              },
+              "duration": 270,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "Southwest",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+              "travel_class": "Economy",
+              "flight_number": "WN 3521",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat USB outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 180 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 70,
+              "name": "Chicago Midway International Airport",
+              "id": "MDW"
+            }
+          ],
+          "total_duration": 505,
+          "carbon_emissions": {
+            "this_flight": 288000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -20
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hYVGprMk1YeFhUak0xTWpFYUN3aVk5d0VRQWhvRFZWTkVPQnh3bVBjQiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIk1EVyIsbnVsbCwiV04iLCI5NjEiXSxbIk1EVyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIldOIiwiMzUyMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 09:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:17"
+              },
+              "duration": 377,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 215",
+              "ticket_also_sold_by": [
+                "American"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ]
+            }
+          ],
+          "total_duration": 377,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpJeE5Sb0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMjE1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 16:33"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 19:55"
+              },
+              "duration": 382,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 1437",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "total_duration": 382,
+          "carbon_emissions": {
+            "this_flight": 297000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -18
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1pCVXpFME16Y2FDd2pBbWdJUUFob0RWVk5FT0J4d3dKb0MiLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMTQzNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:42"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:59"
+              },
+              "duration": 377,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 306",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 377,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpNd05ob0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMzA2Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 11:10"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 14:23"
+              },
+              "duration": 373,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 332",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 373,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 462,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNek1ob0xDT1RvQWhBQ0dnTlZVMFE0SEhEazZBST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzMyIl1dXQ=="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T1-01",
+    "category": "flights",
+    "timestamp": "2026-04-07T13:54:27.181315",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "Seattle",
+      "departure_date": "2026-05-05",
+      "return_date": "2026-05-12"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 06:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 07:30"
+              },
+              "duration": 90,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1146",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 74 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 08:25"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:34"
+              },
+              "duration": 369,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 888",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 242 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 55,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 514,
+          "carbon_emissions": {
+            "this_flight": 318000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -12
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRFeE5EWjhRVUU0T0RnYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIlBITCIsbnVsbCwiQUEiLCIxMTQ2Il0sWyJQSEwiLCIyMDI2LTA1LTA1IiwiU0VBIixudWxsLCJBQSIsIjg4OCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:37"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 10:55"
+              },
+              "duration": 378,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 384",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ]
+            }
+          ],
+          "total_duration": 378,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNNE5Cb0xDTC8zQVJBQ0dnTlZVMFE0SEhDLzl3RT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzg0Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:45"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 22:05"
+              },
+              "duration": 380,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 324",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 380,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNeU5Cb0xDTC8zQVJBQ0dnTlZVMFE0SEhDLzl3RT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzI0Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 10:19"
+              },
+              "duration": 379,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 459",
+              "ticket_also_sold_by": [
+                "American"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 379,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpRMU9Sb0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiNDU5Il1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 05:27"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 07:55"
+              },
+              "duration": 148,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 624",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 113 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 08:45"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:28"
+              },
+              "duration": 343,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2791",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 50,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 541,
+          "carbon_emissions": {
+            "this_flight": 411000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRZeU5IeEJRVEkzT1RFYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkNMVCIsbnVsbCwiQUEiLCI2MjQiXSxbIkNMVCIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFBIiwiMjc5MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 06:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 08:44"
+              },
+              "duration": 194,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1509",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 128 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 09:47"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:29"
+              },
+              "duration": 282,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2741",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 215 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 63,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 539,
+          "carbon_emissions": {
+            "this_flight": 345000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -4
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFMU1EbDhRVUV5TnpReEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTUwOSJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyNzQxIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 08:26"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 11:55"
+              },
+              "duration": 269,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 701",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 219 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 13:33"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 15:51"
+              },
+              "duration": 258,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 757",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 221 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 98,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 625,
+          "carbon_emissions": {
+            "this_flight": 441000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 22
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3RCUVRjd01YeEJRVGMxTnhvTENPSGZBUkFDR2dOVlUwUTRISERoM3dFPSIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkRGVyIsbnVsbCwiQUEiLCI3MDEiXSxbIkRGVyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFBIiwiNzU3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 11:51"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 14:20"
+              },
+              "duration": 149,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1904",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 123 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 15:57"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 18:44"
+              },
+              "duration": 347,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 3196",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 97,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 593,
+          "carbon_emissions": {
+            "this_flight": 421000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 17
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFNU1EUjhRVUV6TVRrMkdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJDTFQiLG51bGwsIkFBIiwiMTkwNCJdLFsiQ0xUIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIzMTk2Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 13:34"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 16:03"
+              },
+              "duration": 149,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2919",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 113 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 17:41"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 20:22"
+              },
+              "duration": 341,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 751",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 98,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 588,
+          "carbon_emissions": {
+            "this_flight": 411000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRJNU1UbDhRVUUzTlRFYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkNMVCIsbnVsbCwiQUEiLCIyOTE5Il0sWyJDTFQiLCIyMDI2LTA1LTA1IiwiU0VBIixudWxsLCJBQSIsIjc1MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 14:02"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 17:32"
+              },
+              "duration": 270,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1270",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 200 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 19:04"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:22"
+              },
+              "duration": 258,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2009",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 92,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 620,
+          "carbon_emissions": {
+            "this_flight": 376000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 4
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFeU56QjhRVUV5TURBNUdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJERlciLG51bGwsIkFBIiwiMTI3MCJdLFsiREZXIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyMDA5Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 15:05"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 16:44"
+              },
+              "duration": 99,
+              "airplane": "Airbus A320",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1416",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 81 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 18:08"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:23"
+              },
+              "duration": 375,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2763",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 317 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 84,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 558,
+          "carbon_emissions": {
+            "this_flight": 400000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 11
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFME1UWjhRVUV5TnpZekdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJQSEwiLG51bGwsIkFBIiwiMTQxNiJdLFsiUEhMIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyNzYzIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 16:34"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 18:51"
+              },
+              "duration": 197,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1040",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 128 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 19:54"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 22:38"
+              },
+              "duration": 284,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2398",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 182 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 63,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 544,
+          "carbon_emissions": {
+            "this_flight": 312000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFd05EQjhRVUV5TXprNEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTA0MCJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyMzk4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:48"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 21:00"
+              },
+              "duration": 192,
+              "airplane": "Airbus A319",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1009",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 153 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 22:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-06 00:36"
+              },
+              "duration": 276,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1288",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 215 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 60,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 528,
+          "carbon_emissions": {
+            "this_flight": 369000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 2
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFd01EbDhRVUV4TWpnNEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTAwOSJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIxMjg4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 05:45"
+              },
+              "arrival_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-05-05 07:24"
+              },
+              "duration": 99,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1734",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 64 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-05-05 09:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:48"
+              },
+              "duration": 348,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2101",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 244 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 96,
+              "name": "Dulles International Airport",
+              "id": "IAD"
+            }
+          ],
+          "total_duration": 543,
+          "carbon_emissions": {
+            "this_flight": 309000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -14
+          },
+          "price": 307,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFWUVRFM016UjhWVUV5TVRBeEdnc0lzTzhCRUFJYUExVlRSRGdjY0xEdkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJJQUQiLG51bGwsIlVBIiwiMTczNCJdLFsiSUFEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiVUEiLCIyMTAxIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:20"
+              },
+              "arrival_airport": {
+                "name": "Chicago Midway International Airport",
+                "id": "MDW",
+                "time": "2026-05-05 09:05"
+              },
+              "duration": 165,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "Southwest",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+              "travel_class": "Economy",
+              "flight_number": "WN 961",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat USB outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 107 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago Midway International Airport",
+                "id": "MDW",
+                "time": "2026-05-05 10:15"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:45"
+              },
+              "duration": 270,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "Southwest",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+              "travel_class": "Economy",
+              "flight_number": "WN 3521",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat USB outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 180 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 70,
+              "name": "Chicago Midway International Airport",
+              "id": "MDW"
+            }
+          ],
+          "total_duration": 505,
+          "carbon_emissions": {
+            "this_flight": 288000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -20
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hYVGprMk1YeFhUak0xTWpFYUN3aVk5d0VRQWhvRFZWTkVPQnh3bVBjQiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIk1EVyIsbnVsbCwiV04iLCI5NjEiXSxbIk1EVyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIldOIiwiMzUyMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 09:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:17"
+              },
+              "duration": 377,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 215",
+              "ticket_also_sold_by": [
+                "American"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ]
+            }
+          ],
+          "total_duration": 377,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpJeE5Sb0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMjE1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 16:33"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 19:55"
+              },
+              "duration": 382,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 1437",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "total_duration": 382,
+          "carbon_emissions": {
+            "this_flight": 297000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -18
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1pCVXpFME16Y2FDd2pBbWdJUUFob0RWVk5FT0J4d3dKb0MiLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMTQzNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:42"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:59"
+              },
+              "duration": 377,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 306",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 377,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpNd05ob0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMzA2Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 11:10"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 14:23"
+              },
+              "duration": 373,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 332",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 373,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 462,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNek1ob0xDT1RvQWhBQ0dnTlZVMFE0SEhEazZBST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzMyIl1dXQ=="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T1-01",
+    "category": "flights",
+    "timestamp": "2026-05-04T02:41:26.586392",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "Seattle",
+      "departure_date": "2026-05-05",
+      "return_date": "2026-05-12"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 06:00"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 07:30"
+              },
+              "duration": 90,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1146",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 74 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 08:25"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:34"
+              },
+              "duration": 369,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 888",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 242 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 55,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 514,
+          "carbon_emissions": {
+            "this_flight": 318000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -12
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRFeE5EWjhRVUU0T0RnYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIlBITCIsbnVsbCwiQUEiLCIxMTQ2Il0sWyJQSEwiLCIyMDI2LTA1LTA1IiwiU0VBIixudWxsLCJBQSIsIjg4OCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:37"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 10:55"
+              },
+              "duration": 378,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 384",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ]
+            }
+          ],
+          "total_duration": 378,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNNE5Cb0xDTC8zQVJBQ0dnTlZVMFE0SEhDLzl3RT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzg0Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:45"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 22:05"
+              },
+              "duration": 380,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 324",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 380,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNeU5Cb0xDTC8zQVJBQ0dnTlZVMFE0SEhDLzl3RT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzI0Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 10:19"
+              },
+              "duration": 379,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 459",
+              "ticket_also_sold_by": [
+                "American"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 379,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpRMU9Sb0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiNDU5Il1dXQ=="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 05:27"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 07:55"
+              },
+              "duration": 148,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 624",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 113 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 08:45"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:28"
+              },
+              "duration": 343,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2791",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 50,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 541,
+          "carbon_emissions": {
+            "this_flight": 411000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRZeU5IeEJRVEkzT1RFYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkNMVCIsbnVsbCwiQUEiLCI2MjQiXSxbIkNMVCIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFBIiwiMjc5MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 06:30"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 08:44"
+              },
+              "duration": 194,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1509",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 128 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 09:47"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:29"
+              },
+              "duration": 282,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2741",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 215 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 63,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 539,
+          "carbon_emissions": {
+            "this_flight": 345000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -4
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFMU1EbDhRVUV5TnpReEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTUwOSJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyNzQxIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 08:26"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 11:55"
+              },
+              "duration": 269,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 701",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 219 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 13:33"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 15:51"
+              },
+              "duration": 258,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 757",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 221 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 98,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 625,
+          "carbon_emissions": {
+            "this_flight": 441000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 22
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3RCUVRjd01YeEJRVGMxTnhvTENPSGZBUkFDR2dOVlUwUTRISERoM3dFPSIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkRGVyIsbnVsbCwiQUEiLCI3MDEiXSxbIkRGVyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFBIiwiNzU3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 11:51"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 14:20"
+              },
+              "duration": 149,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1904",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 123 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 15:57"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 18:44"
+              },
+              "duration": 347,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 3196",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 97,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 593,
+          "carbon_emissions": {
+            "this_flight": 421000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 17
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFNU1EUjhRVUV6TVRrMkdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJDTFQiLG51bGwsIkFBIiwiMTkwNCJdLFsiQ0xUIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIzMTk2Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 13:34"
+              },
+              "arrival_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 16:03"
+              },
+              "duration": 149,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2919",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 113 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Charlotte Douglas International Airport",
+                "id": "CLT",
+                "time": "2026-05-05 17:41"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 20:22"
+              },
+              "duration": 341,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 751",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 98,
+              "name": "Charlotte Douglas International Airport",
+              "id": "CLT"
+            }
+          ],
+          "total_duration": 588,
+          "carbon_emissions": {
+            "this_flight": 411000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hCUVRJNU1UbDhRVUUzTlRFYUN3amgzd0VRQWhvRFZWTkVPQnh3NGQ4QiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIkNMVCIsbnVsbCwiQUEiLCIyOTE5Il0sWyJDTFQiLCIyMDI2LTA1LTA1IiwiU0VBIixudWxsLCJBQSIsIjc1MSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 14:02"
+              },
+              "arrival_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 17:32"
+              },
+              "duration": 270,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1270",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 200 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dallas Fort Worth International Airport",
+                "id": "DFW",
+                "time": "2026-05-05 19:04"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:22"
+              },
+              "duration": 258,
+              "airplane": "Airbus A321neo",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2009",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 175 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 92,
+              "name": "Dallas Fort Worth International Airport",
+              "id": "DFW"
+            }
+          ],
+          "total_duration": 620,
+          "carbon_emissions": {
+            "this_flight": 376000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 4
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFeU56QjhRVUV5TURBNUdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJERlciLG51bGwsIkFBIiwiMTI3MCJdLFsiREZXIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyMDA5Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 15:05"
+              },
+              "arrival_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 16:44"
+              },
+              "duration": 99,
+              "airplane": "Airbus A320",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1416",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 81 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Philadelphia International Airport",
+                "id": "PHL",
+                "time": "2026-05-05 18:08"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:23"
+              },
+              "duration": 375,
+              "airplane": "Airbus A321",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2763",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 317 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 84,
+              "name": "Philadelphia International Airport",
+              "id": "PHL"
+            }
+          ],
+          "total_duration": 558,
+          "carbon_emissions": {
+            "this_flight": 400000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 11
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFME1UWjhRVUV5TnpZekdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJQSEwiLG51bGwsIkFBIiwiMTQxNiJdLFsiUEhMIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyNzYzIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 16:34"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 18:51"
+              },
+              "duration": 197,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1040",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 128 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 19:54"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 22:38"
+              },
+              "duration": 284,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 2398",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 182 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 63,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 544,
+          "carbon_emissions": {
+            "this_flight": 312000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -14
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFd05EQjhRVUV5TXprNEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTA0MCJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIyMzk4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:48"
+              },
+              "arrival_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 21:00"
+              },
+              "duration": 192,
+              "airplane": "Airbus A319",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1009",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 153 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago O'Hare International Airport",
+                "id": "ORD",
+                "time": "2026-05-05 22:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-06 00:36"
+              },
+              "duration": 276,
+              "airplane": "Boeing 737",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 1288",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 215 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 60,
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD"
+            }
+          ],
+          "total_duration": 528,
+          "carbon_emissions": {
+            "this_flight": 369000,
+            "typical_for_this_route": 361000,
+            "difference_percent": 2
+          },
+          "price": 287,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFCUVRFd01EbDhRVUV4TWpnNEdnc0k0ZDhCRUFJYUExVlRSRGdjY09IZkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJPUkQiLG51bGwsIkFBIiwiMTAwOSJdLFsiT1JEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiQUEiLCIxMjg4Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 05:45"
+              },
+              "arrival_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-05-05 07:24"
+              },
+              "duration": 99,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 1734",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 64 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Dulles International Airport",
+                "id": "IAD",
+                "time": "2026-05-05 09:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 11:48"
+              },
+              "duration": 348,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "United",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+              "travel_class": "Economy",
+              "flight_number": "UA 2101",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "On-demand video",
+                "Carbon emissions estimate: 244 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 96,
+              "name": "Dulles International Airport",
+              "id": "IAD"
+            }
+          ],
+          "total_duration": 543,
+          "carbon_emissions": {
+            "this_flight": 309000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -14
+          },
+          "price": 307,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZzFWUVRFM016UjhWVUV5TVRBeEdnc0lzTzhCRUFJYUExVlRSRGdjY0xEdkFRPT0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJJQUQiLG51bGwsIlVBIiwiMTczNCJdLFsiSUFEIiwiMjAyNi0wNS0wNSIsIlNFQSIsbnVsbCwiVUEiLCIyMTAxIl1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 07:20"
+              },
+              "arrival_airport": {
+                "name": "Chicago Midway International Airport",
+                "id": "MDW",
+                "time": "2026-05-05 09:05"
+              },
+              "duration": 165,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "Southwest",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+              "travel_class": "Economy",
+              "flight_number": "WN 961",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat USB outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 107 kg"
+              ]
+            },
+            {
+              "departure_airport": {
+                "name": "Chicago Midway International Airport",
+                "id": "MDW",
+                "time": "2026-05-05 10:15"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:45"
+              },
+              "duration": 270,
+              "airplane": "Boeing 737MAX 8 Passenger",
+              "airline": "Southwest",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+              "travel_class": "Economy",
+              "flight_number": "WN 3521",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat USB outlet",
+                "Stream media to your device",
+                "Carbon emissions estimate: 180 kg"
+              ]
+            }
+          ],
+          "layovers": [
+            {
+              "duration": 70,
+              "name": "Chicago Midway International Airport",
+              "id": "MDW"
+            }
+          ],
+          "total_duration": 505,
+          "carbon_emissions": {
+            "this_flight": 288000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -20
+          },
+          "price": 317,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ3hYVGprMk1YeFhUak0xTWpFYUN3aVk5d0VRQWhvRFZWTkVPQnh3bVBjQiIsW1siQk9TIiwiMjAyNi0wNS0wNSIsIk1EVyIsbnVsbCwiV04iLCI5NjEiXSxbIk1EVyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIldOIiwiMzUyMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 09:00"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 12:17"
+              },
+              "duration": 377,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 215",
+              "ticket_also_sold_by": [
+                "American"
+              ],
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ]
+            }
+          ],
+          "total_duration": 377,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpJeE5Sb0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMjE1Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 16:33"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 19:55"
+              },
+              "duration": 382,
+              "airplane": "Boeing 737",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 1437",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 297 kg"
+              ]
+            }
+          ],
+          "total_duration": 382,
+          "carbon_emissions": {
+            "this_flight": 297000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -18
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1pCVXpFME16Y2FDd2pBbWdJUUFob0RWVk5FT0J4d3dKb0MiLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMTQzNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 18:42"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 21:59"
+              },
+              "duration": 377,
+              "airplane": "Boeing 737MAX 9 Passenger",
+              "airline": "Alaska",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+              "travel_class": "Economy",
+              "flight_number": "AS 306",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 255 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 377,
+          "carbon_emissions": {
+            "this_flight": 256000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -29
+          },
+          "price": 362,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZCVXpNd05ob0xDTUNhQWhBQ0dnTlZVMFE0SEhEQW1nST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkFTIiwiMzA2Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-05-05 11:10"
+              },
+              "arrival_airport": {
+                "name": "Seattle-Tacoma International Airport",
+                "id": "SEA",
+                "time": "2026-05-05 14:23"
+              },
+              "duration": 373,
+              "airplane": "Airbus A321neo",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 332",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 262 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 373,
+          "carbon_emissions": {
+            "this_flight": 263000,
+            "typical_for_this_route": 361000,
+            "difference_percent": -27
+          },
+          "price": 462,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJYm5KbVRHdHdaMFJuY0ZGQlJHOXhNMUZDUnkwdExTMHRMUzB0TFhscFltTnhNa0ZCUVVGQlIyNVdSa3RKVDNWWFJIZEJFZ1ZFVERNek1ob0xDT1RvQWhBQ0dnTlZVMFE0SEhEazZBST0iLFtbIkJPUyIsIjIwMjYtMDUtMDUiLCJTRUEiLG51bGwsIkRMIiwiMzMyIl1dXQ=="
+        }
+      ]
+    }
+  }
+]

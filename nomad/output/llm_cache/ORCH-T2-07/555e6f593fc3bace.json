@@ -1,0 +1,58 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01KJstjQEdBRS6UmQeTwKZki",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_018HH1M8tuUMrtcMphkxFLQK",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "New York",
+          "destination": "London",
+          "start_date": "2026-10-03",
+          "end_date": "2026-10-10",
+          "duration_days": 7,
+          "budget_usd": 4000,
+          "num_travelers": 1,
+          "preferred_hotel_rating": 3,
+          "hotel_rating_priority": "hard",
+          "hotel_location": "near Westminster",
+          "interests": [
+            "breakfast included",
+            "British Museum",
+            "West End theatre",
+            "afternoon tea"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your 7-day London trip from October 3-10, 2026. I'll search for flights from NYC to London, find a 3-star (or better) hotel near Westminster with breakfast included, and plan activities including the British Museum, a West End theatre show, and a traditional afternoon tea experience—all within your $4,000 budget. Let me get started!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2682,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 334,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "search_metadata": {
+    "id": "69d52d9ce171b9ac87da706e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/R2UdQNGw_XIaMgNu0owczA/69d52d9ce171b9ac87da706e.json",
+    "created_at": "2026-04-07 16:15:24 UTC",
+    "processed_at": "2026-04-07 16:15:24 UTC",
+    "google_local_url": "https://www.google.com/search?q=kosher+restaurants&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/R2UdQNGw_XIaMgNu0owczA/69d52d9ce171b9ac87da706e.html",
+    "total_time_taken": 7.6
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "kosher restaurants",
+    "location_requested": "Chicago",
+    "location_used": "Chicago,Illinois,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 41.960000698656884,
+      "longitude": -87.6763916015625
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.3,
+      "reviews": 274,
+      "reviews_original": "(274)",
+      "price": "$10–20",
+      "description": "\"Everything was made fresh and the falafel melted in my mouth.\"",
+      "lsig": "AB86z5WWov7YvMwb-4fdEGt_X2HQ",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/Y41r8n7ZyuZjWX6s5RuTttAWcLU-qxiHmis-W6qV2MA.jpeg",
+      "place_id": "8769402982816235684",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8769402982816235684&q=kosher+restaurants",
+      "provider_id": "/g/11fmxpz9p2",
+      "gps_coordinates": {
+        "latitude": 41.879932,
+        "longitude": -87.630516
+      },
+      "title": "LaShuk Street Food",
+      "type": "Middle Eastern",
+      "address": "125 S Clark St"
+    },
+    {
+      "position": 2,
+      "rating": 4.9,
+      "reviews": 608,
+      "reviews_original": "(608)",
+      "description": "\"Yoko in Skokie offers excellent kosher Asian cuisine in a stylish setting.\"",
+      "lsig": "AB86z5X45WJ6Jz9R-N8NtKcl1T_7",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/VmOgJ4_AbP4p8NAzjuws785dvm4ZVUnr7oZmRer2jF4.jpeg",
+      "place_id": "3245847773650553189",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3245847773650553189&q=kosher+restaurants",
+      "provider_id": "/g/11w1whj7ct",
+      "gps_coordinates": {
+        "latitude": 42.026722,
+        "longitude": -87.72966
+      },
+      "title": "YOKO",
+      "type": "Kosher",
+      "address": "Skokie, IL",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.3,
+      "reviews": 143,
+      "reviews_original": "(143)",
+      "price": "$10–20",
+      "description": "\"Great food, great portions, superb customer service.\"",
+      "lsig": "AB86z5Xq_Tj-yo4JwdqkpUikQ4wW",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/bnwBU9b5NhKY138UBZLUofiqCF06DN5XHDv-YSgzW2c.jpeg",
+      "place_id": "1098631292847313026",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=1098631292847313026&q=kosher+restaurants",
+      "provider_id": "/g/11dfgvp44t",
+      "gps_coordinates": {
+        "latitude": 41.884235,
+        "longitude": -87.63373
+      },
+      "title": "BenjYehuda - Wells",
+      "type": "Mediterranean",
+      "address": "145 N Wells St"
+    },
+    {
+      "position": 4,
+      "rating": 4.4,
+      "reviews": 361,
+      "reviews_original": "(361)",
+      "price": "$10–20",
+      "description": "\"Absolutely delicious food with exceptional customer service!\"",
+      "lsig": "AB86z5X9ag6xBdHAsKUzadrw2AVT",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/FA-qw-F3_GNSK8fBgtEKDvHL6EGzlIvWKc-ivBmRPsQ.jpeg",
+      "place_id": "10176707385241268525",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10176707385241268525&q=kosher+restaurants",
+      "provider_id": "/g/11v1bl6s_k",
+      "gps_coordinates": {
+        "latitude": 41.895985,
+        "longitude": -87.62303
+      },
+      "title": "Gotham Bagels - Magnificent Mile",
+      "type": "Bagel shop",
+      "address": "162 E Superior St Unit B"
+    },
+    {
+      "position": 5,
+      "rating": 4.5,
+      "reviews": 42,
+      "reviews_original": "(42)",
+      "price": "$10–20",
+      "description": "\"I got challah for Shabbat dinner and it was so fresh and delicious!\"",
+      "lsig": "AB86z5WYNfUrvt2OiYdxUhPoPJYe",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/MOmvHQg0l7Q0JohKuHFIWFmwlNmcg-Cor5EsH_0DMzA.jpeg",
+      "place_id": "2660268239851695868",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=2660268239851695868&q=kosher+restaurants",
+      "provider_id": "/g/11vwhvv3xm",
+      "gps_coordinates": {
+        "latitude": 41.87651,
+        "longitude": -87.63869
+      },
+      "title": "Zeitlin's Delicatessen",
+      "type": "Restaurant",
+      "address": "433 W Van Buren St Suite 100"
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 90,
+      "reviews_original": "(90)",
+      "price": "$20–30",
+      "description": "\"Fantastic food plenty kosher and delicious\"",
+      "lsig": "AB86z5XAdIcT7pPTHrUWtnBxweua",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/wYuyZ8DZp4LFvdJwkLa1sEbM8sp6kOD9_XOk8LZdqAc.jpeg",
+      "place_id": "17070569845177905978",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17070569845177905978&q=kosher+restaurants",
+      "provider_id": "/g/11h2hdkr6p",
+      "gps_coordinates": {
+        "latitude": 42.029724,
+        "longitude": -87.71265
+      },
+      "title": "Crunch Catering & Restaurant",
+      "type": "Restaurant",
+      "address": "Skokie, IL"
+    },
+    {
+      "position": 7,
+      "rating": 4.1,
+      "reviews": 914,
+      "reviews_original": "(914)",
+      "price": "$10–20",
+      "description": "\"Excellent lox sandwich and very friendly staff.\"",
+      "lsig": "AB86z5X1Dz04Q8_d1ZKkh3SFRfsC",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/0JiQAoxIgj-XVrtW1lE9BgHyAxLb73G6KOxv1JpZZNQ.jpeg",
+      "place_id": "6978435737564625062",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=6978435737564625062&q=kosher+restaurants",
+      "provider_id": "/g/1thvt8ky",
+      "gps_coordinates": {
+        "latitude": 41.891346,
+        "longitude": -87.62946
+      },
+      "title": "Corey's NYC Bagel Deli",
+      "type": "Bagel shop",
+      "address": "515 N Dearborn St"
+    },
+    {
+      "position": 8,
+      "rating": 4.3,
+      "reviews": 233,
+      "reviews_original": "(233)",
+      "price": "$10–20",
+      "description": "\"Sarahs easily has the best kosher pizza in Chicago and the prices are fair.\"",
+      "lsig": "AB86z5XaorAxQaa6Ibtt5_Pf2ZCH",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/unhQdGVA7D-D3QBnN6q0tIgQ-Hhb2Wa1INZX4RwcNKg.jpeg",
+      "place_id": "15353583351018237625",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15353583351018237625&q=kosher+restaurants",
+      "provider_id": "/g/11gxsgr4tq",
+      "gps_coordinates": {
+        "latitude": 42.026585,
+        "longitude": -87.72933
+      },
+      "title": "Eve's Garden Cafe",
+      "type": "Restaurant",
+      "address": "Skokie, IL"
+    },
+    {
+      "position": 9,
+      "rating": 4.0,
+      "reviews": 198,
+      "reviews_original": "(198)",
+      "price": "$10–20",
+      "description": "\"Everything is made to order and fresh\"",
+      "lsig": "AB86z5Udvt7qcSZxmuQl1_rJHMYR",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/JWZbJMwWR9CJ5YVO2XPUDh8s94b4Y1nC2lT4rwO2NKM.png",
+      "place_id": "3357943880734939563",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3357943880734939563&q=kosher+restaurants",
+      "provider_id": "/g/11pt_2pvj_",
+      "gps_coordinates": {
+        "latitude": 41.875233,
+        "longitude": -87.62898
+      },
+      "title": "Gotham Bagels - South loop",
+      "type": "Bagel shop",
+      "address": "521 S Dearborn St Unit B"
+    },
+    {
+      "position": 10,
+      "rating": 3.9,
+      "reviews": 129,
+      "reviews_original": "(129)",
+      "price": "$10–20",
+      "description": "\"Wonderful people, food/ingredients, and prices.\"",
+      "lsig": "AB86z5UeH2VSE4CzOBRlPfMNduqd",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/Yp4Kwdh0enM2XjUOfughET7CzF3kAMHRuObFCL_bkmw.jpeg",
+      "place_id": "4900390799021728845",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4900390799021728845&q=kosher+restaurants",
+      "provider_id": "/g/11clr_j44l",
+      "gps_coordinates": {
+        "latitude": 41.882336,
+        "longitude": -87.640366
+      },
+      "title": "BenjYehuda - Madison (Ogilvie Train Station)",
+      "type": "Mediterranean",
+      "address": "500 W Madison St 1st FLOOR"
+    },
+    {
+      "position": 11,
+      "rating": 4.3,
+      "reviews": 2900,
+      "reviews_original": "(2.9K)",
+      "price": "$10–20",
+      "description": "\"Delicious, but very expensive.\"",
+      "lsig": "AB86z5Wwaci6M8m5oKXhh0if9v_Z",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/0cvKPzYAVEw2dzUm-4QDAKWcehnhjv6Q5cmcrJcA8hc.jpeg",
+      "place_id": "11717186567759145673",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=11717186567759145673&q=kosher+restaurants",
+      "provider_id": "/g/1tqpzv53",
+      "gps_coordinates": {
+        "latitude": 41.884106,
+        "longitude": -87.62812
+      },
+      "title": "Magnolia Bakery - Chicago",
+      "type": "Restaurant",
+      "address": "108 N State St"
+    },
+    {
+      "position": 12,
+      "rating": 4.1,
+      "reviews": 351,
+      "reviews_original": "(351)",
+      "price": "$10–20",
+      "description": "\"Fast, fresh, flavorful and friendly.\"",
+      "lsig": "AB86z5UaLqASb_HFITcPe4NWsyun",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/p7Xt5_FemoN9PKsCEyjLp9oMze-GUqr71Y7q2HoHSFQ.jpeg",
+      "place_id": "4865164943577936747",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=4865164943577936747&q=kosher+restaurants",
+      "provider_id": "/g/1ptzwqzvn",
+      "gps_coordinates": {
+        "latitude": 41.881424,
+        "longitude": -87.63275
+      },
+      "title": "BenjYehuda - La Salle",
+      "type": "Mediterranean",
+      "address": "10 S LaSalle St #2400"
+    },
+    {
+      "position": 13,
+      "rating": 4.6,
+      "reviews": 631,
+      "reviews_original": "(631)",
+      "price": "$100+",
+      "description": "\"Great kosher restaurant with great variety of meats and sushi to choose from\"",
+      "lsig": "AB86z5WD3LVVglRjyNsAoNDvGfnn",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/E8y2cFjmIMJw-tEyOGAUcejwEKn11Lay1svT5QdWruM.jpeg",
+      "place_id": "13687663423633097587",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13687663423633097587&q=kosher+restaurants",
+      "provider_id": "/g/1hc7xxgfy",
+      "gps_coordinates": {
+        "latitude": 42.008827,
+        "longitude": -87.762276
+      },
+      "title": "Shallots Bistro",
+      "type": "Kosher",
+      "address": "Skokie, IL",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.7,
+      "reviews": 810,
+      "reviews_original": "(810)",
+      "price": "$10–20",
+      "description": "\"delicious food, great service, best falafel I have ever had\"",
+      "lsig": "AB86z5VFareaaxGNBGIiZ9CBFrx0",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/prc_8N0JKq1J9FC8gE64TwJ7LyPkyRBB9-5FaJsVtSw.jpeg",
+      "place_id": "16725649445653431472",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=16725649445653431472&q=kosher+restaurants",
+      "provider_id": "/g/1tdd187d",
+      "gps_coordinates": {
+        "latitude": 41.885353,
+        "longitude": -87.635704
+      },
+      "title": "Taza Cafe",
+      "type": "Mediterranean",
+      "address": "176 N Franklin St #1822"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 452,
+      "reviews_original": "(452)",
+      "price": "$20–30",
+      "description": "\"The food was good and fresh, and the service was phenomenal.\"",
+      "lsig": "AB86z5UQqLDnELd0n3_MCk7kcatZ",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/2yLLw7mPrrwgi8MJvh6UznFolcxGCl5g3zVpFwYx8i8.png",
+      "place_id": "8351811869529036095",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8351811869529036095&q=kosher+restaurants",
+      "provider_id": "/g/11rbyy029r",
+      "gps_coordinates": {
+        "latitude": 41.99751,
+        "longitude": -87.72303
+      },
+      "title": "Nuovo Chicago",
+      "type": "Kosher",
+      "address": "Lincolnwood, IL",
+      "hours": "Opens soon · 11:30 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.8,
+      "reviews": 9200,
+      "reviews_original": "(9.2K)",
+      "description": "\"The falafel and hummus is absolutely unreal.\"",
+      "lsig": "AB86z5Xr2xIhTLcLutAErsO3d5y7",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/TWN81eDmVE1Fyu6toi1He7dndOeWmbrSJ_x_TJyy_hs.jpeg",
+      "place_id": "9209547638817621522",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=9209547638817621522&q=kosher+restaurants",
+      "provider_id": "/g/11g0j9p7ls",
+      "gps_coordinates": {
+        "latitude": 41.887005,
+        "longitude": -87.64885
+      },
+      "title": "Aba",
+      "type": "Mediterranean",
+      "address": "302 N Green St 3rd Floor",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 822,
+      "reviews_original": "(822)",
+      "price": "$10–20",
+      "description": "\"Their falafel sandwich is absolutely amazing (served inside of pita).\"",
+      "lsig": "AB86z5V1jJyi8-DhY1dKhloFSiWd",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/78FIePduRqY-URMtb67EI3xbAHkMQ9WsHm-2GN_7D0k.jpeg",
+      "place_id": "6076568737439012186",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=6076568737439012186&q=kosher+restaurants",
+      "provider_id": "/g/1tj80kz7",
+      "gps_coordinates": {
+        "latitude": 41.908062,
+        "longitude": -87.6343
+      },
+      "title": "Old Jerusalem Restaurant",
+      "type": "Middle Eastern",
+      "address": "1411 N Wells St"
+    },
+    {
+      "position": 18,
+      "rating": 4.4,
+      "reviews": 396,
+      "reviews_original": "(396)",
+      "price": "$10–20",
+      "description": "\"Kosher meat restaurant with good food at a reasonable price.\"",
+      "lsig": "AB86z5VCQAXWAD6oZsmC-knwA1N2",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/YS1JYSdLfT-uiuWMnuni3BZUkcdYaEyFE2DLEXWp1xQ.jpeg",
+      "place_id": "17894956410551702100",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=17894956410551702100&q=kosher+restaurants",
+      "provider_id": "/g/1tf24p96",
+      "gps_coordinates": {
+        "latitude": 41.997246,
+        "longitude": -87.708824
+      },
+      "title": "Great Chicago Food & Beverage Co",
+      "type": "Kosher",
+      "address": "3149 W Devon Ave"
+    },
+    {
+      "position": 19,
+      "rating": 4.5,
+      "reviews": 256,
+      "reviews_original": "(256)",
+      "price": "$10–20",
+      "description": "\"Great bagels, great pastrami, and awesome service.\"",
+      "lsig": "AB86z5XKz_nLL1SEqqpHbtdF7zSL",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/LLTPlZuUjsdw9_5daqSXazq6gIQ7PmiISgd4N1Qg5xs.jpeg",
+      "place_id": "759164059271117768",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=759164059271117768&q=kosher+restaurants",
+      "provider_id": "/g/11qng20z4c",
+      "gps_coordinates": {
+        "latitude": 41.880917,
+        "longitude": -87.6472
+      },
+      "title": "Rye Deli + Drink",
+      "type": "Restaurant",
+      "address": "25 S Halsted St"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 143,
+      "reviews_original": "(143)",
+      "price": "$10–20",
+      "description": "\"Friendly staff, great food, clean and comfy interior\"",
+      "lsig": "AB86z5VALEhALrsjjAiik40jCQw4",
+      "thumbnail": "https://serpapi.com/searches/69d52d9ce171b9ac87da706e/images/h5Ee0l7Ql9VY1yVlWenzdN1MuGN6XOGfCLNYx_1GyV0.jpeg",
+      "place_id": "14242477411166479927",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14242477411166479927&q=kosher+restaurants",
+      "provider_id": "/g/11y3mk_xbw",
+      "gps_coordinates": {
+        "latitude": 42.01173,
+        "longitude": -87.70344
+      },
+      "title": "Zalman's Hot Dogs",
+      "type": "Kosher",
+      "address": "2931 W Touhy Ave"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=kosher+restaurants&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=kosher+restaurants&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=kosher+restaurants&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=kosher+restaurants&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=kosher+restaurants&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=kosher+restaurants&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=kosher+restaurants&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=kosher+restaurants&start=20&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=kosher+restaurants&start=40&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=kosher+restaurants&start=60&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&q=kosher+restaurants&start=80&uule=w+CAIQICIeQ2hpY2FnbyxJbGxpbm9pcyxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

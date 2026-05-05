@@ -1,0 +1,509 @@
+{
+  "generated_at": "2026-04-07T12:31:26.425089",
+  "total_plans": 31,
+  "summary": {
+    "average_score": 0.9585806451612904,
+    "best_score": 1.0,
+    "worst_score": 0.685,
+    "excellent_count": 30,
+    "acceptable_count": 1,
+    "needs_revision_count": 0,
+    "fractional_csr_mean": 0.9516129032258065,
+    "binary_csr_pass_count": 29
+  },
+  "results": {
+    "ORCH-T1-01": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Origin: BOS": true,
+        "Destination: SEA": true
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "ORCH-T1-02": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: downtown Chicago": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T1-03": {
+      "overall_score": 0.685,
+      "schema_compliance": 1.0,
+      "csr_score": 0.0,
+      "csr_binary_pass": false,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "hotel_location: near South Congress Avenue": false
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T1-04": {
+      "overall_score": 0.925,
+      "schema_compliance": 0.667,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": false,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T1-05": {
+      "overall_score": 0.925,
+      "schema_compliance": 0.667,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": false,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T1-06": {
+      "overall_score": 0.925,
+      "schema_compliance": 0.667,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": false,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-01": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: French Quarter": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-02": {
+      "overall_score": 0.98,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-03": {
+      "overall_score": 0.975,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "hotel_location: near McCormick Place": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-04": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-05": {
+      "overall_score": 0.842,
+      "schema_compliance": 1.0,
+      "csr_score": 0.5,
+      "csr_binary_pass": false,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": false,
+        "hotel_location: near National Mall": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-06": {
+      "overall_score": 0.925,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-07": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Westminster": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T2-08": {
+      "overall_score": 0.98,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "hotel_location: near ski slopes": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-01-turn1": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-01-turn2": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-01-turn3": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Times Square": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-02-turn1": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Origin: ORD": true,
+        "Destination: MIA": true
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "ORCH-T3-02-turn2": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-02-turn3": {
+      "overall_score": 0.89,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 0.667,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-03-turn1": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-03-turn2": {
+      "overall_score": 0.925,
+      "schema_compliance": 0.667,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": false,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-04-turn1": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "hotel_location: near South Beach": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-04-turn2": {
+      "overall_score": 0.96,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 0.8,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Origin: BOS": true,
+        "Destination: CUN": true
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "ORCH-T3-04-turn3": {
+      "overall_score": 0.98,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-05-turn1": {
+      "overall_score": 0.96,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 0.8,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "hotel_location: near the Loop": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-05-turn2": {
+      "overall_score": 0.95,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-05-turn3": {
+      "overall_score": 0.925,
+      "schema_compliance": 0.667,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": false,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-05-turn4": {
+      "overall_score": 0.964,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 0.8,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-06-turn1": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {},
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    },
+    "ORCH-T3-06-turn2": {
+      "overall_score": 1.0,
+      "schema_compliance": 1.0,
+      "csr_score": 1.0,
+      "csr_binary_pass": true,
+      "tool_accuracy": 1.0,
+      "itinerary_validity": true,
+      "has_conflicts": false,
+      "constraint_breakdown": {
+        "Hotel rating: at least 3 stars": true,
+        "hotel_location: near Las Vegas Strip": true
+      },
+      "errors": [],
+      "warnings": [
+        "No departure airport found",
+        "No arrival airport found"
+      ]
+    }
+  }
+}

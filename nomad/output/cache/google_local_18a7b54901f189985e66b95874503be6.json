@@ -1,0 +1,482 @@
+{
+  "search_metadata": {
+    "id": "69d51c47932b0eee04950c60",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s7xJVdelp18_7MomIG58xw/69d51c47932b0eee04950c60.json",
+    "created_at": "2026-04-07 15:01:27 UTC",
+    "processed_at": "2026-04-07 15:01:27 UTC",
+    "google_local_url": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/s7xJVdelp18_7MomIG58xw/69d51c47932b0eee04950c60.html",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "vegan restaurants",
+    "location_requested": "San Francisco",
+    "location_used": "San Francisco Bay Area,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 37.782383403274565,
+      "longitude": -122.41464614868164
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.5,
+      "reviews": 238,
+      "reviews_original": "(238)",
+      "price": "$20–30",
+      "lsig": "AB86z5W6cvdUq542S3peExklHsQG",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/10_O-XofbIBSnBnYLXt1Mo5hre__6pnsKKXNKJYp6Ss.jpeg",
+      "place_id": "2439976837139767128",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2439976837139767128&q=vegan+restaurants",
+      "provider_id": "/g/11rgcjdt6d",
+      "gps_coordinates": {
+        "latitude": 37.778088,
+        "longitude": -122.422676
+      },
+      "title": "Om Sabor",
+      "type": "Vegan",
+      "address": "370 Grove St",
+      "hours": "Closed · Opens 3 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 2,
+      "rating": 4.7,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$30–40",
+      "lsig": "AB86z5WyVUUrZemZ8bVo7Xgv8SPb",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/dWj7In4gD4h-JG_fIlPWWKdkAMdkJcKgWvQYdh5UXxQ.jpeg",
+      "place_id": "13878078190866534047",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=13878078190866534047&q=vegan+restaurants",
+      "provider_id": "/g/11b6_gwvm0",
+      "gps_coordinates": {
+        "latitude": 37.7683,
+        "longitude": -122.421684
+      },
+      "title": "Shizen",
+      "type": "Vegan",
+      "address": "370 14th St",
+      "hours": "Closed · Opens 5 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 3,
+      "rating": 4.5,
+      "reviews": 604,
+      "reviews_original": "(604)",
+      "description": "\"Fantastic vegan restaurant in SF with unique dishes and great atmosphere.\"",
+      "lsig": "AB86z5VShn_lc3U0IwCgRqLm_-DH",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/OXE9aowzfMkZ3T_E8TVFwpA90EekqNcPQi23BQwGH-A.jpeg",
+      "place_id": "13686094195963484054",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=13686094195963484054&q=vegan+restaurants",
+      "provider_id": "/g/11s5bzf1x_",
+      "gps_coordinates": {
+        "latitude": 37.776955,
+        "longitude": -122.42161
+      },
+      "title": "Rad Radish",
+      "type": "Restaurant",
+      "address": "301 Hayes St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.6,
+      "reviews": 88,
+      "reviews_original": "(88)",
+      "price": "$10–20",
+      "description": "\"Tasty and fresh, great vegan options- the owners were SO lovely!\"",
+      "lsig": "AB86z5Uw59gSyfykUe9ygweGWM49",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/fyL4ang5hjy0sOJ_x7YItLOkS2euLcrqylYdK0rsCzc.jpeg",
+      "place_id": "11697431427522830759",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=11697431427522830759&q=vegan+restaurants",
+      "provider_id": "/g/11gjt6g4h4",
+      "gps_coordinates": {
+        "latitude": 37.792725,
+        "longitude": -122.40187
+      },
+      "title": "Local Roots by Opa Cafe",
+      "type": "Restaurant",
+      "address": "70 Leidesdorff St"
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 879,
+      "reviews_original": "(879)",
+      "price": "$20–30",
+      "lsig": "AB86z5XdJcXMi7PAE3e5tK0jEvjB",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/4ipnPadX4gawiCZSWDRHYrDYGtm7TO0mhKI3gFNgY1w.jpeg",
+      "place_id": "752357349835885149",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=752357349835885149&q=vegan+restaurants",
+      "provider_id": "/g/11b7244w97",
+      "gps_coordinates": {
+        "latitude": 37.7814,
+        "longitude": -122.41678
+      },
+      "title": "Golden Era",
+      "type": "Vegan",
+      "address": "395 Golden Gate Ave",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 6,
+      "rating": 5.0,
+      "reviews": 260,
+      "reviews_original": "(260)",
+      "price": "$20–30",
+      "description": "\"Vegetarian-friendly, great food and drinks, and everyone is super nice!\"",
+      "lsig": "AB86z5WzRlwblifnwSGAt2Xt5v02",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/rGvrIVXmg4zjI8muPx2ulSqhKQIQ3WTIAQQa7KS6W9M.jpeg",
+      "place_id": "13860213543865688529",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=13860213543865688529&q=vegan+restaurants",
+      "provider_id": "/g/11thtft00g",
+      "gps_coordinates": {
+        "latitude": 37.782684,
+        "longitude": -122.3968
+      },
+      "title": "Boochmania",
+      "type": "Mediterranean",
+      "address": "685 Harrison St",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 7,
+      "rating": 4.6,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "description": "\"It’s a vegan restaurant with outstanding food options and cocktails.\"",
+      "lsig": "AB86z5XWJ04kXJRI4vC0RzfB74hd",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/Q90wld-DMqWKMBBpmAS8JUt_xeF4eYlErJ-uLbTILfA.jpeg",
+      "place_id": "8328974222457553626",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=8328974222457553626&q=vegan+restaurants",
+      "provider_id": "/g/11fn4ztjjz",
+      "gps_coordinates": {
+        "latitude": 37.797626,
+        "longitude": -122.43244
+      },
+      "title": "Wildseed",
+      "type": "Restaurant",
+      "address": "2000 Union St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$20–30",
+      "description": "\"Best vegan breakfast burrito I’ve ever had and great coffee too!\"",
+      "lsig": "AB86z5VYyv4dFOzs-cxmUXXk1S96",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/dtHp3r-ojtQ573QnhCWAu6tajUNPqXi_KjPC9duuzRE.jpeg",
+      "place_id": "17167338190865312281",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=17167338190865312281&q=vegan+restaurants",
+      "provider_id": "/g/11qpqy096v",
+      "gps_coordinates": {
+        "latitude": 37.787846,
+        "longitude": -122.41299
+      },
+      "title": "Heist Restaurant",
+      "type": "Breakfast",
+      "address": "678 Post St"
+    },
+    {
+      "position": 9,
+      "rating": 4.6,
+      "reviews": 365,
+      "reviews_original": "(365)",
+      "price": "$10–20",
+      "lsig": "AB86z5WD5FbvViueD7RjRuAKmHW1",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/YkHMMD_Ws85Sfr2o3t_EuyC8bcs4HDIMeE0RM7wcUr4.jpeg",
+      "place_id": "10239776955387566534",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=10239776955387566534&q=vegan+restaurants",
+      "provider_id": "/g/1hm5_1c1x",
+      "gps_coordinates": {
+        "latitude": 37.775967,
+        "longitude": -122.41418
+      },
+      "title": "Moya",
+      "type": "Vegan",
+      "address": "121 9th St",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 10,
+      "rating": 4.7,
+      "reviews": 344,
+      "reviews_original": "(344)",
+      "price": "$30–50",
+      "description": "\"Great vegetarian options, nice ambiance and excellent service.\"",
+      "lsig": "AB86z5UMJEQXV6KRSJ7nUXiuAHgR",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/o2pEkbxS0x9jsE-oYzARTVt1fSgdWbGwU1Eb-Buu8gM.jpeg",
+      "place_id": "3816539634967347767",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=3816539634967347767&q=vegan+restaurants",
+      "provider_id": "/g/11n_z9crf0",
+      "gps_coordinates": {
+        "latitude": 37.765076,
+        "longitude": -122.42261
+      },
+      "title": "Freekeh",
+      "type": "Middle Eastern",
+      "address": "3126 16th St",
+      "hours": "Closed · Opens 5:30 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.7,
+      "reviews": 362,
+      "reviews_original": "(362)",
+      "price": "$20–30",
+      "lsig": "AB86z5Xha_HxNn4K8TQSmGDbm0tH",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/IjkyAuKhc6KXbY1-vbYGGQlRAKSLoJjRJfn9c5ilPow.jpeg",
+      "place_id": "16541069415288948011",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=16541069415288948011&q=vegan+restaurants",
+      "provider_id": "/g/11t0t08qx2",
+      "gps_coordinates": {
+        "latitude": 37.764084,
+        "longitude": -122.46223
+      },
+      "title": "Savor Cafe",
+      "type": "Vegetarian",
+      "address": "401 Irving St",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 12,
+      "rating": 4.7,
+      "reviews": 112,
+      "reviews_original": "(112)",
+      "price": "$40–50",
+      "lsig": "AB86z5UKRb_ajZ3vd20xis9VFzQn",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/XnNsSB-ZrGksFE0bjrw-c4doCz909qV2aNnNgsSvzIE.jpeg",
+      "place_id": "372751461504712264",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=372751461504712264&q=vegan+restaurants",
+      "provider_id": "/g/11xkwcz10k",
+      "gps_coordinates": {
+        "latitude": 37.761147,
+        "longitude": -122.43427
+      },
+      "title": "aíso",
+      "type": "Vegan",
+      "address": "4068 18th St",
+      "hours": "Closed · Opens 5 PM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 13,
+      "rating": 4.4,
+      "reviews": 299,
+      "reviews_original": "(299)",
+      "price": "$10–20",
+      "lsig": "AB86z5WsHIzCol5P_2QdIoIEGYUz",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/-gCxTDf0HAhPOG4Ij-Ui7oyrgxJaPJM8u5-_t45mrUY.jpeg",
+      "place_id": "4822205420208450503",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=4822205420208450503&q=vegan+restaurants",
+      "provider_id": "/g/11h_vbxy6j",
+      "gps_coordinates": {
+        "latitude": 37.783398,
+        "longitude": -122.461426
+      },
+      "title": "Palmetto Superfoods - Clement",
+      "type": "Vegan",
+      "address": "291 3rd Ave",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 14,
+      "rating": 4.2,
+      "reviews": 526,
+      "reviews_original": "(526)",
+      "price": "$10–20",
+      "lsig": "AB86z5XdMLiA0zEiV1l7MHkFVMhA",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/ZwRUemmz3ekmPRUJ6fpUn-mDIQMFjGaH5okqXE2q0Jg.jpeg",
+      "place_id": "11172112620658266857",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=11172112620658266857&q=vegan+restaurants",
+      "provider_id": "/g/1tjdrkcn",
+      "gps_coordinates": {
+        "latitude": 37.795116,
+        "longitude": -122.40741
+      },
+      "title": "The Lucky Creation Vegetarian Restaurant",
+      "type": "Vegan",
+      "address": "854 Washington St",
+      "hours": "Closed · Opens 11 AM",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 15,
+      "rating": 5.0,
+      "reviews": 20,
+      "reviews_original": "(20)",
+      "lsig": "AB86z5XHdwRuzPvlQdPk6SuIPe0g",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/7l44XC1NYscy7TG4dlF6hdV0eKvdFqMOTy78yKAcAH4.jpeg",
+      "place_id": "2897355019962188271",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2897355019962188271&q=vegan+restaurants",
+      "provider_id": "/g/11ssdcjlqq",
+      "gps_coordinates": {
+        "latitude": 37.80513,
+        "longitude": -122.402954
+      },
+      "title": "Casita Vegana SF",
+      "type": "Vegan",
+      "address": "Pier 27, The Embarcadero",
+      "hours": "Closed · Opens 12 PM Sun",
+      "extensions": [
+        "Serves vegan dishes"
+      ]
+    },
+    {
+      "position": 16,
+      "rating": 4.5,
+      "reviews": 480,
+      "reviews_original": "(480)",
+      "description": "\"Everything was absolutely superb for being plant-based/vegan dishes.\"",
+      "lsig": "AB86z5X0HlssLIUCu9isgrYxdOse",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/rs0T2GqMWrZxvm_pXRhTIZww7GEap9qi7We144YYWy8.jpeg",
+      "place_id": "14919358124896627442",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=14919358124896627442&q=vegan+restaurants",
+      "provider_id": "/m/0k376__",
+      "gps_coordinates": {
+        "latitude": 37.799744,
+        "longitude": -122.41054
+      },
+      "title": "Peña Pachamama",
+      "type": "Vegan",
+      "address": "1630 Powell St",
+      "hours": "Closed · Opens 5:30 PM Wed"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews": 797,
+      "reviews_original": "(797)",
+      "price": "$30–50",
+      "description": "\"Took a vegan and a pair of Carnivores and everyone left full and happy\"",
+      "lsig": "AB86z5XAKbm5j2HEJT_ICkEFmweV",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/PXks2bIVyuRezl68LQx1fWAfLxnv1i8VXlvFyl9GVBo.jpeg",
+      "place_id": "12467834949175741597",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=12467834949175741597&q=vegan+restaurants",
+      "provider_id": "/g/1v9gvpyk",
+      "gps_coordinates": {
+        "latitude": 37.751167,
+        "longitude": -122.43824
+      },
+      "title": "Firefly Restaurant",
+      "type": "American",
+      "address": "4288 24th St",
+      "hours": "Closed · Opens 5:30 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.6,
+      "reviews": 262,
+      "reviews_original": "(262)",
+      "price": "$100+",
+      "description": "\"They make a point to accommodate any dietary restrictions.\"",
+      "lsig": "AB86z5VAQodPvauKZnt5MRrPixR3",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/xB_MX1g8sM35wTL3hUbNlZiwAcG1kWM5rTXThJiEhe4.jpeg",
+      "place_id": "7008874281616194152",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=7008874281616194152&q=vegan+restaurants",
+      "provider_id": "/g/11cmxz0mgr",
+      "gps_coordinates": {
+        "latitude": 37.77652,
+        "longitude": -122.42279
+      },
+      "title": "Nightbird",
+      "type": "Fine Dining",
+      "address": "330 Gough St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.8,
+      "reviews": 269,
+      "reviews_original": "(269)",
+      "price": "$10–20",
+      "description": "\"... avocado spinach cucumber smoothie is so creamy and it’s vegan!!\"",
+      "lsig": "AB86z5Xg_preR-mQ2wczpAIVUkNe",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/DbEAFKbBieO74hs5hfaLnbvl_GYRUr8A1XpLOywpcBY.jpeg",
+      "place_id": "7219507392066991551",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=7219507392066991551&q=vegan+restaurants",
+      "provider_id": "/g/11yd9ldk61",
+      "gps_coordinates": {
+        "latitude": 37.77645,
+        "longitude": -122.418076
+      },
+      "title": "Jay’s Grill",
+      "type": "Restaurant",
+      "address": "1400 Market St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 20,
+      "rating": 4.5,
+      "reviews": 656,
+      "reviews_original": "(656)",
+      "price": "$10–20",
+      "description": "\"Every bite felt nourishing yet indulgent, which is hard to pull off!\"",
+      "lsig": "AB86z5Uw0uv8GUY1B7488KonWHfE",
+      "thumbnail": "https://serpapi.com/searches/69d51c47932b0eee04950c60/images/_oY22OhLicignTeOP0tcNWcyVLTrMUjlfHhTZ2vcu18.jpeg",
+      "place_id": "2792258463431626779",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=2792258463431626779&q=vegan+restaurants",
+      "provider_id": "/g/11cjhqzltt",
+      "gps_coordinates": {
+        "latitude": 37.76477,
+        "longitude": -122.41948
+      },
+      "title": "Kitava",
+      "type": "Health Food",
+      "address": "2011 Mission St",
+      "hours": "Closed · Opens 11 AM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=vegan+restaurants&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=vegan+restaurants&start=20&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=vegan+restaurants&start=20&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=vegan+restaurants&start=20&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=vegan+restaurants&start=40&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=vegan+restaurants&start=60&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&q=vegan+restaurants&start=80&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

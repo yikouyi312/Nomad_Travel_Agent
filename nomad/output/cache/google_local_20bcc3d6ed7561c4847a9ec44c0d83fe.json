@@ -1,0 +1,391 @@
+{
+  "search_metadata": {
+    "id": "69d51bd72efef82bffd35af3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AHciOulKHoUD42oSqk3xMg/69d51bd72efef82bffd35af3.json",
+    "created_at": "2026-04-07 14:59:35 UTC",
+    "processed_at": "2026-04-07 14:59:35 UTC",
+    "google_local_url": "https://www.google.com/search?q=ocean+views&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/AHciOulKHoUD42oSqk3xMg/69d51bd72efef82bffd35af3.html",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "ocean views",
+    "location_requested": "Miami",
+    "location_used": "Miami-Dade County,Florida,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 25.522614647623293,
+      "longitude": -80.31280517578125
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 5.0,
+      "reviews": 73,
+      "reviews_original": "(73)",
+      "description": "\"10/10 highly recommend!\"",
+      "lsig": "AB86z5VurugO4QMd-P_t9YrlT-zZ",
+      "links": {
+        "website": "https://www.oceanviewsonthebay.com/"
+      },
+      "place_id": "11019445766554591641",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=11019445766554591641&q=ocean+views",
+      "title": "Ocean Views On The Bay LLC",
+      "type": "Boat rental service",
+      "phone": "(786) 202-4496",
+      "hours": "Open · Closes 11 PM"
+    },
+    {
+      "position": 2,
+      "lsig": "AB86z5UgR38MzykAm0cTEw6oniOz",
+      "links": {
+        "website": "https://usa.accomoly.com/listings/185207?googleVR=1&utm_source=google&utm_medium=vacation_rentals"
+      },
+      "place_id": "12355922781617065950",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12355922781617065950&q=ocean+views",
+      "provider_id": "/g/11n9c97119",
+      "gps_coordinates": {
+        "latitude": 25.761616,
+        "longitude": -80.19037
+      },
+      "title": "Luxury Sky Villa w/ City & Ocean Views",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 3,
+      "lsig": "AB86z5X52uQN6koIn6mM8WZp3GgZ",
+      "place_id": "16067831216327525918",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16067831216327525918&q=ocean+views",
+      "provider_id": "/g/11n9c8nh_v",
+      "gps_coordinates": {
+        "latitude": 25.762,
+        "longitude": -80.19
+      },
+      "title": "Luxury Sky Villa w/ City & Ocean Views",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 4,
+      "lsig": "AB86z5UpydcTKg-bP_u00SRH2m77",
+      "links": {
+        "website": "https://www.casamundo.de/rental/225aed310d827eed?adword=cm_gvf/DE/s/ct=s/n-a/n-a/5460aeac1d0f1&utm_source=gvf"
+      },
+      "place_id": "16832822230990745079",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16832822230990745079&q=ocean+views",
+      "provider_id": "/g/11n9dmk87l",
+      "gps_coordinates": {
+        "latitude": 25.792,
+        "longitude": -80.187
+      },
+      "title": "Bayfront Miami Condo w/ Resort Perks & Ocean Views",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 5,
+      "lsig": "AB86z5UwbnP-3eIMKCSIixF80GGl",
+      "links": {
+        "website": "https://www.expedia.com/Hotel.h30667820.Hotel-Information?mdpcid=META.HPA.WEB-ORGANIC.VR"
+      },
+      "place_id": "18151498057131699098",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=18151498057131699098&q=ocean+views",
+      "provider_id": "/g/11n9wczgpg",
+      "gps_coordinates": {
+        "latitude": 25.771563,
+        "longitude": -80.133316
+      },
+      "title": "Incredible Ocean Views! Luxury 2BD in Heart of South Beach & Steps to the Sand!",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 6,
+      "lsig": "AB86z5XOegFvIf7eSJdPcR-WYcpG",
+      "links": {
+        "website": "https://www.decolar.com/hoteis/h-4775878"
+      },
+      "place_id": "16260228951009620715",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16260228951009620715&q=ocean+views",
+      "provider_id": "/g/11z1dg3zfr",
+      "gps_coordinates": {
+        "latitude": 25.791346,
+        "longitude": -80.18621
+      },
+      "title": "Bayfront Miami Condo w/ Resort Perks & Ocean Views",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 7,
+      "lsig": "AB86z5UtOlflZmkwhiF6qMSmrfyR",
+      "links": {
+        "website": "https://br.bluepillow.com/search/6335f579314064d8ba35ac1c?dest=bkng&cat=House&lat=25.77798&lng=-80.19009&language=pt"
+      },
+      "place_id": "6132824868950585849",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6132824868950585849&q=ocean+views",
+      "provider_id": "/g/11z142p_jm",
+      "gps_coordinates": {
+        "latitude": 25.778038,
+        "longitude": -80.19009
+      },
+      "title": "Luxury 2 BDR 2 Bath• Downtown • Unique Ocean Views - Two-Bedroom Apartment",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 8,
+      "lsig": "AB86z5XjuyZq59nvbQOJIrC2GpHi",
+      "links": {
+        "website": "https://br.bluepillow.com/search/5df4f462e24da45b685cc08f?dest=bkng&cat=House&lat=25.0192&lng=-80.50269&language=pt"
+      },
+      "place_id": "986945000258408998",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=986945000258408998&q=ocean+views",
+      "provider_id": "/g/11z21hlyd0",
+      "gps_coordinates": {
+        "latitude": 25.019236,
+        "longitude": -80.50271
+      },
+      "title": "LICENSED MGR - MODERN OCEANFRONT - OCEAN VIEWS CONDO! BAR and BEACH RESORT! - Holiday Home",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 9,
+      "lsig": "AB86z5XsZtLz9dcvuzJvKbP6iS0h",
+      "place_id": "10567282462615232010",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10567282462615232010&q=ocean+views",
+      "provider_id": "/g/11z142x8yv",
+      "gps_coordinates": {
+        "latitude": 25.7995,
+        "longitude": -80.12691
+      },
+      "title": "1 Hotel Homes. Direct ocean views from every room. In South Beach. Miami Beach",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 10,
+      "lsig": "AB86z5VczKjbdRkbFfpQkY_pC6Gf",
+      "place_id": "6400006030417160160",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6400006030417160160&q=ocean+views",
+      "provider_id": "/g/11z144pznb",
+      "gps_coordinates": {
+        "latitude": 25.780228,
+        "longitude": -80.19108
+      },
+      "title": "Ocean Views, Downtown, Pool, and Family fun!",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 11,
+      "rating": 3.6,
+      "reviews": 167,
+      "reviews_original": "(167)",
+      "lsig": "AB86z5VgEuZTEc0Kg-lCSUh1cJzV",
+      "service_options": {
+        "swimming_pool": true,
+        "on_site_parking": true,
+        "elevator": true
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//HOME+OceanView+Sunny+Isles,+19380+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9acc277960ec9:0xe01747e68f11a419?sa=X&ved=2ahUKEwjQiPzAgNyTAxX8RjABHf-vJzcQ48ADegQIIRAA&hl=en&gl=us"
+      },
+      "place_id": "16147454044528550937",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16147454044528550937&q=ocean+views",
+      "provider_id": "/g/11btv663_h",
+      "gps_coordinates": {
+        "latitude": 25.954926,
+        "longitude": -80.123276
+      },
+      "title": "HOME OceanView Sunny Isles",
+      "type": "Condominium complex",
+      "phone": "(786) 505-9657",
+      "address": "Sunny Isles Beach, FL",
+      "hours": "Open 24 hours"
+    },
+    {
+      "position": 12,
+      "lsig": "AB86z5X-ro8mfUZoBK2h92Fw8QVe",
+      "links": {
+        "website": "https://whimstay.com/detail/Breathtaking-Bay-Views-and-Stylish-Amenities-Chic-Miami-Retreat/100787676?isgoogle=true"
+      },
+      "place_id": "16562891031544392371",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16562891031544392371&q=ocean+views",
+      "provider_id": "/g/11z21h8f8v",
+      "gps_coordinates": {
+        "latitude": 25.761847,
+        "longitude": -80.19022
+      },
+      "title": "Stylish Brickell Stay with Ocean Views & Pool",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 13,
+      "lsig": "AB86z5UmHIV5Xgl3uECWC3XC_Rnf",
+      "place_id": "9693205256412655323",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9693205256412655323&q=ocean+views",
+      "provider_id": "/g/11zksyjpz_",
+      "gps_coordinates": {
+        "latitude": 25.776344,
+        "longitude": -80.18995
+      },
+      "title": "Amazing Bay and Ocean views! Pool + Gym",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 14,
+      "lsig": "AB86z5XSfWrqJimu0GKWqKu0DA3e",
+      "place_id": "1967006258232962463",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1967006258232962463&q=ocean+views",
+      "provider_id": "/g/11z21hg2kc",
+      "gps_coordinates": {
+        "latitude": 25.768663,
+        "longitude": -80.18873
+      },
+      "title": "Luxury Brickell Condo with Balcony and Ocean Views",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 15,
+      "lsig": "AB86z5Vf9mV2M3ftyh32XzB7dd0C",
+      "links": {
+        "website": "https://booking.myangelhost.com/properties/686832cdffacb10012ddd73c"
+      },
+      "place_id": "6251003288100179498",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6251003288100179498&q=ocean+views",
+      "provider_id": "/g/11n9c9flkz",
+      "gps_coordinates": {
+        "latitude": 25.78023,
+        "longitude": -80.19108
+      },
+      "title": "Ocean Views | Pool & Gym, Vibrant Central Access",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 16,
+      "lsig": "AB86z5WB8n-KNFkNtRBmOZD2Am_e",
+      "links": {
+        "website": "https://br.bluepillow.com/search/61ef12d9113b0ba9fb966d9b/796534307?dest=bkng&cat=Apartment&lat=25.78299&lng=-80.13042&language=pt"
+      },
+      "place_id": "16936023191347569193",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=16936023191347569193&q=ocean+views",
+      "provider_id": "/g/11n9c9t0m8",
+      "gps_coordinates": {
+        "latitude": 25.782995,
+        "longitude": -80.130455
+      },
+      "title": "Sobe Ocean Views of South Beach - Studio with Ocean View",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 17,
+      "lsig": "AB86z5WvmxEE8mZzCJbgCnwi1pvD",
+      "links": {
+        "website": "https://br.bluepillow.com/search/62df115bba454484938a19b0?dest=bkng&cat=House&lat=25.76219&lng=-80.18948&language=pt"
+      },
+      "place_id": "10262185828973568063",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=10262185828973568063&q=ocean+views",
+      "provider_id": "/g/11z21jx4xj",
+      "gps_coordinates": {
+        "latitude": 25.76219,
+        "longitude": -80.18948
+      },
+      "title": "Unforgettable Ocean Views 3BR with POOL GYM SPA - Three-Bedroom Apartment",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 18,
+      "lsig": "AB86z5Xsq09bRFJRK1xKRZKYkRmf",
+      "place_id": "6635155511350795060",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6635155511350795060&q=ocean+views",
+      "provider_id": "/g/11z2c8ykvt",
+      "gps_coordinates": {
+        "latitude": 25.780205,
+        "longitude": -80.19158
+      },
+      "title": "Stylish Apartments with Partial Ocean Views in Downtown",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 19,
+      "lsig": "AB86z5UjKizJii_bHVclHxDECgyz",
+      "links": {
+        "website": "https://br.bluepillow.com/search/65de300253168d605d3e6c93?dest=ago&cat=Apartment&lat=25.77903&lng=-80.18943&language=pt"
+      },
+      "place_id": "14811876571911101075",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14811876571911101075&q=ocean+views",
+      "provider_id": "/g/11n9cb_hwp",
+      "gps_coordinates": {
+        "latitude": 25.77903,
+        "longitude": -80.18943
+      },
+      "title": "Luxury Apt with Amazing Ocean Views All of Miami",
+      "reviews_original": "No reviews",
+      "type": "Vacation rental"
+    },
+    {
+      "position": 20,
+      "rating": 3.3,
+      "reviews": 9,
+      "reviews_original": "(9)",
+      "price": "$10–20",
+      "description": "\"View is ok if u step outside the restaurant on to the pool area.\"",
+      "lsig": "AB86z5WZAambPJqn4vwbjzZqafpg",
+      "links": {
+        "website": "https://www.marriott.com/en-us/hotels/mianm-residence-inn-miami-sunny-isles-beach/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+        "directions": "https://www.google.com/maps/dir//Ocean+View+on+Nine,+17700+Collins+Ave,+Sunny+Isles+Beach,+FL+33160/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9ada9db052dbd:0x8a738aeb077d79e3?sa=X&ved=2ahUKEwjQiPzAgNyTAxX8RjABHf-vJzcQ48ADegQIIBAA&hl=en&gl=us"
+      },
+      "place_id": "9976470341603391971",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9976470341603391971&q=ocean+views",
+      "provider_id": "/g/11gm7kcs3t",
+      "gps_coordinates": {
+        "latitude": 25.939781,
+        "longitude": -80.12214
+      },
+      "title": "Ocean View on Nine",
+      "type": "Restaurant",
+      "phone": "(386) 496-8311",
+      "address": "Sunny Isles Beach, FL",
+      "hours": "Closed · Opens 12 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ocean+views&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ocean+views&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=ocean+views&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=ocean+views&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=ocean+views&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=ocean+views&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=ocean+views&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=ocean+views&start=20&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=ocean+views&start=40&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=ocean+views&start=60&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&q=ocean+views&start=80&uule=w+CAIQICInTWlhbWktRGFkZSBDb3VudHksRmxvcmlkYSxVbml0ZWQgU3RhdGVz"
+    }
+  }
+}

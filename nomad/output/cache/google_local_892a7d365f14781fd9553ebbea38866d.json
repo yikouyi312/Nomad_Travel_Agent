@@ -1,0 +1,455 @@
+{
+  "search_metadata": {
+    "id": "69d52b6ef7e99646eb10fe95",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/x_wXJzcGbdO57QXzqBUzUQ/69d52b6ef7e99646eb10fe95.json",
+    "created_at": "2026-04-07 16:06:06 UTC",
+    "processed_at": "2026-04-07 16:06:06 UTC",
+    "google_local_url": "https://www.google.com/search?q=craft+beer&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/x_wXJzcGbdO57QXzqBUzUQ/69d52b6ef7e99646eb10fe95.html",
+    "total_time_taken": 6.98
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "craft beer",
+    "location_requested": "Denver",
+    "location_used": "Denver,Colorado,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 39.74626606218367,
+      "longitude": -104.98638153076172
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 5.0,
+      "reviews": 130,
+      "reviews_original": "(130)",
+      "price": "$10–20",
+      "description": "\"Tasty beer, friendly service, big and comfortable space.\"",
+      "lsig": "AB86z5VUnVtU7T4uX0N2s9lcxl1v",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/3Z1jBoZOxDq0WonI-YRnQE437r5vMxvBGqyNDrRyV20.jpeg",
+      "place_id": "14466966722241756032",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14466966722241756032&q=craft+beer",
+      "provider_id": "/g/11x1_lxn5r",
+      "gps_coordinates": {
+        "latitude": 39.75225,
+        "longitude": -104.99147
+      },
+      "title": "Full Frame Beer & Coffee",
+      "type": "Brewpub",
+      "address": "1139 20th St"
+    },
+    {
+      "position": 2,
+      "rating": 4.8,
+      "reviews": 408,
+      "reviews_original": "(408)",
+      "description": "\"Great beers, great service, awesome outdoor seating.\"",
+      "lsig": "AB86z5WueM6V-XvYxLE7pNSy0jr5",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/egftoU6k_ClG0kEuPDj2Y5Eawn3jxQyXsh_wPEHNIwA.jpeg",
+      "place_id": "13792506732895679603",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=13792506732895679603&q=craft+beer",
+      "provider_id": "/g/1vd95lf8",
+      "gps_coordinates": {
+        "latitude": 39.73724,
+        "longitude": -105.01489
+      },
+      "title": "Strange Craft Beer Company",
+      "type": "Brewery",
+      "address": "1330 Zuni St Unit M",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.1,
+      "reviews": 249,
+      "reviews_original": "(249)",
+      "price": "$20–30",
+      "description": "\"Great drink menu, a variety of beers on tap, and delicious food.\"",
+      "lsig": "AB86z5UGfYaUS7JJx84_NMp1yDIT",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/p8fP3oigsGuJMx6rRwHtejG86iwtpAS3YiiZnkXIsSY.jpeg",
+      "place_id": "17514942387173704991",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17514942387173704991&q=craft+beer",
+      "provider_id": "/g/11mdgsqxbg",
+      "gps_coordinates": {
+        "latitude": 39.73425,
+        "longitude": -104.98923
+      },
+      "title": "Schoolyard Beer Garden",
+      "type": "Restaurant",
+      "address": "1115 Acoma St #116",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 339,
+      "reviews_original": "(339)",
+      "description": "\"Staff is so friendly, beer is delicious, and the atmosphere is unbeatable.\"",
+      "lsig": "AB86z5XU82pQ8rQ2PcB2Sm2OKpeV",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/QID1aIEIjOpa-PHEVl147RnFAdv2gSGznz-8t949boM.jpeg",
+      "place_id": "14263997957124285379",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=14263997957124285379&q=craft+beer",
+      "provider_id": "/g/11mvz97z00",
+      "gps_coordinates": {
+        "latitude": 39.769894,
+        "longitude": -104.95784
+      },
+      "title": "Cohesion Brewing",
+      "type": "Brewery",
+      "address": "3851 Steele St Unit 1388",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.9,
+      "reviews": 318,
+      "reviews_original": "(318)",
+      "description": "\"Delicious, flavorful beers and a cool friendly bartender.\"",
+      "lsig": "AB86z5Us0ZcepSwgvHfC3t_GF-eF",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/_IFm8h1cGrOD2mr5UHxzJk1pK2BaCcln7RKEjv_5XtQ.jpeg",
+      "place_id": "3191769947821021953",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=3191769947821021953&q=craft+beer",
+      "provider_id": "/g/11rcbklt1n",
+      "gps_coordinates": {
+        "latitude": 39.743088,
+        "longitude": -104.96821
+      },
+      "title": "Reverence Brewing Company",
+      "type": "Brewery",
+      "address": "1604 E 17th Ave",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.7,
+      "reviews": 133,
+      "reviews_original": "(133)",
+      "price": "$10–20",
+      "description": "\"Great rotating taps that highlight a variety of styles.\"",
+      "lsig": "AB86z5XOqawbGxLh1yawCCbQaAzO",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/Fed0b6ui_GAUNcGOz9BWELg-mbyYDGZZxjaiLUi4B3k.jpeg",
+      "place_id": "2980990253844087882",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2980990253844087882&q=craft+beer",
+      "provider_id": "/g/11s4s21w_p",
+      "gps_coordinates": {
+        "latitude": 39.752834,
+        "longitude": -104.99691
+      },
+      "title": "Westbound & Down Brewing Company",
+      "type": "Brewpub",
+      "address": "1801 Blake St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.5,
+      "reviews": 61,
+      "reviews_original": "(61)",
+      "price": "$10–20",
+      "description": "\"The beers are delicious and the food is insanely good and portions are huge!\"",
+      "lsig": "AB86z5VhzPI8UhIfEf-rHQ-ZiWS9",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/aehGjfBLTCvKhWZQ1b2PiewecjWAJj5ivxFI7o9W7hk.jpeg",
+      "place_id": "1321420818251194896",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1321420818251194896&q=craft+beer",
+      "provider_id": "/g/11l2fq4vd4",
+      "gps_coordinates": {
+        "latitude": 39.72741,
+        "longitude": -104.98461
+      },
+      "title": "Out of the Barrel Taproom",
+      "type": "Bar",
+      "address": "205 E 7th Ave",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 353,
+      "reviews_original": "(353)",
+      "description": "\"Nice craft beer, loved the terp IPA, nice flavor, cool vibe 10/10\"",
+      "lsig": "AB86z5VkToOmh9Z05p2_LrzaQkT2",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/ypPEksVZQ4YtZRYXpCwie2xozYy-uOToNgRFAt_8l48.jpeg",
+      "place_id": "16939360478136558593",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=16939360478136558593&q=craft+beer",
+      "provider_id": "/g/1tk8p26d",
+      "gps_coordinates": {
+        "latitude": 39.73062,
+        "longitude": -104.999306
+      },
+      "title": "Renegade Brewing",
+      "type": "Brewery",
+      "address": "925 W 9th Ave",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.7,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "\"Impeccable service and a super unique tap selection.\"",
+      "lsig": "AB86z5VlDYC6bAGQ98Ike3xDiivz",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/i9jVRCJVWLWA_o4Tf9WFCDc4tBiZADGzmnRI3KXM1nc.jpeg",
+      "place_id": "5992583103707764478",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5992583103707764478&q=craft+beer",
+      "provider_id": "/g/1ydpv9px1",
+      "gps_coordinates": {
+        "latitude": 39.72394,
+        "longitude": -104.99847
+      },
+      "title": "Black Sky Brewery",
+      "type": "Brewery",
+      "address": "490 Santa Fe Dr",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 10,
+      "rating": 4.6,
+      "reviews": 267,
+      "reviews_original": "(267)",
+      "description": "\"Fantastic beers, staff, ambiance, and ownership.\"",
+      "lsig": "AB86z5XxCCtmujIqjTThVzC6BvQl",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/0l9B0Sg02iTy-9mg_4iZE3BdfPk24t-dx3SDVydS1Zo.jpeg",
+      "place_id": "11890068193958653560",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=11890068193958653560&q=craft+beer",
+      "provider_id": "/g/11g0zn6rk_",
+      "gps_coordinates": {
+        "latitude": 39.71849,
+        "longitude": -104.992294
+      },
+      "title": "Novel Strand Brewing Company",
+      "type": "Brewery",
+      "address": "305 W 1st Ave"
+    },
+    {
+      "position": 11,
+      "rating": 4.8,
+      "reviews": 199,
+      "reviews_original": "(199)",
+      "description": "\"Cozy taproom with great staff and unique and delicious brews!\"",
+      "lsig": "AB86z5XUkWqlqG7xO1n2UhLvM5aC",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/BSfrnLuE5cznGsiLUmKG_TNpbRjEiqigPlYXCkBBieQ.jpeg",
+      "place_id": "2433438630869964590",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2433438630869964590&q=craft+beer",
+      "provider_id": "/g/11b64hz40c",
+      "gps_coordinates": {
+        "latitude": 39.780815,
+        "longitude": -105.005005
+      },
+      "title": "Crooked Stave Brewing Company",
+      "type": "Brewery",
+      "address": "1441 W 46th Ave Unit 19",
+      "hours": "Closed · Opens 1 PM"
+    },
+    {
+      "position": 12,
+      "rating": 4.8,
+      "reviews": 270,
+      "reviews_original": "(270)",
+      "description": "\"Fantastic beer, friendly service, and the food + coffee programs are legit.\"",
+      "lsig": "AB86z5WjNQeLOZGOkcqm7oO9jaL-",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/1R_086zgtElhyeKZW8zAlK2ke5OUWDdin3vKw-AkTQo.jpeg",
+      "place_id": "9367138772833957805",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=9367138772833957805&q=craft+beer",
+      "provider_id": "/g/1hjgtvjt5",
+      "gps_coordinates": {
+        "latitude": 39.776062,
+        "longitude": -105.04351
+      },
+      "title": "Alley Brews Brewery & Coffee Shop",
+      "type": "Brewery",
+      "address": "4342 Tennyson St"
+    },
+    {
+      "position": 13,
+      "rating": 4.7,
+      "reviews": 173,
+      "reviews_original": "(173)",
+      "description": "\"Amazing beer, incredible service, and a super rad vibe.\"",
+      "lsig": "AB86z5Wa4VhPzqawKydgVey3oEy-",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/sOaxhCIA8Za5E_C_AyHjgJsLU-t66kJ_jKDD1Vvw86A.jpeg",
+      "place_id": "5184620685637430827",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=5184620685637430827&q=craft+beer",
+      "provider_id": "/g/1hc1r8xx9",
+      "gps_coordinates": {
+        "latitude": 39.76734,
+        "longitude": -104.977104
+      },
+      "title": "River North Brewery - RiNo Taproom",
+      "type": "Brewery",
+      "address": "3400 Blake St",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.9,
+      "reviews": 146,
+      "reviews_original": "(146)",
+      "description": "\"Best spot for super fresh local and rotating out of town craft beers.\"",
+      "lsig": "AB86z5X67_MMkQEg1LP1uQegXEak",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/XRByO06z9T-snv-BX7LHqWK2Vl_h4-kWytGtXZRQvrM.jpeg",
+      "place_id": "8154042815421194714",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=8154042815421194714&q=craft+beer",
+      "provider_id": "/g/11b5yrm9vg",
+      "gps_coordinates": {
+        "latitude": 39.76886,
+        "longitude": -105.011086
+      },
+      "title": "Cask and Craft",
+      "type": "Liquor store",
+      "address": "3744 Tejon St",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.3,
+      "reviews": 2200,
+      "reviews_original": "(2.2K)",
+      "price": "$20–30",
+      "description": "\"Great mix of craft beer, expertly crafted cocktails, and delicious food.\"",
+      "lsig": "AB86z5WUse7q-Gc3c_x8xDrn6qEV",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/3TIagDYStzwkPFYInGOYL-isKmLK27us_kWCycg7Uaw.jpeg",
+      "place_id": "2119405564011552726",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2119405564011552726&q=craft+beer",
+      "provider_id": "/m/07rdm8",
+      "gps_coordinates": {
+        "latitude": 39.753445,
+        "longitude": -104.9985
+      },
+      "title": "Wynkoop Brewing Company",
+      "type": "Brewpub",
+      "address": "1634 18th St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 16,
+      "rating": 4.6,
+      "reviews": 950,
+      "reviews_original": "(950)",
+      "price": "$10–20",
+      "description": "\"Comfortable layout, good service and all around good craft beer.\"",
+      "lsig": "AB86z5VmoYgb2yNLJmFcDgoDl65W",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/UCmykGrT94Sxfmki8tQaCrey1ylxUdsrlOoTpFpfVdI.jpeg",
+      "place_id": "10588296308032417232",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=10588296308032417232&q=craft+beer",
+      "provider_id": "/g/1hd_dq_zx",
+      "gps_coordinates": {
+        "latitude": 39.769764,
+        "longitude": -104.97285
+      },
+      "title": "Black Shirt Brewing Co and Craft Pizza Kitchen",
+      "type": "Brewpub",
+      "address": "3719 Walnut St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews": 2000,
+      "reviews_original": "(2K)",
+      "price": "$20–30",
+      "description": "\"Good local beer selection, great location and ambiance, and friendly staff.\"",
+      "lsig": "AB86z5Xsgkwz-Wnhs20Px2CXPTIf",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/OHHFNUTKIQWFdMQpM27wdkDoSugAUDZY8MSy-fJm-y8.jpeg",
+      "place_id": "4751401329178580396",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=4751401329178580396&q=craft+beer",
+      "provider_id": "/g/11clysyv61",
+      "gps_coordinates": {
+        "latitude": 39.751083,
+        "longitude": -105.02041
+      },
+      "title": "Briar Common Brewery + Eatery",
+      "type": "Brewpub",
+      "address": "2298 Clay St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 18,
+      "rating": 4.8,
+      "reviews": 87,
+      "reviews_original": "(87)",
+      "description": "\"The service: attentive and friendly The beer: delicious\"",
+      "lsig": "AB86z5VRetEyhOZCw6yq05jXUveT",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/NBH5QZy0dff-6vj6ASJDWbtBGtpWSqeDb4IQ0XZMX64.jpeg",
+      "place_id": "2845444405144278577",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=2845444405144278577&q=craft+beer",
+      "provider_id": "/g/11v9vrpw_d",
+      "gps_coordinates": {
+        "latitude": 39.773983,
+        "longitude": -104.93114
+      },
+      "title": "4 Noses Brewing Company",
+      "type": "Brewery",
+      "address": "4040 Dahlia St",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4.7,
+      "reviews": 70,
+      "reviews_original": "(70)",
+      "description": "\"The friendliest staff, tastiest beers, and coolest space.\"",
+      "lsig": "AB86z5Xv8nLZozGYJqX6FdASm1t5",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/KcM0vfKh5ZTmFGjeQVP5v_SYftuPB-r8uTEr8xu8FKI.jpeg",
+      "place_id": "1646710565651851355",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=1646710565651851355&q=craft+beer",
+      "provider_id": "/g/11wqpzb3mf",
+      "gps_coordinates": {
+        "latitude": 39.7631,
+        "longitude": -105.034966
+      },
+      "title": "Cerebral Brewing - West Highland",
+      "type": "Brewery",
+      "address": "3257 Lowell Blvd",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews": 680,
+      "reviews_original": "(680)",
+      "description": "\"Friendly staff, great ambiance, and killer beers.\"",
+      "lsig": "AB86z5UuhzrL6xR20Z8Nm_zUCAGq",
+      "thumbnail": "https://serpapi.com/searches/69d52b6ef7e99646eb10fe95/images/JZdq79lPuW-xGgVNHjv_7l1UjJr81zh-d615VqEoGYg.jpeg",
+      "place_id": "17512899492240093932",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&ludocid=17512899492240093932&q=craft+beer",
+      "provider_id": "/g/11c45vm4l_",
+      "gps_coordinates": {
+        "latitude": 39.750916,
+        "longitude": -104.98456
+      },
+      "title": "Woods Boss Brewing Company",
+      "type": "Brewery",
+      "address": "2210 California St",
+      "hours": "Closed · Opens 2 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=craft+beer&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=craft+beer&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=craft+beer&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=craft+beer&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=craft+beer&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=craft+beer&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=craft+beer&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=craft+beer&start=20&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=craft+beer&start=40&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=craft+beer&start=60&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Denver&q=craft+beer&start=80&uule=w+CAIQICIdRGVudmVyLENvbG9yYWRvLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

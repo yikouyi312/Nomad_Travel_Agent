@@ -1,0 +1,199 @@
+{
+  "search_metadata": {
+    "id": "69d51c3e71a41d218c41b70c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RdWPXP2jNYxEaCKmISyX-w/69d51c3e71a41d218c41b70c.json",
+    "created_at": "2026-04-07 15:01:18 UTC",
+    "processed_at": "2026-04-07 15:01:18 UTC",
+    "google_local_url": "https://www.google.com/search?q=Golden+Gate+Park&uule=w+CAIQICIvU2FuIEZyYW5jaXNjbyBCYXkgQXJlYSxDYWxpZm9ybmlhLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/RdWPXP2jNYxEaCKmISyX-w/69d51c3e71a41d218c41b70c.html",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Golden Gate Park",
+    "location_requested": "San Francisco",
+    "location_used": "San Francisco Bay Area,California,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 37.76297984117803,
+      "longitude": -122.47987747192381
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 44000,
+      "reviews_original": "(44K)",
+      "description": "Gardens, trails, museums & festivals",
+      "lsig": "AB86z5WhbHL25zHUe_ti56mifuJC",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/GgWRV_bEYmqF44JUJ5la5DRxSYEiN-NiFAiJNV4ZXY4.jpeg",
+      "place_id": "8196141654667405104",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=8196141654667405104&q=Golden+Gate+Park",
+      "provider_id": "/m/025psq",
+      "gps_coordinates": {
+        "latitude": 37.76892,
+        "longitude": -122.48298
+      },
+      "title": "Golden Gate Park",
+      "type": "Park",
+      "address": "San Francisco, CA"
+    },
+    {
+      "position": 2,
+      "rating": 4.7,
+      "reviews": 424,
+      "reviews_original": "(424)",
+      "description": "Grassy area in Golden Gate Park",
+      "lsig": "AB86z5VIaUIjk0risGlCH4hb3y-Y",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/XLZMUr24t-Le37dXYdyj_Sr1ildO5EdGUQCc19oxRWI.jpeg",
+      "place_id": "749655385119884561",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=749655385119884561&q=Golden+Gate+Park",
+      "provider_id": "/g/1tdfyyzs",
+      "gps_coordinates": {
+        "latitude": 37.769108,
+        "longitude": -122.458015
+      },
+      "title": "Golden Gate Park - East",
+      "type": "Park",
+      "address": "320 Bowling Green Dr"
+    },
+    {
+      "position": 3,
+      "rating": 4.4,
+      "reviews": 230,
+      "reviews_original": "(230)",
+      "lsig": "AB86z5Wdq62LhsSOW03LWuoMX1l_",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/xGWXiCcexyK7gC1_RNJs6Syx_4VfSHyc8oyl9lBgllI.jpeg",
+      "service_options": {
+        "food": true,
+        "nine_hole_course": true
+      },
+      "place_id": "10515563230732967494",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=10515563230732967494&q=Golden+Gate+Park",
+      "provider_id": "/m/04tfryp",
+      "gps_coordinates": {
+        "latitude": 37.76842,
+        "longitude": -122.50508
+      },
+      "title": "Golden Gate Park Golf Course",
+      "type": "Public golf course",
+      "address": "970 47th Ave"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 7900,
+      "reviews_original": "(7.9K)",
+      "description": "Green refuge with rare plant collections",
+      "lsig": "AB86z5U4Ceh3d3envBpaDurzsJNp",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/vmLHwP02QcrmmKm0qywjnChXVnHXk75ccamPdra1BX4.jpeg",
+      "place_id": "16759038375513916226",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=16759038375513916226&q=Golden+Gate+Park",
+      "provider_id": "/m/03d95_",
+      "gps_coordinates": {
+        "latitude": 37.767708,
+        "longitude": -122.469315
+      },
+      "title": "San Francisco Botanical Garden",
+      "type": "Botanical garden",
+      "address": "1199 9th Ave"
+    },
+    {
+      "position": 5,
+      "rating": 4.8,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "description": "Large vibrant playground with a carousel",
+      "lsig": "AB86z5X0hpfMJsS3vxNdVkkcnJOR",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/AAsCahzSxGfIpdiQLCUj_mjBf3HoE3dVNdywNQkquIk.jpeg",
+      "place_id": "3815595146811076214",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=3815595146811076214&q=Golden+Gate+Park",
+      "provider_id": "/g/1tdmq8mk",
+      "gps_coordinates": {
+        "latitude": 37.768246,
+        "longitude": -122.45729
+      },
+      "title": "Koret Children's Playground",
+      "type": "Playground",
+      "address": "Koret Children's Quarter Playground, Martin Luther King Jr Dr & Bowling Green Dr"
+    },
+    {
+      "position": 6,
+      "rating": 4.5,
+      "reviews": 151,
+      "reviews_original": "(151)",
+      "lsig": "AB86z5V4LJGLeFZJpwtUvOEDakmu",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/JeEetAh6eMITH-JEvXFFugsWul9qcIIfcppI1_WLmgw.jpeg",
+      "place_id": "16732102200269382576",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=16732102200269382576&q=Golden+Gate+Park",
+      "provider_id": "/g/1tgpn7rs",
+      "gps_coordinates": {
+        "latitude": 37.77178,
+        "longitude": -122.454765
+      },
+      "title": "McLaren Lodge",
+      "type": "Historical landmark",
+      "address": "501 Stanyan St"
+    },
+    {
+      "position": 7,
+      "rating": 4.6,
+      "reviews": 501,
+      "reviews_original": "(501)",
+      "description": "Multisport field with a cycling track",
+      "lsig": "AB86z5V2g6pMEOHbbegtYogvqLod",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/zKzaABDZj4hbAmpOgK01C7iUgyDncoUlJHdTCW35a_I.jpeg",
+      "place_id": "1865438089007150081",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=1865438089007150081&q=Golden+Gate+Park",
+      "provider_id": "/m/0t51ncp",
+      "gps_coordinates": {
+        "latitude": 37.76821,
+        "longitude": -122.493225
+      },
+      "title": "Golden Gate Park Polo Field",
+      "type": "Park",
+      "address": "1232 John F Kennedy Dr",
+      "hours": "Closed · Opens 9 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.7,
+      "reviews": 249,
+      "reviews_original": "(249)",
+      "description": "Classic city park with ocean views",
+      "lsig": "AB86z5VV05g11jZ_cTByaJO6tx1y",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/zmD_S7R_QtIJ9rI_HqSGuxJj-Z-3H3Q9N4cUwcKNqGo.jpeg",
+      "place_id": "8175800783587707779",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=8175800783587707779&q=Golden+Gate+Park",
+      "provider_id": "/g/1tctm085",
+      "gps_coordinates": {
+        "latitude": 37.750404,
+        "longitude": -122.46889
+      },
+      "title": "Golden Gate Heights Park",
+      "type": "Park",
+      "address": "2002 12th Ave"
+    },
+    {
+      "position": 9,
+      "lsig": "AB86z5VKTlw8WvU9mvAFJAP_h9EJ",
+      "thumbnail": "https://serpapi.com/searches/69d51c3e71a41d218c41b70c/images/dNRDRrskAfk2lEA-DWue8j8cr7iNk1l2kZtwGL4bX7Y.jpeg",
+      "place_id": "9769282179281193920",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=San+Francisco&ludocid=9769282179281193920&q=Golden+Gate+Park",
+      "provider_id": "/g/1tvdk089",
+      "gps_coordinates": {
+        "latitude": 37.76802,
+        "longitude": -122.46701
+      },
+      "title": "Golden Gate Park",
+      "address": "San Francisco, CA"
+    }
+  ]
+}

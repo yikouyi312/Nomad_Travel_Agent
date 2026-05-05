@@ -1,0 +1,293 @@
+{
+  "search_metadata": {
+    "id": "69d52d2bf9c5e98fcbdb053c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uL0uKOo69AAnhBRmcJPHDA/69d52d2bf9c5e98fcbdb053c.json",
+    "created_at": "2026-04-07 16:13:31 UTC",
+    "processed_at": "2026-04-07 16:13:31 UTC",
+    "google_local_url": "https://www.google.com/search?q=all-inclusive+resort&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/uL0uKOo69AAnhBRmcJPHDA/69d52d2bf9c5e98fcbdb053c.html",
+    "total_time_taken": 2.37
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "all-inclusive resort",
+    "location_requested": "Cancun",
+    "location_used": "Cancun,Quintana Roo,Mexico",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Hotel Flamingo All Inclusive",
+      "type": "4-star hotel",
+      "rating": 3.8,
+      "reviews": 7700,
+      "reviews_original": "(7.7K)",
+      "price": "MX$2,340",
+      "images": [
+        "https://serpapi.com/searches/69d52d2bf9c5e98fcbdb053c/images/-KfY4z99YYzKnBjd3WszP2mlBtO72rRrz3hN3G0xLVA.jpeg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerJTiD3dec7LhExCtkMTtJqq7c8kkdifR6gdvQhSQCVoyFfeXRRux5TK60nkQdPkTvjff_KPcSwkn6k22mjUdgljYPTPtCDeU47n9aiDgiqSzXycbgvD2xbJDpSB3JLHcvTslZHgj-3jdJI=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerqUAA51QPTdCmdIcb7iZM6oJaQlGt0KgsrnWONtssJhKXu60MKS2D4CXSAaGh9QyfmKcoZm_aaDwUZQ0Fu2ttbJqTqUJqHT8L8taTz_LM6Mj0-u-ehIc5krzFkL_-lBTlwn6TIGEPnW2SQ=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqDuzF3Tp2-6qfUcYWkAQMo4Vi7byxIHX-Hm2zkWEpxgtFZERUs5Pk7EJ1zEmmUrtEnmd-ElgqIyWB8J4LtH79b7m-pd6VODW3XdDnU7p-DWkG_Op9Fyq8urOzzebMt24DsXzwcnw=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqsJEm0luVPXphr4Coe3tn3AsXY8m7yqYUJ50Zda8xKVBsgMwGQkI86CDEbpaIKiLOipjxnhBu5H3zvz2jDGmowyQCdpsJsMUV9HA5baXoOWfvHnTFDXPqHv0A99knF6pQtGPvGdArlaas=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaFQjQ4RyZVTSH7avt03Ky5jYV8CEockF4kGgRU3AkiPMqjKw7lddyIEs8ffgB92vcVFkVKIIh-TtXjMs6EHTfhg2xiwHZPRybA5KeAo8H4UeoCuzVtClS8-Km7o8bRrdcuIDmzMMGELoA=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "10890129239316032101",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=10890129239316032101&q=all-inclusive+resort",
+      "provider_id": "/g/1tcyyh0j",
+      "gps_coordinates": {
+        "latitude": 21.1177805,
+        "longitude": -86.7568675
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Spa"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Hotel Emporio Cancún optional All-Inclusive",
+      "type": "4-star hotel",
+      "rating": 4.3,
+      "reviews": 8700,
+      "reviews_original": "(8.7K)",
+      "price": "MX$2,329",
+      "description": "Refined beachfront hotel with dining",
+      "images": [
+        "https://serpapi.com/searches/69d52d2bf9c5e98fcbdb053c/images/Gav8vHtE078apTa7o7nwreAGXs0tJdt-HYbfbH67NmI.jpeg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq-UC_mSH7afy8beUvvrlMmRrDT3Jl8CXTyGO8hHabf5zUR4prfHtxyaJnrFGWeMTz2SzYmBRrhyJur8fQLRqL4qGeG1z2wy0z9mmwB60-SzYey5_q9b-cWQ7-z_wP6WxLTUJZL=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerxg7OAIQBGtr3w_BCW5WXt-S29Sb3NlarCfFSY4rmqrqSTOSOqW-u2Nq4a1Q4LHSpAK8atbKTFX6A3Fkm22qsFVXxscT-rYjtpCMl3VPJ0ZljbAg4Q1Sn2v77LYzXXTbvafUg=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepXRQ-y9Z5mHy9ATakc5hX_xh4yh8DnZq-jOIHAi518bMzYfeWp4YbS96xA22zpny0UbFsYbVUi2HkyhnpxFvaTZ_Fnu9cEHUXNYVq3MBD2WAa9jYjIL_pqj-YQGFGprGSe2py3p_0OrIc=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGVgk0axwdFVwRxd4VDwvlXMPmTiyLy3b-wT7CskAurculB2I3JcvVJ1MeDARyUUPk5byMhC3s8QSktaGHg4fShqeiCxQH0z51EPaitsk9G5sRzG5_MxBihjnw_4MniiAD3UnjUzxS80t60OQIyleFBqv5lO-iY4iY3qfBDwLJXJrp0IQFSGW4=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEzHfPBPajJOpqsg5YFWTWR01GFClFiRnyNWazkcgtor9ZpvXO4A2vjDU9Ml_slvd3Yw6t11TmsTw9y8ckGyTWVyogHv3DP2yYErpY4L32nPxA9HQ0cvTrLuJdQ0_iKDoWt8EeOL0u5r0t0Rh4eTT0yChccid2Kkx4dOgBuJVyhC-8C4IvxSr9YYw=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "3871937406682096435",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=3871937406682096435&q=all-inclusive+resort",
+      "provider_id": "/g/1q629kctb",
+      "gps_coordinates": {
+        "latitude": 21.0731978,
+        "longitude": -86.77652979999999
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Spa"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Hotel NYX Cancun",
+      "type": "4-star hotel",
+      "rating": 4.5,
+      "reviews": 8600,
+      "reviews_original": "(8.6K)",
+      "price": "MX$2,525",
+      "images": [
+        "https://serpapi.com/searches/69d52d2bf9c5e98fcbdb053c/images/KAyXmD0__ddR1msAbc3RKBqIEGJYt4jd6i0Cc6Arpkw.jpeg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoid3Dw6fCILujwc-6mqfNidncCV0EHbw_8PyrF1BMVssOVnueRxDvL_yLwdI1oABNtS9dsq9AP0JtZGQ4QQANXbUcki-7HqmgRqikRgKZU9bWkxGOQpj3WhBSOiJBMJJC_yLQxCcLw1kUI=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepVAebVkMg7E48fswP1QGrkuxbuI9HYEAWNrAEPNzaVzuudoZ8i6BJHzFH_FbmJwnyQl0_Z6MgLi01xqygq_ZBmTLp3I77IUK1n4rVsHRC6KEkLQN60XKSzhvRe1MKdtLZme8Xgis-g4xNx=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepXt4wi9ODcAXnNka6eNRYaA9LD4NsWnVmNfaRU_be-oIj_O4B0KAVeosXO_UxaDvnBT-l8Sadn4AJUurMV_KQXrSMlpXWaVX-nh7VlhkVRX9REbfNsy1xL9hXtRTop_si-j21P=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepQrHaTwtqvCbgWfsD1w3AOSLKuG1W2W5fPqPHXrkgC5QtP7Mlx5CnaegsjjzCrJCAPx1wF7ZTmW4Qe67qqjjy3pDboRuebCvGHPUFNdKRwOpP-kkoDdARUq5R2kHrJHaH_8X6j=s204-w204-h116-p-n-k-no",
+        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M7n5s0iiXe4AAAQvPGgiTg&cb_client=search.gws-prod.gps&yaw=80&pitch=0&thumbfov=100&w=592&h=404"
+      ],
+      "place_id": "12105548488008613773",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=12105548488008613773&q=all-inclusive+resort",
+      "provider_id": "/g/11b5qhkh65",
+      "gps_coordinates": {
+        "latitude": 21.114281,
+        "longitude": -86.7586275
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Spa"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Royalton CHIC Cancun, An Autograph Collection All-Inclusive Resort - Adults Only",
+      "type": "5-star hotel",
+      "rating": 4.0,
+      "reviews": 3700,
+      "reviews_original": "(3.7K)",
+      "price": "MX$4,739",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerEcibv0DICV_RChxUw804KR-V86_3BVntbKST7fDYAMUiiZtdvtAsp3m015tmShmPa5BUT9lucUHlY3S6Fn1eXkHA9c36ReD_c8t_WpXDbtE8CnGxD5XoSgiVVdg3wy4r-Gw9W=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcnhGBaiyqZ0G8xnxY-CHohEe73Phwwhdo53Ly8A_FJXvq7L_jWbDMhoQHB5htPKp6Xp0fRLKdkLjim5jTre9Ql0rqwv85ovvcvahv8idGL5zs1X5q6EAMiPkZ9ZJc9h-j8UXEyg=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqIBi7hOQBgRWhH9RwUbdfGXW7mIQW2kvLfW1gl9-DSFwCYCkdtXjsf_gt2P6hB9aVuLX-ZiXFGZ3-uiE1kz-IjtZCT6UjrV19cJYaGQ-d6CL7elk1Py_EQs0Hy1ZOJYiNG7F0=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoClNbs4pP_J78zMc7JIUFW_eRO304a4h1QEHkFKkvbKQpTEoua2IQ8XMt-isR1900-StdBMxAHy_nh3BL9I4FEm2ovFeSKGqan4rRRbOFR9ss9Fh7lDbKjHv2L6U1VCnSshMEu=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGJk-eK8ZeCp1IIAuv_sGe3RaZDchfmlZRlyFLQ5EgSz09kyMr_-XaTldyuM1fuIVdOKcqZpHzTub4GYJ_bEPJmU4_s0MsSB1_y3r1i7MbpmxVJMqGBhx2qb1PVa6fMl9pNUx-uusFNJND3R4E-zRktd7Pr7XS91tjT7_GwG7JDF75sJgxlBYfj=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFN7aCzq5_Z4_N9_UMC5tVSl0PVvpHSJSq1r2bweSGGa3xRsPNw7tgdAUeHkobTlheYcuuoGB_l-vRU4m44qYyTx_32J_0pUd5_xcNwSmAyCpUHU7HoFhDbfjFMSz-mEDZoqQ2iRx2nMfOJMuGjPXSHJuhdgNHbpo1iwESMjZCMR3FA38VtFa_8=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "4635976743368900385",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=4635976743368900385&q=all-inclusive+resort",
+      "provider_id": "/g/11f3s8b7gs",
+      "gps_coordinates": {
+        "latitude": 21.1272567,
+        "longitude": -86.7522011
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Spa"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Royal Sands - Resort & SPA",
+      "type": "4-star hotel",
+      "rating": 4.5,
+      "reviews": 5400,
+      "reviews_original": "(5.4K)",
+      "price": "MX$5,911",
+      "description": "Polished all-inclusive beachfront resort",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHg_OLvVEv5VSxgbs8cCGusdHGrH9Y9FDtId3dkSTJ5_G06PbCSZFJLtBEatBnkNAQsVVUd9FxaidWp2UgINB8y-BicbeC0md-lxN--ilA4d_GR4aO_azN8M3qBVPMHvdf0AZDGUEpATIjcwttP6ZjFIvNO08T-x4v8tiZtVGoMRBSSSgydqBa-7g=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGe_Wp0t1oMUV0J-N_aiGqqnEP5_gfalucg0YilF_lMBQgBK-Z4Exa1pixxCllEVy57dlCrI72Jll94Sy-WP5qXUOkttVn711ptV0NQhZaIphzyGPpJ6I9FxbYPq5e_6Za3iDNcb85L8VB060-_9zLTRjU_isILbbeM64wnsp11BK5aT8cqRigb=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8T85Yf4vhlnV16WtBKdITKqVKzClv3bAUblvhSEaGRWVKlKVKY9-S19I7HnMvUi05AiHa3-1Lggb5clP8T-ZtMcHgE5m9YNXTelZM6Q-CEC_dVHHw4KukoW8BWCdoAp4nCBs0=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFp0bE65h7Qpl7OnOgGr28S7pKvICLh7H9hHBX-eRcpK5qa7FGyKCbuDeaTa4TO3UkiWQGe203bo3ZA8Snmy26dxxsGGKjvgeDFINwZeY2Elz84RUUJ6C4I02H1YlWTisPCnCThKQs9Fb9rt4ERC-3Nu1Be7myAjU_vkXjvdx9no_3xKRbXirc=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFrgbknbs5yINmXVXk3RDsYJ2JRACUVakRNVKBY__zON-Y9Qx96ZfwdDYSKPEmxXTm-YZV-zCANzYQ3qC0cLLHxco64YF6khg-mttKMOPg4QQlF6mDzwBCepQg0ZC9mfVaddzReUK2EtSrFYK6OYcAIui_-xF-LHVYC3E34dj69K55iEln0tI6C=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhESVOdUwR8vcY9bMgz5RAHq9g1C1_qNdL10M1jTrcgzzDBv6ZgA8Gf8CTtN8zfh2OC535WwJHccCC01LSC452I5ERWGKn0rxlKHnB0HwzVUz293xH31p1vrSLO27mmFVra_uXIpk6h6pswXqnANxgvzgGJPWNqkvBXw9b6yggsJ2msjUUF1XXN-EA=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "2587068592328325679",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=2587068592328325679&q=all-inclusive+resort",
+      "provider_id": "/g/1th0ymz6",
+      "gps_coordinates": {
+        "latitude": 21.098288,
+        "longitude": -86.76689990000001
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Spa"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Hilton Cancun Mar Caribe All-Inclusive Resort",
+      "type": "4-star hotel",
+      "rating": 4.5,
+      "reviews": 3100,
+      "reviews_original": "(3.1K)",
+      "price": "MX$6,346",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoNSLoM5bY2tfbVMkildlSSH3UzwOBhyI-tPjqE0h9Zv-oGxFAqdc6itHS-j4GTBU_h3P47tjrVGRTLR5j-ZzWKWchyAfValEBxptbngglJcnZ-e3MNOit4WmZtpwpzPj0--yAO=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoHChbmBS0zpC6KfUNMS1XdvakJLKFtDUIzmVcWPF5WsbItCym19tq3TRwaNLpntDWegvY7gJjmBgY8FQqnPzV8Ch9tvRIOWId4HnK2VikFAbptigZWQho6nc3scFdwXMovNcs=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqAfa330ELXWe3fYi7DJOMk1ltxpCdIrhhs_XZWS0AzM0cDYEJvHNsmnPwNV0_iYfCu6CueUwmXUGMQ5YYyc95P0HcqaSKQb1jrFHUEkBexbdSQMBFVQCFwvmeZKo4rgGPNn_Hbcy1JXP0Z=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepKK6WgyCZcSni4-XpvxUZtNnprxL_njeIn_8sW3HWY9Tg1M6FuqfmKbuDDmDIiM1E6P9ZvOy8XzH4U6sF8PFvFAfXKYP3azYSwcKTterVjlsctQOwilG2G3FvSlc_K0n3eodHa=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq1ccsT8Uv7wtTlWsEJfjoDnF1aAfAQsQWMNrx9Yf8id-fXHebAKnfimbGDMkqyz_ajj3E5V8LTVUroSWFEkTEaHIhLgyZNe0UF4ONpi3JMUqK0RcwAjdAc8Df6LCTD1SZCEsnPb6uKYS8=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcOfEADxGiH5B9i0GHrTPp54p-ObXHXqkRyFbw6gMZ09hfjjh_KW4PrniuNI6qaG1QXmOCIarqgyxcAC68_VFVuixlXq_vi5n_6KVJgqfQhqme71kVaYdcohqNY-YIWussuELiemCOOY-U=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "6928238258036125653",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=6928238258036125653&q=all-inclusive+resort",
+      "provider_id": "/g/11vbtf699r",
+      "gps_coordinates": {
+        "latitude": 21.071960999999998,
+        "longitude": -86.77672129999999
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Eco-certified"
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Hotel Maya Caribe Faranda",
+      "type": "3-star hotel",
+      "rating": 4.0,
+      "reviews": 435,
+      "reviews_original": "(435)",
+      "price": "MX$1,709",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoh7nN7X3gTK-6FN7MrrCyKQj1NJRLr7sRg15JFeCi6xPCIEdf1xPEEjffPI27fF0DOO97bsOakXrCutvoT4QORus8WB-OqhCo4F2ShfT3BMqbuISUm9lbV5IfgeD9cbq_L9QJd=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqS1lY89fVaRSfG-5PO5_C2gEUJ_COyxmY2wAl7MDCvjXlWrJdDuUlB1SOD1xZhpag6rFHj5nR41s5WUH6Fsc0FaZPoewaphcEvTtdQIAPs-fM_bogUmaWuk7VjLfQYHBBe_sOD=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAweotN7BCskdeyju0jdTp8Rz0HRS5xFYas4J-ChuOICEf0mDw92dOlsSX4Stybe-VrhdkRIC4MtQb5dMLeAVMZQxLrrAj5eMfjgAyY0n6zk5Bk4eDEmRCBSGjhgNahuW0_ANld8dDGloSy68=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer-KbXUqUgmHDmC7qHiL3Xt_WCLbOkLWE4WRohzHdoyemwcEhwZvuZZ6ICoCLd7uPJd2ddXPNqlj-lun2YvQ365f4AZANeeZMhJfB2lu6WMwpF6ENAzaDPPwmjjpKdQ7uPXe6FB=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer502hs6YcMeOwAu67KE44IL35wqp0I5AVd-5B_PoeiUD_r5YnaqwFSGgHa--V4_elDxbd3a93TrdZ-CVkIb_aISxBSEVLvqXvWpg-FnjQx3YSAjK2Kn-clddfGjmJTaSaGzK2W=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerCY8A3aiCCtU3LEuj0UK81Hf798ntfb3Kq_Lx8PN3MfCt-yMXn4H6G-W27-ki7GmUbqrqrHTcquSW3DM9TS1NCxQHTUcK3v4M9BS7wDz-T7q33Ip6U-NWwaj7-3DMsCRw9bTeB0Q=s204-w204-h116-p-n-k-no"
+      ],
+      "place_id": "9812634162791850492",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&ludocid=9812634162791850492&q=all-inclusive+resort",
+      "provider_id": "/g/12qfhttft",
+      "gps_coordinates": {
+        "latitude": 21.141282999999998,
+        "longitude": -86.7711894
+      },
+      "extensions": [
+        "All-inclusive available",
+        "Spa"
+      ]
+    },
+    {
+      "position": 8,
+      "title": "Villa Laguna Cancún, kayaks gratis.",
+      "rating": 3.8,
+      "reviews": 38,
+      "reviews_original": "(38)",
+      "price": "MX$1,669",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGV-7gRRJOusLr3My6J2nDpT8cwY803vsf0DsJXnMZ5qSpPHMhOruGpsFxpRmXjB4xomMEyyO4pji-eiv_QCLRzakJRe8SlsbLggsrY0KFJqcAEFeUtuQOsgOWf-TvNorVHJoYlazqmFprvlxLStah82rpB8z13FRYJ-__6cs68AXPYzdAfnC4v=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGpIdUtcWxygAJaIR2iQHbfgd6XFZtYx31E8fjPdeIUy4AnGuP61p4Pa3vhtAZncinlxGpzSManQ5L4t630bwj-RzCPFf9C0gM5XiafRxCQiK6f_L2Z-pkdE9WI_rIQlazmX51PxqwPdCro8GLb-Wl2PpbPG3OAq_GqYVVUP2UIokzzGDUZ4pausg=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE0ti1SU5eAeHkMjhskIpxLZTeytpGLUl-uf7BUV7nfNCUJUzWeIFJzIMKjaan2YeB5pnXoxtgUrMzU-xVl80q4EEmbUjQojrNGfcosZ7JHiee51xvYZwkefbP6d-0KKjZd6RD_ASqN6U_9WtS93945J2mLZTeWbOTrAA6-9952Gu70yJND-yotzw=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE_SJfgmfMVA_Y_t2aeqF62pKBOu43W6KWPj8I0fFzDURqKq8NnH69FlMDMhFloNRl6VTCUlb7jJCYsk5c0E4Pn3nilHh9sZjoJ7-GjCTP8D5znQsMZXuGKZFlPbF-en5Nly2gnU2xuSKQ5m0Cr3ZvLACZGWTRUQ2CYcnRuJ19ekLPPvKQUj9hb=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGLE7wrteGIn5tPybeGuP9L7x8f-phPYlbDAzxEjc_RwGHw6kMhozQRONAHCgDyVGUhCntZWWuiblShyVUnWUeB06MbteJ4XBPH5vrxScVccMWWOwZzhp811vyQs7sde2LHxoobWeZyRfgZd6akYSyI9f5G4pYQ4DucjTblQow2vkIOUNR52M5ABw=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEPl1YdwTRIRH69Iefz2jUOst1m6DfRyUlHJpQHt-CpkhC9wxaPALH4NSgJY3dfITFGC8FP2XBc1uCvqfizoZ0kJ8emBnKYglthhoReOxWTayAwfXvv3M49uaC5hbCQ2UNnnd4uunKju5wVmFqB0wBvoSIR-Sc01gJvNQJf4HP1LYdk8sYdYrk=s204-w204-h116-p-n-k-no"
+      ],
+      "provider_id": "/g/11vwwqw9gj",
+      "gps_coordinates": {
+        "latitude": 21.1375141,
+        "longitude": -86.7687988
+      },
+      "extensions": [
+        "2 bedrooms",
+        "Sleeps 7"
+      ]
+    },
+    {
+      "position": 9,
+      "title": "1st Luxury Warehouse",
+      "rating": 4.4,
+      "reviews": 290,
+      "reviews_original": "(290)",
+      "price": "MX$2,585",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhER01JaruqKHij1xl-JQW9r-N8Hr5qiOWTJZy0NV9iXlujm8MvyM5RNADm1VvNPTVALPTCXZPKOk6uurkDcEd27wV9Bm6Z1UApjIADf_4j_rmXe264rdxAKe0_yKbdMuG2CKBMvJ55Y_H3HEHJyyTn-2XAX_w-_m8SQWetcLbG6t_2nkpu7O4A=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHOqDafeEUfc7GTq7gK1Yd8UxVbFqcg1ByBDYFr8TNtYrQTc9JKrUZn7v28lAE1ofxcu6x1BbDQFsJHOZPZ8HRmvbWJB_fOsmvqQufTZ5JJaEFxnBkKU9VRWp0IsDFlYwrE7zBJH3uyAuNz6VgmYMB2h2NEn7MGvKVbCGesmqKFLohVfa8SVUY=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHib3O4ndarWTVcmMprXhB2Ecq75zQnQle9QAEE2P0244mGt1r4HaF6LLPjNgSvt3VPtJBY4DUHNKwmvxKYslsz5XlZfyQ30UIQH3mRzf9bnheXUgtMddkBpW90r8bVhkuKYXX4khtJyDoRWRmbORGzo2Xhn64jNUmuk6Z6FVGK2szEObmh3Fk=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGaFOJ0ukxgx9iSsD9EEbqjVt4I0xI6YWYzGganXXVvajnbM0_ClGS7sTghJyPNuhiXTO3B0TKtfI7PezGl0BgxVCcA48-W8PX3NzORVVRUi64_1iTbuVAQqlxtY-3p0V_6H0gs_FGl2pgFonam4ZfTbx281_cXk3ttW9yaASLd1NdIvX5EJGs=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFnioCQhKk6dk5MVbF70tFULFe1hzCvnAdqPJIlG-lf6ahkVMptNQL-trhXKUKN-kYZxLAmL1nmGkSEXZscgFU_xVa-LM49J1kmICOKvv0Iy8S2SyhlIvWc9Amj-QYzeoFgYagpDM9OfFkh30jemHGt6ISbzh0BF5vDm2SRy3bVRNxER6QFZiI=s204-w204-h116-p-n-k-no",
+        "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGUkSobOi1ZMkVvhLlS-7w7uWdV0cF87hRCF70P8_zpwNCt4_el2nayNT2hRmZRoMK93862cQw8RCXVQpujWIQfZcW70SFa5nssq0l6QOS9lomVqulSovrVYjZRxmq7HpHXt3bNpdEP-_jBLDVNXNDXiA1E2OznIZ9R13WZu1S_cwbe4g155yM2lA=s204-w204-h116-p-n-k-no"
+      ],
+      "provider_id": "/g/11y2h5x1r1",
+      "gps_coordinates": {
+        "latitude": 21.0485486,
+        "longitude": -86.86131259999999
+      },
+      "extensions": [
+        "1 bedroom",
+        "Sleeps 4"
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=all-inclusive+resort&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&start=10&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=all-inclusive+resort&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&start=10&udm=1",
+      "3": "https://www.google.com/search?q=all-inclusive+resort&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&start=20&udm=1",
+      "4": "https://www.google.com/search?q=all-inclusive+resort&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&start=30&udm=1",
+      "5": "https://www.google.com/search?q=all-inclusive+resort&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28&hl=en&gl=us&start=40&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&q=all-inclusive+resort&start=10&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&q=all-inclusive+resort&start=10&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&q=all-inclusive+resort&start=10&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&q=all-inclusive+resort&start=20&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&q=all-inclusive+resort&start=30&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Cancun&q=all-inclusive+resort&start=40&uule=w+CAIQICIaQ2FuY3VuLFF1aW50YW5hIFJvbyxNZXhpY28"
+    }
+  }
+}

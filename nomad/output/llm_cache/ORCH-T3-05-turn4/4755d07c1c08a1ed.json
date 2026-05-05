@@ -1,0 +1,51 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_013xDweNWnoxWUCBRiEuDJoD",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01Wfy43unvi9dyvhGxxvukva",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "end_date": "2026-10-23",
+          "duration_days": 3,
+          "interests": [
+            "group dinner",
+            "steakhouse",
+            "kosher restaurants",
+            "Willis Tower Skydeck",
+            "deep-dish pizza"
+          ]
+        },
+        "needs": {
+          "flight": false,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I've extended your trip to 3 days (now ending October 23rd) and added the Willis Tower Skydeck and a deep-dish pizza place to your itinerary. I'll update your hotel booking for the extra night and find great spots for both activities that fit your kosher dietary needs."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2612,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 237,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

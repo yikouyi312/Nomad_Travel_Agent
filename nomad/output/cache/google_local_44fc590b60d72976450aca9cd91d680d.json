@@ -1,0 +1,49 @@
+{
+  "search_metadata": {
+    "id": "69d51c0b333617738d10c7de",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xmAVNiW2CMDtBQLVSfK_aA/69d51c0b333617738d10c7de.json",
+    "created_at": "2026-04-07 15:00:27 UTC",
+    "processed_at": "2026-04-07 15:00:27 UTC",
+    "google_local_url": "https://www.google.com/search?q=Lincoln+Memorial&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/xmAVNiW2CMDtBQLVSfK_aA/69d51c0b333617738d10c7de.html",
+    "total_time_taken": 1.21
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Lincoln Memorial",
+    "location_requested": "Washington DC",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 38.88937936914173,
+      "longitude": -77.05017685890198
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.8,
+      "reviews": 54000,
+      "reviews_original": "(54K)",
+      "description": "Marble monument to the 16th president",
+      "lsig": "AB86z5XVxErDctI-vU7Y8ct6OoPx",
+      "thumbnail": "https://serpapi.com/searches/69d51c0b333617738d10c7de/images/uHnNohqx4npwMFUnxP71-74n1g5itjnMLc4_lJfZsGU.png",
+      "place_id": "1173699842503618230",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Washington+DC&ludocid=1173699842503618230&q=Lincoln+Memorial",
+      "provider_id": "/m/0drzq",
+      "gps_coordinates": {
+        "latitude": 38.889267,
+        "longitude": -77.05018
+      },
+      "title": "Lincoln Memorial",
+      "type": "Monument",
+      "address": "2 Lincoln Memorial Cir NW"
+    }
+  ]
+}

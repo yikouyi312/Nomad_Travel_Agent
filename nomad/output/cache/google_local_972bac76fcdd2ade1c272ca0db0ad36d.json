@@ -1,0 +1,460 @@
+{
+  "search_metadata": {
+    "id": "69d51543cbcccf62b916c0cf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SzqTuvjgIGGdfnVJBw5jCw/69d51543cbcccf62b916c0cf.json",
+    "created_at": "2026-04-07 14:31:31 UTC",
+    "processed_at": "2026-04-07 14:31:31 UTC",
+    "google_local_url": "https://www.google.com/search?q=outdoor+seating&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/SzqTuvjgIGGdfnVJBw5jCw/69d51543cbcccf62b916c0cf.html",
+    "total_time_taken": 2.06
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "outdoor seating",
+    "location_requested": "Portland",
+    "location_used": "Portland,Oregon,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 45.53954142228416,
+      "longitude": -122.63523101806642
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.6,
+      "reviews": 885,
+      "reviews_original": "(885)",
+      "price": "$10–20",
+      "description": "\"Outdoor dog friendly dining area with great food and great service.\"",
+      "lsig": "AB86z5UoHDT35oGSzZCe0RATGlHN",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/zRWx5kVRBNg6wIy1EokklHtBag0xutL89X5h7J0ym0s.jpeg",
+      "place_id": "9385408327269118033",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=9385408327269118033&q=outdoor+seating",
+      "provider_id": "/g/1tdyw205",
+      "gps_coordinates": {
+        "latitude": 45.53771,
+        "longitude": -122.68851
+      },
+      "title": "Dockside Saloon & Restaurant",
+      "type": "Breakfast",
+      "address": "2047 NW Front Ave"
+    },
+    {
+      "position": 2,
+      "rating": 3.9,
+      "reviews": 136,
+      "reviews_original": "(136)",
+      "price": "$20–30",
+      "description": "\"The seating was comfortable and the space was well designed.\"",
+      "lsig": "AB86z5UvuOnmlfO5DPF4MF4ULfmM",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/_PpcQ6EpsRI1_Wrl4bYZxiHtL1wPW_y9Spos6boMahE.jpeg",
+      "place_id": "4423927262016701732",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4423927262016701732&q=outdoor+seating",
+      "provider_id": "/g/11t0pp1jvb",
+      "gps_coordinates": {
+        "latitude": 45.5182,
+        "longitude": -122.681496
+      },
+      "title": "Taylor Street Tavern",
+      "type": "New American",
+      "address": "808 SW Taylor St"
+    },
+    {
+      "position": 3,
+      "rating": 4.2,
+      "reviews": 241,
+      "reviews_original": "(241)",
+      "price": "$10–20",
+      "description": "\"Great food and view.\"",
+      "lsig": "AB86z5Wx5mAcmfvOtqqK0JuJ09-e",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/_1K8-MrOyKka2X_Y-htZI65SaHKop5mJjYOWHrcfGRU.jpeg",
+      "place_id": "4795572688717747063",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=4795572688717747063&q=outdoor+seating",
+      "provider_id": "/g/11bw3dl4j6",
+      "gps_coordinates": {
+        "latitude": 45.50297,
+        "longitude": -122.67127
+      },
+      "title": "Flying Elephants at South Waterfront",
+      "type": "Restaurant",
+      "address": "2730 S Moody Ave"
+    },
+    {
+      "position": 4,
+      "rating": 4.3,
+      "reviews": 3000,
+      "reviews_original": "(3K)",
+      "price": "$10–20",
+      "description": "\"Chill outdoor seating.\"",
+      "lsig": "AB86z5Ul28kjHqjNQvDWznVR1Ysd",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/WxsglVVhIdCQ3cCF2lxfXFOrkdj6JlYA9q4AQYIg5H4.jpeg",
+      "place_id": "14317253987439205612",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=14317253987439205612&q=outdoor+seating",
+      "provider_id": "/g/1tcyf5bh",
+      "gps_coordinates": {
+        "latitude": 45.518845,
+        "longitude": -122.660904
+      },
+      "title": "My Father's Place",
+      "type": "Grill",
+      "address": "523 SE Grand Ave"
+    },
+    {
+      "position": 5,
+      "rating": 4.6,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "price": "$20–30",
+      "description": "\"There is a back area with outdoor seating.\"",
+      "lsig": "AB86z5V1nCEmNDgR7twRgss3cpPi",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/EpIFFLRCkEKh2yJp9JVZ6OXsK-UqLMK5V_rJG-cVOnA.jpeg",
+      "place_id": "1044014825441357611",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=1044014825441357611&q=outdoor+seating",
+      "provider_id": "/g/1tgvdbnw",
+      "gps_coordinates": {
+        "latitude": 45.519367,
+        "longitude": -122.580414
+      },
+      "title": "The Observatory",
+      "type": "American",
+      "address": "8115 SE Stark St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.6,
+      "reviews": 778,
+      "reviews_original": "(778)",
+      "price": "$10–20",
+      "description": "\"Wonderful atmosphere, along with very good food and drink.\"",
+      "lsig": "AB86z5WdNurMF4SWicgrb6ct4Tx7",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/K3ucwl_eZzxheAuUKUB9OoBGVPU0SkW0064F20HTnj8.jpeg",
+      "place_id": "17802063192512894440",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17802063192512894440&q=outdoor+seating",
+      "provider_id": "/g/1thq0f4w",
+      "gps_coordinates": {
+        "latitude": 45.51743,
+        "longitude": -122.69029
+      },
+      "title": "Leaky Roof Gastro Pub",
+      "type": "Restaurant",
+      "address": "1538 SW Jefferson St",
+      "hours": "Closed · Opens 11 AM Wed"
+    },
+    {
+      "position": 7,
+      "rating": 4.6,
+      "reviews": 202,
+      "reviews_original": "(202)",
+      "price": "$10–20",
+      "description": "\"... are super nice and during good weather they have outdoor seating.\"",
+      "lsig": "AB86z5W3VlbkzN2N532am6FmyvuN",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/X_xpcDY12rSOCORtTDw6txQOa_OzUYCNKHed9QhGp8A.jpeg",
+      "place_id": "15482280057949633067",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=15482280057949633067&q=outdoor+seating",
+      "provider_id": "/g/11gvxzmpp7",
+      "gps_coordinates": {
+        "latitude": 45.51335,
+        "longitude": -122.67543
+      },
+      "title": "Gastro Mania SW Portland",
+      "type": "Mediterranean",
+      "address": "1 SW Columbia St"
+    },
+    {
+      "position": 8,
+      "rating": 4.2,
+      "reviews": 479,
+      "reviews_original": "(479)",
+      "price": "$20–30",
+      "description": "\"We sat outside and enjoyed watching the water birds hanging out in pond.\"",
+      "lsig": "AB86z5W4uXcumOXDX1-iGVzLrvTm",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/wtRqgKLH7tXJvOXixCXCJSrNTciYJKNl8UCm8n86zPU.jpeg",
+      "place_id": "3209693185807764683",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=3209693185807764683&q=outdoor+seating",
+      "provider_id": "/g/126037jqs",
+      "gps_coordinates": {
+        "latitude": 45.568813,
+        "longitude": -122.58243
+      },
+      "title": "Lakeside Bar and Grill",
+      "type": "Grill",
+      "address": "6233 NE 78th Ct"
+    },
+    {
+      "position": 9,
+      "rating": 4.3,
+      "reviews": 250,
+      "reviews_original": "(250)",
+      "price": "$10–20",
+      "description": "\"Some of the best in the neighborhood.\"",
+      "lsig": "AB86z5ULAsMDb646Toscvr6DyeDU",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/8Gznj8Q6roqcU9ZNLhLU4q4n_GTFEw1WdVlFbGtPTuY.jpeg",
+      "place_id": "5134493985291881833",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5134493985291881833&q=outdoor+seating",
+      "provider_id": "/g/1thq0f4s",
+      "gps_coordinates": {
+        "latitude": 45.51869,
+        "longitude": -122.680824
+      },
+      "title": "Flying Elephants at Fox Tower",
+      "type": "Restaurant",
+      "address": "812 SW Park Ave"
+    },
+    {
+      "position": 10,
+      "rating": 3.7,
+      "reviews": 837,
+      "reviews_original": "(837)",
+      "price": "$20–30",
+      "description": "\"It has heated covered patios with firepits.\"",
+      "lsig": "AB86z5Vd9hYj6bTzXGcLW04RVU7P",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/7t8Vy-NZ4HnAgne3aOTOB5eWDSZwYXbGDUOdFKtWhvs.jpeg",
+      "place_id": "6570578654189873673",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6570578654189873673&q=outdoor+seating",
+      "provider_id": "/g/11f7qzjbzz",
+      "gps_coordinates": {
+        "latitude": 45.51383,
+        "longitude": -122.6769
+      },
+      "title": "The Xport Rooftop Lounge",
+      "type": "Grill",
+      "address": "1355 SW 2nd Ave",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.4,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "description": "\"Food/drinks 10/10, service is great, love the outside seating.\"",
+      "lsig": "AB86z5WDboj7Rh2d9D2-v__fLZER",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/5FUxQHh1VYuYlQbhPa2xc5SrIl2J46XRD-LZ-3_5vxw.jpeg",
+      "place_id": "8510757356720449413",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=8510757356720449413&q=outdoor+seating",
+      "provider_id": "/g/12cpjmlwm",
+      "gps_coordinates": {
+        "latitude": 45.52849,
+        "longitude": -122.69869
+      },
+      "title": "Fireside",
+      "type": "Family-friendly",
+      "address": "801 NW 23rd Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 12,
+      "rating": 4.5,
+      "reviews": 17,
+      "reviews_original": "(17)",
+      "price": "$10–20",
+      "description": "\"Indoor and outdoor seating and a nice place to relax for happy hour.\"",
+      "lsig": "AB86z5WNT_AM8V0Av2jB7Q_EJP5D",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/nfrYSEHqSe7iSujLEcLwEnZGbuKZAhF-5ppWIcfSJuE.jpeg",
+      "place_id": "5944396141308884387",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=5944396141308884387&q=outdoor+seating",
+      "provider_id": "/g/11xfhd0cb1",
+      "gps_coordinates": {
+        "latitude": 45.515217,
+        "longitude": -122.680435
+      },
+      "title": "Migration Brewing - Pacwest Patio",
+      "type": "Beer Garden",
+      "address": "1211 SW 5th Ave",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.3,
+      "reviews": 1000,
+      "reviews_original": "(1K)",
+      "price": "$20–30",
+      "description": "\"The patio is wonderful, staff was friendly and prices are pretty good.\"",
+      "lsig": "AB86z5VJr3CpGi5VrIgwbCupmk7X",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/PchzPAvZG3o-bSaP8XFfH6A5tNrQydgPRHHEWZj5Hfs.jpeg",
+      "place_id": "17895186984965537493",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17895186984965537493&q=outdoor+seating",
+      "provider_id": "/g/11clwj9gdd",
+      "gps_coordinates": {
+        "latitude": 45.51999,
+        "longitude": -122.66353
+      },
+      "title": "Produce Row Cafe",
+      "type": "American",
+      "address": "204 SE Oak St",
+      "hours": "Closed · Opens 12 PM"
+    },
+    {
+      "position": 14,
+      "rating": 4.5,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$10–20",
+      "description": "\"Sit mostly outside (covered), order at the bar, and good drinks and food.\"",
+      "lsig": "AB86z5XZCTRZwMu1dLMoCxg5y15U",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/1KN9TRVeR66J6hlvS8KzvTWfckGtbIrFfNW-NFzzlPY.jpeg",
+      "place_id": "18077814376324794198",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=18077814376324794198&q=outdoor+seating",
+      "provider_id": "/g/11b8d2ss_h",
+      "gps_coordinates": {
+        "latitude": 45.554058,
+        "longitude": -122.67577
+      },
+      "title": "The Rambler",
+      "type": "Restaurant",
+      "address": "4205 N Mississippi Ave",
+      "hours": "Closed · Opens 4 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.6,
+      "reviews": 918,
+      "reviews_original": "(918)",
+      "price": "$10–20",
+      "description": "\"... a pool table, inside seating, a swing, and lots of outside seating.\"",
+      "lsig": "AB86z5UCYN8ectNus97abgmhqgmh",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/hcrYnr-wSmBx4ikvL48gCHb0Op5cAbUmYbfyciFL5d4.jpeg",
+      "place_id": "17766964080533989656",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17766964080533989656&q=outdoor+seating",
+      "provider_id": "/g/11rvv4zkc",
+      "gps_coordinates": {
+        "latitude": 45.515648,
+        "longitude": -122.65349
+      },
+      "title": "A Roadside Attraction",
+      "type": "Bar",
+      "address": "1000 SE 12th Ave",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 16,
+      "rating": 4.7,
+      "reviews": 1500,
+      "reviews_original": "(1.5K)",
+      "price": "$100+",
+      "description": "\"The only drawback was the noise from the crowd.\"",
+      "lsig": "AB86z5XaZ9gF8bwKR4gQBVSyFwiI",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/14LTPU_Apmvds7bwI2QSfTqcS0m16Axvz6X1KjA_qZs.jpeg",
+      "place_id": "6593202195607173994",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=6593202195607173994&q=outdoor+seating",
+      "provider_id": "/g/11c5rpjx25",
+      "gps_coordinates": {
+        "latitude": 45.516804,
+        "longitude": -122.67506
+      },
+      "title": "Q Restaurant & Bar",
+      "type": "Restaurant",
+      "address": "828 SW 2nd Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.5,
+      "reviews": 3500,
+      "reviews_original": "(3.5K)",
+      "price": "$20–30",
+      "description": "\"We enjoyed the outdoor seating and our servers and host were phenomenal.\"",
+      "lsig": "AB86z5U6K2Wl8UM18uUrSTAT4tO9",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/eam4ydt-MU3NlV53NyGKxLeBMvjH7GPOhqLvdxpR-uA.jpeg",
+      "place_id": "17322022484779492288",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=17322022484779492288&q=outdoor+seating",
+      "provider_id": "/g/11xc6_5t9",
+      "gps_coordinates": {
+        "latitude": 45.521957,
+        "longitude": -122.68316
+      },
+      "title": "Cheryl's on 12th",
+      "type": "New American",
+      "address": "1135 SW Washington St"
+    },
+    {
+      "position": 18,
+      "rating": 4.3,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$20–30",
+      "description": "\"Great atmosphere, huge covered patio, good drinks!\"",
+      "lsig": "AB86z5VPcDq0oI22y0AeeSGK67vg",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/h7sYiPctt4nkPPKuKJZyFv_W179Ar0dZ67T_ChJox5o.jpeg",
+      "place_id": "11458325524573736323",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=11458325524573736323&q=outdoor+seating",
+      "provider_id": "/g/1tptqb0m",
+      "gps_coordinates": {
+        "latitude": 45.52274,
+        "longitude": -122.65956
+      },
+      "title": "Rontoms",
+      "type": "Restaurant",
+      "address": "600 E Burnside St",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 19,
+      "rating": 4.7,
+      "reviews": 396,
+      "reviews_original": "(396)",
+      "price": "$1–10",
+      "description": "\"Indoor and outdoor seating.\"",
+      "lsig": "AB86z5XIKMgRZRqVz6c7hLUohcMl",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoXx4NsYddUszRQuJRt0_Y5yRl_wJ07XOpBb_A65pbGxaS7nTkaj6_ThkjEplNOzaL_qlFl_fkoESSwkgGGm2qEirITCR7omeLbfgqObTmpg4-RbLmKqF8_ukQ5SEPCFR10TgTm=w90-h90-n-k-no-l75",
+      "place_id": "310007386605626856",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=310007386605626856&q=outdoor+seating",
+      "provider_id": "/g/1whdj1j4",
+      "gps_coordinates": {
+        "latitude": 45.518612,
+        "longitude": -122.69374
+      },
+      "title": "Fehrenbacher Hof",
+      "type": "Coffee shop",
+      "address": "1225 SW 19th Ave"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 496,
+      "reviews_original": "(496)",
+      "price": "$20–30",
+      "description": "\"There was plenty of seating available.\"",
+      "lsig": "AB86z5WC6lbJpzcuhDkRUdzU5TPj",
+      "thumbnail": "https://serpapi.com/searches/69d51543cbcccf62b916c0cf/images/idAScm4acERonKY2d1HzwVA2Xwm70zfVrRziaKyj9ns.jpeg",
+      "place_id": "14939295774683271674",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&ludocid=14939295774683271674&q=outdoor+seating",
+      "provider_id": "/g/11fzl2vlss",
+      "gps_coordinates": {
+        "latitude": 45.518276,
+        "longitude": -122.681755
+      },
+      "title": "Swine Restaurant, Moonshine & Whiskey Bar",
+      "type": "Bar",
+      "address": "808 SW Taylor St"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=outdoor+seating&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=outdoor+seating&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=outdoor+seating&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=outdoor+seating&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=outdoor+seating&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=outdoor+seating&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=outdoor+seating&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=outdoor+seating&start=20&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=outdoor+seating&start=40&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=outdoor+seating&start=60&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Portland&q=outdoor+seating&start=80&uule=w+CAIQICIdUG9ydGxhbmQsT3JlZ29uLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

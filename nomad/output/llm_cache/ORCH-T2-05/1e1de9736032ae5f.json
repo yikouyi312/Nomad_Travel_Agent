@@ -1,0 +1,57 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01Sx5RvbjGjbu3QypwrW9tGv",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01Cr7dh17nfrEMb6imAuciab",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Chicago",
+          "destination": "Washington DC",
+          "start_date": "2026-10-10",
+          "duration_days": 4,
+          "budget_usd": 1500,
+          "num_travelers": 1,
+          "preferred_hotel_rating": 3,
+          "hotel_rating_priority": "hard",
+          "hotel_location": "near National Mall",
+          "interests": [
+            "Smithsonian National Museum of Natural History",
+            "Lincoln Memorial",
+            "National Gallery of Art",
+            "Kennedy Center"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your 4-day cultural trip to Washington DC from Chicago, departing October 10, 2026. I'll find flights within your $1,500 budget, a 3-star hotel near the National Mall, and help you visit the Smithsonian National Museum of Natural History, Lincoln Memorial, National Gallery of Art, and catch an evening show at the Kennedy Center. Let me search for the best options for you."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2692,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 349,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

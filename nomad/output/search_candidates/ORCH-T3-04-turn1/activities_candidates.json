@@ -1,0 +1,802 @@
+[
+  {
+    "task_id": "ORCH-T3-04-turn1",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:12:24.447784",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "pool",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.5,
+          "reviews": 1000,
+          "reviews_original": "(1K)",
+          "description": "\"Short but nice pool, not too crowded, free for Miami Beach residents.\"",
+          "lsig": "AB86z5VM8BR5oN1wwntt8PhRjJ5l",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/Wd2bnVK9ec6gP4pZNyOiS1utBQhpTVlmzDH5SXPA0xA.jpeg",
+          "place_id": "8237961329132362666",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8237961329132362666&q=pool",
+          "provider_id": "/g/1hg4t21mf",
+          "gps_coordinates": {
+            "latitude": 25.782719,
+            "longitude": -80.13771
+          },
+          "title": "Flamingo Park Pool",
+          "type": "Public swimming pool",
+          "address": "Miami Beach, FL"
+        },
+        {
+          "position": 2,
+          "rating": 4.6,
+          "reviews": 361,
+          "reviews_original": "(361)",
+          "description": "\"It's a very safe environmentPlenty of lifeguards clean\"",
+          "lsig": "AB86z5U4alnpoPKWkAI1jyq6As2i",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/V60miAagjuVE5gpGyZABIdRu9fVCEuJZHX32Bu65RgY.jpeg",
+          "place_id": "4357086284625082641",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4357086284625082641&q=pool",
+          "provider_id": "/g/1tw1fmsp",
+          "gps_coordinates": {
+            "latitude": 25.82203,
+            "longitude": -80.29888
+          },
+          "title": "Miami Springs Aquatic Center",
+          "type": "Public swimming pool",
+          "address": "Miami Springs, FL"
+        },
+        {
+          "position": 3,
+          "rating": 4.3,
+          "reviews": 52,
+          "reviews_original": "(52)",
+          "description": "\"Clean room, really nice and big pool.\"",
+          "lsig": "AB86z5VBXCddaR1jwmL4y67QVAG9",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/EkOyM7KjV7BFiy_2N_QR28CRER9SB-svUJu1gypG4s0.jpeg",
+          "place_id": "4056143977311608793",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4056143977311608793&q=pool",
+          "provider_id": "/g/1td2c3yc",
+          "gps_coordinates": {
+            "latitude": 25.833963,
+            "longitude": -80.20469
+          },
+          "title": "Range Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 4,
+          "rating": 4.3,
+          "reviews": 191,
+          "reviews_original": "(191)",
+          "description": "\"The pool is clean, well-staffed, and open at 8am.\"",
+          "lsig": "AB86z5U45aFVr4vORlm3OegYAgbf",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/xKPIvEFPX_jrDzFpQJ1U2qcoHm4byErthPhF9AE8GY8.jpeg",
+          "place_id": "1754186201037613490",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1754186201037613490&q=pool",
+          "provider_id": "/g/1tdxr7_1",
+          "gps_coordinates": {
+            "latitude": 25.819841,
+            "longitude": -80.21659
+          },
+          "title": "Hadley Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 112,
+          "reviews_original": "(112)",
+          "description": "\"awesome and friendly staff and lifeguards\"",
+          "lsig": "AB86z5XM-9Wx6_e2V3rYIgEOBV2l",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/PYJ8Yvz97MnFmOTf1koCGRrKjOz0rPXMkCu52SqYDU8.jpeg",
+          "place_id": "2957447222040724461",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2957447222040724461&q=pool",
+          "provider_id": "/g/11gh_k8b65",
+          "gps_coordinates": {
+            "latitude": 25.754856,
+            "longitude": -80.22996
+          },
+          "title": "Shenandoah Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 6,
+          "rating": 4.3,
+          "reviews": 244,
+          "reviews_original": "(244)",
+          "description": "\"Great pool: Clean and surprisingly not too crowded.\"",
+          "lsig": "AB86z5V6uPOpeOljV9brbL4zTCu2",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/SQjdI1CdroB2AR3dRKtlBKquggM4Mb7QD18yCgWFkZU.jpeg",
+          "place_id": "5712878029207294523",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5712878029207294523&q=pool",
+          "provider_id": "/g/1tf08gbb",
+          "gps_coordinates": {
+            "latitude": 25.770187,
+            "longitude": -80.20008
+          },
+          "title": "José Martí Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 7,
+          "rating": 4.6,
+          "reviews": 192,
+          "reviews_original": "(192)",
+          "description": "\"Took adult swimming classes there… they taught my how to swim in ...\"",
+          "lsig": "AB86z5UEZb2wPQJ1-DLpGTsTfeKg",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/uh74nC6d6VSsYYW-sPZnjyzWa1IshgCe44JGGTVbfzY.jpeg",
+          "place_id": "5142493350862414735",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5142493350862414735&q=pool",
+          "provider_id": "/g/1thx4v_0",
+          "gps_coordinates": {
+            "latitude": 25.736149,
+            "longitude": -80.3087
+          },
+          "title": "A.D. Barnes Park Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 222,
+          "reviews_original": "(222)",
+          "description": "\"The swimming classes for kids are great and affordable!\"",
+          "lsig": "AB86z5XWfE1l4oXUTAXF8gwLE5c2",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/-X8Mhbn1zj_vQ_ieoKvJOdb7eGz1Ngn4HnFutq-OUv8.jpeg",
+          "place_id": "14045279870466164855",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14045279870466164855&q=pool",
+          "provider_id": "/g/1tj8b6v3",
+          "gps_coordinates": {
+            "latitude": 25.748617,
+            "longitude": -80.37714
+          },
+          "title": "Tamiami Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.2,
+          "reviews": 131,
+          "reviews_original": "(131)",
+          "description": "\"Great place, they offer a free swim class and team.\"",
+          "lsig": "AB86z5WZUGHq0gChZq1LrQlL4B52",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/NRr0oeJy20I2lV7xt1-PBJ4y0-Pt0p0AX1mNC3utDhw.jpeg",
+          "place_id": "17078880330507719719",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17078880330507719719&q=pool",
+          "provider_id": "/g/1tdmqw3x",
+          "gps_coordinates": {
+            "latitude": 25.506151,
+            "longitude": -80.45586
+          },
+          "title": "Helen Sands Swimming Pool",
+          "type": "Public swimming pool",
+          "address": "Homestead, FL",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 241,
+          "reviews_original": "(241)",
+          "description": "\"Great place to swim in a pool for very reasonable prices!\"",
+          "lsig": "AB86z5XarLr-gBv_IrQcBku4RCCD",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/UQHaSQauOoWAJ-NlDr-U9xk-LguDAWul2tzJgRDOBf0.jpeg",
+          "place_id": "4624205094529147790",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4624205094529147790&q=pool",
+          "provider_id": "/g/11b7ytjw56",
+          "gps_coordinates": {
+            "latitude": 25.978287,
+            "longitude": -80.227005
+          },
+          "title": "Historic Miramar Aquatic Complex",
+          "type": "Public swimming pool",
+          "address": "Miramar, FL"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 3900,
+          "reviews_original": "(3.9K)",
+          "description": "\"The water is fresh and clean, and the pool is well-maintained.\"",
+          "lsig": "AB86z5VnVHm8dDYbPk6kCWNR2ngZ",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/Fm5tqIH8i-gK8X2sO8eM_D0SZlmMk7KKtFLzZkraUWo.jpeg",
+          "place_id": "2104105232033245630",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2104105232033245630&q=pool",
+          "provider_id": "/m/05rx5g",
+          "gps_coordinates": {
+            "latitude": 25.745522,
+            "longitude": -80.27327
+          },
+          "title": "Venetian Pool",
+          "type": "Public swimming pool",
+          "address": "Coral Gables, FL",
+          "hours": "Opens soon · 11 AM"
+        },
+        {
+          "position": 12,
+          "rating": 4.3,
+          "reviews": 85,
+          "reviews_original": "(85)",
+          "description": "\"Very clean pool and friendly staff.\"",
+          "lsig": "AB86z5W0IWUhO4_ZCAjxLz1kbQoU",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/k-pgbO7tjhgHvL9w9dL91dYF1ta3qgB_xIWHb40cLhQ.jpeg",
+          "place_id": "12095826292829416920",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12095826292829416920&q=pool",
+          "provider_id": "/g/11h6r4wr16",
+          "gps_coordinates": {
+            "latitude": 25.506136,
+            "longitude": -80.456116
+          },
+          "title": "South Dade Park Aquatic Center",
+          "type": "Public swimming pool",
+          "address": "Homestead, FL",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 13,
+          "rating": 4.2,
+          "reviews": 220,
+          "reviews_original": "(220)",
+          "description": "\"The pool is very clean and the staff are extremely nice.\"",
+          "lsig": "AB86z5W-4-Qp5YRReuZcuBzXHiMs",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/aBkbr07zQ6wyJd7AvmNWeLwC-kcOlpWUNFoEtBNr4R4.jpeg",
+          "place_id": "9473485713924454593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9473485713924454593&q=pool",
+          "provider_id": "/g/1thl66_1",
+          "gps_coordinates": {
+            "latitude": 25.93312,
+            "longitude": -80.16088
+          },
+          "title": "Victory Park Pool",
+          "type": "Public swimming pool",
+          "address": "North Miami Beach, FL",
+          "hours": "Closed · Opens 11:30 AM"
+        },
+        {
+          "position": 14,
+          "rating": 4.1,
+          "reviews": 7,
+          "reviews_original": "(7)",
+          "lsig": "AB86z5XHjnGPhtA2Cx-ZjF072cWo",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/blKsr5hMCN8r5MB1K61oe_hPIboWvzFO-YSAXjzCBhA.webp",
+          "place_id": "6086918232004923942",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6086918232004923942&q=pool",
+          "provider_id": "/g/1tdpmwwb",
+          "gps_coordinates": {
+            "latitude": 25.635351,
+            "longitude": -80.376114
+          },
+          "title": "Richmond Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 15,
+          "rating": 4.5,
+          "reviews": 68,
+          "reviews_original": "(68)",
+          "description": "\"Open to the public during weekdays up until 1pm for $3 per person.\"",
+          "lsig": "AB86z5VgPlPI9qjWbOdDRLnHWiH8",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/vsqE6Uffy_oq-xCGlas6RnG5PMFskDodhIFh5yGrSb0.jpeg",
+          "place_id": "15815841613192674825",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15815841613192674825&q=pool",
+          "provider_id": "/g/1tjkglqm",
+          "gps_coordinates": {
+            "latitude": 25.723688,
+            "longitude": -80.3598
+          },
+          "title": "Tropical Estates Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 16,
+          "rating": 3.9,
+          "reviews": 43,
+          "reviews_original": "(43)",
+          "description": "\"Average outdoor communal pool.\"",
+          "lsig": "AB86z5WP0KfgGt_PH9uZqR5SbpQC",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/YzK6yNqnBxCTAAJ3YR0M1G8V0PbD-f6rtLzYExTUBvk.jpeg",
+          "place_id": "12911821740593997396",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12911821740593997396&q=pool",
+          "provider_id": "/g/1tql5l6x",
+          "gps_coordinates": {
+            "latitude": 25.865847,
+            "longitude": -80.284256
+          },
+          "title": "Milander Aquatic Center",
+          "type": "Outdoor swimming pool",
+          "address": "Hialeah, FL"
+        },
+        {
+          "position": 17,
+          "rating": 4.1,
+          "reviews": 163,
+          "reviews_original": "(163)",
+          "description": "\"iGUi Pools did an astounding job with my pool.\"",
+          "lsig": "AB86z5V3uPNOHIxiMo-Ga8hTUk2o",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/WTHR9N5nAEUHNKZfqBfMluiXcEip9BfKK3uy_9M9Eig.jpeg",
+          "place_id": "1678184503458900599",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1678184503458900599&q=pool",
+          "provider_id": "/g/11b66kxf59",
+          "gps_coordinates": {
+            "latitude": 25.566553,
+            "longitude": -80.381805
+          },
+          "title": "iGUi Pools",
+          "type": "Swimming pool contractor",
+          "years_in_business": "10+ years in business",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 103,
+          "reviews_original": "(103)",
+          "description": "\"The staff and swimming instructors are outstanding in their services.\"",
+          "lsig": "AB86z5Xym2YSMDKBUCMWBq5bfTgB",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/92uJJ3iY_vEl-a-zKPP2jaxjNgfJkIqxYgfpV0DlW_g.jpeg",
+          "place_id": "2239287670580568249",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2239287670580568249&q=pool",
+          "provider_id": "/g/11bt_hllq6",
+          "gps_coordinates": {
+            "latitude": 25.78614,
+            "longitude": -80.20091
+          },
+          "title": "Gibson Park Public Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL",
+          "hours": "Closed · Opens 1 PM"
+        },
+        {
+          "position": 19,
+          "rating": 4.3,
+          "reviews": 16,
+          "reviews_original": "(16)",
+          "lsig": "AB86z5UnXVhjE_l42Mi71r1vsdBe",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/n5o5fLkX1yRgc8LlnhGK2HmuTCW5R350uZ8zmQShB-o.jpeg",
+          "place_id": "14572533955463809570",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14572533955463809570&q=pool",
+          "provider_id": "/g/11dzt56zll",
+          "gps_coordinates": {
+            "latitude": 25.708374,
+            "longitude": -80.28866
+          },
+          "title": "Murray Park Aquatic Center",
+          "type": "Outdoor swimming pool",
+          "address": "South Miami, FL",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.0,
+          "reviews": 53,
+          "reviews_original": "(53)",
+          "description": "\"Highly recommend this company.\"",
+          "lsig": "AB86z5V3kt0mmGOAowJaKIGOIDCI",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/GRWjRV4vGaVHAa2tWe6xNFbo4bxNzllMA8Wl8r9lGW4.webp",
+          "place_id": "4071751177426094188",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4071751177426094188&q=pool",
+          "provider_id": "/g/1tnqhsxy",
+          "gps_coordinates": {
+            "latitude": 25.58109,
+            "longitude": -80.39166
+          },
+          "title": "Pool Max Miami",
+          "type": "Swimming pool supply store",
+          "address": "Miami, FL"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-04-turn1",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:50:52.912145",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "pool",
+      "location": "Miami"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.5,
+          "reviews": 1000,
+          "reviews_original": "(1K)",
+          "description": "\"Short but nice pool, not too crowded, free for Miami Beach residents.\"",
+          "lsig": "AB86z5VM8BR5oN1wwntt8PhRjJ5l",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/Wd2bnVK9ec6gP4pZNyOiS1utBQhpTVlmzDH5SXPA0xA.jpeg",
+          "place_id": "8237961329132362666",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=8237961329132362666&q=pool",
+          "provider_id": "/g/1hg4t21mf",
+          "gps_coordinates": {
+            "latitude": 25.782719,
+            "longitude": -80.13771
+          },
+          "title": "Flamingo Park Pool",
+          "type": "Public swimming pool",
+          "address": "Miami Beach, FL"
+        },
+        {
+          "position": 2,
+          "rating": 4.6,
+          "reviews": 361,
+          "reviews_original": "(361)",
+          "description": "\"It's a very safe environmentPlenty of lifeguards clean\"",
+          "lsig": "AB86z5U4alnpoPKWkAI1jyq6As2i",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/V60miAagjuVE5gpGyZABIdRu9fVCEuJZHX32Bu65RgY.jpeg",
+          "place_id": "4357086284625082641",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4357086284625082641&q=pool",
+          "provider_id": "/g/1tw1fmsp",
+          "gps_coordinates": {
+            "latitude": 25.82203,
+            "longitude": -80.29888
+          },
+          "title": "Miami Springs Aquatic Center",
+          "type": "Public swimming pool",
+          "address": "Miami Springs, FL"
+        },
+        {
+          "position": 3,
+          "rating": 4.3,
+          "reviews": 52,
+          "reviews_original": "(52)",
+          "description": "\"Clean room, really nice and big pool.\"",
+          "lsig": "AB86z5VBXCddaR1jwmL4y67QVAG9",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/EkOyM7KjV7BFiy_2N_QR28CRER9SB-svUJu1gypG4s0.jpeg",
+          "place_id": "4056143977311608793",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4056143977311608793&q=pool",
+          "provider_id": "/g/1td2c3yc",
+          "gps_coordinates": {
+            "latitude": 25.833963,
+            "longitude": -80.20469
+          },
+          "title": "Range Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 4,
+          "rating": 4.3,
+          "reviews": 191,
+          "reviews_original": "(191)",
+          "description": "\"The pool is clean, well-staffed, and open at 8am.\"",
+          "lsig": "AB86z5U45aFVr4vORlm3OegYAgbf",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/xKPIvEFPX_jrDzFpQJ1U2qcoHm4byErthPhF9AE8GY8.jpeg",
+          "place_id": "1754186201037613490",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1754186201037613490&q=pool",
+          "provider_id": "/g/1tdxr7_1",
+          "gps_coordinates": {
+            "latitude": 25.819841,
+            "longitude": -80.21659
+          },
+          "title": "Hadley Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 5,
+          "rating": 4.6,
+          "reviews": 112,
+          "reviews_original": "(112)",
+          "description": "\"awesome and friendly staff and lifeguards\"",
+          "lsig": "AB86z5XM-9Wx6_e2V3rYIgEOBV2l",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/PYJ8Yvz97MnFmOTf1koCGRrKjOz0rPXMkCu52SqYDU8.jpeg",
+          "place_id": "2957447222040724461",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2957447222040724461&q=pool",
+          "provider_id": "/g/11gh_k8b65",
+          "gps_coordinates": {
+            "latitude": 25.754856,
+            "longitude": -80.22996
+          },
+          "title": "Shenandoah Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 6,
+          "rating": 4.3,
+          "reviews": 244,
+          "reviews_original": "(244)",
+          "description": "\"Great pool: Clean and surprisingly not too crowded.\"",
+          "lsig": "AB86z5V6uPOpeOljV9brbL4zTCu2",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/SQjdI1CdroB2AR3dRKtlBKquggM4Mb7QD18yCgWFkZU.jpeg",
+          "place_id": "5712878029207294523",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5712878029207294523&q=pool",
+          "provider_id": "/g/1tf08gbb",
+          "gps_coordinates": {
+            "latitude": 25.770187,
+            "longitude": -80.20008
+          },
+          "title": "José Martí Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 7,
+          "rating": 4.6,
+          "reviews": 192,
+          "reviews_original": "(192)",
+          "description": "\"Took adult swimming classes there… they taught my how to swim in ...\"",
+          "lsig": "AB86z5UEZb2wPQJ1-DLpGTsTfeKg",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/uh74nC6d6VSsYYW-sPZnjyzWa1IshgCe44JGGTVbfzY.jpeg",
+          "place_id": "5142493350862414735",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=5142493350862414735&q=pool",
+          "provider_id": "/g/1thx4v_0",
+          "gps_coordinates": {
+            "latitude": 25.736149,
+            "longitude": -80.3087
+          },
+          "title": "A.D. Barnes Park Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 8,
+          "rating": 4.6,
+          "reviews": 222,
+          "reviews_original": "(222)",
+          "description": "\"The swimming classes for kids are great and affordable!\"",
+          "lsig": "AB86z5XWfE1l4oXUTAXF8gwLE5c2",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/-X8Mhbn1zj_vQ_ieoKvJOdb7eGz1Ngn4HnFutq-OUv8.jpeg",
+          "place_id": "14045279870466164855",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14045279870466164855&q=pool",
+          "provider_id": "/g/1tj8b6v3",
+          "gps_coordinates": {
+            "latitude": 25.748617,
+            "longitude": -80.37714
+          },
+          "title": "Tamiami Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 9,
+          "rating": 4.2,
+          "reviews": 131,
+          "reviews_original": "(131)",
+          "description": "\"Great place, they offer a free swim class and team.\"",
+          "lsig": "AB86z5WZUGHq0gChZq1LrQlL4B52",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/NRr0oeJy20I2lV7xt1-PBJ4y0-Pt0p0AX1mNC3utDhw.jpeg",
+          "place_id": "17078880330507719719",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=17078880330507719719&q=pool",
+          "provider_id": "/g/1tdmqw3x",
+          "gps_coordinates": {
+            "latitude": 25.506151,
+            "longitude": -80.45586
+          },
+          "title": "Helen Sands Swimming Pool",
+          "type": "Public swimming pool",
+          "address": "Homestead, FL",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 10,
+          "rating": 4.5,
+          "reviews": 241,
+          "reviews_original": "(241)",
+          "description": "\"Great place to swim in a pool for very reasonable prices!\"",
+          "lsig": "AB86z5XarLr-gBv_IrQcBku4RCCD",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/UQHaSQauOoWAJ-NlDr-U9xk-LguDAWul2tzJgRDOBf0.jpeg",
+          "place_id": "4624205094529147790",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4624205094529147790&q=pool",
+          "provider_id": "/g/11b7ytjw56",
+          "gps_coordinates": {
+            "latitude": 25.978287,
+            "longitude": -80.227005
+          },
+          "title": "Historic Miramar Aquatic Complex",
+          "type": "Public swimming pool",
+          "address": "Miramar, FL"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 3900,
+          "reviews_original": "(3.9K)",
+          "description": "\"The water is fresh and clean, and the pool is well-maintained.\"",
+          "lsig": "AB86z5VnVHm8dDYbPk6kCWNR2ngZ",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/Fm5tqIH8i-gK8X2sO8eM_D0SZlmMk7KKtFLzZkraUWo.jpeg",
+          "place_id": "2104105232033245630",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2104105232033245630&q=pool",
+          "provider_id": "/m/05rx5g",
+          "gps_coordinates": {
+            "latitude": 25.745522,
+            "longitude": -80.27327
+          },
+          "title": "Venetian Pool",
+          "type": "Public swimming pool",
+          "address": "Coral Gables, FL",
+          "hours": "Opens soon · 11 AM"
+        },
+        {
+          "position": 12,
+          "rating": 4.3,
+          "reviews": 85,
+          "reviews_original": "(85)",
+          "description": "\"Very clean pool and friendly staff.\"",
+          "lsig": "AB86z5W0IWUhO4_ZCAjxLz1kbQoU",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/k-pgbO7tjhgHvL9w9dL91dYF1ta3qgB_xIWHb40cLhQ.jpeg",
+          "place_id": "12095826292829416920",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12095826292829416920&q=pool",
+          "provider_id": "/g/11h6r4wr16",
+          "gps_coordinates": {
+            "latitude": 25.506136,
+            "longitude": -80.456116
+          },
+          "title": "South Dade Park Aquatic Center",
+          "type": "Public swimming pool",
+          "address": "Homestead, FL",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 13,
+          "rating": 4.2,
+          "reviews": 220,
+          "reviews_original": "(220)",
+          "description": "\"The pool is very clean and the staff are extremely nice.\"",
+          "lsig": "AB86z5W-4-Qp5YRReuZcuBzXHiMs",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/aBkbr07zQ6wyJd7AvmNWeLwC-kcOlpWUNFoEtBNr4R4.jpeg",
+          "place_id": "9473485713924454593",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=9473485713924454593&q=pool",
+          "provider_id": "/g/1thl66_1",
+          "gps_coordinates": {
+            "latitude": 25.93312,
+            "longitude": -80.16088
+          },
+          "title": "Victory Park Pool",
+          "type": "Public swimming pool",
+          "address": "North Miami Beach, FL",
+          "hours": "Closed · Opens 11:30 AM"
+        },
+        {
+          "position": 14,
+          "rating": 4.1,
+          "reviews": 7,
+          "reviews_original": "(7)",
+          "lsig": "AB86z5XHjnGPhtA2Cx-ZjF072cWo",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/blKsr5hMCN8r5MB1K61oe_hPIboWvzFO-YSAXjzCBhA.webp",
+          "place_id": "6086918232004923942",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=6086918232004923942&q=pool",
+          "provider_id": "/g/1tdpmwwb",
+          "gps_coordinates": {
+            "latitude": 25.635351,
+            "longitude": -80.376114
+          },
+          "title": "Richmond Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 15,
+          "rating": 4.5,
+          "reviews": 68,
+          "reviews_original": "(68)",
+          "description": "\"Open to the public during weekdays up until 1pm for $3 per person.\"",
+          "lsig": "AB86z5VgPlPI9qjWbOdDRLnHWiH8",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/vsqE6Uffy_oq-xCGlas6RnG5PMFskDodhIFh5yGrSb0.jpeg",
+          "place_id": "15815841613192674825",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=15815841613192674825&q=pool",
+          "provider_id": "/g/1tjkglqm",
+          "gps_coordinates": {
+            "latitude": 25.723688,
+            "longitude": -80.3598
+          },
+          "title": "Tropical Estates Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 16,
+          "rating": 3.9,
+          "reviews": 43,
+          "reviews_original": "(43)",
+          "description": "\"Average outdoor communal pool.\"",
+          "lsig": "AB86z5WP0KfgGt_PH9uZqR5SbpQC",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/YzK6yNqnBxCTAAJ3YR0M1G8V0PbD-f6rtLzYExTUBvk.jpeg",
+          "place_id": "12911821740593997396",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=12911821740593997396&q=pool",
+          "provider_id": "/g/1tql5l6x",
+          "gps_coordinates": {
+            "latitude": 25.865847,
+            "longitude": -80.284256
+          },
+          "title": "Milander Aquatic Center",
+          "type": "Outdoor swimming pool",
+          "address": "Hialeah, FL"
+        },
+        {
+          "position": 17,
+          "rating": 4.1,
+          "reviews": 163,
+          "reviews_original": "(163)",
+          "description": "\"iGUi Pools did an astounding job with my pool.\"",
+          "lsig": "AB86z5V3uPNOHIxiMo-Ga8hTUk2o",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/WTHR9N5nAEUHNKZfqBfMluiXcEip9BfKK3uy_9M9Eig.jpeg",
+          "place_id": "1678184503458900599",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=1678184503458900599&q=pool",
+          "provider_id": "/g/11b66kxf59",
+          "gps_coordinates": {
+            "latitude": 25.566553,
+            "longitude": -80.381805
+          },
+          "title": "iGUi Pools",
+          "type": "Swimming pool contractor",
+          "years_in_business": "10+ years in business",
+          "address": "Miami, FL"
+        },
+        {
+          "position": 18,
+          "rating": 4.7,
+          "reviews": 103,
+          "reviews_original": "(103)",
+          "description": "\"The staff and swimming instructors are outstanding in their services.\"",
+          "lsig": "AB86z5Xym2YSMDKBUCMWBq5bfTgB",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/92uJJ3iY_vEl-a-zKPP2jaxjNgfJkIqxYgfpV0DlW_g.jpeg",
+          "place_id": "2239287670580568249",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=2239287670580568249&q=pool",
+          "provider_id": "/g/11bt_hllq6",
+          "gps_coordinates": {
+            "latitude": 25.78614,
+            "longitude": -80.20091
+          },
+          "title": "Gibson Park Public Pool",
+          "type": "Public swimming pool",
+          "address": "Miami, FL",
+          "hours": "Closed · Opens 1 PM"
+        },
+        {
+          "position": 19,
+          "rating": 4.3,
+          "reviews": 16,
+          "reviews_original": "(16)",
+          "lsig": "AB86z5UnXVhjE_l42Mi71r1vsdBe",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/n5o5fLkX1yRgc8LlnhGK2HmuTCW5R350uZ8zmQShB-o.jpeg",
+          "place_id": "14572533955463809570",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=14572533955463809570&q=pool",
+          "provider_id": "/g/11dzt56zll",
+          "gps_coordinates": {
+            "latitude": 25.708374,
+            "longitude": -80.28866
+          },
+          "title": "Murray Park Aquatic Center",
+          "type": "Outdoor swimming pool",
+          "address": "South Miami, FL",
+          "hours": "Closed · Opens 12 PM"
+        },
+        {
+          "position": 20,
+          "rating": 4.0,
+          "reviews": 53,
+          "reviews_original": "(53)",
+          "description": "\"Highly recommend this company.\"",
+          "lsig": "AB86z5V3kt0mmGOAowJaKIGOIDCI",
+          "thumbnail": "https://serpapi.com/searches/69d51bc4f73581185f43aae5/images/GRWjRV4vGaVHAa2tWe6xNFbo4bxNzllMA8Wl8r9lGW4.webp",
+          "place_id": "4071751177426094188",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Miami&ludocid=4071751177426094188&q=pool",
+          "provider_id": "/g/1tnqhsxy",
+          "gps_coordinates": {
+            "latitude": 25.58109,
+            "longitude": -80.39166
+          },
+          "title": "Pool Max Miami",
+          "type": "Swimming pool supply store",
+          "address": "Miami, FL"
+        }
+      ]
+    }
+  }
+]

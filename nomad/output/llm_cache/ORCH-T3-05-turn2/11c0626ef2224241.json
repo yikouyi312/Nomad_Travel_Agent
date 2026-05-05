@@ -1,0 +1,48 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01QpiXP5HL33g3JPyB6WFBQg",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01QZ9LKeHbUs4q6wR9BwSH7x",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "num_travelers": 3,
+          "hotel_budget_per_night": 300,
+          "interests": [
+            "conference room",
+            "meeting space"
+          ]
+        },
+        "needs": {
+          "flight": false,
+          "hotel": true,
+          "activity": false
+        },
+        "response_to_user": "Got it! I've updated your Chicago trip for 3 travelers (October 20-22) with a hotel budget of $300 per night near the Loop. I'll search for hotels that offer conference rooms or meeting space for your business needs."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2582,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 201,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

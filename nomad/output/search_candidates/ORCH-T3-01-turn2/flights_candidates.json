@@ -1,0 +1,1278 @@
+[
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "category": "flights",
+    "timestamp": "2026-04-07T12:07:48.013426",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "New York",
+      "departure_date": "2026-06-01",
+      "return_date": "2026-06-05"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 12:20"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 13:51"
+              },
+              "duration": 91,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 717",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 69 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 91,
+          "carbon_emissions": {
+            "this_flight": 70000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -19
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1ZDTmpjeE54b0xDUGlSQVJBQ0dnTlZVMFE0SEhENGtRRT0iLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiNzE3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 15:55"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 17:29"
+              },
+              "duration": 94,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 317",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ]
+            }
+          ],
+          "total_duration": 94,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1ZDTmpNeE54b0xDUGlSQVJBQ0dnTlZVMFE0SEhENGtRRT0iLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMzE3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 20:55"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 22:19"
+              },
+              "duration": 84,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5702",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "often_delayed_by_over_30_min": true,
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 84,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 207,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVM01ESWFDd2pJb1FFUUFob0RWVk5FT0J4d3lLRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTcwMiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 11:22"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 12:49"
+              },
+              "duration": 87,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4366",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 78 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 87,
+          "carbon_emissions": {
+            "this_flight": 79000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -8
+          },
+          "price": 232,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pCUVRRek5qWWFDd2lNdFFFUUFob0RWVk5FT0J4d2pMVUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkFBIiwiNDM2NiJdXV0="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 05:20"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 06:34"
+              },
+              "duration": 74,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 2917",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ]
+            }
+          ],
+          "total_duration": 74,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pDTmpJNU1UY2FDd2o0a1FFUUFob0RWVk5FT0J4dytKRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMjkxNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 10:14"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 11:48"
+              },
+              "duration": 94,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 1017",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 69 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 94,
+          "carbon_emissions": {
+            "this_flight": 70000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -19
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pDTmpFd01UY2FDd2o0a1FFUUFob0RWVk5FT0J4dytKRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMTAxNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 18:40"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 20:16"
+              },
+              "duration": 96,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 817",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 96,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1ZDTmpneE54b0xDUGlSQVJBQ0dnTlZVMFE0SEhENGtRRT0iLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiODE3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 20:30"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 21:55"
+              },
+              "duration": 85,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 1117",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ]
+            }
+          ],
+          "total_duration": 85,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pDTmpFeE1UY2FDd2o0a1FFUUFob0RWVk5FT0J4dytKRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMTExNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 06:00"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 07:25"
+              },
+              "duration": 85,
+              "airplane": "Airbus A220-100 Passenger",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2611",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 75 kg"
+              ]
+            }
+          ],
+          "total_duration": 85,
+          "carbon_emissions": {
+            "this_flight": 76000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -12
+          },
+          "price": 207,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERJMk1URWFDd2pJb1FFUUFob0RWVk5FT0J4d3lLRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiMjYxMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 06:30"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 08:00"
+              },
+              "duration": 90,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4401",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 78 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 90,
+          "carbon_emissions": {
+            "this_flight": 79000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -8
+          },
+          "price": 232,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pCUVRRME1ERWFDd2lNdFFFUUFob0RWVk5FT0J4d2pMVUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkFBIiwiNDQwMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 17:45"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 19:29"
+              },
+              "duration": 104,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4390",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 78 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 104,
+          "carbon_emissions": {
+            "this_flight": 79000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -8
+          },
+          "price": 232,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pCUVRRek9UQWFDd2lNdFFFUUFob0RWVk5FT0J4d2pMVUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkFBIiwiNDM5MCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 09:05"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 10:30"
+              },
+              "duration": 85,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5720",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 85,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 242,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVM01qQWFDd2owdkFFUUFob0RWVk5FT0J4dzlMd0IiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTcyMCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 13:29"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 14:55"
+              },
+              "duration": 86,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5808",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 86,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 407,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVNE1EZ2FDd2pvdlFJUUFob0RWVk5FT0J4dzZMMEMiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTgwOCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 17:05"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 18:42"
+              },
+              "duration": 97,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5814",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "often_delayed_by_over_30_min": true,
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 97,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 407,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVNE1UUWFDd2pvdlFJUUFob0RWVk5FT0J4dzZMMEMiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTgxNCJdXV0="
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "category": "flights",
+    "timestamp": "2026-05-04T02:47:53.472543",
+    "tool_name": "search_flights",
+    "tool_input": {
+      "origin": "Boston",
+      "destination": "New York",
+      "departure_date": "2026-06-01",
+      "return_date": "2026-06-05"
+    },
+    "tool_result": {
+      "best_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 12:20"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 13:51"
+              },
+              "duration": 91,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 717",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 69 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 91,
+          "carbon_emissions": {
+            "this_flight": 70000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -19
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1ZDTmpjeE54b0xDUGlSQVJBQ0dnTlZVMFE0SEhENGtRRT0iLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiNzE3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 15:55"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 17:29"
+              },
+              "duration": 94,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 317",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ]
+            }
+          ],
+          "total_duration": 94,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1ZDTmpNeE54b0xDUGlSQVJBQ0dnTlZVMFE0SEhENGtRRT0iLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMzE3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 20:55"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 22:19"
+              },
+              "duration": 84,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5702",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "often_delayed_by_over_30_min": true,
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 84,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 207,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVM01ESWFDd2pJb1FFUUFob0RWVk5FT0J4d3lLRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTcwMiJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 11:22"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 12:49"
+              },
+              "duration": 87,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4366",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 78 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 87,
+          "carbon_emissions": {
+            "this_flight": 79000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -8
+          },
+          "price": 232,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pCUVRRek5qWWFDd2lNdFFFUUFob0RWVk5FT0J4d2pMVUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkFBIiwiNDM2NiJdXV0="
+        }
+      ],
+      "other_flights": [
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 05:20"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 06:34"
+              },
+              "duration": 74,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 2917",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ]
+            }
+          ],
+          "total_duration": 74,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pDTmpJNU1UY2FDd2o0a1FFUUFob0RWVk5FT0J4dytKRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMjkxNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 10:14"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 11:48"
+              },
+              "duration": 94,
+              "airplane": "Airbus A320",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 1017",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 69 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 94,
+          "carbon_emissions": {
+            "this_flight": 70000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -19
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pDTmpFd01UY2FDd2o0a1FFUUFob0RWVk5FT0J4dytKRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMTAxNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 18:40"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 20:16"
+              },
+              "duration": 96,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 817",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ],
+              "often_delayed_by_over_30_min": true
+            }
+          ],
+          "total_duration": 96,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1ZDTmpneE54b0xDUGlSQVJBQ0dnTlZVMFE0SEhENGtRRT0iLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiODE3Il1dXQ=="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 20:30"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 21:55"
+              },
+              "duration": 85,
+              "airplane": "Airbus A220-300 Passenger",
+              "airline": "JetBlue",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+              "travel_class": "Economy",
+              "flight_number": "B6 1117",
+              "legroom": "32 in",
+              "extensions": [
+                "Above average legroom (32 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 68 kg"
+              ]
+            }
+          ],
+          "total_duration": 85,
+          "carbon_emissions": {
+            "this_flight": 69000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -20
+          },
+          "price": 187,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pDTmpFeE1UY2FDd2o0a1FFUUFob0RWVk5FT0J4dytKRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkI2IiwiMTExNyJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 06:00"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 07:25"
+              },
+              "duration": 85,
+              "airplane": "Airbus A220-100 Passenger",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 2611",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Free Wi-Fi",
+                "In-seat power & USB outlets",
+                "Live TV",
+                "Carbon emissions estimate: 75 kg"
+              ]
+            }
+          ],
+          "total_duration": 85,
+          "carbon_emissions": {
+            "this_flight": 76000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -12
+          },
+          "price": 207,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERJMk1URWFDd2pJb1FFUUFob0RWVk5FT0J4d3lLRUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiMjYxMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 06:30"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 08:00"
+              },
+              "duration": 90,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4401",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 78 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 90,
+          "carbon_emissions": {
+            "this_flight": 79000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -8
+          },
+          "price": 232,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pCUVRRME1ERWFDd2lNdFFFUUFob0RWVk5FT0J4d2pMVUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkFBIiwiNDQwMSJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 17:45"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 19:29"
+              },
+              "duration": 104,
+              "airplane": "Embraer 175",
+              "airline": "American",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+              "travel_class": "Economy",
+              "flight_number": "AA 4390",
+              "legroom": "30 in",
+              "extensions": [
+                "Average legroom (30 in)",
+                "Wi-Fi for a fee",
+                "In-seat power & USB outlets",
+                "Stream media to your device",
+                "Carbon emissions estimate: 78 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways as American Eagle"
+            }
+          ],
+          "total_duration": 104,
+          "carbon_emissions": {
+            "this_flight": 79000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -8
+          },
+          "price": 232,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pCUVRRek9UQWFDd2lNdFFFUUFob0RWVk5FT0J4d2pMVUIiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkFBIiwiNDM5MCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 09:05"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 10:30"
+              },
+              "duration": 85,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5720",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 85,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 242,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVM01qQWFDd2owdkFFUUFob0RWVk5FT0J4dzlMd0IiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTcyMCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 13:29"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 14:55"
+              },
+              "duration": 86,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5808",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 86,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 407,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVNE1EZ2FDd2pvdlFJUUFob0RWVk5FT0J4dzZMMEMiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTgwOCJdXV0="
+        },
+        {
+          "flights": [
+            {
+              "departure_airport": {
+                "name": "Boston Logan International Airport",
+                "id": "BOS",
+                "time": "2026-06-01 17:05"
+              },
+              "arrival_airport": {
+                "name": "John F. Kennedy International Airport",
+                "id": "JFK",
+                "time": "2026-06-01 18:42"
+              },
+              "duration": 97,
+              "airplane": "Embraer 175",
+              "airline": "Delta",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+              "travel_class": "Economy",
+              "flight_number": "DL 5814",
+              "legroom": "31 in",
+              "extensions": [
+                "Average legroom (31 in)",
+                "Wi-Fi for a fee",
+                "Carbon emissions estimate: 81 kg"
+              ],
+              "often_delayed_by_over_30_min": true,
+              "plane_and_crew_by": "Republic Airways Delta Connection"
+            }
+          ],
+          "total_duration": 97,
+          "carbon_emissions": {
+            "this_flight": 81000,
+            "typical_for_this_route": 86000,
+            "difference_percent": -6
+          },
+          "price": 407,
+          "type": "Round trip",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "extensions": [
+            "Checked baggage for a fee",
+            "Bag and fare conditions depend on the return flight"
+          ],
+          "departure_token": "WyJDalJJZFhkd1pFdHNZekZhTlUxQlJUTmZlVUZDUnkwdExTMHRMUzB0TFc5NVpuVXlOa0ZCUVVGQlIyNVdTemxOVERsd1EyRkJFZ1pFVERVNE1UUWFDd2pvdlFJUUFob0RWVk5FT0J4dzZMMEMiLFtbIkJPUyIsIjIwMjYtMDYtMDEiLCJKRksiLG51bGwsIkRMIiwiNTgxNCJdXV0="
+        }
+      ]
+    }
+  }
+]

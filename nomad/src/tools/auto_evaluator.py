@@ -30,7 +30,9 @@ class AutoEvaluator:
             output_dir: Directory to save evaluation reports
         """
         self.repo = PlanRepository(base_dir=plan_repo_dir or PLANS_DIR)
-        self.evaluator = NomadEvaluator()
+        # Load orchestrator_tasks.json so evaluator uses task-defined expected_tools & constraints
+        _tasks_file = Path(__file__).resolve().parent.parent.parent / "benchmark" / "data" / "orchestrator_tasks.json"
+        self.evaluator = NomadEvaluator(task_file=str(_tasks_file) if _tasks_file.exists() else None)
         self.output_dir = Path(output_dir or EVALUATIONS_DIR)
         self.output_dir.mkdir(parents=True, exist_ok=True)
     
@@ -117,19 +119,29 @@ class AutoEvaluator:
                 "worst_score": 1,
                 "excellent_count": 0,
                 "acceptable_count": 0,
-                "needs_revision_count": 0
+                "needs_revision_count": 0,
+                "fractional_csr_mean": 0,
+                "binary_csr_pass_count": 0,
             },
             "results": {}
         }
         
         scores = []
+        csr_scores = []
+        binary_passes = 0
         for task_id, result in results.items():
             if "error" in result:
                 report["results"][task_id] = {"error": result["error"]}
                 continue
             
             score = result.get("overall_score", 0)
+            csr = result.get("csr_score", 0)
             scores.append(score)
+            csr_scores.append(csr)
+            
+            binary_pass = csr >= 1.0
+            if binary_pass:
+                binary_passes += 1
             
             # Count ratings
             if score >= 0.8:
@@ -139,11 +151,12 @@ class AutoEvaluator:
             else:
                 report["summary"]["needs_revision_count"] += 1
             
-            # Store compact result
+            # Store compact result with fractional + binary CSR
             report["results"][task_id] = {
                 "overall_score": score,
                 "schema_compliance": result.get("schema_compliance", 0),
                 "csr_score": result.get("csr_score", 0),
+                "csr_binary_pass": binary_pass,
                 "tool_accuracy": result.get("tool_accuracy", 0),
                 "itinerary_validity": result.get("itinerary_validity", False),
                 "has_conflicts": result.get("conflict_report", {}).get("has_conflicts", False),
@@ -157,6 +170,9 @@ class AutoEvaluator:
             report["summary"]["average_score"] = sum(scores) / len(scores)
             report["summary"]["best_score"] = max(scores)
             report["summary"]["worst_score"] = min(scores)
+        if csr_scores:
+            report["summary"]["fractional_csr_mean"] = sum(csr_scores) / len(csr_scores)
+        report["summary"]["binary_csr_pass_count"] = binary_passes
         
         # Save
         report_file = self.output_dir / f"{report_name}.json"

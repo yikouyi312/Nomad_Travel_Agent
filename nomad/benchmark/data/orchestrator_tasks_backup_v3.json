@@ -1,0 +1,708 @@
+[
+  {
+    "task_id": "ORCH-T1-01",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Round-trip flight with specific dates",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find the cheapest round-trip flight from Boston to Seattle, departing May 5 and returning May 12, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "Boston",
+        "destination": "Seattle",
+        "start_date": "2026-05-05",
+        "end_date": "2026-05-12"
+      },
+      "expected_needs": { "flight": true, "hotel": false, "activity": false }
+    },
+    "expected_tools": ["search_flights"],
+    "tags": ["flights"]
+  },
+  {
+    "task_id": "ORCH-T1-02",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Budget-capped hotel with check-in/out dates",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find a hotel in downtown Chicago for under $200 per night, checking in June 5 and checking out June 7, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "destination": "Chicago",
+        "start_date": "2026-06-05",
+        "end_date": "2026-06-07",
+        "hotel_budget_per_night": 200
+      },
+      "expected_needs": { "flight": false, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_hotels"],
+    "tags": ["hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T1-03",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Hotel with pet-friendly amenity and dates",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find a pet-friendly hotel in Austin, TX for under $150 per night, checking in July 10 and checking out July 13, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "destination": "Austin",
+        "start_date": "2026-07-10",
+        "end_date": "2026-07-13",
+        "hotel_budget_per_night": 150,
+        "interests": ["pet-friendly"]
+      },
+      "expected_needs": { "flight": false, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_hotels"],
+    "tags": ["hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T1-04",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Activity/POI information lookup",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "What are the opening hours and admission fee for the Art Institute of Chicago?"
+    },
+    "expected_output": {
+      "intent": "ask_question",
+      "updated_constraints": {
+        "destination": "Chicago",
+        "interests": ["Art Institute of Chicago"]
+      },
+      "expected_needs": { "flight": false, "hotel": false, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities"]
+  },
+  {
+    "task_id": "ORCH-T1-05",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Budget-capped round-trip flight",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find a round-trip flight from Los Angeles to New York under $400, departing July 4 and returning July 11, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "Los Angeles",
+        "destination": "New York",
+        "budget_usd": 400,
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-11"
+      },
+      "expected_needs": { "flight": true, "hotel": false, "activity": false }
+    },
+    "expected_tools": ["search_flights"],
+    "tags": ["flights", "budget"]
+  },
+  {
+    "task_id": "ORCH-T1-06",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Restaurant search with dietary constraint",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find the best vegan restaurants in Portland, Oregon."
+    },
+    "expected_output": {
+      "intent": "ask_question",
+      "updated_constraints": {
+        "destination": "Portland",
+        "dietary_needs": ["vegan"],
+        "interests": ["vegan restaurants"]
+      },
+      "expected_needs": { "flight": false, "hotel": false, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "dietary"]
+  },
+
+  {
+    "task_id": "ORCH-T2-01",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "City cultural trip with flight, hotel, and jazz activity",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to New Orleans for under $1,800, flying from Dallas on June 20, 2026. Include a visit to a jazz club on Bourbon Street."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 1800,
+        "origin": "Dallas",
+        "destination": "New Orleans",
+        "start_date": "2026-06-20",
+        "duration_days": 3,
+        "interests": ["jazz", "Bourbon Street"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["budget", "cultural", "activities", "flights", "hotels"]
+  },
+  {
+    "task_id": "ORCH-T2-02",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Weekend trip with dietary and pet-friendly hotel constraints",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a weekend trip (2 nights) to Seattle for under $900, flying from San Francisco on August 8, 2026. Include the Space Needle, a vegetarian restaurant, and a pet-friendly hotel."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 900,
+        "origin": "San Francisco",
+        "destination": "Seattle",
+        "start_date": "2026-08-08",
+        "duration_days": 2,
+        "dietary_needs": ["vegetarian"],
+        "interests": ["pet-friendly", "Space Needle"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget", "dietary"]
+  },
+  {
+    "task_id": "ORCH-T2-03",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Business trip with hotel proximity constraint",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 2-day business trip to Chicago from NYC, flying out September 15 and returning September 16, 2026. Hotel under $250/night near the Magnificent Mile."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "New York",
+        "destination": "Chicago",
+        "start_date": "2026-09-15",
+        "end_date": "2026-09-16",
+        "hotel_budget_per_night": 250,
+        "interests": ["near Magnificent Mile"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T2-04",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Family beach vacation with pool amenity and group budget",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 5-day family beach vacation to Miami for a family of 4, flying from Boston on August 1, 2026. Total budget under $4,000. Need a hotel with a pool."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 4000,
+        "origin": "Boston",
+        "destination": "Miami",
+        "start_date": "2026-08-01",
+        "duration_days": 5,
+        "num_travelers": 4,
+        "interests": ["pool", "beach"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["family", "group", "budget", "flights", "beach", "hotels"]
+  },
+  {
+    "task_id": "ORCH-T2-05",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Multi-POI cultural trip to Washington DC",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 4-day cultural trip to Washington DC for under $1,500, flying from Chicago on October 10, 2026. Must include the Smithsonian National Museum and the Lincoln Memorial."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 1500,
+        "origin": "Chicago",
+        "destination": "Washington DC",
+        "start_date": "2026-10-10",
+        "duration_days": 4,
+        "interests": ["Smithsonian", "Lincoln Memorial"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["budget", "cultural", "activities", "flights", "hotels"]
+  },
+  {
+    "task_id": "ORCH-T2-06",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Strict vegan dietary constraint with activity requirement",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to San Francisco for a vegan traveler, flying from NYC on November 5, 2026. Budget under $2,000. Must include a visit to Golden Gate Park."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 2000,
+        "origin": "New York",
+        "destination": "San Francisco",
+        "start_date": "2026-11-05",
+        "duration_days": 3,
+        "dietary_needs": ["vegan"],
+        "interests": ["Golden Gate Park"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["dietary", "budget", "activities", "flights", "vegan", "hotels"]
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "International trip with hotel near a landmark",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 7-day trip to London from NYC, departing October 3 and returning October 10, 2026. Total budget under $4,000 including flights. Stay in a hotel near Westminster."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 4000,
+        "origin": "New York",
+        "destination": "London",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-10",
+        "interests": ["near Westminster"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["budget", "flights", "hotels", "international"]
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Winter ski trip with activity and equipment rental",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 4-day ski trip to Denver from Seattle, departing January 15 and returning January 19, 2027. Budget under $2,500. Need a hotel near ski slopes and include ski rental."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 2500,
+        "origin": "Seattle",
+        "destination": "Denver",
+        "start_date": "2027-01-15",
+        "end_date": "2027-01-19",
+        "interests": ["skiing", "ski rental", "near ski slopes"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["adventure", "budget", "winter", "activities", "flights", "hotels"]
+  },
+
+  {
+    "task_id": "ORCH-T3-01-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Duration extension and activity addition (turn 1)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to NYC from Boston under $1,200, departing June 1, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "Boston",
+        "destination": "New York",
+        "start_date": "2026-06-01",
+        "duration_days": 3,
+        "budget_usd": 1200
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Duration extension and activity addition (turn 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Actually, make it 4 days and add a Broadway show."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "duration_days": 4,
+        "interests": ["Broadway show"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"],
+    "current_state_constraints": {
+      "origin": "Boston",
+      "destination": "New York",
+      "start_date": "2026-06-01",
+      "duration_days": 3,
+      "budget_usd": 1200
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": false }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Hotel type change and activity addition (turn 1)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a weekend trip to Miami from Chicago, budget $900, flying out July 17, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 900,
+        "origin": "Chicago",
+        "destination": "Miami",
+        "start_date": "2026-07-17",
+        "duration_days": 2
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Hotel type change and activity addition (turn 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Change the hotel to be beachfront and add a snorkeling excursion."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "interests": ["beachfront hotel", "snorkeling"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"],
+    "current_state_constraints": {
+      "budget_usd": 900,
+      "origin": "Chicago",
+      "destination": "Miami",
+      "start_date": "2026-07-17",
+      "duration_days": 2
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+  {
+    "task_id": "ORCH-T3-03-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Late dietary constraint injection (turn 1)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to Portland, OR from NYC, budget $1,500, departing September 5, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "duration_days": 3,
+        "budget_usd": 1500,
+        "origin": "New York",
+        "destination": "Portland",
+        "start_date": "2026-09-05"
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-03-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Late dietary constraint injection (turn 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "My travel companion just told me they are vegan. Adjust all restaurant recommendations."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "dietary_needs": ["vegan"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "dietary"],
+    "current_state_constraints": {
+      "duration_days": 3,
+      "budget_usd": 1500,
+      "origin": "New York",
+      "destination": "Portland",
+      "start_date": "2026-09-05"
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": false }
+  },
+  {
+    "task_id": "ORCH-T3-04-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Destination swap mid-conversation (turn 1)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 5-day beach vacation from Boston to Miami, budget $2,500, departing November 1, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "duration_days": 5,
+        "budget_usd": 2500,
+        "origin": "Boston",
+        "destination": "Miami",
+        "start_date": "2026-11-01"
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-04-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Destination swap mid-conversation (turn 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Actually, change the destination to Cancun, Mexico instead."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "destination": "Cancun"
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "budget"],
+    "current_state_constraints": {
+      "duration_days": 5,
+      "budget_usd": 2500,
+      "origin": "Boston",
+      "destination": "Miami",
+      "start_date": "2026-11-01"
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+  {
+    "task_id": "ORCH-T3-05-turn1",
+    "tier": 3,
+    "difficulty": "hard",
+    "description": "Group size expansion and accommodation upgrade (turn 1)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 2-day business trip to Chicago from NYC, flying out October 20, 2026. Hotel under $200/night."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "New York",
+        "destination": "Chicago",
+        "start_date": "2026-10-20",
+        "duration_days": 2,
+        "hotel_budget_per_night": 200
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities"]
+  },
+  {
+    "task_id": "ORCH-T3-05-turn2",
+    "tier": 3,
+    "difficulty": "hard",
+    "description": "Group size expansion and accommodation upgrade (turn 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "It's now a group of 3. We need adjoining rooms or a suite, and add a group dinner reservation."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "num_travelers": 3,
+        "interests": ["adjoining rooms", "group dinner"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "group"],
+    "current_state_constraints": {
+      "origin": "New York",
+      "destination": "Chicago",
+      "start_date": "2026-10-20",
+      "duration_days": 2,
+      "hotel_budget_per_night": 200
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+  {
+    "task_id": "ORCH-T3-06-turn1",
+    "tier": 3,
+    "difficulty": "hard",
+    "description": "Budget upgrade and hotel tier escalation (turn 1)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 4-day trip to Las Vegas from LA, budget $1,000, departing December 10, 2026."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "duration_days": 4,
+        "budget_usd": 1000,
+        "origin": "Los Angeles",
+        "destination": "Las Vegas",
+        "start_date": "2026-12-10"
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-06-turn2",
+    "tier": 3,
+    "difficulty": "hard",
+    "description": "Budget upgrade and hotel tier escalation (turn 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Upgrade the hotel to a 5-star resort on the Strip. New budget is $2,500."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "budget_usd": 2500,
+        "preferred_hotel_rating": 5,
+        "interests": ["near Las Vegas Strip"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"],
+    "current_state_constraints": {
+      "duration_days": 4,
+      "budget_usd": 1000,
+      "origin": "Los Angeles",
+      "destination": "Las Vegas",
+      "start_date": "2026-12-10"
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  }
+]

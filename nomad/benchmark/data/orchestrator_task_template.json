@@ -1,0 +1,34 @@
+{
+  "task_id": "ORCH-T1",
+  "tier": 1,
+  "description": "Simple flight search with structured JSON input",
+  "category": "orchestrator",
+  "difficulty": "easy",
+  
+  "input": {
+    "type": "structured",
+    "format": "JSON",
+    "content": {
+      "origin": "BOS",
+      "destination": "SEA",
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-12"
+    },
+    "additional_query": null
+  },
+  
+  "expected_output": {
+    "intent": "new_trip",
+    "updated_constraints": {
+      "origin": "BOS",
+      "destination": "SEA",
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-12"
+    },
+    "delegation": "logistics",
+    "response_to_user": "I will search for round-trip flights from Boston to Seattle departing May 5 and returning May 12, 2026."
+  },
+  
+  "expected_tools": ["search_flights"],
+  "tags": ["flights", "budget"]
+}

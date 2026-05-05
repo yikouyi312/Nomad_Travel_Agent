@@ -1,0 +1,58 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_016Nwd6DSTghqKicERhEGKGq",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_015NB4GAyBv5fWRrJ95bYcvF",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Dallas",
+          "destination": "New Orleans",
+          "start_date": "2026-06-20",
+          "duration_days": 3,
+          "budget_usd": 1800,
+          "num_travelers": 1,
+          "preferred_hotel_rating": 3,
+          "hotel_rating_priority": "hard",
+          "hotel_location": "French Quarter",
+          "interests": [
+            "live jazz",
+            "Preservation Hall",
+            "Bourbon Street",
+            "cemetery walking tour",
+            "Cajun crawfish"
+          ]
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Perfect! I'll plan your 3-day New Orleans trip from Dallas starting June 20, 2026. I'll find flights, a 3-star hotel in the French Quarter, and activities including Preservation Hall jazz, a cemetery walking tour, and the best spots for authentic Cajun crawfish—all within your $1,800 budget. Let me get started!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2685,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 322,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

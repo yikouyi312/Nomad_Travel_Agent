@@ -1,0 +1,806 @@
+[
+  {
+    "task_id": "ORCH-T3-05-turn1",
+    "category": "activities",
+    "timestamp": "2026-04-07T12:14:14.384955",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "things to do",
+      "location": "Chicago"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 36000,
+          "reviews_original": "(36K)",
+          "description": "\"There’s a whole maze of interactive areas to walk around.\"",
+          "lsig": "AB86z5Xgn-Z9-ezOdWR_DYalhvMX",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/LJGmUMvxRgZ56xW8DY58Nmw2v9fbozNP0ry5ffmoQ1A.jpeg",
+          "place_id": "14918508562816029949",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14918508562816029949&q=things+to+do",
+          "provider_id": "/g/1hhnxgkgv",
+          "gps_coordinates": {
+            "latitude": 41.878876,
+            "longitude": -87.63592
+          },
+          "title": "Skydeck Chicago",
+          "type": "Tourist attraction",
+          "address": "233 S Wacker Dr"
+        },
+        {
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 22000,
+          "reviews_original": "(22K)",
+          "description": "\"Free activity with tons of great dining/drink options along the way.\"",
+          "lsig": "AB86z5W5od0i5_zi52xizgysB7sz",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/gSMg3mJGRR3J4Q2nh22q51H6l-Fmcxufl52AdYwkPSo.jpeg",
+          "place_id": "18410674774676086598",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18410674774676086598&q=things+to+do",
+          "provider_id": "/m/0n4_xtw",
+          "gps_coordinates": {
+            "latitude": 41.88847,
+            "longitude": -87.62323
+          },
+          "title": "Chicago Riverwalk",
+          "type": "Tourist attraction",
+          "address": "Chicago, IL"
+        },
+        {
+          "position": 3,
+          "rating": 4.6,
+          "reviews": 4800,
+          "reviews_original": "(4.8K)",
+          "description": "\"The exhibits are perfect for teens: fun, hands-on, and very photo-friendly.\"",
+          "lsig": "AB86z5XxlgfXqaiOzNT8WzmPk37u",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/1wOhC3UIbTfpJrUmbvX5csI4H2jv_kU71v4JyGPSkI0.jpeg",
+          "place_id": "13891451202570975914",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13891451202570975914&q=things+to+do",
+          "provider_id": "/g/11kvkcsr29",
+          "gps_coordinates": {
+            "latitude": 41.883038,
+            "longitude": -87.62685
+          },
+          "title": "Museum of Illusions Chicago",
+          "type": "Tourist attraction",
+          "address": "25 E Washington St"
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 32000,
+          "reviews_original": "(32K)",
+          "description": "\"There are lots of interactive exhibits enjoyable for any age group.\"",
+          "lsig": "AB86z5V58EQXJnpMv8w0YwqVq8UZ",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/aJP1YeGl-RffEH9-b2RhcigZFbD-piOSW0ObukaKJn4.jpeg",
+          "place_id": "3604460678809713631",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3604460678809713631&q=things+to+do",
+          "provider_id": "/m/02jw0z",
+          "gps_coordinates": {
+            "latitude": 41.867573,
+            "longitude": -87.61404
+          },
+          "title": "Shedd Aquarium",
+          "type": "Tourist attraction",
+          "address": "1200 S DuSable Lake Shore Dr"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 5900,
+          "reviews_original": "(5.9K)",
+          "description": "\"Interesting exhibits, amazing architectural elements, and Tiffany domes!\"",
+          "lsig": "AB86z5WtT4r8JBEZpnEvP3fhaE1m",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/YhE_2dsBLBk-v8HOs5Et95nRaMpY895DMpT7fwnzqUc.jpeg",
+          "place_id": "3661040312719634495",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3661040312719634495&q=things+to+do",
+          "provider_id": "/m/05zv09",
+          "gps_coordinates": {
+            "latitude": 41.883755,
+            "longitude": -87.624954
+          },
+          "title": "Chicago Cultural Center",
+          "type": "Tourist attraction",
+          "address": "78 E Washington St"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 5500,
+          "reviews_original": "(5.5K)",
+          "description": "\"Cool outdoor space to sit down and splash pad for kids to run around.\"",
+          "lsig": "AB86z5WD-HEkO2WuayJ7gnbG5DAk",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/yfOb827sYsmz1AH35qUJOLCJsf98p-40JexpaLKgOPg.jpeg",
+          "place_id": "11888259213241308209",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=11888259213241308209&q=things+to+do",
+          "provider_id": "/m/02rqqyv",
+          "gps_coordinates": {
+            "latitude": 41.881256,
+            "longitude": -87.62372
+          },
+          "title": "Crown Fountain",
+          "type": "Tourist attraction",
+          "address": "201 E Randolph St"
+        },
+        {
+          "position": 7,
+          "rating": 4.7,
+          "reviews": 854,
+          "reviews_original": "(854)",
+          "description": "\"It’s full of interactive exhibits, and the staff are super helpful.\"",
+          "lsig": "AB86z5Wh_sVATdY3tVmJtafIw9Sc",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/GqvoZ9W3l8YoGdSuJ8y6-cA5i2zplSAKlrTA-qXma9c.jpeg",
+          "place_id": "12817168842587819203",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=12817168842587819203&q=things+to+do",
+          "provider_id": "/m/0131zmlf",
+          "gps_coordinates": {
+            "latitude": 41.885555,
+            "longitude": -87.62492
+          },
+          "title": "American Writers Museum",
+          "type": "Tourist attraction",
+          "address": "180 North N Michigan Ave",
+          "hours": "Closed · Opens 10 AM Thu"
+        },
+        {
+          "position": 8,
+          "rating": 4.8,
+          "reviews": 38000,
+          "reviews_original": "(38K)",
+          "description": "\"I had fun learning / viewing the Art Museum by my own pace.\"",
+          "lsig": "AB86z5VjhLtkfaNiXDuGTMYXjFnb",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/jgm4qOk_hvM_OPnuH-QshDUL7CRgOOO4Zw6hV96lY3o.jpeg",
+          "place_id": "5199955304902742238",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5199955304902742238&q=things+to+do",
+          "provider_id": "/m/027hqc_",
+          "gps_coordinates": {
+            "latitude": 41.879604,
+            "longitude": -87.62235
+          },
+          "title": "The Art Institute of Chicago",
+          "type": "Tourist attraction",
+          "address": "111 S Michigan Ave",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 9,
+          "rating": 4.6,
+          "reviews": 1000,
+          "reviews_original": "(1K)",
+          "description": "\"Not everyday you get to sit next to a Picasso for free\"",
+          "lsig": "AB86z5WCae170onN2Rvp3UhS4cyK",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/5FHR8hRMk9_iIrPId24Pt9QOeiU8Ox_ton_dLAAO87g.jpeg",
+          "place_id": "14172348181654245874",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14172348181654245874&q=things+to+do",
+          "provider_id": "/m/089k0s",
+          "gps_coordinates": {
+            "latitude": 41.883636,
+            "longitude": -87.629974
+          },
+          "title": "Untitled by Pablo Picasso",
+          "type": "Tourist attraction",
+          "address": "50 W Washington St"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 351,
+          "reviews_original": "(351)",
+          "description": "\"Innovative experience seeing a short film projected on the building\"",
+          "lsig": "AB86z5XDmK27N3bJfFGsrfM_RGPX",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/qScfya2p9argPAFMQv8aTAiBHLg9AUrT5NoX2FxJrtA.jpeg",
+          "place_id": "932632905191357630",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=932632905191357630&q=things+to+do",
+          "provider_id": "/g/11d_7qhvdm",
+          "gps_coordinates": {
+            "latitude": 41.887108,
+            "longitude": -87.63525
+          },
+          "title": "The Jetty | Riverwalk",
+          "type": "Tourist attraction",
+          "address": "260 W Wacker Dr"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 541,
+          "reviews_original": "(541)",
+          "description": "\"No entry fee and easy to just walk through and really take in the exhibits.\"",
+          "lsig": "AB86z5W5ZPMP1sNLC5oT64XZhgjd",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/dF_BSRJ4APSJJiTD0IdUqjrZ6q0JCe7lQNyKpznCmss.jpeg",
+          "place_id": "8560286171023518762",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8560286171023518762&q=things+to+do",
+          "provider_id": "/m/027p7m1",
+          "gps_coordinates": {
+            "latitude": 41.87423,
+            "longitude": -87.624794
+          },
+          "title": "Museum of Contemporary Photography",
+          "type": "Tourist attraction",
+          "address": "600 S Michigan Ave"
+        },
+        {
+          "position": 12,
+          "rating": 4.9,
+          "reviews": 6000,
+          "reviews_original": "(6K)",
+          "description": "\"Challenging room with fun puzzles that can be done in parallel.\"",
+          "lsig": "AB86z5VhcPoHVopt-GzBOsx6d05r",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/Q6tcqGGFBY8wE_ics6rJxfU3w7pFX-uUWGyCI5-Kz-c.jpeg",
+          "place_id": "18342294093576117018",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18342294093576117018&q=things+to+do",
+          "provider_id": "/g/11clycsxtn",
+          "gps_coordinates": {
+            "latitude": 41.891876,
+            "longitude": -87.62307
+          },
+          "title": "The Great Escape Room Chicago",
+          "type": "Tourist attraction",
+          "address": "160 E Grand Ave #400",
+          "hours": "Opens soon · 11:30 AM"
+        },
+        {
+          "position": 13,
+          "rating": 4.5,
+          "reviews": 854,
+          "reviews_original": "(854)",
+          "description": "\"We thought it had great value and a lot of things that you can do.\"",
+          "lsig": "AB86z5XMAYbUh3GrhkMDBlNujQD2",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/BxoIwZnFsMoSxUrAU4RX3D1gXGR-6XENypG5P-F4ms0.jpeg",
+          "place_id": "3526282474414771737",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3526282474414771737&q=things+to+do",
+          "provider_id": "/g/1hc26_jy_",
+          "gps_coordinates": {
+            "latitude": 41.883892,
+            "longitude": -87.62756
+          },
+          "title": "Go City® - Chicago",
+          "type": "Sightseeing tour agency",
+          "years_in_business": "7+ years in business",
+          "address": "111 N State St"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 453,
+          "reviews_original": "(453)",
+          "description": "\"Educational exhibits and some fun interactive ones.\"",
+          "lsig": "AB86z5XpGO6L_Ctlend3qkvuMJHg",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/lMTI-6vaQxcxVLG97SzJGarfzS1twBWh07EslRwLOiw.jpeg",
+          "place_id": "15108682667759975275",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15108682667759975275&q=things+to+do",
+          "provider_id": "/g/11kjm090cq",
+          "gps_coordinates": {
+            "latitude": 41.878548,
+            "longitude": -87.632866
+          },
+          "title": "Chicago Fed Money Museum",
+          "type": "Museum",
+          "address": "230 S LaSalle St"
+        },
+        {
+          "position": 15,
+          "rating": 4.8,
+          "reviews": 211,
+          "reviews_original": "(211)",
+          "description": "\"The exhibits are interactive, engaging and really make you think.\"",
+          "lsig": "AB86z5WK80JfMK36oyZ2zXDMv2Xg",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/muk6meppLB_RNE0-DGTYQOLWvN3WYe_1P2Fpqc22Q4c.png",
+          "place_id": "7983058434866872589",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=7983058434866872589&q=things+to+do",
+          "provider_id": "/g/11rsrnhq0z",
+          "gps_coordinates": {
+            "latitude": 41.87862,
+            "longitude": -87.62492
+          },
+          "title": "Mindworks: The Science of Thinking",
+          "type": "Science museum",
+          "address": "224 S Michigan Ave",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 16,
+          "rating": 4.7,
+          "reviews": 156,
+          "reviews_original": "(156)",
+          "description": "\"Great immersive playgrounds for all ages\"",
+          "lsig": "AB86z5XvxROc1Gj9ujptT34IHdDv",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/5ow2fJc8_wY5uO3nnAstHq8xFzDAAExpakqRmh90NeE.jpeg",
+          "place_id": "15896215533702348836",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15896215533702348836&q=things+to+do",
+          "provider_id": "/g/11h4dx9cpv",
+          "gps_coordinates": {
+            "latitude": 41.881832,
+            "longitude": -87.61808
+          },
+          "title": "Maggie Daley Park Play Garden",
+          "type": "Playground",
+          "address": "Maggie Daley Park, 337 E Randolph St"
+        },
+        {
+          "position": 17,
+          "rating": 4.8,
+          "reviews": 494,
+          "reviews_original": "(494)",
+          "description": "\"Great place for create a memorable moments in your life.\"",
+          "lsig": "AB86z5VtckLiO7ozb6CaJE-FzAHr",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/oxfDQevOA4Hbl2GyDJGSS8Zx0zSdHBAmrzLte94n4zA.jpeg",
+          "place_id": "14242640736474599063",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14242640736474599063&q=things+to+do",
+          "provider_id": "/g/11cs5x_vsm",
+          "gps_coordinates": {
+            "latitude": 41.88349,
+            "longitude": -87.625755
+          },
+          "title": "Downtown",
+          "type": "Tourist attraction",
+          "address": "111 N Wabash Ave STE 1514"
+        },
+        {
+          "position": 18,
+          "rating": 4.1,
+          "reviews": 562,
+          "reviews_original": "(562)",
+          "description": "\"Awesome immersion with a good story and fun mini challenges throughout.\"",
+          "lsig": "AB86z5WDcKbxe0quUZe4IyavAudE",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/pmPTixDp1UUEXjjIWE0qxMbA3ZM-dQNvdLWluuFyj30.png",
+          "place_id": "2028751325929139466",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=2028751325929139466&q=things+to+do",
+          "provider_id": "/g/11jsqd9nkm",
+          "gps_coordinates": {
+            "latitude": 41.88349,
+            "longitude": -87.62881
+          },
+          "title": "Verse Immersive Chicago",
+          "type": "Amusement center",
+          "address": "108 N State St Suite 150",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 19,
+          "rating": 4.6,
+          "reviews": 1600,
+          "reviews_original": "(1.6K)",
+          "description": "\"... ribbon is an awesome date night or just a plain fun thing to do.\"",
+          "lsig": "AB86z5X7l8NJKlcoWcab4Duc8hhm",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/bOnEt6dLZoCSXiNE9PkQ2O-ZLB-6Hovvrd12dmuSNQA.jpeg",
+          "place_id": "5032063130107969969",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5032063130107969969&q=things+to+do",
+          "provider_id": "/m/012vm3_z",
+          "gps_coordinates": {
+            "latitude": 41.883816,
+            "longitude": -87.61932
+          },
+          "title": "Maggie Daley Park Ice Skating Ribbon",
+          "type": "Tourist attraction",
+          "address": "337 E Randolph St",
+          "hours": "Temporarily closed"
+        },
+        {
+          "position": 20,
+          "rating": 4.8,
+          "reviews": 3800,
+          "reviews_original": "(3.8K)",
+          "description": "\"Great outing, educational without being boring, and a whole lot of fun!\"",
+          "lsig": "AB86z5UsmuedoYioTpB6lo7lcZt3",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/C37BLPBdA9vKu8kbEyoKr06VOu4T-iKMgq0tHI3BifI.jpeg",
+          "place_id": "10433510028554767733",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10433510028554767733&q=things+to+do",
+          "provider_id": "/g/1th1d9ck",
+          "gps_coordinates": {
+            "latitude": 41.88845,
+            "longitude": -87.62424
+          },
+          "title": "First Lady",
+          "type": "Boat tour agency",
+          "years_in_business": "90+ years in business",
+          "address": "112 E Wacker Dr"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "ORCH-T3-05-turn1",
+    "category": "activities",
+    "timestamp": "2026-05-04T02:52:18.801781",
+    "tool_name": "search_places",
+    "tool_input": {
+      "query": "things to do",
+      "location": "Chicago"
+    },
+    "tool_result": {
+      "local_results": [
+        {
+          "position": 1,
+          "rating": 4.6,
+          "reviews": 36000,
+          "reviews_original": "(36K)",
+          "description": "\"There’s a whole maze of interactive areas to walk around.\"",
+          "lsig": "AB86z5Xgn-Z9-ezOdWR_DYalhvMX",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/LJGmUMvxRgZ56xW8DY58Nmw2v9fbozNP0ry5ffmoQ1A.jpeg",
+          "place_id": "14918508562816029949",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14918508562816029949&q=things+to+do",
+          "provider_id": "/g/1hhnxgkgv",
+          "gps_coordinates": {
+            "latitude": 41.878876,
+            "longitude": -87.63592
+          },
+          "title": "Skydeck Chicago",
+          "type": "Tourist attraction",
+          "address": "233 S Wacker Dr"
+        },
+        {
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 22000,
+          "reviews_original": "(22K)",
+          "description": "\"Free activity with tons of great dining/drink options along the way.\"",
+          "lsig": "AB86z5W5od0i5_zi52xizgysB7sz",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/gSMg3mJGRR3J4Q2nh22q51H6l-Fmcxufl52AdYwkPSo.jpeg",
+          "place_id": "18410674774676086598",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18410674774676086598&q=things+to+do",
+          "provider_id": "/m/0n4_xtw",
+          "gps_coordinates": {
+            "latitude": 41.88847,
+            "longitude": -87.62323
+          },
+          "title": "Chicago Riverwalk",
+          "type": "Tourist attraction",
+          "address": "Chicago, IL"
+        },
+        {
+          "position": 3,
+          "rating": 4.6,
+          "reviews": 4800,
+          "reviews_original": "(4.8K)",
+          "description": "\"The exhibits are perfect for teens: fun, hands-on, and very photo-friendly.\"",
+          "lsig": "AB86z5XxlgfXqaiOzNT8WzmPk37u",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/1wOhC3UIbTfpJrUmbvX5csI4H2jv_kU71v4JyGPSkI0.jpeg",
+          "place_id": "13891451202570975914",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=13891451202570975914&q=things+to+do",
+          "provider_id": "/g/11kvkcsr29",
+          "gps_coordinates": {
+            "latitude": 41.883038,
+            "longitude": -87.62685
+          },
+          "title": "Museum of Illusions Chicago",
+          "type": "Tourist attraction",
+          "address": "25 E Washington St"
+        },
+        {
+          "position": 4,
+          "rating": 4.5,
+          "reviews": 32000,
+          "reviews_original": "(32K)",
+          "description": "\"There are lots of interactive exhibits enjoyable for any age group.\"",
+          "lsig": "AB86z5V58EQXJnpMv8w0YwqVq8UZ",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/aJP1YeGl-RffEH9-b2RhcigZFbD-piOSW0ObukaKJn4.jpeg",
+          "place_id": "3604460678809713631",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3604460678809713631&q=things+to+do",
+          "provider_id": "/m/02jw0z",
+          "gps_coordinates": {
+            "latitude": 41.867573,
+            "longitude": -87.61404
+          },
+          "title": "Shedd Aquarium",
+          "type": "Tourist attraction",
+          "address": "1200 S DuSable Lake Shore Dr"
+        },
+        {
+          "position": 5,
+          "rating": 4.7,
+          "reviews": 5900,
+          "reviews_original": "(5.9K)",
+          "description": "\"Interesting exhibits, amazing architectural elements, and Tiffany domes!\"",
+          "lsig": "AB86z5WtT4r8JBEZpnEvP3fhaE1m",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/YhE_2dsBLBk-v8HOs5Et95nRaMpY895DMpT7fwnzqUc.jpeg",
+          "place_id": "3661040312719634495",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3661040312719634495&q=things+to+do",
+          "provider_id": "/m/05zv09",
+          "gps_coordinates": {
+            "latitude": 41.883755,
+            "longitude": -87.624954
+          },
+          "title": "Chicago Cultural Center",
+          "type": "Tourist attraction",
+          "address": "78 E Washington St"
+        },
+        {
+          "position": 6,
+          "rating": 4.7,
+          "reviews": 5500,
+          "reviews_original": "(5.5K)",
+          "description": "\"Cool outdoor space to sit down and splash pad for kids to run around.\"",
+          "lsig": "AB86z5WD-HEkO2WuayJ7gnbG5DAk",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/yfOb827sYsmz1AH35qUJOLCJsf98p-40JexpaLKgOPg.jpeg",
+          "place_id": "11888259213241308209",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=11888259213241308209&q=things+to+do",
+          "provider_id": "/m/02rqqyv",
+          "gps_coordinates": {
+            "latitude": 41.881256,
+            "longitude": -87.62372
+          },
+          "title": "Crown Fountain",
+          "type": "Tourist attraction",
+          "address": "201 E Randolph St"
+        },
+        {
+          "position": 7,
+          "rating": 4.7,
+          "reviews": 854,
+          "reviews_original": "(854)",
+          "description": "\"It’s full of interactive exhibits, and the staff are super helpful.\"",
+          "lsig": "AB86z5Wh_sVATdY3tVmJtafIw9Sc",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/GqvoZ9W3l8YoGdSuJ8y6-cA5i2zplSAKlrTA-qXma9c.jpeg",
+          "place_id": "12817168842587819203",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=12817168842587819203&q=things+to+do",
+          "provider_id": "/m/0131zmlf",
+          "gps_coordinates": {
+            "latitude": 41.885555,
+            "longitude": -87.62492
+          },
+          "title": "American Writers Museum",
+          "type": "Tourist attraction",
+          "address": "180 North N Michigan Ave",
+          "hours": "Closed · Opens 10 AM Thu"
+        },
+        {
+          "position": 8,
+          "rating": 4.8,
+          "reviews": 38000,
+          "reviews_original": "(38K)",
+          "description": "\"I had fun learning / viewing the Art Museum by my own pace.\"",
+          "lsig": "AB86z5VjhLtkfaNiXDuGTMYXjFnb",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/jgm4qOk_hvM_OPnuH-QshDUL7CRgOOO4Zw6hV96lY3o.jpeg",
+          "place_id": "5199955304902742238",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5199955304902742238&q=things+to+do",
+          "provider_id": "/m/027hqc_",
+          "gps_coordinates": {
+            "latitude": 41.879604,
+            "longitude": -87.62235
+          },
+          "title": "The Art Institute of Chicago",
+          "type": "Tourist attraction",
+          "address": "111 S Michigan Ave",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 9,
+          "rating": 4.6,
+          "reviews": 1000,
+          "reviews_original": "(1K)",
+          "description": "\"Not everyday you get to sit next to a Picasso for free\"",
+          "lsig": "AB86z5WCae170onN2Rvp3UhS4cyK",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/5FHR8hRMk9_iIrPId24Pt9QOeiU8Ox_ton_dLAAO87g.jpeg",
+          "place_id": "14172348181654245874",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14172348181654245874&q=things+to+do",
+          "provider_id": "/m/089k0s",
+          "gps_coordinates": {
+            "latitude": 41.883636,
+            "longitude": -87.629974
+          },
+          "title": "Untitled by Pablo Picasso",
+          "type": "Tourist attraction",
+          "address": "50 W Washington St"
+        },
+        {
+          "position": 10,
+          "rating": 4.8,
+          "reviews": 351,
+          "reviews_original": "(351)",
+          "description": "\"Innovative experience seeing a short film projected on the building\"",
+          "lsig": "AB86z5XDmK27N3bJfFGsrfM_RGPX",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/qScfya2p9argPAFMQv8aTAiBHLg9AUrT5NoX2FxJrtA.jpeg",
+          "place_id": "932632905191357630",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=932632905191357630&q=things+to+do",
+          "provider_id": "/g/11d_7qhvdm",
+          "gps_coordinates": {
+            "latitude": 41.887108,
+            "longitude": -87.63525
+          },
+          "title": "The Jetty | Riverwalk",
+          "type": "Tourist attraction",
+          "address": "260 W Wacker Dr"
+        },
+        {
+          "position": 11,
+          "rating": 4.4,
+          "reviews": 541,
+          "reviews_original": "(541)",
+          "description": "\"No entry fee and easy to just walk through and really take in the exhibits.\"",
+          "lsig": "AB86z5W5ZPMP1sNLC5oT64XZhgjd",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/dF_BSRJ4APSJJiTD0IdUqjrZ6q0JCe7lQNyKpznCmss.jpeg",
+          "place_id": "8560286171023518762",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=8560286171023518762&q=things+to+do",
+          "provider_id": "/m/027p7m1",
+          "gps_coordinates": {
+            "latitude": 41.87423,
+            "longitude": -87.624794
+          },
+          "title": "Museum of Contemporary Photography",
+          "type": "Tourist attraction",
+          "address": "600 S Michigan Ave"
+        },
+        {
+          "position": 12,
+          "rating": 4.9,
+          "reviews": 6000,
+          "reviews_original": "(6K)",
+          "description": "\"Challenging room with fun puzzles that can be done in parallel.\"",
+          "lsig": "AB86z5VhcPoHVopt-GzBOsx6d05r",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/Q6tcqGGFBY8wE_ics6rJxfU3w7pFX-uUWGyCI5-Kz-c.jpeg",
+          "place_id": "18342294093576117018",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=18342294093576117018&q=things+to+do",
+          "provider_id": "/g/11clycsxtn",
+          "gps_coordinates": {
+            "latitude": 41.891876,
+            "longitude": -87.62307
+          },
+          "title": "The Great Escape Room Chicago",
+          "type": "Tourist attraction",
+          "address": "160 E Grand Ave #400",
+          "hours": "Opens soon · 11:30 AM"
+        },
+        {
+          "position": 13,
+          "rating": 4.5,
+          "reviews": 854,
+          "reviews_original": "(854)",
+          "description": "\"We thought it had great value and a lot of things that you can do.\"",
+          "lsig": "AB86z5XMAYbUh3GrhkMDBlNujQD2",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/BxoIwZnFsMoSxUrAU4RX3D1gXGR-6XENypG5P-F4ms0.jpeg",
+          "place_id": "3526282474414771737",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=3526282474414771737&q=things+to+do",
+          "provider_id": "/g/1hc26_jy_",
+          "gps_coordinates": {
+            "latitude": 41.883892,
+            "longitude": -87.62756
+          },
+          "title": "Go City® - Chicago",
+          "type": "Sightseeing tour agency",
+          "years_in_business": "7+ years in business",
+          "address": "111 N State St"
+        },
+        {
+          "position": 14,
+          "rating": 4.7,
+          "reviews": 453,
+          "reviews_original": "(453)",
+          "description": "\"Educational exhibits and some fun interactive ones.\"",
+          "lsig": "AB86z5XpGO6L_Ctlend3qkvuMJHg",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/lMTI-6vaQxcxVLG97SzJGarfzS1twBWh07EslRwLOiw.jpeg",
+          "place_id": "15108682667759975275",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15108682667759975275&q=things+to+do",
+          "provider_id": "/g/11kjm090cq",
+          "gps_coordinates": {
+            "latitude": 41.878548,
+            "longitude": -87.632866
+          },
+          "title": "Chicago Fed Money Museum",
+          "type": "Museum",
+          "address": "230 S LaSalle St"
+        },
+        {
+          "position": 15,
+          "rating": 4.8,
+          "reviews": 211,
+          "reviews_original": "(211)",
+          "description": "\"The exhibits are interactive, engaging and really make you think.\"",
+          "lsig": "AB86z5WK80JfMK36oyZ2zXDMv2Xg",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/muk6meppLB_RNE0-DGTYQOLWvN3WYe_1P2Fpqc22Q4c.png",
+          "place_id": "7983058434866872589",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=7983058434866872589&q=things+to+do",
+          "provider_id": "/g/11rsrnhq0z",
+          "gps_coordinates": {
+            "latitude": 41.87862,
+            "longitude": -87.62492
+          },
+          "title": "Mindworks: The Science of Thinking",
+          "type": "Science museum",
+          "address": "224 S Michigan Ave",
+          "hours": "Closed · Opens 11 AM Wed"
+        },
+        {
+          "position": 16,
+          "rating": 4.7,
+          "reviews": 156,
+          "reviews_original": "(156)",
+          "description": "\"Great immersive playgrounds for all ages\"",
+          "lsig": "AB86z5XvxROc1Gj9ujptT34IHdDv",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/5ow2fJc8_wY5uO3nnAstHq8xFzDAAExpakqRmh90NeE.jpeg",
+          "place_id": "15896215533702348836",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=15896215533702348836&q=things+to+do",
+          "provider_id": "/g/11h4dx9cpv",
+          "gps_coordinates": {
+            "latitude": 41.881832,
+            "longitude": -87.61808
+          },
+          "title": "Maggie Daley Park Play Garden",
+          "type": "Playground",
+          "address": "Maggie Daley Park, 337 E Randolph St"
+        },
+        {
+          "position": 17,
+          "rating": 4.8,
+          "reviews": 494,
+          "reviews_original": "(494)",
+          "description": "\"Great place for create a memorable moments in your life.\"",
+          "lsig": "AB86z5VtckLiO7ozb6CaJE-FzAHr",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/oxfDQevOA4Hbl2GyDJGSS8Zx0zSdHBAmrzLte94n4zA.jpeg",
+          "place_id": "14242640736474599063",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=14242640736474599063&q=things+to+do",
+          "provider_id": "/g/11cs5x_vsm",
+          "gps_coordinates": {
+            "latitude": 41.88349,
+            "longitude": -87.625755
+          },
+          "title": "Downtown",
+          "type": "Tourist attraction",
+          "address": "111 N Wabash Ave STE 1514"
+        },
+        {
+          "position": 18,
+          "rating": 4.1,
+          "reviews": 562,
+          "reviews_original": "(562)",
+          "description": "\"Awesome immersion with a good story and fun mini challenges throughout.\"",
+          "lsig": "AB86z5WDcKbxe0quUZe4IyavAudE",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/pmPTixDp1UUEXjjIWE0qxMbA3ZM-dQNvdLWluuFyj30.png",
+          "place_id": "2028751325929139466",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=2028751325929139466&q=things+to+do",
+          "provider_id": "/g/11jsqd9nkm",
+          "gps_coordinates": {
+            "latitude": 41.88349,
+            "longitude": -87.62881
+          },
+          "title": "Verse Immersive Chicago",
+          "type": "Amusement center",
+          "address": "108 N State St Suite 150",
+          "hours": "Closed · Opens 3 PM"
+        },
+        {
+          "position": 19,
+          "rating": 4.6,
+          "reviews": 1600,
+          "reviews_original": "(1.6K)",
+          "description": "\"... ribbon is an awesome date night or just a plain fun thing to do.\"",
+          "lsig": "AB86z5X7l8NJKlcoWcab4Duc8hhm",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/bOnEt6dLZoCSXiNE9PkQ2O-ZLB-6Hovvrd12dmuSNQA.jpeg",
+          "place_id": "5032063130107969969",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=5032063130107969969&q=things+to+do",
+          "provider_id": "/m/012vm3_z",
+          "gps_coordinates": {
+            "latitude": 41.883816,
+            "longitude": -87.61932
+          },
+          "title": "Maggie Daley Park Ice Skating Ribbon",
+          "type": "Tourist attraction",
+          "address": "337 E Randolph St",
+          "hours": "Temporarily closed"
+        },
+        {
+          "position": 20,
+          "rating": 4.8,
+          "reviews": 3800,
+          "reviews_original": "(3.8K)",
+          "description": "\"Great outing, educational without being boring, and a whole lot of fun!\"",
+          "lsig": "AB86z5UsmuedoYioTpB6lo7lcZt3",
+          "thumbnail": "https://serpapi.com/searches/69d52d550676dc86d0fd4850/images/C37BLPBdA9vKu8kbEyoKr06VOu4T-iKMgq0tHI3BifI.jpeg",
+          "place_id": "10433510028554767733",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Chicago&ludocid=10433510028554767733&q=things+to+do",
+          "provider_id": "/g/1th1d9ck",
+          "gps_coordinates": {
+            "latitude": 41.88845,
+            "longitude": -87.62424
+          },
+          "title": "First Lady",
+          "type": "Boat tour agency",
+          "years_in_business": "90+ years in business",
+          "address": "112 E Wacker Dr"
+        }
+      ]
+    }
+  }
+]

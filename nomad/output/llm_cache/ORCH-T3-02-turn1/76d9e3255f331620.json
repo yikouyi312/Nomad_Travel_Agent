@@ -1,0 +1,48 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_01Ao1SGNcMZZYT7awYmLA6Ei",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01EYvYJ2AR7wP3i7yLakMW8t",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "new_trip",
+        "updated_constraints": {
+          "origin": "Chicago",
+          "destination": "Miami",
+          "start_date": "2026-07-17",
+          "duration_days": 2,
+          "budget_usd": 900,
+          "num_travelers": 1
+        },
+        "needs": {
+          "flight": true,
+          "hotel": true,
+          "activity": false
+        },
+        "response_to_user": "Perfect! I'll help you plan a weekend trip to Miami from Chicago, departing July 17, 2026 with a $900 budget. I'll search for flights and affordable hotel options for your 2-day stay. Let me find the best options for you!"
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2560,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 231,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

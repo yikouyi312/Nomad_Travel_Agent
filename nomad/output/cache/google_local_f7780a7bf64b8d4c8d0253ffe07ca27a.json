@@ -1,0 +1,457 @@
+{
+  "search_metadata": {
+    "id": "69d51b07f9aa73f80c8b4126",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4RNRcVWDOBTGwba11G_9Pw/69d51b07f9aa73f80c8b4126.json",
+    "created_at": "2026-04-07 14:56:07 UTC",
+    "processed_at": "2026-04-07 14:56:07 UTC",
+    "google_local_url": "https://www.google.com/search?q=jazz&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/4RNRcVWDOBTGwba11G_9Pw/69d51b07f9aa73f80c8b4126.html",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "jazz",
+    "location_requested": "New Orleans",
+    "location_used": "New Orleans,Louisiana,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 29.956496208445163,
+      "longitude": -90.06772041320801
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 1100,
+      "reviews_original": "(1.1K)",
+      "price": "$30–40",
+      "description": "\"Excellent spot for great jazz, staff is awesome and drinks are fairly priced\"",
+      "lsig": "AB86z5VtZ-cdB4UBf5RoqmBWyI2k",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/SxJnrKirAa1MRzWdCl1yjLp_f_gg4h8nDg9RjOoC8Ds.jpeg",
+      "place_id": "13163145780748271353",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=13163145780748271353&q=jazz",
+      "provider_id": "/g/1hd_33lzp",
+      "gps_coordinates": {
+        "latitude": 29.95574,
+        "longitude": -90.06786
+      },
+      "title": "The Jazz Playhouse",
+      "type": "Jazz",
+      "address": "300 Bourbon St",
+      "hours": "Closed · Opens 3 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.7,
+      "reviews": 1600,
+      "reviews_original": "(1.6K)",
+      "price": "$20–30",
+      "description": "\"Amazing Jazz Musicians, incredible ambiance, intimate setting and a must.\"",
+      "lsig": "AB86z5UeXxChLEKpQwuDPwRu6eZC",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/NO8r0lox4dsHdtqv9txg6sxuI7dk7jHpcv5JLgxaqhI.jpeg",
+      "place_id": "6033909110132805964",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=6033909110132805964&q=jazz",
+      "provider_id": "/g/11b7fwvbf2",
+      "gps_coordinates": {
+        "latitude": 29.953289,
+        "longitude": -90.067764
+      },
+      "title": "Mahogany Jazz Hall",
+      "type": "Jazz",
+      "address": "125 Chartres St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.6,
+      "reviews": 448,
+      "reviews_original": "(448)",
+      "description": "\"Great Jazz Venue Drinks are expensive\"",
+      "lsig": "AB86z5VIZiS2BLWnACE_wjmLZrQF",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/JTaKUI7ZC0NnIZq2KoEnkT_DRqc3htWtvVB-J9WpXBU.jpeg",
+      "place_id": "776917251459681399",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=776917251459681399&q=jazz",
+      "provider_id": "/g/11b6pcj6p9",
+      "gps_coordinates": {
+        "latitude": 29.941223,
+        "longitude": -90.07897
+      },
+      "title": "New Orleans Jazz & Blues Market",
+      "type": "Live Music",
+      "address": "1436 Oretha Castle Haley Blvd",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 4,
+      "rating": 4.8,
+      "reviews": 11,
+      "reviews_original": "(11)",
+      "price": "$20–30",
+      "description": "\"Talented and curated jazz performance with balanced acoustics.\"",
+      "lsig": "AB86z5VEtCxM0jx5lomP3SFuj2ry",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/71Vx-87qbS1JK2m6vxe8nGzX3moFb0RTkonFssjkvLI.jpeg",
+      "place_id": "16523963768539131029",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=16523963768539131029&q=jazz",
+      "provider_id": "/g/11mslvkd3z",
+      "gps_coordinates": {
+        "latitude": 29.956308,
+        "longitude": -90.06524
+      },
+      "title": "Three Maries Jazz Club",
+      "type": "Bar",
+      "address": "621 St Louis St",
+      "hours": "Closed · Opens 7 PM Thu"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews": 4500,
+      "reviews_original": "(4.5K)",
+      "price": "$10–20",
+      "description": "\"Authentic jazz, incredible groups, great drinks, friendly staff.\"",
+      "lsig": "AB86z5XjSUidfZjU6CF8OHBlH_Tf",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/Ljn4YTSvCJP0Kn_ZVGXpgynleyUIimYnMljVn_36kkA.jpeg",
+      "place_id": "9186672648816673868",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=9186672648816673868&q=jazz",
+      "provider_id": "/g/1tcts0jb",
+      "gps_coordinates": {
+        "latitude": 29.959278,
+        "longitude": -90.06513
+      },
+      "title": "Fritzel's European Jazz Pub",
+      "type": "Jazz",
+      "address": "733 Bourbon St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 6,
+      "rating": 4.4,
+      "reviews": 1900,
+      "reviews_original": "(1.9K)",
+      "price": "$20–30",
+      "description": "\"The food was great, the server was attentive, and the jazz band was awesome!\"",
+      "lsig": "AB86z5Xzczl64ZFG6QEN1qUO_P1Y",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/FrVnJwirJ7g8Apae6WPLrKYF0fv9ILSqvAA9bGUhnw8.jpeg",
+      "place_id": "312865865260169488",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=312865865260169488&q=jazz",
+      "provider_id": "/m/03h51v7",
+      "gps_coordinates": {
+        "latitude": 29.964167,
+        "longitude": -90.057915
+      },
+      "title": "Snug Harbor Jazz Bistro",
+      "type": "Jazz",
+      "address": "626 Frenchmen St",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.7,
+      "reviews": 216,
+      "reviews_original": "(216)",
+      "description": "\"They had Delicious food, drinks, great music, fun and friendly atmosphere!!!\"",
+      "lsig": "AB86z5U1YhQZC8ehuwjS8QqDn2iZ",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/PprcNIrRaRFiPBzIMa8r13_Ev5XGvpIk9WVoO_fX1n4.jpeg",
+      "place_id": "5304770966683870516",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=5304770966683870516&q=jazz",
+      "provider_id": "/g/11rpdcw681",
+      "gps_coordinates": {
+        "latitude": 29.96948,
+        "longitude": -90.056564
+      },
+      "title": "The Bourbon Square Jazz Bar",
+      "type": "Bar",
+      "address": "1131 Elysian Fields Ave",
+      "hours": "Closed · Opens 11:30 AM"
+    },
+    {
+      "position": 8,
+      "rating": 4.6,
+      "reviews": 1200,
+      "reviews_original": "(1.2K)",
+      "price": "$10–20",
+      "description": "\"Fantastic live Jazz, spacious, good drinks.\"",
+      "lsig": "AB86z5VcvjVUJvmEVYtADr_Nk9rC",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/Z5cxSOsjl2_VhpFxDghTf6gzPnpxTeDBrpJeZVk336w.jpeg",
+      "place_id": "10708804208691454304",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=10708804208691454304&q=jazz",
+      "provider_id": "/g/1thx8z_0",
+      "gps_coordinates": {
+        "latitude": 29.95858,
+        "longitude": -90.06582
+      },
+      "title": "Maison Bourbon",
+      "type": "Bar",
+      "address": "641 Bourbon St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 9,
+      "rating": 4.4,
+      "reviews": 2300,
+      "reviews_original": "(2.3K)",
+      "description": "\"The 2nd floor (jazz) had a lot of live music to liven up the experience.\"",
+      "lsig": "AB86z5UyhSdgo4191_6kzV1SCMEF",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/DGKwj2dBOD23s7q5xiLGaU8RSW2mCQ03G-g7PRPlNjQ.jpeg",
+      "place_id": "9454845258343863144",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=9454845258343863144&q=jazz",
+      "provider_id": "/m/067c8h",
+      "gps_coordinates": {
+        "latitude": 29.961452,
+        "longitude": -90.05772
+      },
+      "title": "New Orleans Jazz Museum",
+      "type": "Heritage museum",
+      "address": "400 Esplanade Ave"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews": 3200,
+      "reviews_original": "(3.2K)",
+      "description": "\"No wait, good drinks & food, great jazz music\"",
+      "lsig": "AB86z5UMc_-jwt66L2089CFPVfHc",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/uubAUafiJZH76y8qCob167vRwfqqeRXrVM7UFHCL0vw.jpeg",
+      "place_id": "11194214069218312431",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=11194214069218312431&q=jazz",
+      "provider_id": "/m/0k19bch",
+      "gps_coordinates": {
+        "latitude": 29.962782,
+        "longitude": -90.0578
+      },
+      "title": "The Maison",
+      "type": "Bar",
+      "address": "508 Frenchmen St"
+    },
+    {
+      "position": 11,
+      "rating": 4.6,
+      "reviews": 181,
+      "reviews_original": "(181)",
+      "description": "\"Amazing jazz band, but waited for a while for seats.\"",
+      "lsig": "AB86z5Vt4Ld6xDZJJBlX0aDZ_-04",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/ZhOX1waDn3ynV9kYiQVsH95hrnwV2fWCUr_uxL2R79A.jpeg",
+      "place_id": "13310283566607218014",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=13310283566607218014&q=jazz",
+      "provider_id": "/g/1tjyp1z3",
+      "gps_coordinates": {
+        "latitude": 29.954788,
+        "longitude": -90.07103
+      },
+      "title": "Davenport Lounge",
+      "type": "Lounge bar",
+      "address": "921 Canal St",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 12,
+      "rating": 4.6,
+      "reviews": 397,
+      "reviews_original": "(397)",
+      "description": "\"Live jazz music daily which was great to listen to while we ate.\"",
+      "lsig": "AB86z5WPhGm0KxYfco9aPFdKNzY_",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/Tez5WNyJe7YfDDXdIdcEdZ7qLhU2-MYJkLDpdin0hCs.jpeg",
+      "place_id": "4428453755812001382",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=4428453755812001382&q=jazz",
+      "provider_id": "/g/11cn6cw1d9",
+      "gps_coordinates": {
+        "latitude": 29.935026,
+        "longitude": -90.07959
+      },
+      "title": "Bayou Bar",
+      "type": "Jazz",
+      "address": "2031 St Charles Ave",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 13,
+      "rating": 5.0,
+      "reviews": 4,
+      "reviews_original": "(4)",
+      "description": "\"Beautiful concept\"",
+      "lsig": "AB86z5UEEETnQ1y3mo73lckuBJBO",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/Ntu_1o2sHzncs_fcbgiPB1N5XyaYYW3xhdy5XN6AJ8U.webp",
+      "place_id": "4669919219938178073",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=4669919219938178073&q=jazz",
+      "provider_id": "/g/11z2c32599",
+      "gps_coordinates": {
+        "latitude": 29.955494,
+        "longitude": -90.068634
+      },
+      "title": "House of Jazz Restaurant & Music Club",
+      "type": "Restaurant",
+      "address": "241 Bourbon St",
+      "hours": "Opens soon · 10 AM"
+    },
+    {
+      "position": 14,
+      "rating": 4.5,
+      "reviews": 5000,
+      "reviews_original": "(5K)",
+      "description": "\"Great atmosphere, awesome music and the food is recommendable as well.\"",
+      "lsig": "AB86z5V5k2x8EvOdjV1GidyACzu8",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/2N4CjxBhbagzJicwt-2CdwR2O_eP6YujH5M_yjh1I6Q.jpeg",
+      "place_id": "6372213205496973933",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=6372213205496973933&q=jazz",
+      "provider_id": "/m/0k000mt",
+      "gps_coordinates": {
+        "latitude": 29.953392,
+        "longitude": -90.066284
+      },
+      "title": "House of Blues New Orleans",
+      "type": "Live Music",
+      "address": "225 Decatur St",
+      "hours": "Closed · Opens 4 PM Thu"
+    },
+    {
+      "position": 15,
+      "rating": 4.7,
+      "reviews": 246,
+      "reviews_original": "(246)",
+      "price": "$20–30",
+      "description": "\"Authentic jazz type feel with amazing ambiance and friendly service.\"",
+      "lsig": "AB86z5VxmGHzgdQBaaDHIaK3JEwf",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/Xx2MolLjfsmJmrZqBpw6NhZznaGzlAiI6E7vMMfn5Ws.jpeg",
+      "place_id": "17652852082344371066",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=17652852082344371066&q=jazz",
+      "provider_id": "/g/1tddy3pk",
+      "gps_coordinates": {
+        "latitude": 29.96847,
+        "longitude": -90.05965
+      },
+      "title": "Sweet Lorraine's Jazz Club",
+      "type": "Jazz",
+      "address": "1931 St Claude Ave",
+      "hours": "Closed · Opens 5 PM"
+    },
+    {
+      "position": 16,
+      "rating": 4.7,
+      "reviews": 5100,
+      "reviews_original": "(5.1K)",
+      "description": "\"It’s legit jazz, done by master musicians in a historic setting.\"",
+      "lsig": "AB86z5WsX4kVntfZp3FWo4GF6hlQ",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/Ho-pqZCgfkvrcLvSpB2jkocEBUptNWeqIamIpOVTSSA.jpeg",
+      "place_id": "4079833995751315285",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=4079833995751315285&q=jazz",
+      "provider_id": "/m/05cb8j",
+      "gps_coordinates": {
+        "latitude": 29.958326,
+        "longitude": -90.06535
+      },
+      "title": "Preservation Hall",
+      "type": "Live Music",
+      "address": "726 St Peter",
+      "hours": "Closed · Opens 11 AM"
+    },
+    {
+      "position": 17,
+      "rating": 4.7,
+      "reviews": 6500,
+      "reviews_original": "(6.5K)",
+      "price": "$20–30",
+      "description": "\"Fantastic live jazz music, friendly staff, tasty drinks.\"",
+      "lsig": "AB86z5WYIaO1ahIw7Cz5uHUtezkp",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/OXRqeDiw-iXY1O8eX8Y6o1FMdNgJ0E2lhadwNRbRqlk.jpeg",
+      "place_id": "2382214196716444875",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=2382214196716444875&q=jazz",
+      "provider_id": "/m/0k0nz6m",
+      "gps_coordinates": {
+        "latitude": 29.964054,
+        "longitude": -90.05771
+      },
+      "title": "The Spotted Cat Music Club",
+      "type": "Live music bar",
+      "address": "623 Frenchmen St",
+      "hours": "Closed · Opens 2 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.6,
+      "reviews": 4000,
+      "reviews_original": "(4K)",
+      "description": "\"Great atmosphere, amazing live jazz - mini concert and the food was good\"",
+      "lsig": "AB86z5X8--3t7q6VF24gCMNCgDbk",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/T-KJ1BO79MIBzQM4tGM0IZZ0U2XnGJSEThVKbbAXjM4.jpeg",
+      "place_id": "13364948053273433565",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=13364948053273433565&q=jazz",
+      "provider_id": "/g/1jkvm6z5z",
+      "gps_coordinates": {
+        "latitude": 29.955828,
+        "longitude": -90.068405
+      },
+      "title": "Musical Legends Park",
+      "type": "Live Music",
+      "address": "311 Bourbon St",
+      "hours": "Closed · Opens 8 AM Thu"
+    },
+    {
+      "position": 19,
+      "rating": 4.3,
+      "reviews": 16,
+      "reviews_original": "(16)",
+      "description": "\"(Some have more music and character if that’s what you’re after.)\"",
+      "lsig": "AB86z5VlakkEuAOvpbZhs2S1CwC3",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/J_zI0AGSn9XKjWwHJq_VZqUHIY0p6ZU0ELEvMjgb42E.png",
+      "place_id": "15384126384051632195",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=15384126384051632195&q=jazz",
+      "provider_id": "/g/11f3r71plr",
+      "gps_coordinates": {
+        "latitude": 29.965899,
+        "longitude": -90.08205
+      },
+      "title": "Jazz Bar and Lounge",
+      "type": "Bar",
+      "address": "2410 Conti St",
+      "hours": "Closed · Opens 4 PM Thu"
+    },
+    {
+      "position": 20,
+      "rating": 4.6,
+      "reviews": 983,
+      "reviews_original": "(983)",
+      "price": "$10–20",
+      "description": "\"Amazing musicians, great atmosphere, variety of drinks, and food available.\"",
+      "lsig": "AB86z5W-IPdLRZ2jdNRDhyKUE5kD",
+      "thumbnail": "https://serpapi.com/searches/69d51b07f9aa73f80c8b4126/images/2XRUlHT1S1pdz2APDJh-OdjBBj93hNYYbH2Y1W465jE.jpeg",
+      "place_id": "11253714682216270127",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=11253714682216270127&q=jazz",
+      "provider_id": "/m/02pkdxx",
+      "gps_coordinates": {
+        "latitude": 29.970926,
+        "longitude": -90.06676
+      },
+      "title": "Kermit's Tremé Mother-in-Law Lounge",
+      "type": "Bar",
+      "address": "1500 N Claiborne Ave"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=jazz&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=jazz&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=20&udm=1",
+      "3": "https://www.google.com/search?q=jazz&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=40&udm=1",
+      "4": "https://www.google.com/search?q=jazz&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=60&udm=1",
+      "5": "https://www.google.com/search?q=jazz&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&start=80&udm=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=jazz&start=20&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=jazz&start=20&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=jazz&start=20&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=jazz&start=40&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=jazz&start=60&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&q=jazz&start=80&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM"
+    }
+  }
+}

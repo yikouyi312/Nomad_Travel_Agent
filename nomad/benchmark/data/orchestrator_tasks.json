@@ -1,0 +1,960 @@
+[
+  {
+    "task_id": "ORCH-T1-01",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Flight with preference and morning time window",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find a round-trip flight from Boston to Seattle, departing May 5 and returning May 12, 2026. I strongly prefer morning departures before 10 AM, and want to avoid basic economy."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "Boston",
+        "destination": "Seattle",
+        "start_date": "2026-05-05",
+        "end_date": "2026-05-12",
+        "interests": ["morning departure", "no basic economy"]
+      },
+      "expected_needs": { "flight": true, "hotel": false, "activity": false }
+    },
+    "expected_tools": ["search_flights"],
+    "tags": ["flights", "preferences"]
+  },
+  {
+    "task_id": "ORCH-T1-02",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Hotel with star rating and amenity combo",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find a 3-star hotel in downtown Chicago for under $500 per night, checking in June 5 and checking out June 7, 2026. Must have a fitness center le."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "destination": "Chicago",
+        "start_date": "2026-06-05",
+        "end_date": "2026-06-07",
+        "hotel_budget_per_night": 500,
+        "preferred_hotel_rating": 3,
+        "hotel_rating_priority": "hard",
+        "hotel_location": "downtown Chicago",
+        "interests": ["fitness center"]
+      },
+      "expected_needs": { "flight": false, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_hotels"],
+    "tags": ["hotels", "budget", "amenities", "preferences"]
+  },
+  {
+    "task_id": "ORCH-T1-03",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Pet-friendly hotel with pool and parking near specific area",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find a pet-friendly hotel in Austin, TX for under $150 per night with a pool and free parking, checking in July 10 and checking out July 13, 2026. Prefer something near South Congress Avenue."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "destination": "Austin",
+        "start_date": "2026-07-10",
+        "end_date": "2026-07-13",
+        "hotel_budget_per_night": 150,
+        "hotel_location": "near South Congress Avenue",
+        "interests": ["pet-friendly", "pool", "free parking"]
+      },
+      "expected_needs": { "flight": false, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_hotels"],
+    "tags": ["hotels", "budget", "pet-friendly", "amenities"]
+  },
+  {
+    "task_id": "ORCH-T1-04",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Multi-criteria activity search with kid-friendly and outdoor constraints",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "What are the best kid-friendly outdoor activities in San Diego? My kids are 6 and 9 and love animals. We'd especially like to visit tide pools and maybe do a whale watching tour. Are there any good options under $50 per person?"
+    },
+    "expected_output": {
+      "intent": "ask_question",
+      "updated_constraints": {
+        "destination": "San Diego",
+        "interests": ["kid-friendly", "outdoor activities", "tide pools", "whale watching", "animals"]
+      },
+      "expected_needs": { "flight": false, "hotel": false, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "family", "outdoor", "budget"]
+  },
+  {
+    "task_id": "ORCH-T1-05",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Group flight with per-person budget calculation",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find round-trip flights from Los Angeles to New York for 3 adults, departing July 4 and returning July 11, 2026. Each ticket should be under $350. We prefer direct flights."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "Los Angeles",
+        "destination": "New York",
+        "budget_usd": 1050,
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-11",
+        "num_travelers": 3,
+        "interests": ["non-stop flights"]
+      },
+      "expected_needs": { "flight": true, "hotel": false, "activity": false }
+    },
+    "expected_tools": ["search_flights"],
+    "tags": ["flights", "budget", "group", "preferences"]
+  },
+  {
+    "task_id": "ORCH-T1-06",
+    "tier": 1,
+    "tier_type": "static_retrieval",
+    "difficulty": "easy",
+    "description": "Restaurant search with multiple dietary constraints and cuisine preference",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Find highly-rated restaurants in Portland, Oregon. One person in our group is vegan and another is gluten-free. We'd love to try Pacific Northwest cuisine — farm-to-table places with outdoor seating would be ideal."
+    },
+    "expected_output": {
+      "intent": "ask_question",
+      "updated_constraints": {
+        "destination": "Portland",
+        "dietary_needs": ["vegan", "gluten-free"],
+        "interests": ["Pacific Northwest cuisine", "farm-to-table", "outdoor seating"]
+      },
+      "expected_needs": { "flight": false, "hotel": false, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "dietary", "cuisine", "preferences"]
+  },
+
+  {
+    "task_id": "ORCH-T2-01",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Cultural trip with specific music venue, cuisine preference, and hotel location",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to New Orleans for under $1,800, flying from Dallas on June 20, 2026. I want to see live jazz at Preservation Hall on Bourbon Street, take a cemetery walking tour, and eat authentic Cajun crawfish. Hotel should be in the French Quarter with at least 3 stars."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 1800,
+        "origin": "Dallas",
+        "destination": "New Orleans",
+        "start_date": "2026-06-20",
+        "duration_days": 3,
+        "preferred_hotel_rating": 3,
+        "hotel_rating_priority": "hard",
+        "hotel_location": "French Quarter",
+        "interests": ["Preservation Hall", "jazz", "Bourbon Street", "cemetery walking tour", "Cajun crawfish"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["budget", "cultural", "activities", "flights", "hotels", "cuisine"]
+  },
+  {
+    "task_id": "ORCH-T2-02",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Weekend trip with dual dietary, pet-friendly, and multi-POI constraints",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a weekend trip (2 nights) to Seattle for under $900, flying from San Francisco on August 8, 2026. I'm vegetarian and my partner is lactose-intolerant. Need a pet-friendly hotel with parking since we're bringing our dog. Must visit the Space Needle, Pike Place Market, and find a good ramen place."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 900,
+        "origin": "San Francisco",
+        "destination": "Seattle",
+        "start_date": "2026-08-08",
+        "duration_days": 2,
+        "num_travelers": 2,
+        "dietary_needs": ["vegetarian", "lactose-intolerant"],
+        "interests": ["pet-friendly", "parking", "Space Needle", "Pike Place Market", "ramen"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget", "dietary", "pet-friendly"]
+  },
+  {
+    "task_id": "ORCH-T2-03",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Business trip with conference schedule, hotel proximity, and bleisure extension",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "I have a conference at McCormick Place in Chicago from September 15-16, 2026. Flying from NYC. Need a hotel under $250/night within a 10-minute drive of McCormick Place, with good WiFi and a business center. I'm staying an extra day on the 17th to visit the Art Institute and grab deep-dish pizza."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "New York",
+        "destination": "Chicago",
+        "start_date": "2026-09-15",
+        "end_date": "2026-09-17",
+        "hotel_budget_per_night": 250,
+        "hotel_location": "near McCormick Place",
+        "interests": ["business center", "WiFi", "Art Institute", "deep-dish pizza"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget", "business"]
+  },
+  {
+    "task_id": "ORCH-T2-04",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Large family beach trip with pool, kid activities, and group dining",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 5-day family beach vacation to Miami for a family of 4 (2 adults, 2 kids ages 5 and 8), flying from Boston on August 1, 2026. Total budget under $4,000. Need a hotel with a pool and kids' club. The kids want to visit the Miami Seaquarium, and we'd like a family-friendly seafood restaurant with ocean views."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 4000,
+        "origin": "Boston",
+        "destination": "Miami",
+        "start_date": "2026-08-01",
+        "duration_days": 5,
+        "num_travelers": 4,
+        "interests": ["pool", "kids club", "beach", "Miami Seaquarium", "family-friendly seafood", "ocean views"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["family", "group", "budget", "flights", "beach", "hotels", "activities"]
+  },
+  {
+    "task_id": "ORCH-T2-05",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Cultural trip with multiple museums, evening event, and hotel rating requirement",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 4-day cultural trip to Washington DC for under $1,500, flying from Chicago on October 10, 2026. Must visit the Smithsonian National Museum of Natural History, the Lincoln Memorial, and the National Gallery of Art. I'd also like to catch an evening show at the Kennedy Center. Hotel should be at least 3 stars near the National Mall."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 1500,
+        "origin": "Chicago",
+        "destination": "Washington DC",
+        "start_date": "2026-10-10",
+        "duration_days": 4,
+        "preferred_hotel_rating": 3,
+        "hotel_rating_priority": "hard",
+        "hotel_location": "near National Mall",
+        "interests": ["Smithsonian National Museum of Natural History", "Lincoln Memorial", "National Gallery of Art", "Kennedy Center"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["budget", "cultural", "activities", "flights", "hotels"]
+  },
+  {
+    "task_id": "ORCH-T2-06",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Vegan traveler with multiple POIs, strict dietary, and sustainability preference",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to San Francisco for a vegan traveler, flying from NYC on November 5, 2026. Budget under $2,000. Must visit Golden Gate Park, take a bike ride across the Golden Gate Bridge, and eat at a fully plant-based restaurant in the Mission District. Prefer an eco-friendly or green-certified hotel."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 2000,
+        "origin": "New York",
+        "destination": "San Francisco",
+        "start_date": "2026-11-05",
+        "duration_days": 3,
+        "dietary_needs": ["vegan"],
+        "interests": ["Golden Gate Park", "bike ride Golden Gate Bridge", "plant-based restaurant Mission District", "eco-friendly hotel"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["dietary", "budget", "activities", "flights", "vegan", "hotels", "sustainability"]
+  },
+  {
+    "task_id": "ORCH-T2-07",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "International trip with hotel landmark proximity and dual activity interests",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 7-day trip to London from NYC, departing October 3 and returning October 10, 2026. Total budget $4,000 including flights. Need a hotel near Westminster with breakfast included and at least 3 stars. Must visit the British Museum and catch a West End theatre show. I also want a traditional afternoon tea experience."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 4000,
+        "origin": "New York",
+        "destination": "London",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-10",
+        "preferred_hotel_rating": 3,
+        "hotel_rating_priority": "hard",
+        "hotel_location": "near Westminster",
+        "interests": ["breakfast included", "British Museum", "West End theatre", "afternoon tea"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["budget", "flights", "hotels", "activities", "international", "cultural"]
+  },
+  {
+    "task_id": "ORCH-T2-08",
+    "tier": 2,
+    "tier_type": "full_itinerary",
+    "difficulty": "medium",
+    "description": "Winter ski trip with equipment rental, group, and après-ski dining",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 4-day ski trip to Denver from Seattle for 2 people, departing January 15 and returning January 19, 2027. Total budget $2,500. Need a hotel with a hot tub near ski slopes in the mountains. Include ski equipment rental and a cozy après-ski restaurant with craft beer. Prefer a place with shuttle service to the slopes."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 2500,
+        "origin": "Seattle",
+        "destination": "Denver",
+        "start_date": "2027-01-15",
+        "end_date": "2027-01-19",
+        "num_travelers": 2,
+        "hotel_location": "near ski slopes",
+        "interests": ["hot tub", "ski equipment rental", "après-ski restaurant", "craft beer", "shuttle service"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["adventure", "budget", "winter", "activities", "flights", "hotels", "group"]
+  },
+
+  {
+    "task_id": "ORCH-T3-01-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Progressive NYC trip: base plan (turn 1 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to NYC from Boston under $1,200, departing June 1, 2026. Just flights and a hotel for now."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "Boston",
+        "destination": "New York",
+        "start_date": "2026-06-01",
+        "duration_days": 3,
+        "budget_usd": 1200
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-01-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Progressive NYC trip: extend + add Broadway (turn 2 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Actually, make it 4 days and add a Broadway show — I'd love to see a musical. Bump budget to $1,600."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "duration_days": 4,
+        "budget_usd": 1600,
+        "interests": ["Broadway show", "musical"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"],
+    "current_state_constraints": {
+      "origin": "Boston",
+      "destination": "New York",
+      "start_date": "2026-06-01",
+      "duration_days": 3,
+      "budget_usd": 1200
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": false }
+  },
+  {
+    "task_id": "ORCH-T3-01-turn3",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Progressive NYC trip: add dining + hotel upgrade (turn 3 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "One more thing — my partner is joining so it's 2 travelers now. She's vegetarian. Can you also upgrade the hotel to at least 3 stars near Times Square? And find us a nice Italian restaurant in Little Italy."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "num_travelers": 2,
+        "dietary_needs": ["vegetarian"],
+        "preferred_hotel_rating": 3,
+        "hotel_rating_priority": "hard",
+        "hotel_location": "near Times Square",
+        "interests": ["Italian restaurant", "Little Italy"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "dietary", "group", "upgrade"],
+    "current_state_constraints": {
+      "origin": "Boston",
+      "destination": "New York",
+      "start_date": "2026-06-01",
+      "duration_days": 4,
+      "budget_usd": 1600,
+      "interests": ["Broadway show", "musical"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+
+  {
+    "task_id": "ORCH-T3-02-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Miami trip with hotel change and activity layering (turn 1 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a weekend trip to Miami from Chicago, budget $900, flying out July 17, 2026. Just need flights and a cheap hotel."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "budget_usd": 900,
+        "origin": "Chicago",
+        "destination": "Miami",
+        "start_date": "2026-07-17",
+        "duration_days": 2
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-02-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Miami trip: upgrade hotel + add water activities (turn 2 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Change the hotel to be beachfront with ocean views and add a snorkeling excursion. Raise budget to $1,400."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "budget_usd": 1400,
+        "interests": ["beachfront hotel", "ocean views", "snorkeling"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_hotels", "search_activities"],
+    "tags": ["hotels", "activities", "budget", "upgrade"],
+    "current_state_constraints": {
+      "budget_usd": 900,
+      "origin": "Chicago",
+      "destination": "Miami",
+      "start_date": "2026-07-17",
+      "duration_days": 2
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": false }
+  },
+  {
+    "task_id": "ORCH-T3-02-turn3",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Miami trip: add nightlife + dietary (turn 3 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Also, I just found out my friend who's coming is halal. Can you find halal-friendly restaurants in South Beach? And recommend a rooftop bar for Saturday night."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "num_travelers": 2,
+        "dietary_needs": ["halal"],
+        "interests": ["halal restaurants South Beach", "rooftop bar"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "dietary", "nightlife"],
+    "current_state_constraints": {
+      "budget_usd": 1400,
+      "origin": "Chicago",
+      "destination": "Miami",
+      "start_date": "2026-07-17",
+      "duration_days": 2,
+      "interests": ["beachfront hotel", "ocean views", "snorkeling"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+
+  {
+    "task_id": "ORCH-T3-03-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Portland trip with late dietary + destination area change (turn 1 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 3-day trip to Portland, OR from NYC, budget $1,500, departing September 5, 2026. I want to explore the food scene and visit Powell's Books."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "duration_days": 3,
+        "budget_usd": 1500,
+        "origin": "New York",
+        "destination": "Portland",
+        "start_date": "2026-09-05",
+        "interests": ["food scene", "Powell's Books"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-03-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Portland trip: add vegan companion + brewery (turn 2 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "My travel companion just told me they are vegan. Adjust all restaurant recommendations. Also add a craft brewery tour — Portland is famous for beer!"
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "dietary_needs": ["vegan"],
+        "interests": ["craft brewery tour"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "dietary", "brewery"],
+    "current_state_constraints": {
+      "duration_days": 3,
+      "budget_usd": 1500,
+      "origin": "New York",
+      "destination": "Portland",
+      "start_date": "2026-09-05",
+      "interests": ["food scene", "Powell's Books"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+  {
+    "task_id": "ORCH-T3-03-turn3",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Portland trip: extend + hotel area change (turn 3 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Actually let's make it 5 days — I want to do a day trip to the Columbia River Gorge too. Move the hotel to somewhere in the Pearl District and bump budget to $2,200."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "duration_days": 5,
+        "budget_usd": 2200,
+        "hotel_location": "Pearl District",
+        "interests": ["Columbia River Gorge"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget", "extension"],
+    "current_state_constraints": {
+      "duration_days": 3,
+      "budget_usd": 1500,
+      "origin": "New York",
+      "destination": "Portland",
+      "start_date": "2026-09-05",
+      "dietary_needs": ["vegan"],
+      "interests": ["food scene", "Powell's Books", "craft brewery tour"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+
+  {
+    "task_id": "ORCH-T3-04-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Destination swap + complete re-plan (turn 1 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 5-day beach vacation from Boston to Miami, budget $2,500, departing November 1, 2026. Looking for a hotel with a pool near South Beach."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "duration_days": 5,
+        "budget_usd": 2500,
+        "origin": "Boston",
+        "destination": "Miami",
+        "start_date": "2026-11-01",
+        "hotel_location": "near South Beach",
+        "interests": ["pool"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-04-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Destination swap to Cancun (turn 2 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Actually, change the destination to Cancun, Mexico instead. Raise budget to $3,500 since international might be pricier."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "destination": "Cancun",
+        "budget_usd": 3500
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget", "destination_change"],
+    "current_state_constraints": {
+      "duration_days": 5,
+      "budget_usd": 2500,
+      "origin": "Boston",
+      "destination": "Miami",
+      "start_date": "2026-11-01",
+      "hotel_location": "near South Beach",
+      "interests": ["pool"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+  {
+    "task_id": "ORCH-T3-04-turn3",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Add all-inclusive + specific activities in Cancun (turn 3 of 3)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "For Cancun, look for an all-inclusive resort on the Hotel Zone. We want to visit Chichen Itza ruins and do a cenote swimming tour. Also need reef-safe sunscreen shops nearby."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "interests": ["all-inclusive resort", "Hotel Zone", "Chichen Itza", "cenote swimming", "reef-safe sunscreen"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_hotels", "search_activities"],
+    "tags": ["hotels", "activities", "resort", "cultural"],
+    "current_state_constraints": {
+      "duration_days": 5,
+      "budget_usd": 3500,
+      "origin": "Boston",
+      "destination": "Cancun",
+      "start_date": "2026-11-01",
+      "hotel_location": "near South Beach",
+      "interests": ["pool"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+
+  {
+    "task_id": "ORCH-T3-05-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Group expansion with cascading changes (turn 1 of 4)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 2-day business trip to Chicago from NYC, flying out October 20, 2026. Hotel under $200/night near the Loop."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "origin": "New York",
+        "destination": "Chicago",
+        "start_date": "2026-10-20",
+        "duration_days": 2,
+        "hotel_budget_per_night": 200,
+        "hotel_location": "near the Loop",
+        "interests": []
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "business"]
+  },
+  {
+    "task_id": "ORCH-T3-05-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Group expansion: add 2 colleagues (turn 2 of 4)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "It's now a group of 3 — two colleagues are joining. We need a hotel with a conference room or meeting space. Budget per night goes up to $300."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "num_travelers": 3,
+        "hotel_budget_per_night": 300,
+        "interests": ["conference room", "meeting space"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": false }
+    },
+    "expected_tools": ["search_flights", "search_hotels"],
+    "tags": ["flights", "hotels", "group", "business"],
+    "current_state_constraints": {
+      "origin": "New York",
+      "destination": "Chicago",
+      "start_date": "2026-10-20",
+      "duration_days": 2,
+      "hotel_budget_per_night": 200,
+      "hotel_location": "near the Loop",
+      "interests": []
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": false }
+  },
+  {
+    "task_id": "ORCH-T3-05-turn3",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Group expansion: add team dinner with dietary constraint (turn 3 of 4)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "We need a group dinner reservation for the first night. One colleague keeps kosher. Find a nice steakhouse that accommodates that."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "dietary_needs": ["kosher"],
+        "interests": ["group dinner", "steakhouse"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_activities"],
+    "tags": ["activities", "dietary", "group", "dining"],
+    "current_state_constraints": {
+      "origin": "New York",
+      "destination": "Chicago",
+      "start_date": "2026-10-20",
+      "duration_days": 2,
+      "hotel_budget_per_night": 300,
+      "num_travelers": 3,
+      "hotel_location": "near the Loop",
+      "interests": ["conference room", "meeting space"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": false }
+  },
+  {
+    "task_id": "ORCH-T3-05-turn4",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "hard",
+    "description": "Group expansion: extend for sightseeing day (turn 4 of 4)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "One of us wants to stay an extra day for sightseeing. Make it 3 days total and add the Willis Tower Skydeck and a deep-dish pizza place to the plan."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "duration_days": 3,
+        "interests": ["Willis Tower Skydeck", "deep-dish pizza"]
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "extension", "sightseeing"],
+    "current_state_constraints": {
+      "origin": "New York",
+      "destination": "Chicago",
+      "start_date": "2026-10-20",
+      "duration_days": 2,
+      "hotel_budget_per_night": 300,
+      "num_travelers": 3,
+      "dietary_needs": ["kosher"],
+      "hotel_location": "near the Loop",
+      "interests": ["conference room", "meeting space", "group dinner", "steakhouse"]
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  },
+
+  {
+    "task_id": "ORCH-T3-06-turn1",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "medium",
+    "description": "Simple 2-turn: budget upgrade and hotel tier escalation (turn 1 of 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Plan a 4-day trip to Las Vegas from LA, budget $1,000, departing December 10, 2026. Cheapest hotel and flights possible."
+    },
+    "expected_output": {
+      "intent": "new_trip",
+      "updated_constraints": {
+        "duration_days": 4,
+        "budget_usd": 1000,
+        "origin": "Los Angeles",
+        "destination": "Las Vegas",
+        "start_date": "2026-12-10"
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_flights", "search_hotels", "search_activities"],
+    "tags": ["flights", "hotels", "activities", "budget"]
+  },
+  {
+    "task_id": "ORCH-T3-06-turn2",
+    "tier": 3,
+    "tier_type": "dynamic_revision",
+    "difficulty": "medium",
+    "description": "Simple 2-turn: upgrade hotel to 5-star (turn 2 of 2)",
+    "category": "orchestrator",
+    "input": {
+      "type": "natural_language",
+      "format": "text",
+      "content": "Upgrade the hotel to at least 3 stars on the Strip. New budget is $2,500."
+    },
+    "expected_output": {
+      "intent": "update_constraints",
+      "updated_constraints": {
+        "budget_usd": 1500,
+        "preferred_hotel_rating": 3,
+        "hotel_rating_priority": "hard",
+        "hotel_location": "near Las Vegas Strip",
+        "interests": []
+      },
+      "expected_needs": { "flight": true, "hotel": true, "activity": true }
+    },
+    "expected_tools": ["search_hotels"],
+    "tags": ["hotels", "budget", "upgrade"],
+    "current_state_constraints": {
+      "duration_days": 4,
+      "budget_usd": 1000,
+      "origin": "Los Angeles",
+      "destination": "Las Vegas",
+      "start_date": "2026-12-10"
+    },
+    "current_state_needs": { "flight": true, "hotel": true, "activity": true }
+  }
+]

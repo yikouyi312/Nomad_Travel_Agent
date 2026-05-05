@@ -1,0 +1,48 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "id": "msg_013P9Qs3vTbaQLuiJQszPphA",
+  "type": "message",
+  "role": "assistant",
+  "content": [
+    {
+      "type": "tool_use",
+      "id": "toolu_01JSGGnVGAMDLMeknQeXPczB",
+      "name": "output_structured_data",
+      "input": {
+        "intent": "update_constraints",
+        "updated_constraints": {
+          "budget_usd": 1400,
+          "interests": [
+            "beachfront hotel",
+            "ocean views",
+            "snorkeling"
+          ]
+        },
+        "needs": {
+          "flight": false,
+          "hotel": true,
+          "activity": true
+        },
+        "response_to_user": "Got it! I've updated your budget to $1,400 and I'm now looking for a beachfront hotel with ocean views in Miami. I'll also find a snorkeling excursion for you during your July 17-19 trip."
+      },
+      "caller": {
+        "type": "direct"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 2568,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 198,
+    "service_tier": "standard",
+    "inference_geo": "not_available"
+  }
+}

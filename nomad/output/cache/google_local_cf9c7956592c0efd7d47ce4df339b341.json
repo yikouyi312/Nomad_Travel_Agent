@@ -1,0 +1,50 @@
+{
+  "search_metadata": {
+    "id": "69d51b0628b27bdff760a1c8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GO2v0IZwrHQbKRrDDSahZw/69d51b0628b27bdff760a1c8.json",
+    "created_at": "2026-04-07 14:56:06 UTC",
+    "processed_at": "2026-04-07 14:56:06 UTC",
+    "google_local_url": "https://www.google.com/search?q=Preservation+Hall&uule=w+CAIQICIjTmV3IE9ybGVhbnMsTG91aXNpYW5hLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&udm=1",
+    "raw_html_file": "https://serpapi.com/searches/GO2v0IZwrHQbKRrDDSahZw/69d51b0628b27bdff760a1c8.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Preservation Hall",
+    "location_requested": "New Orleans",
+    "location_used": "New Orleans,Louisiana,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 29.958429656767485,
+      "longitude": -90.06539225578308
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews": 5100,
+      "reviews_original": "(5.1K)",
+      "description": "Storied institution for jazz",
+      "lsig": "AB86z5WsX4kVntfZp3FWo4GF6hlQ",
+      "thumbnail": "https://serpapi.com/searches/69d51b0628b27bdff760a1c8/images/1GGRIsO-45Lo2OcQdA_msOxs8uE3MvOPPcjfS-_QL3U.jpeg",
+      "place_id": "4079833995751315285",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=New+Orleans&ludocid=4079833995751315285&q=Preservation+Hall",
+      "provider_id": "/m/05cb8j",
+      "gps_coordinates": {
+        "latitude": 29.958326,
+        "longitude": -90.06535
+      },
+      "title": "Preservation Hall",
+      "type": "Live Music",
+      "address": "726 St Peter",
+      "hours": "Closed · Opens 11 AM"
+    }
+  ]
+}
