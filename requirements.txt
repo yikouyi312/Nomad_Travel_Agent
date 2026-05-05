@@ -1,0 +1,11 @@
+# Nomad Travel Agent — runtime dependencies
+# Python 3.10+ recommended (tested on 3.10 / 3.11 / 3.14)
+
+# Core
+requests>=2.31.0          # HTTP for Anthropic + SerpAPI
+python-dotenv>=1.0.0      # .env loading in src/config.py
+pydantic>=2.5.0           # Constraint / state models, structured outputs
+
+# Notebook experiments (optional — only needed for the .ipynb files)
+jupyter>=1.0.0
+ipykernel>=6.25.0

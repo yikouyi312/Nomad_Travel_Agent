@@ -1,139 +1,275 @@
 # Nomad Travel Agent
 
-Nomad is an AI travel planning agent project that combines Claude and SerpAPI to parse travel requests, search flights/hotels/activities, filter candidates, verify plans, and evaluate results.
+Nomad is an AI travel-planning agent that combines Claude (Anthropic) and
+SerpAPI to parse a user's travel request, search flights / hotels / activities,
+filter candidates, verify the resulting plan against hard constraints, and
+score it against a benchmark of orchestrator tasks (`NomadBench`).
 
-## Structure
+The pipeline is decomposed into four layers:
 
-- `src/`: Core agent implementation
-  - `main.py`: Interactive command-line entry point. Handles multi-turn sessions, save/load state, and runs the pipeline: orchestrator, search, top-k selection, and verification.
-  - `config.py`: Loads environment variables and defines global constants (API URLs, model, output directories, cache directories, etc.).
-  - `state.py`: Defines travel constraints, needs, draft itinerary, and session persistence.
-  - `llm.py`: Anthropic Claude integration, structured output helpers, task-scoped caching, and retry logic.
-  - `cache.py`: SerpAPI response caching decorator to reuse API calls during benchmarks or repeated runs.
-  - `agents/`: Agent layers
-    - `orchestrator.py`: Parses user input, extracts/updates constraints, detects travel needs, and updates state.
-    - `specialist.py`: Encapsulates candidate search, IATA airport resolution, top-k filtering, LLM selection, and legacy ReAct specialist compatibility.
-    - `verifier.py`: Plan validation and formatting, including constraint checking, issue summarization, negotiation messaging, and final itinerary formatting.
-  - `tools/`: Utility and infrastructure layer
-    - `dispatch.py`: Tool registry and dispatch entry point.
-    - `schemas.py`: SerpAPI tool schema definitions (flights, hotels, places).
-    - `serpapi.py`: SerpAPI manager, cache handling, snapshot support, and actual search wrappers.
-    - `plan_repository.py`: Save/load verified plans and repository management.
-    - `auto_evaluator.py`: Automatic plan evaluation based on repository content.
-    - `evaluator.py`: Evaluation engine implementation.
-    - `plan_schema.py`: Plan and evaluation schema definitions.
-    - `__init__.py`: Python package initialization.
+```
+Orchestrator → Specialist (search + Top-K) → Verifier → Evaluator
+```
 
-- `benchmark/`: Benchmark and evaluation utilities
-  - `benchmark/data/`: Task datasets, predefined tasks, and snapshot files.
-    - `orchestrator_tasks.json`: Main benchmark task list.
-    - `orchestrator_task_template.json`: Task template.
-    - `orchestrator_tasks_backup_v3.json`: Backup task list.
-    - `tasks.json`: Additional task definitions.
-  - `benchmark/src/`: Benchmark scripts
-    - `run_benchmark.py`: Main benchmark runner. Loads tasks and executes the pipeline by tier/task, with support for multi-turn conversations, search, selection, validation, and evaluation.
-    - `run_baselines.py`: Runs Vanilla LLM and RAG-only baselines and compares scores.
-    - `orchestrator_task_builder.py`: Helper tool to build orchestrator benchmark tasks.
-    - `statistics.py`: Statistical utilities (bootstrap CI, Cohen's d, etc.).
-    - `t1_breakdown.py`: Tier 1 task analysis and breakdown helper.
+---
 
-- `output/`: Runtime-generated artifacts (created by `config.py`)
-  - `cache/`: SerpAPI cache files.
-  - `llm_cache/`: LLM request cache files.
-  - `verification_results/`: Saved verification outputs.
-  - `search_candidates/`: Saved search candidates.
-  - `plans/`: Saved verified plans.
-  - `evaluations/`: Evaluation reports and results.
-  - `plans_vanilla/`: Vanilla baseline plans.
-  - `plans_rag/`: RAG-only baseline plans.
+## Repository layout
 
-## Getting Started
+```
+Nomad_Travel_Agent/
+├── README.md
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── nomad/
+    ├── src/                # Agent implementation
+    │   ├── main.py         # Interactive CLI entry point
+    │   ├── config.py       # Env vars, model, output dirs
+    │   ├── state.py        # Travel state + constraint models
+    │   ├── llm.py          # Claude API wrapper, structured output, cache
+    │   ├── cache.py        # SerpAPI cache decorator
+    │   ├── agents/
+    │   │   ├── orchestrator.py   # Parse user input, detect needs
+    │   │   ├── specialist.py     # Search, IATA resolution, Top-K + LLM select
+    │   │   └── verifier.py       # Constraint validation + itinerary formatting
+    │   ├── tools/
+    │   │   ├── dispatch.py       # Tool registry + dispatcher
+    │   │   ├── schemas.py        # SerpAPI tool schemas
+    │   │   ├── serpapi.py        # SerpAPI manager (cache / snapshot / search)
+    │   │   ├── plan_repository.py# Save / load plans
+    │   │   ├── plan_schema.py    # Plan + evaluation schemas
+    │   │   ├── evaluator.py      # Scoring engine
+    │   │   └── auto_evaluator.py # Batch-evaluate saved plans
+    │   ├── agent_test.ipynb            # Pipeline playground
+    │   └── baseline_experiments.ipynb  # Vanilla LLM / RAG-only comparison
+    ├── benchmark/
+    │   ├── data/
+    │   │   ├── orchestrator_tasks.json     # Main benchmark tasks
+    │   │   ├── orchestrator_task_template.json
+    │   │   ├── orchestrator_tasks_backup_v3.json
+    │   │   └── tasks.json
+    │   └── src/
+    │       ├── run_benchmark.py            # Run pipeline + evaluate
+    │       ├── run_baselines.py            # Vanilla + RAG-only baselines
+    │       ├── t1_breakdown.py             # Per-task Tier-1 analysis
+    │       ├── statistics.py               # Bootstrap CI, Cohen's d
+    │       └── orchestrator_task_builder.py
+    └── output/             # Generated at runtime (created by config.py)
+        ├── cache/                  # SerpAPI response cache
+        ├── llm_cache/              # Claude response cache (per task_id)
+        ├── search_candidates/      # Saved candidate lists
+        ├── verification_results/   # Verifier outputs
+        ├── plans/                  # Nomad agent plans
+        ├── plans_vanilla/          # Vanilla-LLM baseline plans
+        ├── plans_rag/              # RAG-only baseline plans
+        └── evaluations/            # Evaluation reports + stats
+```
 
-### Environment setup
+---
 
-1. Create a `.env` file in the repository root.
-2. Set the following environment variables:
-   - `CLAUDE_API_KEY`
-   - `SERP_API`
+## Setup
 
-### Run interactively
+### 1. Requirements
+
+* Python ≥ **3.10** (tested on 3.10 / 3.11 / 3.14).
+* An [Anthropic API key](https://console.anthropic.com/) and a
+  [SerpAPI key](https://serpapi.com/).
+
+### 2. Install dependencies
+
+```bash
+git clone https://github.com/yikouyi312/Nomad_Travel_Agent
+cd Nomad_Travel_Agent
+python -m venv .venv && source .venv/bin/activate    # optional but recommended
+pip install -r requirements.txt
+```
+
+`requirements.txt`:
+
+| Package         | Purpose                                                        |
+| --------------- | -------------------------------------------------------------- |
+| `requests`      | HTTP calls to Anthropic & SerpAPI                              |
+| `python-dotenv` | Loads API keys from `.env` (see `nomad/src/config.py`)         |
+| `pydantic`      | Constraint / state / plan models, structured-output validation |
+| `jupyter`, `ipykernel` | Optional — only required for the two `.ipynb` notebooks |
+
+### 3. Configure secrets
+
+```bash
+cp .env.example .env
+# then edit .env and fill in:
+#   CLAUDE_API_KEY=...
+#   SERP_API=...
+```
+
+`nomad/src/config.py` loads `.env` automatically and raises on missing keys.
+
+---
+
+## How to run
+
+All commands assume the repo root is the current directory.
+
+### Interactive agent (single user session)
 
 ```bash
 python nomad/src/main.py
 ```
 
-### Run benchmark
+Built-in commands inside the session:
+* `save <name>` — persist current state
+* `load <name>` — restore a saved session
+* `sessions`    — list saved sessions
+* `exit`        — quit
+
+### Run the full benchmark
 
 ```bash
+python nomad/benchmark/src/run_benchmark.py            # all tasks
+python nomad/benchmark/src/run_benchmark.py --tier 1   # Tier-1 only
+python nomad/benchmark/src/run_benchmark.py --task ORCH-T1-02   # single task
+python nomad/benchmark/src/run_benchmark.py --evaluate-only     # skip agent, score saved plans
+python nomad/benchmark/src/run_benchmark.py --no-evaluate       # run pipeline without scoring
+```
+
+Outputs:
+* Plans → `nomad/output/plans/<task_id>/plan.json`
+* Run log → `nomad/output/benchmark_run_log.json`
+* Aggregate report → `nomad/output/evaluations/benchmark_evaluation.json`
+* Bootstrap stats → `nomad/output/evaluations/benchmark_evaluation_stats.json`
+
+### Run baselines (Vanilla LLM / RAG-only)
+
+```bash
+python nomad/benchmark/src/run_baselines.py                    # both baselines
+python nomad/benchmark/src/run_baselines.py --baseline vanilla
+python nomad/benchmark/src/run_baselines.py --baseline rag
+python nomad/benchmark/src/run_baselines.py --tier 1
+python nomad/benchmark/src/run_baselines.py --evaluate-only
+```
+
+Outputs:
+* `nomad/output/plans_vanilla/<task_id>/plan.json`
+* `nomad/output/plans_rag/<task_id>/plan.json`
+* Comparison table printed to stdout
+* `nomad/output/evaluations/baseline_comparison.json`
+
+### Tier-1 per-task breakdown
+
+```bash
+python nomad/benchmark/src/t1_breakdown.py
+```
+
+Outputs:
+* Pretty-printed table with overall / schema / CSR / tool / consistency
+  scores and the failure type for each failing constraint.
+* `nomad/output/evaluations/t1_breakdown.json`
+
+---
+
+## Reproducing experiments
+
+Standard reproduction sequence:
+
+```bash
+# 1. Install + configure
+pip install -r requirements.txt
+cp .env.example .env && $EDITOR .env
+
+# 2. Run the Nomad agent on every task and save plans
 python nomad/benchmark/src/run_benchmark.py
-```
 
-Supported arguments:
-- `--tier 1|2|3`
-- `--task ORCH-T1-02`
-- `--evaluate-only`
-- `--no-evaluate`
-
-### Run baseline comparison
-
-```bash
+# 3. Run both baselines (uses the same orchestrator tasks)
 python nomad/benchmark/src/run_baselines.py
+
+# 4. Per-task Tier-1 analysis
+python nomad/benchmark/src/t1_breakdown.py
 ```
 
-## Core Pipeline
+Reproducibility notes:
 
-1. User input is read by `src/main.py`.
-2. `agents.orchestrator` parses intent and constraints, and detects flight/hotel/activity needs.
-3. `agents.specialist` uses `tools.serpapi` to search SerpAPI, save candidate results, then filter and select the best combination with Top-K + LLM.
-4. `agents.verifier` validates the selected plan against hard constraints and generates the final itinerary or negotiation prompt.
-5. Plans are saved under `output/plans/`, verification results under `output/verification_results/`, and evaluation outputs under `output/evaluations/`.
+* **Caching**: SerpAPI responses (`output/cache/`) and Claude responses
+  (`output/llm_cache/<task_id>/`) are cached on disk. A second run reuses cached
+  results and is deterministic for everything except the live API surface.
+  Delete the relevant cache subfolder to force fresh calls.
+* **Random seeds**: `bootstrap_ci` in `benchmark/src/statistics.py` uses
+  `random.Random(42)` so confidence intervals are reproducible across runs.
+* **Selective re-runs**: `--task ORCH-T1-02` (or a Tier prefix) re-runs only
+  the matching tasks; previously saved plans for other tasks are kept.
+* **Score-only**: `--evaluate-only` re-scores saved plans without re-calling
+  any APIs — useful while iterating on the evaluator.
 
-## Key Files
+---
 
-- `src/main.py`: Project entry point with `save` / `load` / `sessions` commands and the full agent pipeline.
-- `src/config.py`: Centralized API key, model, directory, and cache configuration.
-- `src/state.py`: Travel state objects, constraint models, and session persistence.
-- `src/llm.py`: Claude API integration, cache key generation, cache handling, and structured JSON output support.
-- `src/cache.py`: SerpAPI request caching decorator to reduce repeated API calls.
-- `src/agents/orchestrator.py`: Large system prompt, analysis schema, and state update logic.
-- `src/agents/specialist.py`: Candidate search persistence, IATA resolution, candidate filtering, Top-K selection, and legacy specialist compatibility.
-- `src/agents/verifier.py`: Verification schema, itinerary formatting, constraint checks, and negotiation messaging.
-- `src/tools/serpapi.py`: Core SerpAPI manager with local cache, snapshot, and search wrappers for flights/hotels/places.
-- `src/tools/dispatch.py`: Tool execution entrypoint with backward-compatible interface.
-- `src/tools/schemas.py`: Defines available tool input schemas.
-- `src/tools/plan_repository.py`: Save and load plans as JSON.
-- `src/tools/auto_evaluator.py`: Automatically read plans and invoke the evaluator.
-- `benchmark/src/run_benchmark.py`: Main benchmark workflow script that runs the full agent pipeline.
-- `benchmark/src/run_baselines.py`: Baseline comparison script for Vanilla LLM and RAG-only.
+## Evaluation scripts
 
-## Notes
+| Script                                  | What it does                                                                                  |
+| --------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `benchmark/src/run_benchmark.py`        | Runs the agent on benchmark tasks, then evaluates with bootstrap CI + per-tier + Cohen's *d*. |
+| `benchmark/src/run_baselines.py`        | Runs Vanilla-LLM and RAG-only baselines and prints a side-by-side comparison.                 |
+| `benchmark/src/t1_breakdown.py`         | Per-task Tier-1 detail: which constraints failed, mapped to failure types.                    |
+| `benchmark/src/statistics.py`           | `bootstrap_ci(scores)` and `cohens_d(g1, g2)` helpers used by the runners.                    |
+| `src/tools/auto_evaluator.py`           | Batch-loads saved plans and runs `NomadEvaluator.evaluate()` on each.                         |
+| `src/tools/evaluator.py`                | Core scoring engine (Schema, CSR fractional/binary, Tool accuracy, Interest, Consistency).    |
 
-- This repository is designed around a decomposed architecture: constraint layer, search layer, selection layer, and verification layer.
-- All search results, verification records, and plan outputs are written to `output/`.
-- Make sure your `.env` file contains valid API keys before running.
+Scoring formula (printed by `run_baselines.py`):
 
-## Notebook Guides
+```
+Overall = 0.9 × (0.35·CSR + 0.25·Schema + 0.20·Tool + 0.20·Consistency) + 0.10·Interest
+```
+
+---
+
+## Pipeline summary
+
+1. **`main.py`** reads user input.
+2. **`agents.orchestrator`** parses intent, extracts/updates constraints,
+   and detects flight / hotel / activity needs.
+3. **`agents.specialist`** searches SerpAPI (via `tools.serpapi`), saves
+   candidate results, and runs Top-K + LLM selection.
+4. **`agents.verifier`** validates the selected plan against hard
+   constraints and produces the final itinerary or a negotiation prompt.
+5. Plans land in `output/plans/`, verification records in
+   `output/verification_results/`, scores in `output/evaluations/`.
+
+---
+
+## Notebook guides
 
 ### `nomad/src/agent_test.ipynb`
-This notebook is a development and debugging playground for the full Nomad agent pipeline.
-It demonstrates how to:
-- reload local modules and keep notebook edits active,
-- run a single benchmark task through the full pipeline (`Orchestrator → Specialist → Verifier`),
-- evaluate the generated plan and print the score summary,
-- restore and display a saved plan from `output/plans/`,
-- run an entire tier of benchmark tasks,
-- evaluate all saved plans,
-- compute bootstrap statistics, including 95% confidence intervals, fractional/binary CSR, per-tier breakdown, and Cohen's d effect sizes,
-- demonstrate the new pipeline explicitly: parsing input, searching candidates, selecting top-K, validating constraints, and negotiating unmet requirements.
+
+Development playground for the full pipeline. Demonstrates:
+
+* reloading local modules so notebook edits stay live,
+* running a single benchmark task end-to-end (Orchestrator → Specialist → Verifier),
+* evaluating the generated plan and printing the score summary,
+* restoring a saved plan from `output/plans/`,
+* running an entire tier of tasks,
+* batch evaluation of saved plans,
+* bootstrap statistics — 95 % CI, fractional/binary CSR, per-tier breakdown, Cohen's *d*,
+* an explicit demo of parse → search → Top-K → validate → negotiate.
 
 ### `nomad/src/baseline_experiments.ipynb`
-This notebook compares Nomad against two baseline approaches:
-- **Vanilla LLM**: Orchestrator extracts constraints, then Claude generates a complete itinerary from parametric memory only, with no SerpAPI calls.
-- **RAG-only**: Uses the full search + selection pipeline, but trusts the LLM selector's own `constraints_met` judgment and saves `closest_alternative` when the selector reports failure.
 
-It also includes:
-- shared helper utilities for baseline execution,
-- running all benchmark tasks for each baseline,
-- evaluating baseline plan outputs,
-- printing a comparison table across Vanilla LLM, RAG-only, and Nomad,
-- generating a Tier-1 per-task breakdown with failure analysis and constraint failure types.
+Compares Nomad against two baselines:
+
+* **Vanilla LLM** — Orchestrator extracts constraints; Claude generates an
+  itinerary from parametric memory only. No SerpAPI calls.
+* **RAG-only** — Same search + selection pipeline as Nomad, but trusts the
+  selector's `constraints_met` flag and saves `closest_alternative` when the
+  selector reports failure.
+
+Also covers shared helpers, baseline batch runs, evaluation, the comparison
+table, and the Tier-1 per-task breakdown with failure-type analysis.
+
+---
+
+## Troubleshooting
+
+| Symptom                                                     | Likely cause / fix                                                            |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| `CLAUDE_API_KEY environment variable is missing.`           | `.env` is missing or in the wrong directory — must sit next to `README.md`.   |
+| `SERP_API environment variable is missing.`                 | Same as above.                                                                |
+| Benchmark hangs on the first task                           | First-time SerpAPI calls populate the cache; subsequent runs are much faster. |
+| Want to force fresh API calls                               | Delete `nomad/output/cache/` and/or `nomad/output/llm_cache/<task_id>/`.      |
+| `ModuleNotFoundError: agents` when running benchmark script | Run from the repo root — the script adds `nomad/src` to `sys.path` itself.    |
